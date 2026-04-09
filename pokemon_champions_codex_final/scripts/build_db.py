@@ -55,6 +55,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
         tier_current TEXT,
         tier_source_key TEXT,
         roster_source_key TEXT,
+        format_availability TEXT,
         notes TEXT
     );
     CREATE TABLE stats_base (
@@ -169,6 +170,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
     CREATE TABLE tiers (
         pokemon_key TEXT,
         season_key TEXT,
+        format TEXT,
         tier_value TEXT,
         tier_source_key TEXT,
         last_checked_at TEXT,
@@ -179,11 +181,13 @@ def create_schema(conn: sqlite3.Connection) -> None:
         name_en TEXT,
         name_es TEXT,
         description_en TEXT,
-        description_es TEXT
+        description_es TEXT,
+        format TEXT
     );
     CREATE TABLE pokemon_roles (
         pokemon_key TEXT,
         role_key TEXT,
+        format TEXT,
         confidence TEXT,
         season_key TEXT,
         curation_source_key TEXT,
@@ -194,11 +198,13 @@ def create_schema(conn: sqlite3.Connection) -> None:
         name_en TEXT,
         name_es TEXT,
         description_en TEXT,
-        description_es TEXT
+        description_es TEXT,
+        format TEXT
     );
     CREATE TABLE pokemon_archetypes (
         pokemon_key TEXT,
         archetype_key TEXT,
+        format TEXT,
         fit_score INTEGER,
         season_key TEXT,
         notes TEXT
@@ -206,6 +212,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
     CREATE TABLE cores (
         core_id INTEGER PRIMARY KEY AUTOINCREMENT,
         season_key TEXT,
+        format TEXT,
         core_name_en TEXT,
         core_name_es TEXT,
         archetype_key TEXT,
@@ -221,6 +228,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
     CREATE TABLE matchups (
         matchup_id INTEGER PRIMARY KEY AUTOINCREMENT,
         season_key TEXT,
+        format TEXT,
         threat_pokemon_key TEXT,
         answer_pokemon_key TEXT,
         answer_type TEXT,
@@ -230,6 +238,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
     CREATE TABLE speed_profiles (
         pokemon_key TEXT,
         season_key TEXT,
+        format TEXT,
         base_speed INTEGER,
         speed_min_negative INTEGER,
         speed_min_neutral INTEGER,
