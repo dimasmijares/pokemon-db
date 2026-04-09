@@ -311,11 +311,102 @@ def load_all_data(conn: sqlite3.Connection) -> None:
         else:
             print(f"[WARN] {csv_file} no encontrado")
 
+def create_views(conn: sqlite3.Connection) -> None:
+    cur = conn.cursor()
+    cur.executescript("""
+    -- Vista: v_pokemon_summary
+    CREATE VIEW v_pokemon_summary AS
+    SELECT 
+        p.pokemon_id,
+        p.dex_number,
+        p.species_key,
+        p.name_en,
+        p.name_es,
+        p.type1_key,
+        p.type2_key,
+        sb.hp,
+        sb.attack,
+        sb.defense,
+        sb.sp_attack,
+        sb.sp_defense,
+        sb.speed,
+        sb.bst,
+        GROUP_CONCAT(pa.ability_key, ', ') AS abilities,
+        t.tier_value,
+        r.name_en AS role_name,
+        p.is_currently_legal,
+        p.format_availability
+    FROM pokemon p
+    LEFT JOIN stats_base sb ON p.species_key = sb.pokemon_key
+    LEFT JOIN pokemon_abilities pa ON p.species_key = pa.pokemon_key
+    LEFT JOIN tiers t ON p.species_key = t.pokemon_key AND t.format = 'doubles'
+    LEFT JOIN pokemon_roles pr ON p.species_key = pr.pokemon_key AND pr.format = 'doubles'
+    LEFT JOIN roles r ON pr.role_key = r.role_key AND r.format = 'doubles'
+    GROUP BY p.pokemon_id;
+
+    -- Vista: v_speed_table
+    CREATE VIEW v_speed_table AS
+    SELECT 
+        p.species_key,
+        p.name_en,
+        sp.base_speed,
+        sp.speed_min_negative,
+        sp.speed_min_neutral,
+        sp.speed_max_neutral,
+        sp.speed_max_positive,
+        sp.trick_room_rating
+    FROM pokemon p
+    JOIN speed_profiles sp ON p.species_key = sp.pokemon_key AND sp.format = 'doubles';
+
+    -- Vista: v_move_users
+    CREATE VIEW v_move_users AS
+    SELECT 
+        m.move_key,
+        m.name_en,
+        GROUP_CONCAT(p.name_en, ', ') AS users
+    FROM moves m
+    JOIN pokemon_moves pm ON m.move_key = pm.move_key
+    JOIN pokemon p ON pm.pokemon_key = p.species_key
+    WHERE pm.is_confirmed_in_champions = 1
+    GROUP BY m.move_key;
+
+    -- Vista: v_team_builder_pool
+    CREATE VIEW v_team_builder_pool AS
+    SELECT 
+        p.species_key,
+        p.name_en,
+        p.type1_key,
+        p.type2_key,
+        t.tier_value,
+        r.name_en AS role_name
+    FROM pokemon p
+    JOIN tiers t ON p.species_key = t.pokemon_key AND t.format = 'doubles'
+    LEFT JOIN pokemon_roles pr ON p.species_key = pr.pokemon_key AND pr.format = 'doubles'
+    LEFT JOIN roles r ON pr.role_key = r.role_key AND r.format = 'doubles'
+    WHERE p.is_currently_legal = 1;
+
+    -- Vista: v_rain_candidates
+    CREATE VIEW v_rain_candidates AS
+    SELECT 
+        p.species_key,
+        p.name_en,
+        GROUP_CONCAT(pa.ability_key, ', ') AS abilities,
+        t.tier_value
+    FROM pokemon p
+    JOIN pokemon_abilities pa ON p.species_key = pa.pokemon_key
+    JOIN tiers t ON p.species_key = t.pokemon_key AND t.format = 'doubles'
+    WHERE pa.ability_key IN ('Drizzle', 'Rain Dish') OR p.type1_key = 'Water' OR p.type2_key = 'Water'
+    GROUP BY p.species_key;
+    """)
+    conn.commit()
+    print("[OK] Vistas creadas")
+
 def main():
     ensure_dirs()
     conn = sqlite3.connect(DB)
     create_schema(conn)
     load_all_data(conn)
+    create_views(conn)
     conn.close()
     print(f"[OK] BD construida en {DB}")
 
