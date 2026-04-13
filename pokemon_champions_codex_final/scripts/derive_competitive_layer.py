@@ -166,18 +166,30 @@ def get_pokemon_type_list(row: dict[str, str]) -> list[str]:
     return [value for value in [row.get("type1_key", ""), row.get("type2_key", "")] if value]
 
 
-def move_lookup_by_pokemon(pokemon_moves: list[dict[str, str]], moves: dict[str, dict[str, str]]) -> dict[str, set[str]]:
+def move_lookup_by_pokemon(
+    pokemon_moves: list[dict[str, str]],
+    moves: dict[str, dict[str, str]],
+    availability_statuses: set[str] | None = None,
+) -> dict[str, set[str]]:
     output: dict[str, set[str]] = defaultdict(set)
     for row in pokemon_moves:
+        if availability_statuses and row.get("availability_status") not in availability_statuses:
+            continue
         move = moves.get(row["move_key"])
         if move:
             output[row["pokemon_id"]].add(move["move_key"])
     return output
 
 
-def offensive_type_lookup_by_pokemon(pokemon_moves: list[dict[str, str]], moves: dict[str, dict[str, str]]) -> dict[str, set[str]]:
+def offensive_type_lookup_by_pokemon(
+    pokemon_moves: list[dict[str, str]],
+    moves: dict[str, dict[str, str]],
+    availability_statuses: set[str] | None = None,
+) -> dict[str, set[str]]:
     output: dict[str, set[str]] = defaultdict(set)
     for row in pokemon_moves:
+        if availability_statuses and row.get("availability_status") not in availability_statuses:
+            continue
         move = moves.get(row["move_key"])
         if move and move.get("type_key"):
             output[row["pokemon_id"]].add(move["type_key"])
@@ -302,6 +314,11 @@ def main() -> None:
     core_pairs, curated_teams, key_matchups = parse_meta_sections()
     pokemon_by_id = {row["pokemon_id"]: row for row in pokemon_rows}
     moves_by_pokemon = move_lookup_by_pokemon(pokemon_moves_rows, moves_rows)
+    observed_moves_by_pokemon = move_lookup_by_pokemon(
+        pokemon_moves_rows,
+        moves_rows,
+        {"observed_set"},
+    )
     move_types_by_pokemon = offensive_type_lookup_by_pokemon(pokemon_moves_rows, moves_rows)
     ability_keys_by_pokemon: dict[str, set[str]] = defaultdict(set)
     for row in abilities_rows:
@@ -370,19 +387,22 @@ def main() -> None:
         pokemon_id = pokemon["pokemon_id"]
         abilities = ability_keys_by_pokemon.get(pokemon_id, set())
         moves = moves_by_pokemon.get(pokemon_id, set())
+        observed_moves = observed_moves_by_pokemon.get(pokemon_id, set())
         types = set(get_pokemon_type_list(pokemon))
         speed = int(stats_rows[pokemon_id]["speed"])
 
         if {"drought", "chlorophyll", "solar-power"} & abilities:
-            score_archetype_fit(fit_scores, pokemon_id, "sun", 80)
+            score_archetype_fit(fit_scores, pokemon_id, "sun", 85 if observed_moves else 80)
         if {"drizzle", "swift-swim", "rain-dish"} & abilities:
-            score_archetype_fit(fit_scores, pokemon_id, "rain", 80)
+            score_archetype_fit(fit_scores, pokemon_id, "rain", 85 if observed_moves else 80)
         if {"sand-stream", "sand-rush", "sand-force"} & abilities:
-            score_archetype_fit(fit_scores, pokemon_id, "sand", 80)
+            score_archetype_fit(fit_scores, pokemon_id, "sand", 85 if observed_moves else 80)
         if "trick_room" in moves or speed <= 55:
-            score_archetype_fit(fit_scores, pokemon_id, "trick_room", 70 if "trick_room" in moves else 55)
+            tr_score = 78 if "trick_room" in observed_moves else 70 if "trick_room" in moves else 55
+            score_archetype_fit(fit_scores, pokemon_id, "trick_room", tr_score)
         if "tailwind" in moves:
-            score_archetype_fit(fit_scores, pokemon_id, "tailwind", 75)
+            tailwind_score = 82 if "tailwind" in observed_moves else 75
+            score_archetype_fit(fit_scores, pokemon_id, "tailwind", tailwind_score)
         if not any(key[0] == pokemon_id for key in fit_scores):
             fallback = "offense" if speed >= 95 else "balance"
             score_archetype_fit(fit_scores, pokemon_id, fallback, 50)
@@ -406,6 +426,7 @@ def main() -> None:
         pokemon_id = pokemon["pokemon_id"]
         abilities = ability_keys_by_pokemon.get(pokemon_id, set())
         moves = moves_by_pokemon.get(pokemon_id, set())
+        observed_moves = observed_moves_by_pokemon.get(pokemon_id, set())
         stats = stats_rows[pokemon_id]
         attack = int(stats["attack"])
         sp_attack = int(stats["sp_attack"])
@@ -414,18 +435,46 @@ def main() -> None:
         sp_defense = int(stats["sp_defense"])
         speed = int(stats["speed"])
 
-        if {"trick_room", "tailwind", "icy_wind", "electroweb", "thunder_wave"} & moves:
-            add_role(role_rows, pokemon_id, "speed_control", "medium", "Derived from current Champions move pool access.")
+        speed_control_observed = {"trick_room", "tailwind", "icy_wind", "electroweb", "thunder_wave"} & observed_moves
+        speed_control_pool = {"trick_room", "tailwind", "icy_wind", "electroweb", "thunder_wave"} & moves
+        if speed_control_pool:
+            add_role(
+                role_rows,
+                pokemon_id,
+                "speed_control",
+                "high" if speed_control_observed else "medium",
+                "Derived from observed Champions sets." if speed_control_observed else "Derived from current Champions move pool access.",
+            )
         if "trick_room" in moves:
-            add_role(role_rows, pokemon_id, "trick_room_setter", "medium", "Derived from current Champions move pool access.")
+            add_role(
+                role_rows,
+                pokemon_id,
+                "trick_room_setter",
+                "high" if "trick_room" in observed_moves else "medium",
+                "Derived from observed Champions sets." if "trick_room" in observed_moves else "Derived from current Champions move pool access.",
+            )
         if {"drought", "drizzle", "sand-stream", "snow-warning"} & abilities:
             add_role(role_rows, pokemon_id, "weather_setter", "high", "Directly derived from weather-setting ability.")
+        pivot_observed = {"fake_out", "parting_shot", "u_turn", "volt_switch"} & observed_moves
         if {"fake_out", "parting_shot", "u_turn", "volt_switch"} & moves or {"intimidate", "regenerator"} & abilities:
-            add_role(role_rows, pokemon_id, "pivot", "medium", "Derived from utility move or pivot ability access.")
+            add_role(
+                role_rows,
+                pokemon_id,
+                "pivot",
+                "high" if pivot_observed else "medium",
+                "Derived from observed Champions sets." if pivot_observed else "Derived from utility move or pivot ability access.",
+            )
         if attack >= 120 or sp_attack >= 120 or int(stats["bst"]) >= 560:
             add_role(role_rows, pokemon_id, "wallbreaker", "medium", "Derived from offensive stats and current roster context.")
+        support_observed = {"follow_me", "rage_powder", "helping_hand", "recover", "will_o_wisp"} & observed_moves
         if hp + defense + sp_defense >= 260 or {"follow_me", "rage_powder", "helping_hand", "recover", "will_o_wisp"} & moves:
-            add_role(role_rows, pokemon_id, "bulky_support", "low" if speed >= 100 else "medium", "Derived from bulk profile and support move access.")
+            add_role(
+                role_rows,
+                pokemon_id,
+                "bulky_support",
+                "high" if support_observed else ("low" if speed >= 100 else "medium"),
+                "Derived from observed Champions sets." if support_observed else "Derived from bulk profile and support move access.",
+            )
 
         if not any(key[0] == pokemon_id for key in role_rows):
             fallback_role = "wallbreaker" if max(attack, sp_attack) >= 100 else "bulky_support"

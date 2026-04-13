@@ -6,9 +6,9 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 10012,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 10100,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 10104,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-1013,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-10165,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-10172,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+1013,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+10165,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+10172,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 1018,rain,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 10180,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 1019,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -25,7 +25,7 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 10678,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 10902,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 115,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-121,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+121,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 127,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 128,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 130,rain,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
@@ -33,36 +33,36 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 134,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 135,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 136,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-142,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+142,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 143,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-149,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+149,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 15,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 154,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 157,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 160,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 168,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-18,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+18,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 181,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 184,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 186,rain,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 196,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 197,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-199,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+199,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 205,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 208,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-212,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+212,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 214,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-227,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+227,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 229,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 24,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 248,sand,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 25,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 26,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-279,rain,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-279,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+279,rain,85,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+279,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 282,offense,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 282,sand,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-282,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+282,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 3,sun,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 302,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 306,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -72,15 +72,15 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 323,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 324,sun,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 324,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-334,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+334,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 350,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 351,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 354,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-358,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+358,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 359,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 36,trick_room,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 362,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-38,sun,80,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+38,sun,85,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 389,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 392,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 395,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -89,7 +89,7 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 409,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 411,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 428,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-442,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+442,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 445,offense,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 445,sand,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 448,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -98,9 +98,9 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 460,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 461,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 464,trick_room,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-470,sun,80,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+470,sun,85,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 471,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-472,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+472,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 473,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 475,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 478,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -114,35 +114,35 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 514,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 516,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 530,sand,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-531,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+531,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 534,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 547,offense,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 547,rain,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 547,sun,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-547,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+547,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 547,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 553,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-563,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+563,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 569,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 571,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-579,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+579,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 584,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 587,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 59,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 6,sun,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-609,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+609,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 614,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 618,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 623,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-635,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+635,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 637,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 65,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 652,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-655,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+655,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 658,sand,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 660,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-663,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-666,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+663,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+666,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 670,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 671,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 675,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -150,7 +150,7 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 678,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 68,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 681,sun,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-683,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+683,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 685,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 693,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 695,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -162,10 +162,10 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 706,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 707,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 709,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-71,sun,80,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-711,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+71,sun,85,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+711,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 713,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-715,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+715,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 724,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 727,offense,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 727,rain,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
@@ -173,7 +173,7 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 727,sun,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 727,trick_room,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 730,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-733,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+733,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 740,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 745,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 748,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
@@ -181,20 +181,20 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 752,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 758,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 763,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-765,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+765,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 766,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-778,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+778,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 780,trick_room,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 784,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-80,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-823,tailwind,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+80,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+823,tailwind,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 841,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 842,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 844,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 855,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 858,trick_room,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-866,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-867,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+866,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+867,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 869,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 877,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 887,offense,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
@@ -209,17 +209,17 @@ pokemon_id,archetype_key,fit_score,season_key,format,notes
 914,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 925,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 934,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-936,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+936,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 937,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 939,trick_room,55,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-94,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
-952,sun,80,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-956,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+94,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+952,sun,85,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
+956,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 959,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 964,offense,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 968,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 970,balance,50,season_m1_reg_ma,doubles,Derived from current roster heuristics.
 981,sun,82,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
-981,trick_room,70,season_m1_reg_ma,doubles,Derived from current roster heuristics.
+981,trick_room,78,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 983,offense,75,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.
 983,trick_room,90,season_m1_reg_ma,doubles,Derived from Champions Lab curated teams/core pairs and current roster heuristics.

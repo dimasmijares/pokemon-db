@@ -123,6 +123,8 @@ python scripts\export_views.py
 14. Se corrigió la resolución de formas del roster actual, incluyendo casos problemáticos como `Hisuian Avalugg` y `Paldean Tauros`.
 15. Se regeneraron `abilities.csv`, `moves.csv` e `items.csv` para el roster y metajuego actual relevantes.
 16. Se reajustó `v_move_users` para devolver una sola fila por movimiento, separando `move_pool_user_count` y `observed_set_user_count`.
+17. Se endureció `scripts/build_db.py` para reconstruir el esquema incluso cuando Windows mantiene bloqueada la SQLite durante el borrado del archivo.
+18. Se refinó la capa derivada para dar más peso a movimientos realmente observados en sets actuales al asignar ciertos roles competitivos.
 
 ## Trabajo pendiente
 

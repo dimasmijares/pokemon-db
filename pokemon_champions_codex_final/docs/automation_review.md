@@ -106,7 +106,7 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - Fuente: Champions Lab
 - Estado: correcto para Champions actual
 - Cobertura actual: 14.172 relaciones
-- Consecuencia: `v_move_users` ya devuelve una fila por movimiento y separa `move_pool_user_count` frente a `observed_set_user_count`
+- Consecuencia: `v_move_users` ya devuelve una fila por movimiento y separa `move_pool_user_count`, `observed_set_user_count` y `observed_set_coverage_pct`
 
 ### Tablas derivadas con automatización controlada
 
@@ -115,6 +115,7 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - Fuente: Champions Lab + reglas internas
 - Estado: útil para team-building, no equivalente a dato oficial
 - Cobertura actual: 512 relaciones
+- Mejora aplicada: la confianza ahora sube cuando el rol está respaldado por movimientos observados en sets actuales, no solo por disponibilidad teórica en el move pool
 
 #### `pokemon_archetypes`
 - Método actual: derivación desde equipos curados, core pairs y señales de clima/TR/Tailwind

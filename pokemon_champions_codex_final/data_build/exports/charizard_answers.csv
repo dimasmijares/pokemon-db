@@ -1,4 +1,4 @@
 threat_pokemon_id,threat_name_en,threat_form_name_en,answer_pokemon_id,answer_name_en,answer_form_name_en,answer_type,confidence,notes,season_key,format
-6,Charizard,,142,Aerodactyl,,counter,medium,"Derived from current roster types, imported learnset coverage and current tier snapshot.",season_m1_reg_ma,doubles
-6,Charizard,,248,Tyranitar,,counter,medium,"Derived from current roster types, imported learnset coverage and current tier snapshot.",season_m1_reg_ma,doubles
-6,Charizard,,970,Glimmora,,counter,medium,"Derived from current roster types, imported learnset coverage and current tier snapshot.",season_m1_reg_ma,doubles
+6,Charizard,,142,Aerodactyl,,counter,medium,"Derived from current roster types, Champions move pool coverage and current tier snapshot.",season_m1_reg_ma,doubles
+6,Charizard,,248,Tyranitar,,counter,medium,"Derived from current roster types, Champions move pool coverage and current tier snapshot.",season_m1_reg_ma,doubles
+6,Charizard,,970,Glimmora,,counter,medium,"Derived from current roster types, Champions move pool coverage and current tier snapshot.",season_m1_reg_ma,doubles

@@ -40,7 +40,10 @@ def ensure_dirs() -> None:
 
 def reset_database() -> None:
     if DB.exists():
-        DB.unlink()
+        try:
+            DB.unlink()
+        except PermissionError:
+            print("[WARN] No se pudo borrar la SQLite; se recreara el esquema dentro del archivo existente")
 
 
 def create_schema(conn: sqlite3.Connection) -> None:
@@ -48,6 +51,35 @@ def create_schema(conn: sqlite3.Connection) -> None:
     cur.executescript(
         """
         PRAGMA foreign_keys = ON;
+
+        DROP VIEW IF EXISTS v_charizard_answers;
+        DROP VIEW IF EXISTS v_trick_room_candidates;
+        DROP VIEW IF EXISTS v_sun_candidates;
+        DROP VIEW IF EXISTS v_rain_candidates;
+        DROP VIEW IF EXISTS v_team_builder_pool;
+        DROP VIEW IF EXISTS v_move_users;
+        DROP VIEW IF EXISTS v_speed_table;
+        DROP VIEW IF EXISTS v_pokemon_summary;
+
+        DROP TABLE IF EXISTS matchups;
+        DROP TABLE IF EXISTS cores;
+        DROP TABLE IF EXISTS pokemon_archetypes;
+        DROP TABLE IF EXISTS archetypes;
+        DROP TABLE IF EXISTS pokemon_roles;
+        DROP TABLE IF EXISTS roles;
+        DROP TABLE IF EXISTS tiers;
+        DROP TABLE IF EXISTS mega_forms;
+        DROP TABLE IF EXISTS pokemon_moves;
+        DROP TABLE IF EXISTS moves;
+        DROP TABLE IF EXISTS pokemon_abilities;
+        DROP TABLE IF EXISTS abilities;
+        DROP TABLE IF EXISTS speed_profiles;
+        DROP TABLE IF EXISTS stats_base;
+        DROP TABLE IF EXISTS pokemon;
+        DROP TABLE IF EXISTS seasons_rules;
+        DROP TABLE IF EXISTS items;
+        DROP TABLE IF EXISTS sources;
+        DROP TABLE IF EXISTS types;
 
         CREATE TABLE pokemon (
             pokemon_id INTEGER PRIMARY KEY,
@@ -491,6 +523,11 @@ def create_views(conn: sqlite3.Connection) -> None:
             COUNT(DISTINCT CASE WHEN pm.is_confirmed_in_champions = 0 THEN pm.pokemon_id END) AS inferred_user_count,
             COUNT(DISTINCT CASE WHEN pm.availability_status = 'champions_move_pool' THEN pm.pokemon_id END) AS move_pool_user_count,
             COUNT(DISTINCT CASE WHEN pm.availability_status = 'observed_set' THEN pm.pokemon_id END) AS observed_set_user_count,
+            ROUND(
+                100.0 * COUNT(DISTINCT CASE WHEN pm.availability_status = 'observed_set' THEN pm.pokemon_id END)
+                / NULLIF(COUNT(DISTINCT CASE WHEN pm.availability_status = 'champions_move_pool' THEN pm.pokemon_id END), 0),
+                1
+            ) AS observed_set_coverage_pct,
             GROUP_CONCAT(
                 DISTINCT p.name_en || CASE
                     WHEN p.form_name_en IS NOT NULL AND p.form_name_en <> '' THEN ' (' || p.form_name_en || ')'
