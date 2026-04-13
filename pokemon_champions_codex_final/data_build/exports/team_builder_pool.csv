@@ -1,0 +1,209 @@
+pokemon_id,species_key,form_key,name_en,form_name_en,type1_key,type2_key,tier_value,roles,archetypes
+3,venusaur,,Venusaur,,grass,poison,B,Bulky Support,Sun
+6,charizard,,Charizard,,fire,flying,A,Bulky Support,Sun
+9,blastoise,,Blastoise,,water,,B,"Bulky Support, Pivot",Rain
+15,beedrill,,Beedrill,,bug,poison,D,"Pivot, Speed Control",Balance
+18,pidgeot,,Pidgeot,,normal,flying,D,"Pivot, Speed Control",Tailwind
+24,arbok,,Arbok,,poison,,D,Pivot,Balance
+25,pikachu,,Pikachu,,electric,,D,"Bulky Support, Pivot, Speed Control",Balance
+26,raichu,,Raichu,,electric,,D,"Bulky Support, Pivot, Speed Control",Offense
+36,clefable,,Clefable,,fairy,,C,"Bulky Support, Speed Control",Trick Room
+38,ninetales,,Ninetales,,fire,,D,"Bulky Support, Weather Setter",Sun
+59,arcanine,,Arcanine,,fire,,B,"Bulky Support, Pivot",Offense
+65,alakazam,,Alakazam,,psychic,,D,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+68,machamp,,Machamp,,fighting,,D,"Bulky Support, Wallbreaker",Trick Room
+71,victreebel,,Victreebel,,grass,poison,D,Wallbreaker,Sun
+80,slowbro,,Slowbro,,water,psychic,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+94,gengar,,Gengar,,ghost,poison,B,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+115,kangaskhan,,Kangaskhan,,normal,,C,"Bulky Support, Pivot, Speed Control",Balance
+121,starmie,,Starmie,,water,psychic,C,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+127,pinsir,,Pinsir,,bug,,D,"Bulky Support, Wallbreaker",Balance
+128,tauros,,Tauros,,normal,,D,"Bulky Support, Pivot, Speed Control",Offense
+130,gyarados,,Gyarados,,water,flying,B,"Bulky Support, Pivot, Speed Control, Wallbreaker",Rain
+132,ditto,,Ditto,,normal,,D,Bulky Support,Trick Room
+134,vaporeon,,Vaporeon,,water,,D,"Bulky Support, Speed Control",Balance
+135,jolteon,,Jolteon,,electric,,D,"Bulky Support, Pivot, Speed Control",Offense
+136,flareon,,Flareon,,fire,,D,"Bulky Support, Wallbreaker",Balance
+142,aerodactyl,,Aerodactyl,,rock,flying,A,Speed Control,Tailwind
+143,snorlax,,Snorlax,,normal,,D,"Bulky Support, Speed Control",Trick Room
+149,dragonite,,Dragonite,,dragon,flying,B,"Bulky Support, Speed Control, Wallbreaker",Tailwind
+154,meganium,,Meganium,,grass,,B,Bulky Support,Balance
+157,typhlosion,,Typhlosion,,fire,,D,Bulky Support,Offense
+160,feraligatr,,Feraligatr,,water,,C,"Bulky Support, Speed Control",Balance
+168,ariados,,Ariados,,bug,poison,D,"Bulky Support, Speed Control",Trick Room
+181,ampharos,,Ampharos,,electric,,D,"Bulky Support, Pivot, Speed Control",Trick Room
+184,azumarill,,Azumarill,,water,fairy,C,"Bulky Support, Speed Control",Trick Room
+186,politoed,,Politoed,,water,,B,"Bulky Support, Speed Control, Weather Setter",Rain
+196,espeon,,Espeon,,psychic,,D,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+197,umbreon,,Umbreon,,dark,,D,"Bulky Support, Speed Control",Balance
+199,slowking,,Slowking,,water,psychic,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+205,forretress,,Forretress,,bug,steel,D,"Bulky Support, Pivot, Speed Control",Trick Room
+208,steelix,,Steelix,,steel,ground,D,Bulky Support,Trick Room
+212,scizor,,Scizor,,bug,steel,C,"Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind
+214,heracross,,Heracross,,bug,fighting,D,"Bulky Support, Wallbreaker",Balance
+227,skarmory,,Skarmory,,steel,flying,C,"Bulky Support, Speed Control",Tailwind
+229,houndoom,,Houndoom,,dark,fire,D,Bulky Support,Offense
+248,tyranitar,,Tyranitar,,rock,dark,A,"Bulky Support, Speed Control, Wallbreaker",Sand
+279,pelipper,,Pelipper,,water,flying,A,"Bulky Support, Pivot, Speed Control, Weather Setter","Rain, Tailwind"
+282,gardevoir,,Gardevoir,,psychic,fairy,B,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker","Offense, Sand, Trick Room"
+302,sableye,,Sableye,,dark,ghost,C,"Bulky Support, Pivot, Speed Control",Trick Room
+306,aggron,,Aggron,,steel,rock,C,"Bulky Support, Speed Control",Trick Room
+308,medicham,,Medicham,,fighting,psychic,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+310,manectric,,Manectric,,electric,,D,"Pivot, Speed Control",Offense
+319,sharpedo,,Sharpedo,,water,dark,D,"Speed Control, Wallbreaker",Offense
+323,camerupt,,Camerupt,,fire,ground,C,Bulky Support,Trick Room
+324,torkoal,,Torkoal,,fire,,B,"Bulky Support, Weather Setter","Sun, Trick Room"
+334,altaria,,Altaria,,dragon,flying,D,"Bulky Support, Speed Control",Tailwind
+350,milotic,,Milotic,,water,,B,"Bulky Support, Speed Control",Balance
+351,castform,,Castform,,normal,,D,Speed Control,Balance
+354,banette,,Banette,,ghost,,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+358,chimecho,,Chimecho,,psychic,,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+359,absol,,Absol,,dark,,D,"Bulky Support, Speed Control, Wallbreaker",Balance
+362,glalie,,Glalie,,ice,,D,"Bulky Support, Speed Control",Balance
+389,torterra,,Torterra,,grass,ground,D,Bulky Support,Balance
+392,infernape,,Infernape,,fire,fighting,D,"Bulky Support, Pivot",Offense
+395,empoleon,,Empoleon,,water,steel,D,"Bulky Support, Speed Control",Balance
+405,luxray,,Luxray,,electric,,D,"Bulky Support, Pivot, Speed Control, Wallbreaker",Balance
+407,roserade,,Roserade,,grass,poison,D,Wallbreaker,Balance
+409,rampardos,,Rampardos,,rock,,D,Wallbreaker,Balance
+411,bastiodon,,Bastiodon,,rock,steel,D,Bulky Support,Trick Room
+428,lopunny,,Lopunny,,normal,,C,"Bulky Support, Pivot, Speed Control",Offense
+442,spiritomb,,Spiritomb,,ghost,dark,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+445,garchomp,,Garchomp,,dragon,ground,S,"Bulky Support, Wallbreaker","Offense, Sand"
+448,lucario,,Lucario,,fighting,steel,C,Bulky Support,Balance
+450,hippowdon,,Hippowdon,,ground,,D,Bulky Support,Trick Room
+454,toxicroak,,Toxicroak,,poison,fighting,D,"Bulky Support, Pivot, Speed Control",Balance
+460,abomasnow,,Abomasnow,,grass,ice,D,"Bulky Support, Speed Control",Balance
+461,weavile,,Weavile,,dark,ice,D,"Bulky Support, Pivot, Speed Control, Wallbreaker",Offense
+464,rhyperior,,Rhyperior,,ground,rock,D,"Bulky Support, Speed Control, Wallbreaker",Trick Room
+470,leafeon,,Leafeon,,grass,,D,Bulky Support,Sun
+471,glaceon,,Glaceon,,ice,,D,"Bulky Support, Speed Control, Wallbreaker",Balance
+472,gliscor,,Gliscor,,ground,flying,D,"Bulky Support, Pivot, Speed Control",Tailwind
+473,mamoswine,,Mamoswine,,ice,ground,C,"Speed Control, Wallbreaker",Balance
+475,gallade,,Gallade,,psychic,fighting,C,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+478,froslass,,Froslass,,ice,ghost,B,"Bulky Support, Speed Control",Offense
+479,rotom,,Rotom,,electric,ghost,D,"Bulky Support, Pivot, Speed Control",Balance
+497,serperior,,Serperior,,grass,,D,Bulky Support,Offense
+500,emboar,,Emboar,,fire,fighting,D,"Bulky Support, Wallbreaker",Balance
+503,samurott,,Samurott,,water,,B,"Bulky Support, Speed Control",Balance
+505,watchog,,Watchog,,normal,,D,Speed Control,Balance
+510,liepard,,Liepard,,dark,,D,"Pivot, Speed Control",Offense
+512,simisage,,Simisage,,grass,,D,"Bulky Support, Pivot",Offense
+514,simisear,,Simisear,,fire,,D,"Bulky Support, Pivot",Offense
+516,simipour,,Simipour,,water,,D,"Bulky Support, Pivot, Speed Control",Offense
+530,excadrill,,Excadrill,,ground,steel,B,"Bulky Support, Wallbreaker",Sand
+531,audino,,Audino,,normal,,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+534,conkeldurr,,Conkeldurr,,fighting,,C,"Bulky Support, Wallbreaker",Trick Room
+547,whimsicott,,Whimsicott,,grass,fairy,A,"Bulky Support, Pivot, Speed Control, Trick Room Setter","Offense, Rain, Sun, Tailwind, Trick Room"
+553,krookodile,,Krookodile,,ground,dark,D,"Bulky Support, Pivot",Balance
+563,cofagrigus,,Cofagrigus,,ghost,,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+569,garbodor,,Garbodor,,poison,,D,Bulky Support,Balance
+571,zoroark,,Zoroark,,dark,,D,"Bulky Support, Pivot, Wallbreaker",Offense
+579,reuniclus,,Reuniclus,,psychic,,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+584,vanilluxe,,Vanilluxe,,ice,,D,Speed Control,Balance
+587,emolga,,Emolga,,electric,flying,D,"Bulky Support, Pivot, Speed Control",Offense
+609,chandelure,,Chandelure,,ghost,fire,C,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+614,beartic,,Beartic,,ice,,D,"Speed Control, Wallbreaker",Trick Room
+618,stunfisk,,Stunfisk,,ground,electric,D,"Bulky Support, Speed Control",Trick Room
+623,golurk,,Golurk,,ground,ghost,C,"Bulky Support, Speed Control, Wallbreaker",Trick Room
+635,hydreigon,,Hydreigon,,dark,dragon,C,"Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind
+637,volcarona,,Volcarona,,bug,fire,C,"Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind
+652,chesnaught,,Chesnaught,,grass,fighting,D,Bulky Support,Balance
+655,delphox,,Delphox,,fire,psychic,B,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+658,greninja,,Greninja,,water,dark,C,"Bulky Support, Pivot, Speed Control",Sand
+660,diggersby,,Diggersby,,normal,ground,D,Pivot,Balance
+663,talonflame,,Talonflame,,fire,flying,B,"Bulky Support, Pivot, Speed Control",Tailwind
+666,vivillon,,Vivillon,,bug,flying,C,"Bulky Support, Pivot, Speed Control",Tailwind
+670,floette,,Floette,,fairy,,A,Bulky Support,Trick Room
+671,florges,,Florges,,fairy,,D,Bulky Support,Balance
+675,pangoro,,Pangoro,,fighting,dark,D,"Bulky Support, Pivot, Wallbreaker",Balance
+676,furfrou,,Furfrou,,normal,,D,"Bulky Support, Pivot, Speed Control",Offense
+678,meowstic,meowstic-m,Meowstic,Meowstic-M,psychic,,C,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+681,aegislash,,Aegislash,,steel,ghost,B,Bulky Support,Sun
+683,aromatisse,,Aromatisse,,fairy,,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+685,slurpuff,,Slurpuff,,fairy,,D,Bulky Support,Balance
+693,clawitzer,,Clawitzer,,water,,D,"Bulky Support, Pivot, Speed Control, Wallbreaker",Balance
+695,heliolisk,,Heliolisk,,electric,normal,D,"Pivot, Speed Control",Offense
+697,tyrantrum,,Tyrantrum,,rock,dragon,D,"Bulky Support, Wallbreaker",Balance
+699,aurorus,,Aurorus,,rock,ice,D,"Bulky Support, Speed Control",Balance
+700,sylveon,,Sylveon,,fairy,,B,Bulky Support,Balance
+701,hawlucha,,Hawlucha,,fighting,flying,C,"Bulky Support, Pivot",Offense
+702,dedenne,,Dedenne,,electric,fairy,D,"Bulky Support, Pivot, Speed Control",Offense
+706,goodra,,Goodra,,dragon,,D,"Bulky Support, Wallbreaker",Balance
+707,klefki,,Klefki,,steel,fairy,D,"Speed Control, Trick Room Setter",Trick Room
+709,trevenant,,Trevenant,,ghost,grass,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+711,gourgeist,,Gourgeist,,ghost,grass,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+713,avalugg,,Avalugg,,ice,,D,"Bulky Support, Speed Control",Trick Room
+715,noivern,,Noivern,,flying,dragon,D,"Pivot, Speed Control",Tailwind
+724,decidueye,,Decidueye,,grass,ghost,D,"Bulky Support, Pivot, Speed Control",Tailwind
+727,incineroar,,Incineroar,,fire,dark,S,"Bulky Support, Pivot","Offense, Rain, Sand, Sun, Trick Room"
+730,primarina,,Primarina,,water,fairy,B,"Bulky Support, Speed Control, Wallbreaker",Balance
+733,toucannon,,Toucannon,,normal,flying,D,"Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind
+740,crabominable,,Crabominable,,fighting,ice,C,"Bulky Support, Speed Control, Wallbreaker",Trick Room
+745,lycanroc,,Lycanroc,,rock,,D,Bulky Support,Offense
+748,toxapex,,Toxapex,,poison,water,D,"Bulky Support, Pivot, Speed Control",Trick Room
+750,mudsdale,,Mudsdale,,ground,,D,"Bulky Support, Wallbreaker",Trick Room
+752,araquanid,,Araquanid,,water,bug,C,"Bulky Support, Speed Control",Trick Room
+758,salazzle,,Salazzle,,poison,fire,D,"Bulky Support, Pivot, Speed Control",Offense
+763,tsareena,,Tsareena,,grass,,A,"Bulky Support, Pivot, Wallbreaker",Balance
+765,oranguru,,Oranguru,,normal,psychic,C,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+766,passimian,,Passimian,,fighting,,D,"Pivot, Speed Control, Wallbreaker",Balance
+778,mimikyu,,Mimikyu,,ghost,fairy,C,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+780,drampa,,Drampa,,normal,dragon,C,"Bulky Support, Speed Control, Wallbreaker",Trick Room
+784,kommo-o,,Kommo-o,,dragon,fighting,B,"Bulky Support, Wallbreaker",Balance
+823,corviknight,,Corviknight,,flying,steel,B,"Bulky Support, Pivot, Speed Control",Tailwind
+841,flapple,,Flapple,,grass,dragon,D,Pivot,Balance
+842,appletun,,Appletun,,grass,dragon,D,Bulky Support,Trick Room
+844,sandaconda,,Sandaconda,,ground,,D,Bulky Support,Balance
+855,polteageist,,Polteageist,,ghost,,D,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+858,hatterene,,Hatterene,,psychic,fairy,C,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+866,mr-rime,,Mr. Rime,,ice,psychic,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+867,runerigus,,Runerigus,,ground,ghost,D,"Bulky Support, Speed Control, Trick Room Setter",Trick Room
+869,alcremie,,Alcremie,,fairy,,D,Bulky Support,Balance
+877,morpeko,,Morpeko,,electric,dark,D,"Pivot, Speed Control",Offense
+887,dragapult,,Dragapult,,dragon,ghost,B,"Bulky Support, Pivot, Speed Control, Wallbreaker","Offense, Rain"
+899,wyrdeer,,Wyrdeer,,normal,psychic,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+900,kleavor,,Kleavor,,bug,rock,D,"Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind
+902,basculegion,basculegion-m,Basculegion,Basculegion-M,water,ghost,A,"Bulky Support, Speed Control",Rain
+903,sneasler,,Sneasler,,fighting,poison,S,"Pivot, Wallbreaker",Offense
+908,meowscarada,,Meowscarada,,grass,dark,C,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+911,skeledirge,,Skeledirge,,fire,ghost,D,Bulky Support,Balance
+914,quaquaval,,Quaquaval,,water,fighting,D,"Bulky Support, Pivot, Speed Control, Wallbreaker",Balance
+925,maushold,,Maushold,,normal,,B,"Bulky Support, Pivot, Speed Control",Offense
+934,garganacl,,Garganacl,,rock,,D,Bulky Support,Trick Room
+936,armarouge,,Armarouge,,fire,psychic,D,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+937,ceruledge,,Ceruledge,,fire,ghost,D,"Bulky Support, Wallbreaker",Balance
+939,bellibolt,,Bellibolt,,electric,,D,"Bulky Support, Pivot, Speed Control",Trick Room
+952,scovillain,,Scovillain,,grass,fire,C,Bulky Support,Sun
+956,espathra,,Espathra,,psychic,,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+959,tinkaton,,Tinkaton,,fairy,steel,D,"Bulky Support, Pivot, Speed Control",Balance
+964,palafin,,Palafin,,water,,B,"Bulky Support, Speed Control",Offense
+968,orthworm,,Orthworm,,steel,,C,Bulky Support,Balance
+970,glimmora,,Glimmora,,rock,poison,B,Wallbreaker,Balance
+981,farigiraf,,Farigiraf,,normal,psychic,A,"Bulky Support, Speed Control, Trick Room Setter","Sun, Trick Room"
+983,kingambit,,Kingambit,,dark,steel,S,"Bulky Support, Speed Control, Wallbreaker","Offense, Trick Room"
+1013,sinistcha,,Sinistcha,,grass,ghost,S,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room
+1018,archaludon,,Archaludon,,steel,dragon,A,"Bulky Support, Speed Control, Wallbreaker",Rain
+1019,hydrapple,,Hydrapple,,grass,dragon,D,"Bulky Support, Pivot, Wallbreaker",Trick Room
+10008,rotom,heat-rotom,Rotom,Heat Rotom,electric,fire,C,"Bulky Support, Pivot, Speed Control",Balance
+10009,rotom,wash-rotom,Rotom,Wash Rotom,electric,water,A,"Bulky Support, Pivot, Speed Control",Balance
+10010,rotom,frost-rotom,Rotom,Frost Rotom,electric,ice,D,"Bulky Support, Pivot, Speed Control",Balance
+10011,rotom,fan-rotom,Rotom,Fan Rotom,electric,flying,D,"Bulky Support, Pivot, Speed Control",Balance
+10012,rotom,mow-rotom,Rotom,Mow Rotom,electric,grass,D,"Bulky Support, Pivot, Speed Control",Balance
+10100,raichu,alolan-raichu,Raichu,Alolan Raichu,electric,psychic,C,"Bulky Support, Pivot, Speed Control",Offense
+10104,ninetales,alolan-ninetales,Ninetales,Alolan Ninetales,ice,fairy,B,"Bulky Support, Speed Control",Offense
+10165,slowbro,galarian-slowbro,Slowbro,Galarian Slowbro,poison,psychic,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+10172,slowking,galarian-slowking,Slowking,Galarian Slowking,poison,psychic,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+10180,stunfisk,galarian-stunfisk,Stunfisk,Galarian Stunfisk,ground,steel,D,"Bulky Support, Speed Control",Trick Room
+10230,arcanine,hisuian-arcanine,Arcanine,Hisuian Arcanine,fire,rock,C,"Bulky Support, Pivot",Balance
+10233,typhlosion,hisuian-typhlosion,Typhlosion,Hisuian Typhlosion,fire,ghost,C,Bulky Support,Offense
+10236,samurott,hisuian-samurott,Samurott,Hisuian Samurott,water,dark,D,"Bulky Support, Speed Control",Balance
+10239,zoroark,hisuian-zoroark,Zoroark,Hisuian Zoroark,normal,ghost,C,"Bulky Support, Pivot, Speed Control, Wallbreaker",Offense
+10242,goodra,hisuian-goodra,Goodra,Hisuian Goodra,steel,dragon,C,"Bulky Support, Wallbreaker",Balance
+10244,decidueye,hisuian-decidueye,Decidueye,Hisuian Decidueye,grass,fighting,D,"Bulky Support, Pivot, Speed Control",Tailwind
+10245,avalugg,hisuian-avalugg,Avalugg,Hisuian Avalugg,ice,rock,D,"Bulky Support, Speed Control, Wallbreaker",Trick Room
+10250,tauros,paldean-tauros,Tauros,Paldean Tauros,fighting,,D,Pivot,Offense
+10251,tauros,paldean-tauros-blaze,Tauros,Paldean Tauros (Blaze),fighting,fire,D,"Bulky Support, Pivot",Offense
+10252,tauros,paldean-tauros-aqua,Tauros,Paldean Tauros (Aqua),fighting,water,D,Pivot,Offense
+10678,meowstic,meowstic-f,Meowstic,Meowstic-F,psychic,,D,"Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room
+10902,basculegion,basculegion-f,Basculegion,Basculegion-F,water,ghost,C,"Bulky Support, Speed Control",Balance

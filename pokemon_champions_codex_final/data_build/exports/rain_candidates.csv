@@ -1,0 +1,28 @@
+pokemon_id,species_key,form_key,name_en,form_name_en,tier_value,abilities
+9,blastoise,,Blastoise,,B,"rain_dish, torrent"
+80,slowbro,,Slowbro,,D,"oblivious, own_tempo, regenerator"
+121,starmie,,Starmie,,C,"analytic, illuminate, natural_cure"
+130,gyarados,,Gyarados,,B,"intimidate, moxie"
+134,vaporeon,,Vaporeon,,D,"hydration, water_absorb"
+160,feraligatr,,Feraligatr,,C,"dragonize, sheer_force, torrent"
+184,azumarill,,Azumarill,,C,"huge_power, sap_sipper, thick_fat"
+186,politoed,,Politoed,,B,"damp, drizzle, water_absorb"
+199,slowking,,Slowking,,D,"oblivious, own_tempo, regenerator"
+279,pelipper,,Pelipper,,A,"drizzle, keen_eye, rain_dish"
+319,sharpedo,,Sharpedo,,D,"rough_skin, speed_boost"
+350,milotic,,Milotic,,B,"competitive, cute_charm, marvel_scale"
+395,empoleon,,Empoleon,,D,"competitive, torrent"
+503,samurott,,Samurott,,B,"shell_armor, torrent"
+516,simipour,,Simipour,,D,"gluttony, torrent"
+658,greninja,,Greninja,,C,"protean, torrent"
+693,clawitzer,,Clawitzer,,D,mega_launcher
+730,primarina,,Primarina,,B,"liquid_voice, torrent"
+748,toxapex,,Toxapex,,D,"limber, merciless, regenerator"
+752,araquanid,,Araquanid,,C,"water_absorb, water_bubble"
+902,basculegion,basculegion-m,Basculegion,Basculegion-M,A,"adaptability, mold_breaker, swift_swim"
+914,quaquaval,,Quaquaval,,D,"moxie, torrent"
+964,palafin,,Palafin,,B,zero_to_hero
+10009,rotom,wash-rotom,Rotom,Wash Rotom,A,levitate
+10236,samurott,hisuian-samurott,Samurott,Hisuian Samurott,D,"sharpness, shell_armor"
+10252,tauros,paldean-tauros-aqua,Tauros,Paldean Tauros (Aqua),D,"anger_point, cud_chew, intimidate"
+10902,basculegion,basculegion-f,Basculegion,Basculegion-F,C,"adaptability, mold_breaker, swift_swim"

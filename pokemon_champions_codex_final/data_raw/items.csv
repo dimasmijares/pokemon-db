@@ -1,1 +1,162 @@
 item_key,name_en,name_es,category_key,effect_short_en,effect_short_es,effect_long_en,effect_long_es,is_mega_stone,source_key
+abomasite,Abomasite,Abomasnowita,mega_stones,Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow.,,Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow.,,0,pokeapi
+absolite,Absolite,Absolita,mega_stones,Held: Allows Absol to Mega Evolve into Mega Absol.,,Held: Allows Absol to Mega Evolve into Mega Absol.,,0,pokeapi
+absolite_z,Absolite Z,Absolite Z,mega_stones,Used in current Champions set data: Absolite Z.,,Used in current Champions set data: Absolite Z.,,1,championslab
+aerodactylite,Aerodactylite,Aerodactylita,mega_stones,Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.,,Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.,,0,pokeapi
+aggronite,Aggronite,Aggronita,mega_stones,Held: Allows Aggron to Mega Evolve into Mega Aggron.,,Held: Allows Aggron to Mega Evolve into Mega Aggron.,,0,pokeapi
+aguav_berry,Aguav Berry,Baya Guaya,picky_healing,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.,,Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.,,0,pokeapi
+alakazite,Alakazite,Alakazamita,mega_stones,Held: Allows Alakazam to Mega Evolve into Mega Alakazam.,,Held: Allows Alakazam to Mega Evolve into Mega Alakazam.,,0,pokeapi
+altarianite,Altarianite,Altarianita,mega_stones,Held: Allows Altaria to Mega Evolve into Mega Altaria.,,Held: Allows Altaria to Mega Evolve into Mega Altaria.,,0,pokeapi
+ampharosite,Ampharosite,Ampharosita,mega_stones,Held: Allows Ampharos to Mega Evolve into Mega Ampharos.,,Held: Allows Ampharos to Mega Evolve into Mega Ampharos.,,0,pokeapi
+assault_vest,Assault Vest,Chaleco Asalto,held_items,Raises the holder’s Special Defense to 1.5×.  Prevents the holder from selecting a status move.,,Raises the holder’s Special Defense to 1.5×.  Prevents the holder from selecting a status move.,,0,pokeapi
+audinite,Audinite,Audinita,mega_stones,Held: Allows Audino to Mega Evolve into Mega Audino.,,Held: Allows Audino to Mega Evolve into Mega Audino.,,0,pokeapi
+banettite,Banettite,Banettita,mega_stones,Held: Allows Banette to Mega Evolve into Mega Banette.,,Held: Allows Banette to Mega Evolve into Mega Banette.,,0,pokeapi
+beedrillite,Beedrillite,Beedrillita,mega_stones,Held: Allows Beedrill to Mega Evolve into Mega Beedrill.,,Held: Allows Beedrill to Mega Evolve into Mega Beedrill.,,0,pokeapi
+black_glasses,Black Glasses,Gafas de Sol,type_enhancement,Held: Dark-Type moves from holder do 20% more damage.,,Held: Dark-Type moves from holder do 20% more damage.,,0,pokeapi
+black_sludge,Black Sludge,Lodo Negro,held_items,Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.,,Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.,,0,pokeapi
+blastoisinite,Blastoisinite,Blastoisita,mega_stones,Held: Allows Blastoise to Mega Evolve into Mega Blastoise.,,Held: Allows Blastoise to Mega Evolve into Mega Blastoise.,,0,pokeapi
+cameruptite,Cameruptite,Cameruptita,mega_stones,Held: Allows Camerupt to Mega Evolve into Mega Camerupt.,,Held: Allows Camerupt to Mega Evolve into Mega Camerupt.,,0,pokeapi
+chandelurite,Chandelurite,Chandelurite,mega_stones,Used in current Champions set data: Chandelurite.,,Used in current Champions set data: Chandelurite.,,1,championslab
+charcoal,Charcoal,Carbón,type_enhancement,Held: Fire-Type moves from holder do 20% more damage.,,Held: Fire-Type moves from holder do 20% more damage.,,0,pokeapi
+charizardite_x,Charizardite X,Charizardita X,mega_stones,Held: Allows Charizard to Mega Evolve into Mega Charizard X.,,Held: Allows Charizard to Mega Evolve into Mega Charizard X.,,0,pokeapi
+charizardite_y,Charizardite Y,Charizardita Y,mega_stones,Held: Allows Charizard to Mega Evolve into Mega Charizard Y.,,Held: Allows Charizard to Mega Evolve into Mega Charizard Y.,,0,pokeapi
+chesnaughtite,Chesnaughtite,Chesnaughtite,mega_stones,Used in current Champions set data: Chesnaughtite.,,Used in current Champions set data: Chesnaughtite.,,1,championslab
+chimechite,Chimechite,Chimechite,mega_stones,Used in current Champions set data: Chimechite.,,Used in current Champions set data: Chimechite.,,1,championslab
+choice_band,Choice Band,Cinta Elección,choice,"Held: Increases Attack by 50%, but restricts the holder to only one move.",,"Held: Increases Attack by 50%, but restricts the holder to only one move.",,0,pokeapi
+choice_scarf,Choice Scarf,Pañuelo Elección,choice,"Held: Increases Speed by 50%, but restricts the holder to only one move.",,"Held: Increases Speed by 50%, but restricts the holder to only one move.",,0,pokeapi
+choice_specs,Choice Specs,Gafas Elección,choice,"Held: Increases Special Attack by 50%, but restricts the holder to only one move.",,"Held: Increases Special Attack by 50%, but restricts the holder to only one move.",,0,pokeapi
+chople_berry,Chople Berry,Baya Pomaro,type_protection,Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.,,Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.,,0,pokeapi
+clefablite,Clefablite,Clefablite,mega_stones,Used in current Champions set data: Clefablite.,,Used in current Champions set data: Clefablite.,,1,championslab
+colbur_berry,Colbur Berry,Baya Dillo,type_protection,Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.,,Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.,,0,pokeapi
+crabominite,Crabominite,Crabominite,mega_stones,Used in current Champions set data: Crabominite.,,Used in current Champions set data: Crabominite.,,1,championslab
+damp_rock,Damp Rock,Roca Lluvia,held_items,Held: Rain Dance by the holder lasts 8 rounds instead of 5.,,Held: Rain Dance by the holder lasts 8 rounds instead of 5.,,0,pokeapi
+delphoxite,Delphoxite,Delphoxite,mega_stones,Used in current Champions set data: Delphoxite.,,Used in current Champions set data: Delphoxite.,,1,championslab
+dragonitite,Dragonitite,Dragonitite,mega_stones,Used in current Champions set data: Dragonitite.,,Used in current Champions set data: Dragonitite.,,1,championslab
+drampite,Drampite,Drampite,mega_stones,Used in current Champions set data: Drampite.,,Used in current Champions set data: Drampite.,,1,championslab
+electric_seed,Electric Seed,Semilla Electro,held_items,Held: Consumed on Electric Terrain and raises the holder’s Defense by one stage.,,Held: Consumed on Electric Terrain and raises the holder’s Defense by one stage.,,0,pokeapi
+emboarite,Emboarite,Emboarite,mega_stones,Used in current Champions set data: Emboarite.,,Used in current Champions set data: Emboarite.,,1,championslab
+excadrite,Excadrite,Excadrite,mega_stones,Used in current Champions set data: Excadrite.,,Used in current Champions set data: Excadrite.,,1,championslab
+feraligatrite,Feraligatrite,Feraligatrite,mega_stones,Used in current Champions set data: Feraligatrite.,,Used in current Champions set data: Feraligatrite.,,1,championslab
+flame_orb,Flame Orb,Llamasfera,bad_held_items,Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.,,Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.,,0,pokeapi
+floettite,Floettite,Floettite,mega_stones,Used in current Champions set data: Floettite.,,Used in current Champions set data: Floettite.,,1,championslab
+focus_sash,Focus Sash,Banda Focus,held_items,"Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",,"Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",,0,pokeapi
+froslassite,Froslassite,Froslassite,mega_stones,Used in current Champions set data: Froslassite.,,Used in current Champions set data: Froslassite.,,1,championslab
+galladite,Galladite,Galladita,mega_stones,Held: Allows Gallade to Mega Evolve into Mega Gallade.,,Held: Allows Gallade to Mega Evolve into Mega Gallade.,,0,pokeapi
+garchompite,Garchompite,Garchompita,mega_stones,Held: Allows Garchomp to Mega Evolve into Mega Garchomp.,,Held: Allows Garchomp to Mega Evolve into Mega Garchomp.,,0,pokeapi
+garchompite_z,Garchompite Z,Garchompite Z,mega_stones,Used in current Champions set data: Garchompite Z.,,Used in current Champions set data: Garchompite Z.,,1,championslab
+gardevoirite,Gardevoirite,Gardevoirita,mega_stones,Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.,,Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.,,0,pokeapi
+gengarite,Gengarite,Gengarita,mega_stones,Held: Allows Gengar to Mega Evolve into Mega Gengar.,,Held: Allows Gengar to Mega Evolve into Mega Gengar.,,0,pokeapi
+glalitite,Glalitite,Glalita,mega_stones,Held: Allows Glalie to Mega Evolve into Mega Glalie.,,Held: Allows Glalie to Mega Evolve into Mega Glalie.,,0,pokeapi
+glimmorite,Glimmorite,Glimmorite,mega_stones,Used in current Champions set data: Glimmorite.,,Used in current Champions set data: Glimmorite.,,1,championslab
+greninjite,Greninjite,Greninjite,mega_stones,Used in current Champions set data: Greninjite.,,Used in current Champions set data: Greninjite.,,1,championslab
+gyaradosite,Gyaradosite,Gyaradosita,mega_stones,Held: Allows Gyarados to Mega Evolve into Mega Gyarados.,,Held: Allows Gyarados to Mega Evolve into Mega Gyarados.,,0,pokeapi
+hawluchite,Hawluchite,Hawluchite,mega_stones,Used in current Champions set data: Hawluchite.,,Used in current Champions set data: Hawluchite.,,1,championslab
+heat_rock,Heat Rock,Roca Calor,held_items,Held: Sunny Day by the holder lasts 8 rounds instead of 5.,,Held: Sunny Day by the holder lasts 8 rounds instead of 5.,,0,pokeapi
+heracronite,Heracronite,Heracrossita,mega_stones,Held: Allows Heracross to Mega Evolve into Mega Heracross.,,Held: Allows Heracross to Mega Evolve into Mega Heracross.,,0,pokeapi
+houndoominite,Houndoominite,Houndoomita,mega_stones,Held: Allows Houndoom to Mega Evolve into Mega Houndoom.,,Held: Allows Houndoom to Mega Evolve into Mega Houndoom.,,0,pokeapi
+kangaskhanite,Kangaskhanite,Kangaskhanita,mega_stones,Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.,,Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.,,0,pokeapi
+kommonium_z,Kommonium Z,Kommonium Z,held_items,Used in current Champions set data: Kommonium Z.,,Used in current Champions set data: Kommonium Z.,,0,championslab
+leftovers,Leftovers,Restos,held_items,Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn.,,Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn.,,0,pokeapi
+life_orb,Life Orb,Vidasfera,held_items,"Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP.",,"Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP.",,0,pokeapi
+light_ball,Light Ball,Bola Luminosa,species_specific,Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.,,Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.,,0,pokeapi
+light_clay,Light Clay,Refleluz,held_items,Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.,,Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.,,0,pokeapi
+lopunnite,Lopunnite,Lopunnita,mega_stones,Held: Allows Lopunny to Mega Evolve into Mega Lopunny.,,Held: Allows Lopunny to Mega Evolve into Mega Lopunny.,,0,pokeapi
+lucarionite,Lucarionite,Lucarita,mega_stones,Held: Allows Lucario to Mega Evolve into Mega Lucario.,,Held: Allows Lucario to Mega Evolve into Mega Lucario.,,0,pokeapi
+lucarionite_z,Lucarionite Z,Lucarionite Z,mega_stones,Used in current Champions set data: Lucarionite Z.,,Used in current Champions set data: Lucarionite Z.,,1,championslab
+lum_berry,Lum Berry,Baya Ziuela,medicine,Held: Consumed to cure any status condition or confusion.,,Held: Consumed to cure any status condition or confusion.,,0,pokeapi
+magnet,Magnet,Imán,type_enhancement,Held: Electric-Type moves from holder do 20% more damage.,,Held: Electric-Type moves from holder do 20% more damage.,,0,pokeapi
+manectite,Manectite,Manectricita,mega_stones,Held: Allows Manectric to Mega Evolve into Mega Manectric.,,Held: Allows Manectric to Mega Evolve into Mega Manectric.,,0,pokeapi
+medichamite,Medichamite,Medichamita,mega_stones,Held: Allows Medicham to Mega Evolve into Mega Medicham.,,Held: Allows Medicham to Mega Evolve into Mega Medicham.,,0,pokeapi
+mega_abomasnow_stone,Mega Abomasnow Stone,Mega Abomasnow Stone,mega_stones,Used in current Champions set data: Mega Abomasnow Stone.,,Used in current Champions set data: Mega Abomasnow Stone.,,1,championslab
+mega_absol_stone,Mega Absol Stone,Mega Absol Stone,mega_stones,Used in current Champions set data: Mega Absol Stone.,,Used in current Champions set data: Mega Absol Stone.,,1,championslab
+mega_aerodactyl_stone,Mega Aerodactyl Stone,Mega Aerodactyl Stone,mega_stones,Used in current Champions set data: Mega Aerodactyl Stone.,,Used in current Champions set data: Mega Aerodactyl Stone.,,1,championslab
+mega_aggron_stone,Mega Aggron Stone,Mega Aggron Stone,mega_stones,Used in current Champions set data: Mega Aggron Stone.,,Used in current Champions set data: Mega Aggron Stone.,,1,championslab
+mega_alakazam_stone,Mega Alakazam Stone,Mega Alakazam Stone,mega_stones,Used in current Champions set data: Mega Alakazam Stone.,,Used in current Champions set data: Mega Alakazam Stone.,,1,championslab
+mega_altaria_stone,Mega Altaria Stone,Mega Altaria Stone,mega_stones,Used in current Champions set data: Mega Altaria Stone.,,Used in current Champions set data: Mega Altaria Stone.,,1,championslab
+mega_ampharos_stone,Mega Ampharos Stone,Mega Ampharos Stone,mega_stones,Used in current Champions set data: Mega Ampharos Stone.,,Used in current Champions set data: Mega Ampharos Stone.,,1,championslab
+mega_audino_stone,Mega Audino Stone,Mega Audino Stone,mega_stones,Used in current Champions set data: Mega Audino Stone.,,Used in current Champions set data: Mega Audino Stone.,,1,championslab
+mega_banette_stone,Mega Banette Stone,Mega Banette Stone,mega_stones,Used in current Champions set data: Mega Banette Stone.,,Used in current Champions set data: Mega Banette Stone.,,1,championslab
+mega_beedrill_stone,Mega Beedrill Stone,Mega Beedrill Stone,mega_stones,Used in current Champions set data: Mega Beedrill Stone.,,Used in current Champions set data: Mega Beedrill Stone.,,1,championslab
+mega_blastoise_stone,Mega Blastoise Stone,Mega Blastoise Stone,mega_stones,Used in current Champions set data: Mega Blastoise Stone.,,Used in current Champions set data: Mega Blastoise Stone.,,1,championslab
+mega_camerupt_stone,Mega Camerupt Stone,Mega Camerupt Stone,mega_stones,Used in current Champions set data: Mega Camerupt Stone.,,Used in current Champions set data: Mega Camerupt Stone.,,1,championslab
+mega_chandelure_stone,Mega Chandelure Stone,Mega Chandelure Stone,mega_stones,Used in current Champions set data: Mega Chandelure Stone.,,Used in current Champions set data: Mega Chandelure Stone.,,1,championslab
+mega_charizard_x_stone,Mega Charizard X Stone,Mega Charizard X Stone,mega_stones,Used in current Champions set data: Mega Charizard X Stone.,,Used in current Champions set data: Mega Charizard X Stone.,,1,championslab
+mega_charizard_y_stone,Mega Charizard Y Stone,Mega Charizard Y Stone,mega_stones,Used in current Champions set data: Mega Charizard Y Stone.,,Used in current Champions set data: Mega Charizard Y Stone.,,1,championslab
+mega_chesnaught_stone,Mega Chesnaught Stone,Mega Chesnaught Stone,mega_stones,Used in current Champions set data: Mega Chesnaught Stone.,,Used in current Champions set data: Mega Chesnaught Stone.,,1,championslab
+mega_chimecho_stone,Mega Chimecho Stone,Mega Chimecho Stone,mega_stones,Used in current Champions set data: Mega Chimecho Stone.,,Used in current Champions set data: Mega Chimecho Stone.,,1,championslab
+mega_clefable_stone,Mega Clefable Stone,Mega Clefable Stone,mega_stones,Used in current Champions set data: Mega Clefable Stone.,,Used in current Champions set data: Mega Clefable Stone.,,1,championslab
+mega_crabominable_stone,Mega Crabominable Stone,Mega Crabominable Stone,mega_stones,Used in current Champions set data: Mega Crabominable Stone.,,Used in current Champions set data: Mega Crabominable Stone.,,1,championslab
+mega_delphox_stone,Mega Delphox Stone,Mega Delphox Stone,mega_stones,Used in current Champions set data: Mega Delphox Stone.,,Used in current Champions set data: Mega Delphox Stone.,,1,championslab
+mega_dragonite_stone,Mega Dragonite Stone,Mega Dragonite Stone,mega_stones,Used in current Champions set data: Mega Dragonite Stone.,,Used in current Champions set data: Mega Dragonite Stone.,,1,championslab
+mega_drampa_stone,Mega Drampa Stone,Mega Drampa Stone,mega_stones,Used in current Champions set data: Mega Drampa Stone.,,Used in current Champions set data: Mega Drampa Stone.,,1,championslab
+mega_emboar_stone,Mega Emboar Stone,Mega Emboar Stone,mega_stones,Used in current Champions set data: Mega Emboar Stone.,,Used in current Champions set data: Mega Emboar Stone.,,1,championslab
+mega_excadrill_stone,Mega Excadrill Stone,Mega Excadrill Stone,mega_stones,Used in current Champions set data: Mega Excadrill Stone.,,Used in current Champions set data: Mega Excadrill Stone.,,1,championslab
+mega_feraligatr_stone,Mega Feraligatr Stone,Mega Feraligatr Stone,mega_stones,Used in current Champions set data: Mega Feraligatr Stone.,,Used in current Champions set data: Mega Feraligatr Stone.,,1,championslab
+mega_floette_stone,Mega Floette Stone,Mega Floette Stone,mega_stones,Used in current Champions set data: Mega Floette Stone.,,Used in current Champions set data: Mega Floette Stone.,,1,championslab
+mega_froslass_stone,Mega Froslass Stone,Mega Froslass Stone,mega_stones,Used in current Champions set data: Mega Froslass Stone.,,Used in current Champions set data: Mega Froslass Stone.,,1,championslab
+mega_gallade_stone,Mega Gallade Stone,Mega Gallade Stone,mega_stones,Used in current Champions set data: Mega Gallade Stone.,,Used in current Champions set data: Mega Gallade Stone.,,1,championslab
+mega_garchomp_stone,Mega Garchomp Stone,Mega Garchomp Stone,mega_stones,Used in current Champions set data: Mega Garchomp Stone.,,Used in current Champions set data: Mega Garchomp Stone.,,1,championslab
+mega_gardevoir_stone,Mega Gardevoir Stone,Mega Gardevoir Stone,mega_stones,Used in current Champions set data: Mega Gardevoir Stone.,,Used in current Champions set data: Mega Gardevoir Stone.,,1,championslab
+mega_gengar_stone,Mega Gengar Stone,Mega Gengar Stone,mega_stones,Used in current Champions set data: Mega Gengar Stone.,,Used in current Champions set data: Mega Gengar Stone.,,1,championslab
+mega_glalie_stone,Mega Glalie Stone,Mega Glalie Stone,mega_stones,Used in current Champions set data: Mega Glalie Stone.,,Used in current Champions set data: Mega Glalie Stone.,,1,championslab
+mega_glimmora_stone,Mega Glimmora Stone,Mega Glimmora Stone,mega_stones,Used in current Champions set data: Mega Glimmora Stone.,,Used in current Champions set data: Mega Glimmora Stone.,,1,championslab
+mega_golurk_stone,Mega Golurk Stone,Mega Golurk Stone,mega_stones,Used in current Champions set data: Mega Golurk Stone.,,Used in current Champions set data: Mega Golurk Stone.,,1,championslab
+mega_greninja_stone,Mega Greninja Stone,Mega Greninja Stone,mega_stones,Used in current Champions set data: Mega Greninja Stone.,,Used in current Champions set data: Mega Greninja Stone.,,1,championslab
+mega_gyarados_stone,Mega Gyarados Stone,Mega Gyarados Stone,mega_stones,Used in current Champions set data: Mega Gyarados Stone.,,Used in current Champions set data: Mega Gyarados Stone.,,1,championslab
+mega_hawlucha_stone,Mega Hawlucha Stone,Mega Hawlucha Stone,mega_stones,Used in current Champions set data: Mega Hawlucha Stone.,,Used in current Champions set data: Mega Hawlucha Stone.,,1,championslab
+mega_heracross_stone,Mega Heracross Stone,Mega Heracross Stone,mega_stones,Used in current Champions set data: Mega Heracross Stone.,,Used in current Champions set data: Mega Heracross Stone.,,1,championslab
+mega_houndoom_stone,Mega Houndoom Stone,Mega Houndoom Stone,mega_stones,Used in current Champions set data: Mega Houndoom Stone.,,Used in current Champions set data: Mega Houndoom Stone.,,1,championslab
+mega_kangaskhan_stone,Mega Kangaskhan Stone,Mega Kangaskhan Stone,mega_stones,Used in current Champions set data: Mega Kangaskhan Stone.,,Used in current Champions set data: Mega Kangaskhan Stone.,,1,championslab
+mega_lopunny_stone,Mega Lopunny Stone,Mega Lopunny Stone,mega_stones,Used in current Champions set data: Mega Lopunny Stone.,,Used in current Champions set data: Mega Lopunny Stone.,,1,championslab
+mega_lucario_stone,Mega Lucario Stone,Mega Lucario Stone,mega_stones,Used in current Champions set data: Mega Lucario Stone.,,Used in current Champions set data: Mega Lucario Stone.,,1,championslab
+mega_manectric_stone,Mega Manectric Stone,Mega Manectric Stone,mega_stones,Used in current Champions set data: Mega Manectric Stone.,,Used in current Champions set data: Mega Manectric Stone.,,1,championslab
+mega_medicham_stone,Mega Medicham Stone,Mega Medicham Stone,mega_stones,Used in current Champions set data: Mega Medicham Stone.,,Used in current Champions set data: Mega Medicham Stone.,,1,championslab
+mega_meganium_stone,Mega Meganium Stone,Mega Meganium Stone,mega_stones,Used in current Champions set data: Mega Meganium Stone.,,Used in current Champions set data: Mega Meganium Stone.,,1,championslab
+mega_meowstic_stone,Mega Meowstic Stone,Mega Meowstic Stone,mega_stones,Used in current Champions set data: Mega Meowstic Stone.,,Used in current Champions set data: Mega Meowstic Stone.,,1,championslab
+mega_pidgeot_stone,Mega Pidgeot Stone,Mega Pidgeot Stone,mega_stones,Used in current Champions set data: Mega Pidgeot Stone.,,Used in current Champions set data: Mega Pidgeot Stone.,,1,championslab
+mega_pinsir_stone,Mega Pinsir Stone,Mega Pinsir Stone,mega_stones,Used in current Champions set data: Mega Pinsir Stone.,,Used in current Champions set data: Mega Pinsir Stone.,,1,championslab
+mega_sableye_stone,Mega Sableye Stone,Mega Sableye Stone,mega_stones,Used in current Champions set data: Mega Sableye Stone.,,Used in current Champions set data: Mega Sableye Stone.,,1,championslab
+mega_scizor_stone,Mega Scizor Stone,Mega Scizor Stone,mega_stones,Used in current Champions set data: Mega Scizor Stone.,,Used in current Champions set data: Mega Scizor Stone.,,1,championslab
+mega_scovillain_stone,Mega Scovillain Stone,Mega Scovillain Stone,mega_stones,Used in current Champions set data: Mega Scovillain Stone.,,Used in current Champions set data: Mega Scovillain Stone.,,1,championslab
+mega_sharpedo_stone,Mega Sharpedo Stone,Mega Sharpedo Stone,mega_stones,Used in current Champions set data: Mega Sharpedo Stone.,,Used in current Champions set data: Mega Sharpedo Stone.,,1,championslab
+mega_skarmory_stone,Mega Skarmory Stone,Mega Skarmory Stone,mega_stones,Used in current Champions set data: Mega Skarmory Stone.,,Used in current Champions set data: Mega Skarmory Stone.,,1,championslab
+mega_slowbro_stone,Mega Slowbro Stone,Mega Slowbro Stone,mega_stones,Used in current Champions set data: Mega Slowbro Stone.,,Used in current Champions set data: Mega Slowbro Stone.,,1,championslab
+mega_starmie_stone,Mega Starmie Stone,Mega Starmie Stone,mega_stones,Used in current Champions set data: Mega Starmie Stone.,,Used in current Champions set data: Mega Starmie Stone.,,1,championslab
+mega_steelix_stone,Mega Steelix Stone,Mega Steelix Stone,mega_stones,Used in current Champions set data: Mega Steelix Stone.,,Used in current Champions set data: Mega Steelix Stone.,,1,championslab
+mega_tyranitar_stone,Mega Tyranitar Stone,Mega Tyranitar Stone,mega_stones,Used in current Champions set data: Mega Tyranitar Stone.,,Used in current Champions set data: Mega Tyranitar Stone.,,1,championslab
+mega_venusaur_stone,Mega Venusaur Stone,Mega Venusaur Stone,mega_stones,Used in current Champions set data: Mega Venusaur Stone.,,Used in current Champions set data: Mega Venusaur Stone.,,1,championslab
+mega_victreebel_stone,Mega Victreebel Stone,Mega Victreebel Stone,mega_stones,Used in current Champions set data: Mega Victreebel Stone.,,Used in current Champions set data: Mega Victreebel Stone.,,1,championslab
+meganiumite,Meganiumite,Meganiumite,mega_stones,Used in current Champions set data: Meganiumite.,,Used in current Champions set data: Meganiumite.,,1,championslab
+mental_herb,Mental Herb,Hierba Mental,held_items,"Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",,"Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",,0,pokeapi
+meowsticite,Meowsticite,Meowsticite,mega_stones,Used in current Champions set data: Meowsticite.,,Used in current Champions set data: Meowsticite.,,1,championslab
+mystic_water,Mystic Water,Agua Mística,type_enhancement,Held: Water-Type moves from holder do 20% more damage.,,Held: Water-Type moves from holder do 20% more damage.,,0,pokeapi
+never_melt_ice,Never-Melt Ice,Antiderretir,type_enhancement,Held: Ice-Type moves from holder do 20% more damage.,,Held: Ice-Type moves from holder do 20% more damage.,,0,pokeapi
+occa_berry,Occa Berry,Baya Caoca,type_protection,Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.,,Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.,,0,pokeapi
+pidgeotite,Pidgeotite,Pidgeotita,mega_stones,Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.,,Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.,,0,pokeapi
+pinsirite,Pinsirite,Pinsirita,mega_stones,Held: Allows Pinsir to Mega Evolve into Mega Pinsir.,,Held: Allows Pinsir to Mega Evolve into Mega Pinsir.,,0,pokeapi
+power_herb,Power Herb,Hierba Única,held_items,Held: Both turns of a two-turn charge move happen at once. Consumed upon use.,,Held: Both turns of a two-turn charge move happen at once. Consumed upon use.,,0,pokeapi
+psychic_seed,Psychic Seed,Semilla Psique,held_items,Held: Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage.,,Held: Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage.,,0,pokeapi
+raichunite_x,Raichunite X,Raichunite X,mega_stones,Used in current Champions set data: Raichunite X.,,Used in current Champions set data: Raichunite X.,,1,championslab
+raichunite_y,Raichunite Y,Raichunite Y,mega_stones,Used in current Champions set data: Raichunite Y.,,Used in current Champions set data: Raichunite Y.,,1,championslab
+rocky_helmet,Rocky Helmet,Casco Dentado,held_items,"Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",,"Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",,0,pokeapi
+sablenite,Sablenite,Sableynita,mega_stones,Held: Allows Sableye to Mega Evolve into Mega Sableye.,,Held: Allows Sableye to Mega Evolve into Mega Sableye.,,0,pokeapi
+safety_goggles,Safety Goggles,Gafa Protectora,held_items,Held: Prevents damage from powder moves and the damage from Hail and Sandstorm.,,Held: Prevents damage from powder moves and the damage from Hail and Sandstorm.,,0,pokeapi
+scizorite,Scizorite,Scizorita,mega_stones,Held: Allows Scizor to Mega Evolve into Mega Scizor.,,Held: Allows Scizor to Mega Evolve into Mega Scizor.,,0,pokeapi
+scovillainite,Scovillainite,Scovillainite,mega_stones,Used in current Champions set data: Scovillainite.,,Used in current Champions set data: Scovillainite.,,1,championslab
+sharp_beak,Sharp Beak,Pico Afilado,type_enhancement,Held: Flying-Type moves from holder do 20% more damage.,,Held: Flying-Type moves from holder do 20% more damage.,,0,pokeapi
+sharpedonite,Sharpedonite,Sharpedonita,mega_stones,Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.,,Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.,,0,pokeapi
+shuca_berry,Shuca Berry,Baya Acardo,type_protection,Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.,,Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.,,0,pokeapi
+silk_scarf,Silk Scarf,Pañuelo de Seda,type_enhancement,Held: Normal-Type moves from holder do 20% more damage.,,Held: Normal-Type moves from holder do 20% more damage.,,0,pokeapi
+sitrus_berry,Sitrus Berry,Baya Zidra,medicine,Held: Consumed at 1/2 max HP to recover 1/4 max HP.,,Held: Consumed at 1/2 max HP to recover 1/4 max HP.,,0,pokeapi
+skarmoryite,Skarmoryite,Skarmoryite,mega_stones,Used in current Champions set data: Skarmoryite.,,Used in current Champions set data: Skarmoryite.,,1,championslab
+slowbronite,Slowbronite,Slowbronita,mega_stones,Held: Allows Slowbro to Mega Evolve into Mega Slowbro.,,Held: Allows Slowbro to Mega Evolve into Mega Slowbro.,,0,pokeapi
+starmieite,Starmieite,Starmieite,mega_stones,Used in current Champions set data: Starmieite.,,Used in current Champions set data: Starmieite.,,1,championslab
+steelixite,Steelixite,Steelixita,mega_stones,Held: Allows Steelix to Mega Evolve into Mega Steelix.,,Held: Allows Steelix to Mega Evolve into Mega Steelix.,,0,pokeapi
+throat_spray,Throat Spray,Espray Bucal,held_items,,,,,0,pokeapi
+toxic_orb,Toxic Orb,Toxisfera,bad_held_items,Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.,,Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.,,0,pokeapi
+tyranitarite,Tyranitarite,Tyranitarita,mega_stones,Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.,,Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.,,0,pokeapi
+venusaurite,Venusaurite,Venusaurita,mega_stones,Held: Allows Venusaur to Mega Evolve into Mega Venusaur.,,Held: Allows Venusaur to Mega Evolve into Mega Venusaur.,,0,pokeapi
+victreebelite,Victreebelite,Victreebelite,mega_stones,Used in current Champions set data: Victreebelite.,,Used in current Champions set data: Victreebelite.,,1,championslab
+weakness_policy,Weakness Policy,Seguro Debilidad,held_items,"Held: When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages.",,"Held: When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages.",,0,pokeapi
+white_herb,White Herb,Hierba Blanca,held_items,Held: Resets all lowered stats to normal at end of turn. Consumed after use.,,Held: Resets all lowered stats to normal at end of turn. Consumed after use.,,0,pokeapi
+wide_lens,Wide Lens,Lupa,held_items,Held: Provides a 1/10 (10%) boost in accuracy to the holder.,,Held: Provides a 1/10 (10%) boost in accuracy to the holder.,,0,pokeapi

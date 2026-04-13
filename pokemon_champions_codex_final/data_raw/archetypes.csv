@@ -1,1 +1,10 @@
 archetype_key,name_en,name_es,description_en,description_es
+sun,Sun,Sol,Structures built around sun.,Estructuras basadas en sol.
+rain,Rain,Lluvia,Structures built around rain.,Estructuras basadas en lluvia.
+sand,Sand,Arena,Structures built around sand.,Estructuras basadas en arena.
+trick_room,Trick Room,Espacio Raro,Structures built around reverse speed control.,Estructuras basadas en control inverso de velocidad.
+tailwind,Tailwind,Viento Afn,Structures built around Tailwind speed control.,Estructuras basadas en Viento Afn.
+hyper_offense,Hyper Offense,Hiperofensiva,High-pressure offensive structures.,Estructuras ofensivas de alta presin.
+balance,Balance,Balance,Flexible structures with both defensive and offensive pieces.,Estructuras flexibles con piezas ofensivas y defensivas.
+commander,Commander,Commander,Structures built around Dondozo + Tatsugiri style commander interactions.,Estructuras basadas en sinergias tipo Commander.
+offense,Offense,Ofensiva,Proactive offensive structures.,Estructuras ofensivas proactivas.

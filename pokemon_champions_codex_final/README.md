@@ -32,14 +32,17 @@ Este paquete incluye:
 - scripts esqueleto para construir la BD correctamente
 
 ## Flujo recomendado en Codex
-1. Revisar `docs/schema.md`
-2. Revisar `docs/source_policy.md`
-3. Revisar `docs/roadmap.md`
-4. Completar y ajustar los CSV de `data_raw/`
-5. Implementar `scripts/build_db.py`
-6. Implementar `scripts/validate_data.py`
-7. Generar la SQLite final
-8. Publicarlo en GitHub y continuar iterando
+1. Revisar `docs/specifications.md`
+2. Revisar `docs/validation_report.md`
+3. Revisar `docs/automation_review.md`
+4. Revisar `docs/schema.md`
+5. Ejecutar `python scripts/sync_current_champions.py`
+6. Ejecutar `python scripts/derive_competitive_layer.py`
+7. Ejecutar `python scripts/validate_data.py`
+8. Ejecutar `python scripts/build_db.py`
+9. Ejecutar `python scripts/export_views.py`
+10. Revisar `docs/source_policy.md`
+11. Revisar `docs/roadmap.md`
 
 ## Vistas objetivo
 La BD final debería incluir, como mínimo:
@@ -60,7 +63,9 @@ Siempre que sea posible:
 
 ## Siguiente paso recomendado
 En Codex:
-- crear el esquema completo
-- cargar la temporada actual
-- poblar roster, tiers, estadísticas, habilidades y movimientos clave
-- construir la capa competitiva encima
+- usar `docs/specifications.md` como contrato funcional
+- usar `docs/validation_report.md` como lista de gaps a corregir
+- usar `docs/automation_review.md` para distinguir scripts vigentes de scripts legacy
+- refrescar el roster actual con `scripts/sync_current_champions.py`
+- derivar la capa competitiva actual con `scripts/derive_competitive_layer.py`
+- validar, reconstruir y exportar la SQLite de forma secuencial

@@ -1,0 +1,63 @@
+pokemon_id,species_key,form_key,name_en,form_name_en,base_speed,trick_room_rating,roles
+36,clefable,,Clefable,,60,medium,"Bulky Support, Speed Control"
+68,machamp,,Machamp,,55,high,"Bulky Support, Wallbreaker"
+80,slowbro,,Slowbro,,30,high,"Bulky Support, Pivot, Speed Control, Trick Room Setter"
+132,ditto,,Ditto,,48,high,Bulky Support
+143,snorlax,,Snorlax,,30,high,"Bulky Support, Speed Control"
+168,ariados,,Ariados,,40,high,"Bulky Support, Speed Control"
+181,ampharos,,Ampharos,,55,high,"Bulky Support, Pivot, Speed Control"
+184,azumarill,,Azumarill,,50,high,"Bulky Support, Speed Control"
+199,slowking,,Slowking,,30,high,"Bulky Support, Pivot, Speed Control, Trick Room Setter"
+205,forretress,,Forretress,,40,high,"Bulky Support, Pivot, Speed Control"
+208,steelix,,Steelix,,30,high,Bulky Support
+302,sableye,,Sableye,,50,high,"Bulky Support, Pivot, Speed Control"
+306,aggron,,Aggron,,50,high,"Bulky Support, Speed Control"
+323,camerupt,,Camerupt,,40,high,Bulky Support
+324,torkoal,,Torkoal,,20,high,"Bulky Support, Weather Setter"
+389,torterra,,Torterra,,56,medium,Bulky Support
+395,empoleon,,Empoleon,,60,medium,"Bulky Support, Speed Control"
+409,rampardos,,Rampardos,,58,medium,Wallbreaker
+411,bastiodon,,Bastiodon,,30,high,Bulky Support
+442,spiritomb,,Spiritomb,,35,high,"Bulky Support, Speed Control, Trick Room Setter"
+450,hippowdon,,Hippowdon,,47,high,Bulky Support
+460,abomasnow,,Abomasnow,,60,medium,"Bulky Support, Speed Control"
+464,rhyperior,,Rhyperior,,40,high,"Bulky Support, Speed Control, Wallbreaker"
+531,audino,,Audino,,50,high,"Bulky Support, Pivot, Speed Control, Trick Room Setter"
+534,conkeldurr,,Conkeldurr,,45,high,"Bulky Support, Wallbreaker"
+563,cofagrigus,,Cofagrigus,,30,high,"Bulky Support, Speed Control, Trick Room Setter"
+579,reuniclus,,Reuniclus,,30,high,"Bulky Support, Pivot, Speed Control, Trick Room Setter, Wallbreaker"
+614,beartic,,Beartic,,50,high,"Speed Control, Wallbreaker"
+618,stunfisk,,Stunfisk,,32,high,"Bulky Support, Speed Control"
+623,golurk,,Golurk,,55,high,"Bulky Support, Speed Control, Wallbreaker"
+670,floette,,Floette,,52,high,Bulky Support
+675,pangoro,,Pangoro,,58,medium,"Bulky Support, Pivot, Wallbreaker"
+681,aegislash,,Aegislash,,60,medium,Bulky Support
+683,aromatisse,,Aromatisse,,29,high,"Bulky Support, Speed Control, Trick Room Setter"
+693,clawitzer,,Clawitzer,,59,medium,"Bulky Support, Pivot, Speed Control, Wallbreaker"
+699,aurorus,,Aurorus,,58,medium,"Bulky Support, Speed Control"
+700,sylveon,,Sylveon,,60,medium,Bulky Support
+709,trevenant,,Trevenant,,56,medium,"Bulky Support, Speed Control, Trick Room Setter"
+713,avalugg,,Avalugg,,28,high,"Bulky Support, Speed Control"
+727,incineroar,,Incineroar,,60,medium,"Bulky Support, Pivot"
+730,primarina,,Primarina,,60,medium,"Bulky Support, Speed Control, Wallbreaker"
+733,toucannon,,Toucannon,,60,medium,"Bulky Support, Pivot, Speed Control, Wallbreaker"
+740,crabominable,,Crabominable,,43,high,"Bulky Support, Speed Control, Wallbreaker"
+748,toxapex,,Toxapex,,35,high,"Bulky Support, Pivot, Speed Control"
+750,mudsdale,,Mudsdale,,35,high,"Bulky Support, Wallbreaker"
+752,araquanid,,Araquanid,,42,high,"Bulky Support, Speed Control"
+765,oranguru,,Oranguru,,60,medium,"Bulky Support, Speed Control, Trick Room Setter"
+780,drampa,,Drampa,,36,high,"Bulky Support, Speed Control, Wallbreaker"
+842,appletun,,Appletun,,30,high,Bulky Support
+858,hatterene,,Hatterene,,29,high,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker"
+867,runerigus,,Runerigus,,30,high,"Bulky Support, Speed Control, Trick Room Setter"
+934,garganacl,,Garganacl,,35,high,Bulky Support
+939,bellibolt,,Bellibolt,,45,high,"Bulky Support, Pivot, Speed Control"
+981,farigiraf,,Farigiraf,,60,medium,"Bulky Support, Speed Control, Trick Room Setter"
+983,kingambit,,Kingambit,,50,high,"Bulky Support, Speed Control, Wallbreaker"
+1019,hydrapple,,Hydrapple,,44,high,"Bulky Support, Pivot, Wallbreaker"
+10165,slowbro,galarian-slowbro,Slowbro,Galarian Slowbro,30,high,"Bulky Support, Pivot, Speed Control, Trick Room Setter"
+10172,slowking,galarian-slowking,Slowking,Galarian Slowking,30,high,"Bulky Support, Pivot, Speed Control, Trick Room Setter"
+10180,stunfisk,galarian-stunfisk,Stunfisk,Galarian Stunfisk,32,high,"Bulky Support, Speed Control"
+10242,goodra,hisuian-goodra,Goodra,Hisuian Goodra,60,medium,"Bulky Support, Wallbreaker"
+10244,decidueye,hisuian-decidueye,Decidueye,Hisuian Decidueye,60,medium,"Bulky Support, Pivot, Speed Control"
+10245,avalugg,hisuian-avalugg,Avalugg,Hisuian Avalugg,38,high,"Bulky Support, Speed Control, Wallbreaker"

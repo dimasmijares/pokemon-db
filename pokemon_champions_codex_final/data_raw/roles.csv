@@ -1,1 +1,7 @@
 role_key,name_en,name_es,description_en,description_es
+speed_control,Speed Control,Control de Velocidad,Provides proactive or reverse speed control.,Aporta control de velocidad directo o inverso.
+pivot,Pivot,Pivot,Creates positioning or tempo through switching and utility.,Genera posicin o tempo mediante cambios y utilidad.
+wallbreaker,Wallbreaker,Muroperforador,Breaks through bulky cores using strong offensive pressure.,Rompe ncleos defensivos con presin ofensiva alta.
+bulky_support,Bulky Support,Soporte Resistente,Supports allies while maintaining defensive presence.,Apoya al equipo manteniendo presencia defensiva.
+weather_setter,Weather Setter,Setter de Clima,Sets weather that defines the game plan.,Activa el clima que define el plan de partida.
+trick_room_setter,Trick Room Setter,Setter de Espacio Raro,Can reliably set Trick Room.,Puede activar Espacio Raro de forma fiable.

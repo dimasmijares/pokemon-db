@@ -7,7 +7,14 @@ DB = BASE / "data_build" / "pokemon_champions.sqlite"
 EXPORTS = BASE / "data_build" / "exports"
 
 QUERIES = {
-    "pokemon_summary.csv": "SELECT * FROM pokemon",
+    "pokemon_summary.csv": "SELECT * FROM v_pokemon_summary",
+    "speed_table.csv": "SELECT * FROM v_speed_table",
+    "move_users.csv": "SELECT * FROM v_move_users",
+    "team_builder_pool.csv": "SELECT * FROM v_team_builder_pool",
+    "rain_candidates.csv": "SELECT * FROM v_rain_candidates",
+    "sun_candidates.csv": "SELECT * FROM v_sun_candidates",
+    "trick_room_candidates.csv": "SELECT * FROM v_trick_room_candidates",
+    "charizard_answers.csv": "SELECT * FROM v_charizard_answers",
     "types.csv": "SELECT * FROM types",
     "sources.csv": "SELECT * FROM sources",
 }

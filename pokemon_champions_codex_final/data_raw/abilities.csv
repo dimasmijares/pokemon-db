@@ -1,1 +1,191 @@
 ability_key,name_en,name_es,description_en,description_es,is_signature,source_key
+adaptability,Adaptability,Adaptability,Powers up moves of the same type as the Pokémon.,,0,championslab
+aerilate,Aerilate,Aerilate,Normal-type moves become Flying-type moves. The power of those moves is boosted a little.,,0,championslab
+aftermath,Aftermath,Aftermath,Damages the foe landing the finishing hit.,,0,championslab
+analytic,Analytic,Analytic,Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn.,,0,championslab
+anger_point,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,,0,championslab
+anticipation,Anticipation,Anticipation,"Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",,0,championslab
+armor_tail,Armor Tail,Armor Tail,Prevents priority moves against this Pokémon and allies.,,0,championslab
+aroma_veil,Aroma Veil,Aroma Veil,Protects allies from attacks that limit their move choices.,,0,championslab
+berserk,Berserk,Berserk,Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to become half or less.,,0,championslab
+big_pecks,Big Pecks,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,,0,championslab
+blaze,Blaze,Blaze,Powers up Fire-type moves when HP is low.,,0,championslab
+bulletproof,Bulletproof,Bulletproof,Protects the Pokémon from some ball and bomb moves.,,0,championslab
+cheek_pouch,Cheek Pouch,Cheek Pouch,"Restores HP upon eating a Berry, in addition to the Berry's effect.",,0,championslab
+chlorophyll,Chlorophyll,Chlorophyll,Doubles Speed during strong sunlight.,,0,championslab
+clear_body,Clear Body,Clear Body,Prevents stat reduction.,,0,championslab
+cloud_nine,Cloud Nine,Cloud Nine,"Negates all effects of weather, but does not prevent the weather itself.",,0,championslab
+competitive,Competitive,Competitive,Boosts the Sp. Atk stat sharply when a stat is lowered.,,0,championslab
+compound_eyes,Compound Eyes,Compound Eyes,Raises accuracy.,,0,championslab
+contrary,Contrary,Contrary,Inverts stat changes.,,0,championslab
+corrosion,Corrosion,Corrosion,This Pokémon can inflict poison on Poison and Steel Pokémon.,,0,championslab
+cud_chew,Cud Chew,Cud Chew,Eats a consumed berry again at end of next turn.,,0,championslab
+curious_medicine,Curious Medicine,Curious Medicine,"When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.",,0,championslab
+cursed_body,Cursed Body,Cursed Body,Has a 30% chance of Disabling any move that hits the Pokémon.,,0,championslab
+cute_charm,Cute Charm,Cute Charm,Has a 30% chance of infatuating attacking Pokémon on contact.,,0,championslab
+damp,Damp,Damp,Prevents self-destruction.,,0,championslab
+defiant,Defiant,Defiant,Raises Attack two stages upon having any stat lowered.,,0,championslab
+disguise,Disguise,Disguise,Prevents the first instance of battle damage.,,0,championslab
+dragonize,Dragonize,Dragonize,The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%.,,0,championslab
+drizzle,Drizzle,Drizzle,Summons rain that lasts indefinitely upon entering battle.,,0,championslab
+drought,Drought,Drought,Turns the sunlight harsh when the Pokémon enters a battle.,,0,championslab
+dry_skin,Dry Skin,Dry Skin,Reduces HP if it is hot. Water restores HP.,,0,championslab
+early_bird,Early Bird,Early Bird,Makes sleep pass twice as quickly.,,0,championslab
+earth_eater,Earth Eater,Earth Eater,"If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage.",,0,championslab
+electromorphosis,Electromorphosis,Electromorphosis,"The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.",,0,championslab
+fairy_aura,Fairy Aura,Fairy Aura,Powers up each Pokémon's Fairy-type moves.,,0,championslab
+filter,Filter,Filter,Reduces the power of supereffective attacks that hit the Pokémon.,,0,championslab
+flame_body,Flame Body,Flame Body,Has a 30% chance of burning attacking Pokémon on contact.,,0,championslab
+flash_fire,Flash Fire,Flash Fire,Powers up if hit by fire.,,0,championslab
+flower_veil,Flower Veil,Flower Veil,Prevents lowering of ally Grass-type Pokémon’s stats.,,0,championslab
+forecast,Forecast,Forecast,Changes the Pokémon's type and appearance based on the weather in battle.,,0,championslab
+friend_guard,Friend Guard,Friend Guard,Decreases all direct damage taken by friendly Pokémon to 0.75×.,,0,championslab
+frisk,Frisk,Frisk,The Pokémon can check the foe’s held item.,,0,championslab
+fur_coat,Fur Coat,Fur Coat,Halves damage from physical moves.,,0,championslab
+gale_wings,Gale Wings,Gale Wings,Raises flying moves' priority by one stage.,,0,championslab
+gluttony,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,,0,championslab
+gooey,Gooey,Gooey,Contact with the Pokémon lowers the attacker's Speed stat.,,0,championslab
+guts,Guts,Guts,Ups ATTACK if suffering.,,0,championslab
+harvest,Harvest,Harvest,May create another Berry after one is used. 100% chance in sunshine.,,0,championslab
+healer,Healer,Healer,Sometimes cures the status conditions of the Pokémon's allies.,,0,championslab
+heatproof,Heatproof,Heatproof,Halves damage from fire moves and burns.,,0,championslab
+heavy_metal,Heavy Metal,Heavy Metal,Doubles the Pokémon's weight.,,0,championslab
+hospitality,Hospitality,Hospitality,"When a Pokémon with Hospitality enters a battle, it restores HP for an ally by 25%.",,0,championslab
+huge_power,Huge Power,Huge Power,Doubles the Pokémon's Attack stat.,,0,championslab
+hunger_switch,Hunger Switch,Hunger Switch,"The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.",,0,championslab
+hustle,Hustle,Hustle,Trades accuracy for power.,,0,championslab
+hydration,Hydration,Hydration,Heals status conditions when it is raining.,,0,championslab
+hyper_cutter,Hyper Cutter,Hyper Cutter,Prevents Attack from being lowered by other Pokémon.,,0,championslab
+ice_body,Ice Body,Ice Body,The Pokémon regains HP in a hailstorm.,,0,championslab
+illuminate,Illuminate,Illuminate,"By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",,0,championslab
+illusion,Illusion,Illusion,Takes on the appearance of the last party member.,,0,championslab
+immunity,Immunity,Immunity,Prevents poison.,,0,championslab
+imposter,Imposter,Imposter,Transforms into the foe on entry.,,0,championslab
+infiltrator,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",,0,championslab
+innards_out,Innards Out,Innards Out,Damages the attacker landing the finishing hit by the amount equal to its last HP.,,0,championslab
+inner_focus,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",,0,championslab
+insomnia,Insomnia,Insomnia,Prevents sleep.,,0,championslab
+intimidate,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",,0,championslab
+iron_fist,Iron Fist,Iron Fist,Powers up punching moves.,,0,championslab
+justified,Justified,Justified,Raises Attack when hit by Dark-type moves.,,0,championslab
+keen_eye,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,,0,championslab
+klutz,Klutz,Klutz,Can't use held items.,,0,championslab
+leaf_guard,Leaf Guard,Leaf Guard,Protects against major status ailments during strong sunlight.,,0,championslab
+levitate,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",,0,championslab
+light_metal,Light Metal,Light Metal,Halves the Pokémon's weight.,,0,championslab
+lightning_rod,Lightning Rod,Lightning Rod,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",,0,championslab
+limber,Limber,Limber,Prevents paralysis.,,0,championslab
+liquid_voice,Liquid Voice,Liquid Voice,All sound-based moves become Water-type moves.,,0,championslab
+long_reach,Long Reach,Long Reach,Moves don't make contact.,,0,championslab
+magic_bounce,Magic Bounce,Magic Bounce,Reflects most non-damaging moves back at their user.,,0,championslab
+magic_guard,Magic Guard,Magic Guard,The Pokémon only takes damage from attacks.,,0,championslab
+magician,Magician,Magician,The Pokémon steals the held item of a Pokémon it hits with a move.,,0,championslab
+magma_armor,Magma Armor,Magma Armor,Prevents freezing.,,0,championslab
+marvel_scale,Marvel Scale,Marvel Scale,Increases Defense to 1.5× with a major status ailment.,,0,championslab
+mega_launcher,Mega Launcher,Mega Launcher,Powers up pulse moves.,,0,championslab
+mega_sol,Mega Sol,Mega Sol,"Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight.",,0,championslab
+merciless,Merciless,Merciless,This Pokémon's moves critical hit against poisoned targets.,,0,championslab
+mimicry,Mimicry,Mimicry,Changes the Pokémon’s type depending on the terrain.,,0,championslab
+minus,Minus,Minus,Powers up with PLUS.,,0,championslab
+mirror_armor,Mirror Armor,Mirror Armor,Reflects stat-lowering effects back.,,0,championslab
+mold_breaker,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,,0,championslab
+moody,Moody,Moody,Raises a random stat two stages and lowers another one stage after each turn.,,0,championslab
+motor_drive,Motor Drive,Motor Drive,"Absorbs electric moves, raising Speed one stage.",,0,championslab
+moxie,Moxie,Moxie,Boosts Attack after knocking out any Pokémon.,,0,championslab
+multiscale,Multiscale,Multiscale,Reduces damage taken when HP is full.,,0,championslab
+mummy,Mummy,Mummy,Contact with this Pokémon spreads this Ability.,,0,championslab
+natural_cure,Natural Cure,Natural Cure,All status conditions heal when the Pokémon switches out.,,0,championslab
+no_guard,No Guard,No Guard,Ensures that all moves used by and against the Pokémon land.,,0,championslab
+oblivious,Oblivious,Oblivious,Prevents attraction.,,0,championslab
+opportunist,Opportunist,Opportunist,"If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.",,0,championslab
+overcoat,Overcoat,Overcoat,Protects against damage from weather.,,0,championslab
+overgrow,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,,0,championslab
+own_tempo,Own Tempo,Own Tempo,Prevents confusion.,,0,championslab
+parental_bond,Parental Bond,Parental Bond,Parent and child each attack.,,0,championslab
+pickpocket,Pickpocket,Pickpocket,Steals attacking Pokémon's held items on contact.,,0,championslab
+pickup,Pickup,Pickup,May pick up items.,,0,championslab
+piercing_drill,Piercing Drill,Piercing Drill,"When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal.",,0,championslab
+pixilate,Pixilate,Pixilate,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.,,0,championslab
+plus,Plus,Plus,Powers up with MINUS.,,0,championslab
+poison_heal,Poison Heal,Poison Heal,Heals for 1/8 max HP after each turn when poisoned in place of damage.,,0,championslab
+poison_point,Poison Point,Poison Point,Poisons foe on contact.,,0,championslab
+poison_touch,Poison Touch,Poison Touch,Has a 30% chance of poisoning target Pokémon upon contact.,,0,championslab
+prankster,Prankster,Prankster,Gives priority to the Pokémon's status moves.,,0,championslab
+pressure,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,,0,championslab
+protean,Protean,Protean,Changes the Pokémon's type to the type of the move it's about to use.,,0,championslab
+pure_power,Pure Power,Pure Power,Doubles the Pokémon's Attack stat.,,0,championslab
+purifying_salt,Purifying Salt,Purifying Salt,Prevents status and halves Ghost damage.,,0,championslab
+queenly_majesty,Queenly Majesty,Queenly Majesty,Opposing Pokémon cannot use priority attacks.,,0,championslab
+quick_draw,Quick Draw,Quick Draw,Enables the Pokémon to move first occasionally.,,0,championslab
+quick_feet,Quick Feet,Quick Feet,Boosts Speed if there is a status problem.,,0,championslab
+rain_dish,Rain Dish,Rain Dish,Heals for 1/16 max HP after each turn during rain.,,0,championslab
+receiver,Receiver,Receiver,The Pokémon copies the Ability of a defeated ally.,,0,championslab
+reckless,Reckless,Reckless,Strengthens recoil moves to 1.2× their power.,,0,championslab
+refrigerate,Refrigerate,Refrigerate,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.,,0,championslab
+regenerator,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,,0,championslab
+ripen,Ripen,Ripen,Ripens Berries and doubles their effect.,,0,championslab
+rivalry,Rivalry,Rivalry,Raises Attack if the foe is of the same gender.,,0,championslab
+rock_head,Rock Head,Rock Head,Protects the Pokémon from recoil damage.,,0,championslab
+rough_skin,Rough Skin,Rough Skin,Damages attacking Pokémon for 1/8 their max HP on contact.,,0,championslab
+sand_force,Sand Force,Sand Force,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",,0,championslab
+sand_rush,Sand Rush,Sand Rush,Doubles Speed during a sandstorm.  Protects against sandstorm damage.,,0,championslab
+sand_spit,Sand Spit,Sand Spit,The Pokémon creates a sandstorm when it’s hit by an attack.,,0,championslab
+sand_stream,Sand Stream,Sand Stream,The Pokémon summons a sandstorm when it enters a battle.,,0,championslab
+sand_veil,Sand Veil,Sand Veil,Ups evasion in a sandstorm.,,0,championslab
+sap_sipper,Sap Sipper,Sap Sipper,Raises Attack when hit by Grass-type moves.,,0,championslab
+scrappy,Scrappy,Scrappy,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,,0,championslab
+screen_cleaner,Screen Cleaner,Screen Cleaner,"When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.",,0,championslab
+shadow_tag,Shadow Tag,Shadow Tag,The Pokémon steps on the opposing Pokémon's shadow to prevent it from fleeing or switching out.,,0,championslab
+sharpness,Sharpness,Sharpness,Powers up slicing moves.,,0,championslab
+shed_skin,Shed Skin,Shed Skin,Heals the body by shedding.,,0,championslab
+sheer_force,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,,0,championslab
+shell_armor,Shell Armor,Shell Armor,A hard shell protects the Pokémon from critical hits.,,0,championslab
+shield_dust,Shield Dust,Shield Dust,Prevents added effects.,,0,championslab
+skill_link,Skill Link,Skill Link,Maximizes the number of times multistrike moves hit.,,0,championslab
+slush_rush,Slush Rush,Slush Rush,Boosts the Pokémon’s Speed stat in a hailstorm.,,0,championslab
+sniper,Sniper,Sniper,Powers up moves if they become critical hits.,,0,championslab
+snow_cloak,Snow Cloak,Snow Cloak,Raises evasion in a hailstorm.,,0,championslab
+snow_warning,Snow Warning,Snow Warning,The Pokémon makes it snow when it enters a battle.,,0,championslab
+solar_power,Solar Power,Solar Power,"In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but HP decreases every turn.",,0,championslab
+solid_rock,Solid Rock,Solid Rock,Decreases damage taken from super-effective moves by 1/4.,,0,championslab
+soundproof,Soundproof,Soundproof,Protects against sound-based moves.,,0,championslab
+speed_boost,Speed Boost,Speed Boost,Gradually boosts SPEED.,,0,championslab
+spicy_spray,Spicy Spray,Spicy Spray,"When the Pokémon takes damage from a move, it burns the attacker.",,0,championslab
+stall,Stall,Stall,The Pokémon moves after even slower foes.,,0,championslab
+stalwart,Stalwart,Stalwart,Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.,,0,championslab
+stamina,Stamina,Stamina,Raises this Pokémon's Defense by one stage when it takes damage from a move.,,0,championslab
+stance_change,Stance Change,Stance Change,"Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",,0,championslab
+static,Static,Static,Paralyzes on contact.,,0,championslab
+steadfast,Steadfast,Steadfast,Raises Speed one stage upon flinching.,,0,championslab
+stench,Stench,Stench,Helps repel wild POKéMON.,,0,championslab
+sticky_hold,Sticky Hold,Sticky Hold,Prevents a held item from being removed by other Pokémon.,,0,championslab
+strong_jaw,Strong Jaw,Strong Jaw,The Pokémon's strong jaw boosts the power of its biting moves.,,0,championslab
+sturdy,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",,0,championslab
+super_luck,Super Luck,Super Luck,Raises moves' critical hit rates one stage.,,0,championslab
+supersweet_syrup,Supersweet Syrup,Supersweet Syrup,"Once per battle, when a Pokémon with Supersweet Syrup enters the battle, it lowers the evasion stat of all adjacent opponents by one stage. ",,0,championslab
+supreme_overlord,Supreme Overlord,Supreme Overlord,Attack and Special Attack are boosted for each party Pokémon that has been defeated.,,0,championslab
+surge_surfer,Surge Surfer,Surge Surfer,Doubles Speed on Electric Terrain.,,0,championslab
+swarm,Swarm,Swarm,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,,0,championslab
+sweet_veil,Sweet Veil,Sweet Veil,Prevents itself and ally Pokémon from falling asleep.,,0,championslab
+swift_swim,Swift Swim,Swift Swim,Doubles Speed during rain.,,0,championslab
+symbiosis,Symbiosis,Symbiosis,Passes the bearer's held item to an ally when the ally uses up its item.,,0,championslab
+synchronize,Synchronize,Synchronize,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",,0,championslab
+tangled_feet,Tangled Feet,Tangled Feet,Raises evasion if the Pokémon is confused.,,0,championslab
+technician,Technician,Technician,Powers up weak moves so the Pokémon can deal more damage with them.,,0,championslab
+telepathy,Telepathy,Telepathy,Protects against friendly Pokémon's damaging moves.,,0,championslab
+thick_fat,Thick Fat,Thick Fat,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",,0,championslab
+torrent,Torrent,Torrent,Ups WATER moves in a pinch.,,0,championslab
+tough_claws,Tough Claws,Tough Claws,Powers up moves that make direct contact.,,0,championslab
+toxic_debris,Toxic Debris,Toxic Debris,Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.,,0,championslab
+trace,Trace,Trace,"When it enters a battle, the Pokémon copies an opposing Pokémon's Ability.",,0,championslab
+unaware,Unaware,Unaware,Ignores the opposing Pokémon's stat changes.,,0,championslab
+unburden,Unburden,Unburden,Doubles Speed upon using or losing a held item.,,0,championslab
+unnerve,Unnerve,Unnerve,Prevents foes from eating berries.,,0,championslab
+unseen_fist,Unseen Fist,Unseen Fist,"The Pokémon can deal damage with moves that make physical contact, even if the target is protected.",,0,championslab
+volt_absorb,Volt Absorb,Volt Absorb,Turns electricity into HP.,,0,championslab
+wandering_spirit,Wandering Spirit,Wandering Spirit,Exchanges ability with attacker on contact.,,0,championslab
+water_absorb,Water Absorb,Water Absorb,Restores HP if hit by a Water-type move.,,0,championslab
+water_bubble,Water Bubble,Water Bubble,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.,,0,championslab
+weak_armor,Weak Armor,Weak Armor,Physical attacks lower Defense and raise Speed.,,0,championslab
+white_smoke,White Smoke,White Smoke,Prevents stats from being lowered by other Pokémon.,,0,championslab
+zero_to_hero,Zero To Hero,Zero To Hero,Transforms into its Hero Form when switching out.,,0,championslab
