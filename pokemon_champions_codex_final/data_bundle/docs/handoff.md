@@ -1,0 +1,145 @@
+# Handoff para Agente Web
+
+## Qué archivo debes consumir primero
+
+1. `manifest.json`
+2. `docs/handoff.md`
+
+Con esos dos archivos ya deberías poder empezar a trabajar sin inspección manual larga.
+
+## Qué SQLite debes usar
+
+- Archivo principal: `db/pokemon_champions.sqlite`
+
+No uses CSV sueltos como fuente primaria en el repo web. El contrato operativo de consumo es la SQLite y, cuando convenga, los JSON de `exports/`.
+
+## Qué vistas usar en frontend
+
+### Listado principal
+
+- `v_team_builder_pool`
+
+Usa esta vista para:
+
+- listados de Pokémon legales
+- búsqueda por nombre
+- filtros por tier
+- filtros por rol o arquetipo ya derivados
+
+### Detalle de Pokémon
+
+- `v_pokemon_summary`
+
+Usa esta vista para:
+
+- ficha base
+- tipos
+- stats base
+- habilidades actuales
+- roles y arquetipos derivados
+- tier actual
+
+### Búsqueda y filtros de velocidad
+
+- `v_speed_table`
+
+Usa esta vista para:
+
+- speed tiers
+- filtros por velocidad base
+- candidatos de Espacio Raro
+
+### Búsqueda y filtros de movimientos
+
+- `v_move_users`
+
+Campos relevantes:
+
+- `move_key`
+- `name_en`
+- `move_pool_user_count`
+- `observed_set_user_count`
+- `observed_set_coverage_pct`
+- `users`
+
+Interpretación:
+
+- `move_pool_user_count`: cuántos Pokémon tienen ese movimiento en el move pool actual de Champions
+- `observed_set_user_count`: cuántos Pokémon lo llevan en sets observados
+- `observed_set_coverage_pct`: proporción observada respecto al move pool
+
+### Filtros temáticos rápidos
+
+- `v_rain_candidates`
+- `v_sun_candidates`
+- `v_trick_room_candidates`
+- `v_charizard_answers`
+
+## Qué campos son estables
+
+Trátalos como identificadores estables para integración:
+
+- `pokemon_id`
+- `species_key`
+- `form_key`
+- `move_key`
+- `ability_key`
+- `item_key`
+- `season_key`
+
+Notas:
+
+- `species_key` no es único por sí solo
+- la clave funcional de especie+forma es `species_key + form_key`
+- para detalle y joins, prioriza `pokemon_id`
+
+## Qué partes son derivadas y no debes presentar como oficiales
+
+Estas tablas no son dato oficial del juego:
+
+- `pokemon_roles`
+- `pokemon_archetypes`
+- `cores`
+- `matchups`
+
+Regla de presentación:
+
+- pueden mostrarse como análisis, sugerencia o clasificación táctica
+- no deben mostrarse como si fueran reglas oficiales, tier oficial o dato interno del juego
+
+## Qué partes sí son dato confirmado o estructural
+
+Base estructural confirmada para el estado actual del bundle:
+
+- `pokemon`
+- `stats_base`
+- `pokemon_abilities`
+- `moves`
+- `pokemon_moves`
+- `items`
+- `mega_forms`
+- `tiers`
+- `speed_profiles`
+- `seasons_rules`
+- `types`
+- `sources`
+
+Importante sobre `pokemon_moves`:
+
+- ya no sale de un learnset genérico de Scarlet/Violet
+- sale del move pool actual visible en Champions Lab
+- además puede incluir capa `observed_set` para movimientos vistos en sets
+
+## Recomendación de consumo web
+
+Si quieres minimizar complejidad:
+
+1. usa `v_team_builder_pool` para listados
+2. usa `v_pokemon_summary` para detalle
+3. usa `v_speed_table` para speed logic
+4. usa `v_move_users` para búsquedas por movimiento
+
+Si necesitas páginas estáticas o caché:
+
+- puedes consumir directamente los JSON de `exports/`
+- cada JSON está exportado desde una vista o query documentada en `manifest.json`

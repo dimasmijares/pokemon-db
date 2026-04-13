@@ -1,0 +1,263 @@
+[
+  {
+    "pokemon_id": 3,
+    "species_key": "venusaur",
+    "form_key": "",
+    "name_en": "Venusaur",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "chlorophyll, overgrow"
+  },
+  {
+    "pokemon_id": 6,
+    "species_key": "charizard",
+    "form_key": "",
+    "name_en": "Charizard",
+    "form_name_en": null,
+    "tier_value": "A",
+    "abilities": "blaze, solar_power"
+  },
+  {
+    "pokemon_id": 38,
+    "species_key": "ninetales",
+    "form_key": "",
+    "name_en": "Ninetales",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "drought, flash_fire"
+  },
+  {
+    "pokemon_id": 59,
+    "species_key": "arcanine",
+    "form_key": "",
+    "name_en": "Arcanine",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "flash_fire, intimidate, justified"
+  },
+  {
+    "pokemon_id": 71,
+    "species_key": "victreebel",
+    "form_key": "",
+    "name_en": "Victreebel",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "chlorophyll, gluttony"
+  },
+  {
+    "pokemon_id": 136,
+    "species_key": "flareon",
+    "form_key": "",
+    "name_en": "Flareon",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "flash_fire, guts"
+  },
+  {
+    "pokemon_id": 157,
+    "species_key": "typhlosion",
+    "form_key": "",
+    "name_en": "Typhlosion",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "blaze, flash_fire"
+  },
+  {
+    "pokemon_id": 229,
+    "species_key": "houndoom",
+    "form_key": "",
+    "name_en": "Houndoom",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "early_bird, flash_fire, unnerve"
+  },
+  {
+    "pokemon_id": 323,
+    "species_key": "camerupt",
+    "form_key": "",
+    "name_en": "Camerupt",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "anger_point, magma_armor, solid_rock"
+  },
+  {
+    "pokemon_id": 324,
+    "species_key": "torkoal",
+    "form_key": "",
+    "name_en": "Torkoal",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "drought, shell_armor, white_smoke"
+  },
+  {
+    "pokemon_id": 392,
+    "species_key": "infernape",
+    "form_key": "",
+    "name_en": "Infernape",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "blaze, iron_fist"
+  },
+  {
+    "pokemon_id": 470,
+    "species_key": "leafeon",
+    "form_key": "",
+    "name_en": "Leafeon",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "chlorophyll, leaf_guard"
+  },
+  {
+    "pokemon_id": 500,
+    "species_key": "emboar",
+    "form_key": "",
+    "name_en": "Emboar",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "blaze, reckless"
+  },
+  {
+    "pokemon_id": 514,
+    "species_key": "simisear",
+    "form_key": "",
+    "name_en": "Simisear",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "blaze, gluttony"
+  },
+  {
+    "pokemon_id": 547,
+    "species_key": "whimsicott",
+    "form_key": "",
+    "name_en": "Whimsicott",
+    "form_name_en": null,
+    "tier_value": "A",
+    "abilities": "chlorophyll, infiltrator, prankster"
+  },
+  {
+    "pokemon_id": 609,
+    "species_key": "chandelure",
+    "form_key": "",
+    "name_en": "Chandelure",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "flame_body, flash_fire, infiltrator"
+  },
+  {
+    "pokemon_id": 637,
+    "species_key": "volcarona",
+    "form_key": "",
+    "name_en": "Volcarona",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "flame_body, swarm"
+  },
+  {
+    "pokemon_id": 655,
+    "species_key": "delphox",
+    "form_key": "",
+    "name_en": "Delphox",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "blaze, magician"
+  },
+  {
+    "pokemon_id": 663,
+    "species_key": "talonflame",
+    "form_key": "",
+    "name_en": "Talonflame",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "flame_body, gale_wings"
+  },
+  {
+    "pokemon_id": 727,
+    "species_key": "incineroar",
+    "form_key": "",
+    "name_en": "Incineroar",
+    "form_name_en": null,
+    "tier_value": "S",
+    "abilities": "blaze, intimidate"
+  },
+  {
+    "pokemon_id": 758,
+    "species_key": "salazzle",
+    "form_key": "",
+    "name_en": "Salazzle",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "corrosion, oblivious"
+  },
+  {
+    "pokemon_id": 911,
+    "species_key": "skeledirge",
+    "form_key": "",
+    "name_en": "Skeledirge",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "blaze, unaware"
+  },
+  {
+    "pokemon_id": 936,
+    "species_key": "armarouge",
+    "form_key": "",
+    "name_en": "Armarouge",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "flash_fire, weak_armor"
+  },
+  {
+    "pokemon_id": 937,
+    "species_key": "ceruledge",
+    "form_key": "",
+    "name_en": "Ceruledge",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "flash_fire, weak_armor"
+  },
+  {
+    "pokemon_id": 952,
+    "species_key": "scovillain",
+    "form_key": "",
+    "name_en": "Scovillain",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "chlorophyll, insomnia, moody"
+  },
+  {
+    "pokemon_id": 10008,
+    "species_key": "rotom",
+    "form_key": "heat-rotom",
+    "name_en": "Rotom",
+    "form_name_en": "Heat Rotom",
+    "tier_value": "C",
+    "abilities": "levitate"
+  },
+  {
+    "pokemon_id": 10230,
+    "species_key": "arcanine",
+    "form_key": "hisuian-arcanine",
+    "name_en": "Arcanine",
+    "form_name_en": "Hisuian Arcanine",
+    "tier_value": "C",
+    "abilities": "flash_fire, intimidate, rock_head"
+  },
+  {
+    "pokemon_id": 10233,
+    "species_key": "typhlosion",
+    "form_key": "hisuian-typhlosion",
+    "name_en": "Typhlosion",
+    "form_name_en": "Hisuian Typhlosion",
+    "tier_value": "C",
+    "abilities": "blaze, frisk"
+  },
+  {
+    "pokemon_id": 10251,
+    "species_key": "tauros",
+    "form_key": "paldean-tauros-blaze",
+    "name_en": "Tauros",
+    "form_name_en": "Paldean Tauros (Blaze)",
+    "tier_value": "D",
+    "abilities": "anger_point, cud_chew, intimidate"
+  }
+]

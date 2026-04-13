@@ -1,0 +1,114 @@
+{
+  "bundle_version": "2026.04.13.2",
+  "generated_at": "2026-04-13",
+  "sqlite_path": "db/pokemon_champions.sqlite",
+  "recommended_frontend_views": [
+    "v_team_builder_pool",
+    "v_pokemon_summary",
+    "v_speed_table",
+    "v_move_users",
+    "v_rain_candidates",
+    "v_sun_candidates",
+    "v_trick_room_candidates",
+    "v_charizard_answers"
+  ],
+  "recommended_frontend_usage": {
+    "listing": "v_team_builder_pool",
+    "detail": "v_pokemon_summary",
+    "search_and_filters": "v_team_builder_pool",
+    "speed_filters": "v_speed_table",
+    "move_lookup": "v_move_users",
+    "threat_answers": "v_charizard_answers"
+  },
+  "derived_or_non_official_tables": {
+    "pokemon_roles": "Derived from Champions move pool, observed sets, stats and heuristics. Do not present as official game data.",
+    "pokemon_archetypes": "Derived from Champions Lab curated teams, core pairs and heuristics. Do not present as official game data.",
+    "cores": "Parsed from Champions Lab Meta. Useful but not official game data.",
+    "matchups": "Derived matchup layer. Do not present as official game data."
+  },
+  "reading_order": [
+    "manifest.json",
+    "docs/handoff.md",
+    "docs/schema.md",
+    "docs/specifications.md",
+    "docs/validation_report.md",
+    "docs/source_policy.md"
+  ],
+  "exact_commands": {
+    "validate": [
+      "python scripts\\validate_data.py"
+    ],
+    "rebuild_current_data": [
+      "python scripts\\sync_current_champions.py",
+      "python scripts\\derive_competitive_layer.py",
+      "python scripts\\build_db.py"
+    ],
+    "export": [
+      "python scripts\\export_views.py"
+    ]
+  },
+  "compatibility_notes": [
+    "This bundle replaces the old web_ready_bundle layout with a stricter data_bundle layout.",
+    "v_move_users now returns one row per move and exposes move_pool_user_count, observed_set_user_count and observed_set_coverage_pct.",
+    "pokemon_moves is now sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets."
+  ],
+  "stable_identifiers": [
+    "pokemon_id",
+    "species_key",
+    "form_key",
+    "move_key",
+    "ability_key",
+    "item_key",
+    "season_key"
+  ],
+  "exports": [
+    {
+      "file": "pokemon_list.json",
+      "source": "SELECT * FROM v_team_builder_pool"
+    },
+    {
+      "file": "pokemon_detail_index.json",
+      "source": "SELECT * FROM v_pokemon_summary"
+    },
+    {
+      "file": "speed_profiles.json",
+      "source": "SELECT * FROM v_speed_table"
+    },
+    {
+      "file": "move_users.json",
+      "source": "SELECT * FROM v_move_users"
+    },
+    {
+      "file": "rain_candidates.json",
+      "source": "SELECT * FROM v_rain_candidates"
+    },
+    {
+      "file": "sun_candidates.json",
+      "source": "SELECT * FROM v_sun_candidates"
+    },
+    {
+      "file": "trick_room_candidates.json",
+      "source": "SELECT * FROM v_trick_room_candidates"
+    },
+    {
+      "file": "charizard_answers.json",
+      "source": "SELECT * FROM v_charizard_answers"
+    },
+    {
+      "file": "types.json",
+      "source": "SELECT * FROM types"
+    },
+    {
+      "file": "sources.json",
+      "source": "SELECT * FROM sources"
+    }
+  ],
+  "bundle_contents_summary": {
+    "v_pokemon_summary_rows": 208,
+    "v_move_users_rows": 518,
+    "pokemon_roles_rows": 512,
+    "pokemon_archetypes_rows": 224,
+    "cores_rows": 6,
+    "matchups_rows": 48
+  }
+}

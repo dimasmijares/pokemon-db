@@ -1,0 +1,622 @@
+[
+  {
+    "pokemon_id": 36,
+    "species_key": "clefable",
+    "form_key": "",
+    "name_en": "Clefable",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 68,
+    "species_key": "machamp",
+    "form_key": "",
+    "name_en": "Machamp",
+    "form_name_en": null,
+    "base_speed": 55,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Wallbreaker"
+  },
+  {
+    "pokemon_id": 80,
+    "species_key": "slowbro",
+    "form_key": "",
+    "name_en": "Slowbro",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 132,
+    "species_key": "ditto",
+    "form_key": "",
+    "name_en": "Ditto",
+    "form_name_en": null,
+    "base_speed": 48,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 143,
+    "species_key": "snorlax",
+    "form_key": "",
+    "name_en": "Snorlax",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 168,
+    "species_key": "ariados",
+    "form_key": "",
+    "name_en": "Ariados",
+    "form_name_en": null,
+    "base_speed": 40,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 181,
+    "species_key": "ampharos",
+    "form_key": "",
+    "name_en": "Ampharos",
+    "form_name_en": null,
+    "base_speed": 55,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control"
+  },
+  {
+    "pokemon_id": 184,
+    "species_key": "azumarill",
+    "form_key": "",
+    "name_en": "Azumarill",
+    "form_name_en": null,
+    "base_speed": 50,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 199,
+    "species_key": "slowking",
+    "form_key": "",
+    "name_en": "Slowking",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 205,
+    "species_key": "forretress",
+    "form_key": "",
+    "name_en": "Forretress",
+    "form_name_en": null,
+    "base_speed": 40,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control"
+  },
+  {
+    "pokemon_id": 208,
+    "species_key": "steelix",
+    "form_key": "",
+    "name_en": "Steelix",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 302,
+    "species_key": "sableye",
+    "form_key": "",
+    "name_en": "Sableye",
+    "form_name_en": null,
+    "base_speed": 50,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control"
+  },
+  {
+    "pokemon_id": 306,
+    "species_key": "aggron",
+    "form_key": "",
+    "name_en": "Aggron",
+    "form_name_en": null,
+    "base_speed": 50,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 323,
+    "species_key": "camerupt",
+    "form_key": "",
+    "name_en": "Camerupt",
+    "form_name_en": null,
+    "base_speed": 40,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 324,
+    "species_key": "torkoal",
+    "form_key": "",
+    "name_en": "Torkoal",
+    "form_name_en": null,
+    "base_speed": 20,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Weather Setter"
+  },
+  {
+    "pokemon_id": 389,
+    "species_key": "torterra",
+    "form_key": "",
+    "name_en": "Torterra",
+    "form_name_en": null,
+    "base_speed": 56,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 395,
+    "species_key": "empoleon",
+    "form_key": "",
+    "name_en": "Empoleon",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 409,
+    "species_key": "rampardos",
+    "form_key": "",
+    "name_en": "Rampardos",
+    "form_name_en": null,
+    "base_speed": 58,
+    "trick_room_rating": "medium",
+    "roles": "Wallbreaker"
+  },
+  {
+    "pokemon_id": 411,
+    "species_key": "bastiodon",
+    "form_key": "",
+    "name_en": "Bastiodon",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 442,
+    "species_key": "spiritomb",
+    "form_key": "",
+    "name_en": "Spiritomb",
+    "form_name_en": null,
+    "base_speed": 35,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 450,
+    "species_key": "hippowdon",
+    "form_key": "",
+    "name_en": "Hippowdon",
+    "form_name_en": null,
+    "base_speed": 47,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 460,
+    "species_key": "abomasnow",
+    "form_key": "",
+    "name_en": "Abomasnow",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 464,
+    "species_key": "rhyperior",
+    "form_key": "",
+    "name_en": "Rhyperior",
+    "form_name_en": null,
+    "base_speed": 40,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 531,
+    "species_key": "audino",
+    "form_key": "",
+    "name_en": "Audino",
+    "form_name_en": null,
+    "base_speed": 50,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 534,
+    "species_key": "conkeldurr",
+    "form_key": "",
+    "name_en": "Conkeldurr",
+    "form_name_en": null,
+    "base_speed": 45,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Wallbreaker"
+  },
+  {
+    "pokemon_id": 563,
+    "species_key": "cofagrigus",
+    "form_key": "",
+    "name_en": "Cofagrigus",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 579,
+    "species_key": "reuniclus",
+    "form_key": "",
+    "name_en": "Reuniclus",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter, Wallbreaker"
+  },
+  {
+    "pokemon_id": 614,
+    "species_key": "beartic",
+    "form_key": "",
+    "name_en": "Beartic",
+    "form_name_en": null,
+    "base_speed": 50,
+    "trick_room_rating": "high",
+    "roles": "Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 618,
+    "species_key": "stunfisk",
+    "form_key": "",
+    "name_en": "Stunfisk",
+    "form_name_en": null,
+    "base_speed": 32,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 623,
+    "species_key": "golurk",
+    "form_key": "",
+    "name_en": "Golurk",
+    "form_name_en": null,
+    "base_speed": 55,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 670,
+    "species_key": "floette",
+    "form_key": "",
+    "name_en": "Floette",
+    "form_name_en": null,
+    "base_speed": 52,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 675,
+    "species_key": "pangoro",
+    "form_key": "",
+    "name_en": "Pangoro",
+    "form_name_en": null,
+    "base_speed": 58,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Pivot, Wallbreaker"
+  },
+  {
+    "pokemon_id": 681,
+    "species_key": "aegislash",
+    "form_key": "",
+    "name_en": "Aegislash",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 683,
+    "species_key": "aromatisse",
+    "form_key": "",
+    "name_en": "Aromatisse",
+    "form_name_en": null,
+    "base_speed": 29,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 693,
+    "species_key": "clawitzer",
+    "form_key": "",
+    "name_en": "Clawitzer",
+    "form_name_en": null,
+    "base_speed": 59,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 699,
+    "species_key": "aurorus",
+    "form_key": "",
+    "name_en": "Aurorus",
+    "form_name_en": null,
+    "base_speed": 58,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 700,
+    "species_key": "sylveon",
+    "form_key": "",
+    "name_en": "Sylveon",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 709,
+    "species_key": "trevenant",
+    "form_key": "",
+    "name_en": "Trevenant",
+    "form_name_en": null,
+    "base_speed": 56,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 713,
+    "species_key": "avalugg",
+    "form_key": "",
+    "name_en": "Avalugg",
+    "form_name_en": null,
+    "base_speed": 28,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 727,
+    "species_key": "incineroar",
+    "form_key": "",
+    "name_en": "Incineroar",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Pivot"
+  },
+  {
+    "pokemon_id": 730,
+    "species_key": "primarina",
+    "form_key": "",
+    "name_en": "Primarina",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 733,
+    "species_key": "toucannon",
+    "form_key": "",
+    "name_en": "Toucannon",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 740,
+    "species_key": "crabominable",
+    "form_key": "",
+    "name_en": "Crabominable",
+    "form_name_en": null,
+    "base_speed": 43,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 748,
+    "species_key": "toxapex",
+    "form_key": "",
+    "name_en": "Toxapex",
+    "form_name_en": null,
+    "base_speed": 35,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control"
+  },
+  {
+    "pokemon_id": 750,
+    "species_key": "mudsdale",
+    "form_key": "",
+    "name_en": "Mudsdale",
+    "form_name_en": null,
+    "base_speed": 35,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Wallbreaker"
+  },
+  {
+    "pokemon_id": 752,
+    "species_key": "araquanid",
+    "form_key": "",
+    "name_en": "Araquanid",
+    "form_name_en": null,
+    "base_speed": 42,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 765,
+    "species_key": "oranguru",
+    "form_key": "",
+    "name_en": "Oranguru",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 780,
+    "species_key": "drampa",
+    "form_key": "",
+    "name_en": "Drampa",
+    "form_name_en": null,
+    "base_speed": 36,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 842,
+    "species_key": "appletun",
+    "form_key": "",
+    "name_en": "Appletun",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 858,
+    "species_key": "hatterene",
+    "form_key": "",
+    "name_en": "Hatterene",
+    "form_name_en": null,
+    "base_speed": 29,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker"
+  },
+  {
+    "pokemon_id": 867,
+    "species_key": "runerigus",
+    "form_key": "",
+    "name_en": "Runerigus",
+    "form_name_en": null,
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 934,
+    "species_key": "garganacl",
+    "form_key": "",
+    "name_en": "Garganacl",
+    "form_name_en": null,
+    "base_speed": 35,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support"
+  },
+  {
+    "pokemon_id": 939,
+    "species_key": "bellibolt",
+    "form_key": "",
+    "name_en": "Bellibolt",
+    "form_name_en": null,
+    "base_speed": 45,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control"
+  },
+  {
+    "pokemon_id": 981,
+    "species_key": "farigiraf",
+    "form_key": "",
+    "name_en": "Farigiraf",
+    "form_name_en": null,
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 983,
+    "species_key": "kingambit",
+    "form_key": "",
+    "name_en": "Kingambit",
+    "form_name_en": null,
+    "base_speed": 50,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Wallbreaker"
+  },
+  {
+    "pokemon_id": 1019,
+    "species_key": "hydrapple",
+    "form_key": "",
+    "name_en": "Hydrapple",
+    "form_name_en": null,
+    "base_speed": 44,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Wallbreaker"
+  },
+  {
+    "pokemon_id": 10165,
+    "species_key": "slowbro",
+    "form_key": "galarian-slowbro",
+    "name_en": "Slowbro",
+    "form_name_en": "Galarian Slowbro",
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 10172,
+    "species_key": "slowking",
+    "form_key": "galarian-slowking",
+    "name_en": "Slowking",
+    "form_name_en": "Galarian Slowking",
+    "base_speed": 30,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter"
+  },
+  {
+    "pokemon_id": 10180,
+    "species_key": "stunfisk",
+    "form_key": "galarian-stunfisk",
+    "name_en": "Stunfisk",
+    "form_name_en": "Galarian Stunfisk",
+    "base_speed": 32,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control"
+  },
+  {
+    "pokemon_id": 10242,
+    "species_key": "goodra",
+    "form_key": "hisuian-goodra",
+    "name_en": "Goodra",
+    "form_name_en": "Hisuian Goodra",
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Wallbreaker"
+  },
+  {
+    "pokemon_id": 10244,
+    "species_key": "decidueye",
+    "form_key": "hisuian-decidueye",
+    "name_en": "Decidueye",
+    "form_name_en": "Hisuian Decidueye",
+    "base_speed": 60,
+    "trick_room_rating": "medium",
+    "roles": "Bulky Support, Pivot, Speed Control"
+  },
+  {
+    "pokemon_id": 10245,
+    "species_key": "avalugg",
+    "form_key": "hisuian-avalugg",
+    "name_en": "Avalugg",
+    "form_name_en": "Hisuian Avalugg",
+    "base_speed": 38,
+    "trick_room_rating": "high",
+    "roles": "Bulky Support, Speed Control, Wallbreaker"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "pokemon_id": 9,
+    "species_key": "blastoise",
+    "form_key": "",
+    "name_en": "Blastoise",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "rain_dish, torrent"
+  },
+  {
+    "pokemon_id": 80,
+    "species_key": "slowbro",
+    "form_key": "",
+    "name_en": "Slowbro",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "oblivious, own_tempo, regenerator"
+  },
+  {
+    "pokemon_id": 121,
+    "species_key": "starmie",
+    "form_key": "",
+    "name_en": "Starmie",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "analytic, illuminate, natural_cure"
+  },
+  {
+    "pokemon_id": 130,
+    "species_key": "gyarados",
+    "form_key": "",
+    "name_en": "Gyarados",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "intimidate, moxie"
+  },
+  {
+    "pokemon_id": 134,
+    "species_key": "vaporeon",
+    "form_key": "",
+    "name_en": "Vaporeon",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "hydration, water_absorb"
+  },
+  {
+    "pokemon_id": 160,
+    "species_key": "feraligatr",
+    "form_key": "",
+    "name_en": "Feraligatr",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "dragonize, sheer_force, torrent"
+  },
+  {
+    "pokemon_id": 184,
+    "species_key": "azumarill",
+    "form_key": "",
+    "name_en": "Azumarill",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "huge_power, sap_sipper, thick_fat"
+  },
+  {
+    "pokemon_id": 186,
+    "species_key": "politoed",
+    "form_key": "",
+    "name_en": "Politoed",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "damp, drizzle, water_absorb"
+  },
+  {
+    "pokemon_id": 199,
+    "species_key": "slowking",
+    "form_key": "",
+    "name_en": "Slowking",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "oblivious, own_tempo, regenerator"
+  },
+  {
+    "pokemon_id": 279,
+    "species_key": "pelipper",
+    "form_key": "",
+    "name_en": "Pelipper",
+    "form_name_en": null,
+    "tier_value": "A",
+    "abilities": "drizzle, keen_eye, rain_dish"
+  },
+  {
+    "pokemon_id": 319,
+    "species_key": "sharpedo",
+    "form_key": "",
+    "name_en": "Sharpedo",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "rough_skin, speed_boost"
+  },
+  {
+    "pokemon_id": 350,
+    "species_key": "milotic",
+    "form_key": "",
+    "name_en": "Milotic",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "competitive, cute_charm, marvel_scale"
+  },
+  {
+    "pokemon_id": 395,
+    "species_key": "empoleon",
+    "form_key": "",
+    "name_en": "Empoleon",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "competitive, torrent"
+  },
+  {
+    "pokemon_id": 503,
+    "species_key": "samurott",
+    "form_key": "",
+    "name_en": "Samurott",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "shell_armor, torrent"
+  },
+  {
+    "pokemon_id": 516,
+    "species_key": "simipour",
+    "form_key": "",
+    "name_en": "Simipour",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "gluttony, torrent"
+  },
+  {
+    "pokemon_id": 658,
+    "species_key": "greninja",
+    "form_key": "",
+    "name_en": "Greninja",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "protean, torrent"
+  },
+  {
+    "pokemon_id": 693,
+    "species_key": "clawitzer",
+    "form_key": "",
+    "name_en": "Clawitzer",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "mega_launcher"
+  },
+  {
+    "pokemon_id": 730,
+    "species_key": "primarina",
+    "form_key": "",
+    "name_en": "Primarina",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "liquid_voice, torrent"
+  },
+  {
+    "pokemon_id": 748,
+    "species_key": "toxapex",
+    "form_key": "",
+    "name_en": "Toxapex",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "limber, merciless, regenerator"
+  },
+  {
+    "pokemon_id": 752,
+    "species_key": "araquanid",
+    "form_key": "",
+    "name_en": "Araquanid",
+    "form_name_en": null,
+    "tier_value": "C",
+    "abilities": "water_absorb, water_bubble"
+  },
+  {
+    "pokemon_id": 902,
+    "species_key": "basculegion",
+    "form_key": "basculegion-m",
+    "name_en": "Basculegion",
+    "form_name_en": "Basculegion-M",
+    "tier_value": "A",
+    "abilities": "adaptability, mold_breaker, swift_swim"
+  },
+  {
+    "pokemon_id": 914,
+    "species_key": "quaquaval",
+    "form_key": "",
+    "name_en": "Quaquaval",
+    "form_name_en": null,
+    "tier_value": "D",
+    "abilities": "moxie, torrent"
+  },
+  {
+    "pokemon_id": 964,
+    "species_key": "palafin",
+    "form_key": "",
+    "name_en": "Palafin",
+    "form_name_en": null,
+    "tier_value": "B",
+    "abilities": "zero_to_hero"
+  },
+  {
+    "pokemon_id": 10009,
+    "species_key": "rotom",
+    "form_key": "wash-rotom",
+    "name_en": "Rotom",
+    "form_name_en": "Wash Rotom",
+    "tier_value": "A",
+    "abilities": "levitate"
+  },
+  {
+    "pokemon_id": 10236,
+    "species_key": "samurott",
+    "form_key": "hisuian-samurott",
+    "name_en": "Samurott",
+    "form_name_en": "Hisuian Samurott",
+    "tier_value": "D",
+    "abilities": "sharpness, shell_armor"
+  },
+  {
+    "pokemon_id": 10252,
+    "species_key": "tauros",
+    "form_key": "paldean-tauros-aqua",
+    "name_en": "Tauros",
+    "form_name_en": "Paldean Tauros (Aqua)",
+    "tier_value": "D",
+    "abilities": "anger_point, cud_chew, intimidate"
+  },
+  {
+    "pokemon_id": 10902,
+    "species_key": "basculegion",
+    "form_key": "basculegion-f",
+    "name_en": "Basculegion",
+    "form_name_en": "Basculegion-F",
+    "tier_value": "C",
+    "abilities": "adaptability, mold_breaker, swift_swim"
+  }
+]

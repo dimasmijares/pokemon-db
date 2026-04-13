@@ -1,0 +1,41 @@
+[
+  {
+    "threat_pokemon_id": 6,
+    "threat_name_en": "Charizard",
+    "threat_form_name_en": null,
+    "answer_pokemon_id": 142,
+    "answer_name_en": "Aerodactyl",
+    "answer_form_name_en": null,
+    "answer_type": "counter",
+    "confidence": "medium",
+    "notes": "Derived from current roster types, Champions move pool coverage and current tier snapshot.",
+    "season_key": "season_m1_reg_ma",
+    "format": "doubles"
+  },
+  {
+    "threat_pokemon_id": 6,
+    "threat_name_en": "Charizard",
+    "threat_form_name_en": null,
+    "answer_pokemon_id": 248,
+    "answer_name_en": "Tyranitar",
+    "answer_form_name_en": null,
+    "answer_type": "counter",
+    "confidence": "medium",
+    "notes": "Derived from current roster types, Champions move pool coverage and current tier snapshot.",
+    "season_key": "season_m1_reg_ma",
+    "format": "doubles"
+  },
+  {
+    "threat_pokemon_id": 6,
+    "threat_name_en": "Charizard",
+    "threat_form_name_en": null,
+    "answer_pokemon_id": 970,
+    "answer_name_en": "Glimmora",
+    "answer_form_name_en": null,
+    "answer_type": "counter",
+    "confidence": "medium",
+    "notes": "Derived from current roster types, Champions move pool coverage and current tier snapshot.",
+    "season_key": "season_m1_reg_ma",
+    "format": "doubles"
+  }
+]

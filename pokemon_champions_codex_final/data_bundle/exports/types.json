@@ -1,0 +1,92 @@
+[
+  {
+    "type_key": "normal",
+    "name_en": "Normal",
+    "name_es": "Normal"
+  },
+  {
+    "type_key": "fire",
+    "name_en": "Fire",
+    "name_es": "Fuego"
+  },
+  {
+    "type_key": "water",
+    "name_en": "Water",
+    "name_es": "Agua"
+  },
+  {
+    "type_key": "electric",
+    "name_en": "Electric",
+    "name_es": "Eléctrico"
+  },
+  {
+    "type_key": "grass",
+    "name_en": "Grass",
+    "name_es": "Planta"
+  },
+  {
+    "type_key": "ice",
+    "name_en": "Ice",
+    "name_es": "Hielo"
+  },
+  {
+    "type_key": "fighting",
+    "name_en": "Fighting",
+    "name_es": "Lucha"
+  },
+  {
+    "type_key": "poison",
+    "name_en": "Poison",
+    "name_es": "Veneno"
+  },
+  {
+    "type_key": "ground",
+    "name_en": "Ground",
+    "name_es": "Tierra"
+  },
+  {
+    "type_key": "flying",
+    "name_en": "Flying",
+    "name_es": "Volador"
+  },
+  {
+    "type_key": "psychic",
+    "name_en": "Psychic",
+    "name_es": "Psíquico"
+  },
+  {
+    "type_key": "bug",
+    "name_en": "Bug",
+    "name_es": "Bicho"
+  },
+  {
+    "type_key": "rock",
+    "name_en": "Rock",
+    "name_es": "Roca"
+  },
+  {
+    "type_key": "ghost",
+    "name_en": "Ghost",
+    "name_es": "Fantasma"
+  },
+  {
+    "type_key": "dragon",
+    "name_en": "Dragon",
+    "name_es": "Dragón"
+  },
+  {
+    "type_key": "dark",
+    "name_en": "Dark",
+    "name_es": "Siniestro"
+  },
+  {
+    "type_key": "steel",
+    "name_en": "Steel",
+    "name_es": "Acero"
+  },
+  {
+    "type_key": "fairy",
+    "name_en": "Fairy",
+    "name_es": "Hada"
+  }
+]
