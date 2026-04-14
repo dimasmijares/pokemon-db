@@ -21,12 +21,12 @@ No uses CSV sueltos como fuente primaria en el repo web. El contrato operativo d
 
 Usa esta vista para:
 
-- listados de Pokémon legales
+- listados de Pokemon legales
 - búsqueda por nombre
 - filtros por tier
 - filtros por rol o arquetipo ya derivados
 
-### Detalle de Pokémon
+### Detalle de Pokemon
 
 - `v_pokemon_summary`
 
@@ -64,9 +64,9 @@ Campos relevantes:
 
 Interpretación:
 
-- `move_pool_user_count`: cuántos Pokémon tienen ese movimiento en el move pool actual de Champions
-- `observed_set_user_count`: cuántos Pokémon lo llevan en sets observados
-- `observed_set_coverage_pct`: proporción observada respecto al move pool
+- `move_pool_user_count`: cuantos Pokemon tienen ese movimiento en el move pool actual de Champions
+- `observed_set_user_count`: cuantos Pokemon lo llevan en sets observados
+- `observed_set_coverage_pct`: proporcion observada respecto al move pool
 
 ### Filtros temáticos rápidos
 

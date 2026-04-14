@@ -1,6 +1,6 @@
 {
-  "bundle_version": "2026.04.13.2",
-  "generated_at": "2026-04-13",
+  "bundle_version": "2026.04.14.1",
+  "generated_at": "2026-04-14",
   "sqlite_path": "db/pokemon_champions.sqlite",
   "recommended_frontend_views": [
     "v_team_builder_pool",
@@ -41,16 +41,21 @@
     "rebuild_current_data": [
       "python scripts\\sync_current_champions.py",
       "python scripts\\derive_competitive_layer.py",
-      "python scripts\\build_db.py"
+      "python scripts\\build_db.py",
+      "python scripts\\export_views.py",
+      "python scripts\\build_data_bundle.py"
+    ],
+    "release_bundle": [
+      "powershell -ExecutionPolicy Bypass -File scripts\\release_bundle.ps1"
     ],
     "export": [
       "python scripts\\export_views.py"
     ]
   },
   "compatibility_notes": [
-    "This bundle replaces the old web_ready_bundle layout with a stricter data_bundle layout.",
-    "v_move_users now returns one row per move and exposes move_pool_user_count, observed_set_user_count and observed_set_coverage_pct.",
-    "pokemon_moves is now sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets."
+    "This bundle format replaces the old web_ready_bundle handoff.",
+    "v_move_users returns one row per move and exposes move_pool_user_count, observed_set_user_count and observed_set_coverage_pct.",
+    "pokemon_moves is sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets."
   ],
   "stable_identifiers": [
     "pokemon_id",
