@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-04-14",
+  "season_key": "season_m1_reg_ma",
+  "season_name": "Season M-1 - Regulation M-A",
+  "season_dates": {
+    "start_date": "2026-04-08",
+    "end_date": "2026-05-13",
+    "regulation_until": "2026-06-17"
+  },
+  "source_health": {
+    "championslab_bundle_url": "https://championslab.xyz/_next/static/chunks/880-b32b66ea2ce9a90e.js",
+    "championslab_home_expected_roster_count": 208,
+    "championslab_home_extracted_roster_count": 208,
+    "championslab_pokedex_entries": 214,
+    "championslab_setdex_groups": 207,
+    "championslab_active_seasons_in_bundle": 1,
+    "championslab_active_season_match": "Season M-1  -  Regulation M-A",
+    "bulbapedia_parse_method": "html_text_blocks",
+    "bulbapedia_roster_rows": 262,
+    "bulbapedia_mega_rows": 59
+  },
+  "dataset_metrics": {
+    "pokemon_rows": 208,
+    "tiers_rows": 208,
+    "mega_rows": 59,
+    "abilities_catalog_rows": 190,
+    "moves_catalog_rows": 518,
+    "items_catalog_rows": 161,
+    "pokemon_abilities_rows": 504,
+    "pokemon_moves_rows": 14172,
+    "pokemon_move_pool_rows": 12657,
+    "pokemon_observed_set_rows": 1515,
+    "speed_profiles_rows": 208,
+    "manual_curation_mega_rows": 0
+  },
+  "automation_signals": {
+    "items_by_source": {
+      "pokeapi": 74,
+      "championslab": 87
+    },
+    "has_bulbapedia_fallback_parser": true,
+    "manual_curation_mega_ratio": 0.0,
+    "observed_set_move_ratio": 0.1197
+  }
+}

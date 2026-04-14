@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from datetime import datetime, timezone
 from io import StringIO
 from pathlib import Path
 import csv
@@ -12,7 +13,8 @@ from bs4 import BeautifulSoup
 
 BASE = Path(__file__).resolve().parents[1]
 RAW = BASE / "data_raw"
-TODAY = "2026-04-13"
+BUILD = BASE / "data_build"
+TODAY = datetime.now(timezone.utc).date().isoformat()
 SEASON_KEY = "season_m1_reg_ma"
 
 CHAMPIONS_LAB_HOME = "https://championslab.xyz/"
@@ -213,9 +215,39 @@ def write_csv(path: Path, fieldnames: list[str], rows: list[dict]) -> None:
         writer.writerows(rows)
 
 
+def write_json(path: Path, payload: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def load_csv(path: Path) -> list[dict[str, str]]:
     with path.open("r", encoding="utf-8", newline="") as f:
         return list(csv.DictReader(f))
+
+
+def parse_human_date(value: str) -> str:
+    return datetime.strptime(value, "%B %d, %Y").date().isoformat()
+
+
+def parse_season_rules(seasons_dataset: list[dict]) -> dict[str, str | int]:
+    active_season = next((season for season in seasons_dataset if season.get("isActive")), seasons_dataset[0] if seasons_dataset else {})
+    rules = active_season.get("rules", []) or []
+
+    def find_rule(fragment: str, default: str = "") -> str:
+        return next((rule for rule in rules if fragment.lower() in rule.lower()), default)
+
+    timer_rule = find_rule("timer")
+    timer_match = re.search(r"(\d+)", timer_rule)
+
+    return {
+        "bring_pick_rule": find_rule("Bring", "Ranked Battles current regulation"),
+        "level_rule": find_rule("Level", "50"),
+        "mega_allowed": 1 if any("Mega" in rule for rule in rules) else 0,
+        "duplicate_pokemon_allowed": 0 if any("No duplicate Pokémon" in rule or "No duplicate Pokemon" in rule for rule in rules) else "",
+        "duplicate_items_allowed": 0 if any("No duplicate held items" in rule for rule in rules) else "",
+        "timer_minutes": int(timer_match.group(1)) if timer_match else 10,
+        "rules_source_text": " | ".join(rules),
+    }
 
 
 def fetch_championslab_home(session: requests.Session) -> tuple[list[dict], dict]:
@@ -266,19 +298,21 @@ def fetch_championslab_home(session: requests.Session) -> tuple[list[dict], dict
     return roster, season_info
 
 
-def fetch_bulbapedia_tables(session: requests.Session) -> tuple[pd.DataFrame, pd.DataFrame, str]:
+def fetch_bulbapedia_tables(session: requests.Session) -> tuple[pd.DataFrame, pd.DataFrame, str, str]:
     html = request_text(BULBAPEDIA_ROSTER_URL, session)
     tables = pd.read_html(StringIO(html))
     roster_table = tables[0]
     mega_table = tables[1]
+    parse_method = "pandas_read_html"
     if roster_table.empty or "Ndex" not in roster_table.columns or mega_table.empty or "Ndex" not in mega_table.columns:
         roster_table, mega_table = parse_bulbapedia_text_tables(html)
+        parse_method = "html_text_blocks"
     current_roster_match = re.search(
         r"Until ([A-Za-z]+ \d{1,2}, \d{4}), the current roster is ([^.]+)\.",
         html,
     )
     current_roster_until = current_roster_match.group(1) if current_roster_match else ""
-    return roster_table, mega_table, current_roster_until
+    return roster_table, mega_table, current_roster_until, parse_method
 
 
 def parse_bulbapedia_text_tables(html: str) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -468,30 +502,66 @@ def js_literal_to_python(literal: str) -> list | dict:
     return json.loads(normalized)
 
 
-def resolve_bundle_url(session: requests.Session) -> str:
-    html = request_text(CHAMPIONS_LAB_META, session)
-    match = re.search(r'(/_next/static/chunks/880-[^"]+\.js)', html)
-    if not match:
-        raise RuntimeError("No se pudo localizar el bundle principal de Champions Lab")
-    return f"https://championslab.xyz{match.group(1)}"
+def extract_championslab_literals(bundle_text: str) -> tuple[list[dict], dict[str, list[dict]], list[dict]]:
+    module_match = re.search(
+        r'a\.d\(t,\{Ns:\(\)=>([a-z]),su:\(\)=>([a-z]),w1:\(\)=>([a-z]),wv:\(\)=>([a-z])\}\);let ([a-z])=\[',
+        bundle_text,
+    )
+    if not module_match:
+        raise RuntimeError("No se pudo localizar el bloque principal de datos de Champions Lab")
 
+    season_var = module_match.group(1)
+    pokemon_var = module_match.group(2)
+    season_literal = extract_js_literal(bundle_text, f"let {season_var}=[", "[", "]", module_match.start())
+    pokemon_literal = extract_js_literal(bundle_text, f",{pokemon_var}=[", "[", "]", module_match.start())
 
-def fetch_championslab_datasets(session: requests.Session) -> tuple[list[dict], dict[str, list[dict]]]:
-    bundle_url = resolve_bundle_url(session)
-    bundle_text = request_text(bundle_url, session)
+    setdex_literal = ""
+    for match in re.finditer(r'a\.d\(t,\{z:\(\)=>([a-z])\}\);let ([a-z])=\{', bundle_text):
+        candidate_var = match.group(1)
+        candidate_literal = extract_js_literal(bundle_text, f"let {candidate_var}={{", "{", "}", match.start())
+        if "moves" in candidate_literal and "nature" in candidate_literal:
+            setdex_literal = candidate_literal
+            break
+    if not setdex_literal:
+        raise RuntimeError("No se pudo localizar el bloque setdex de Champions Lab")
 
-    module_anchor = '1743:(e,t,a)=>{a.d(t,{Ns:()=>s,su:()=>r,w1:()=>i,wv:()=>o});let s=['
-    module_start = bundle_text.find(module_anchor)
-    if module_start == -1:
-        raise RuntimeError("No se pudo localizar el modulo de datos principales de Champions Lab")
-
-    pokemon_literal = extract_js_literal(bundle_text, ",r=[", "[", "]", module_start)
-    setdex_anchor = '5805:(e,t,a)=>{a.d(t,{z:()=>s});let s={'
-    setdex_literal = extract_js_literal(bundle_text, setdex_anchor, "{", "}")
-
+    seasons = js_literal_to_python(season_literal)
     pokemon_entries = js_literal_to_python(pokemon_literal)
     setdex_entries = js_literal_to_python(setdex_literal)
-    return pokemon_entries, setdex_entries
+    if not seasons or not isinstance(seasons, list) or not isinstance(seasons[0], dict) or "startDate" not in seasons[0]:
+        raise RuntimeError("El bloque de temporadas extraido no tiene estructura valida")
+    if not pokemon_entries or not isinstance(pokemon_entries, list) or not isinstance(pokemon_entries[0], dict) or "dexNumber" not in pokemon_entries[0]:
+        raise RuntimeError("El bloque de pokedex extraido no tiene estructura valida")
+    if not isinstance(setdex_entries, dict):
+        raise RuntimeError("El bloque setdex extraido no tiene estructura valida")
+    return pokemon_entries, setdex_entries, seasons
+
+
+def resolve_bundle_candidates(page_html: str) -> list[str]:
+    candidates = []
+    for relative_path in re.findall(r'(/_next/static/chunks/[^"]+\.js)', page_html):
+        if relative_path not in candidates:
+            candidates.append(relative_path)
+    candidates.sort(key=lambda path: (0 if "/880-" in path else 1, path))
+    return [f"https://championslab.xyz{path}" for path in candidates]
+
+
+def fetch_championslab_datasets(session: requests.Session) -> tuple[list[dict], dict[str, list[dict]], list[dict], str]:
+    html = request_text(CHAMPIONS_LAB_META, session)
+    candidate_urls = resolve_bundle_candidates(html)
+    if not candidate_urls:
+        raise RuntimeError("No se pudo localizar ningun chunk JS de Champions Lab")
+
+    errors = []
+    for bundle_url in candidate_urls:
+        bundle_text = request_text(bundle_url, session)
+        try:
+            pokemon_entries, setdex_entries, seasons = extract_championslab_literals(bundle_text)
+            return pokemon_entries, setdex_entries, seasons, bundle_url
+        except RuntimeError as exc:
+            errors.append(f"{bundle_url}: {exc}")
+            continue
+    raise RuntimeError("No se pudo localizar un chunk util de Champions Lab:\n- " + "\n- ".join(errors[:5]))
 
 
 def build_champions_entry_index(entries: list[dict]) -> tuple[dict[str, dict], dict[int, list[dict]], dict[str, dict]]:
@@ -734,11 +804,82 @@ def build_current_sources() -> list[dict]:
     ]
 
 
+def build_sync_summary(
+    season_info: dict,
+    seasons_dataset: list[dict],
+    bundle_url: str,
+    bulba_parse_method: str,
+    roster_table: pd.DataFrame,
+    mega_table: pd.DataFrame,
+    pokedex_entries: list[dict],
+    setdex_entries: dict[str, list[dict]],
+    pokemon_rows: list[dict],
+    tiers_rows: list[dict],
+    mega_rows: list[dict],
+    abilities_catalog: dict[str, dict],
+    moves_catalog: dict[str, dict],
+    items_catalog: dict[str, dict],
+    pokemon_abilities_rows: list[dict],
+    pokemon_moves_rows: list[dict],
+    speed_rows: list[dict],
+) -> dict:
+    observed_set_rows = sum(1 for row in pokemon_moves_rows if row.get("availability_status") == "observed_set")
+    move_pool_rows = sum(1 for row in pokemon_moves_rows if row.get("availability_status") == "champions_move_pool")
+    fallback_mega_rows = sum(1 for row in mega_rows if row.get("source_key") == "manual_curation")
+    items_by_source: dict[str, int] = {}
+    for row in items_catalog.values():
+        items_by_source[row.get("source_key", "unknown")] = items_by_source.get(row.get("source_key", "unknown"), 0) + 1
+    active_season = next((season for season in seasons_dataset if season.get("isActive")), {})
+
+    return {
+        "generated_at": TODAY,
+        "season_key": SEASON_KEY,
+        "season_name": season_info["season_name"],
+        "season_dates": {
+            "start_date": parse_human_date(season_info["start_date_human"]),
+            "end_date": parse_human_date(season_info["end_date_human"]),
+            "regulation_until": parse_human_date(season_info["regulation_until_human"]),
+        },
+        "source_health": {
+            "championslab_bundle_url": bundle_url,
+            "championslab_home_expected_roster_count": season_info["roster_count"],
+            "championslab_home_extracted_roster_count": len(pokemon_rows),
+            "championslab_pokedex_entries": len(pokedex_entries),
+            "championslab_setdex_groups": len(setdex_entries),
+            "championslab_active_seasons_in_bundle": len(seasons_dataset),
+            "championslab_active_season_match": active_season.get("name", ""),
+            "bulbapedia_parse_method": bulba_parse_method,
+            "bulbapedia_roster_rows": int(len(roster_table)),
+            "bulbapedia_mega_rows": int(len(mega_table)),
+        },
+        "dataset_metrics": {
+            "pokemon_rows": len(pokemon_rows),
+            "tiers_rows": len(tiers_rows),
+            "mega_rows": len(mega_rows),
+            "abilities_catalog_rows": len(abilities_catalog),
+            "moves_catalog_rows": len(moves_catalog),
+            "items_catalog_rows": len(items_catalog),
+            "pokemon_abilities_rows": len(pokemon_abilities_rows),
+            "pokemon_moves_rows": len(pokemon_moves_rows),
+            "pokemon_move_pool_rows": move_pool_rows,
+            "pokemon_observed_set_rows": observed_set_rows,
+            "speed_profiles_rows": len(speed_rows),
+            "manual_curation_mega_rows": fallback_mega_rows,
+        },
+        "automation_signals": {
+            "items_by_source": items_by_source,
+            "has_bulbapedia_fallback_parser": bulba_parse_method != "pandas_read_html",
+            "manual_curation_mega_ratio": round(fallback_mega_rows / len(mega_rows), 4) if mega_rows else 0,
+            "observed_set_move_ratio": round(observed_set_rows / move_pool_rows, 4) if move_pool_rows else 0,
+        },
+    }
+
+
 def main() -> None:
     session = requests.Session()
     roster_cards, season_info = fetch_championslab_home(session)
-    roster_table, mega_table, bulba_roster_until = fetch_bulbapedia_tables(session)
-    pokedex_entries, setdex_entries = fetch_championslab_datasets(session)
+    roster_table, mega_table, bulba_roster_until, bulba_parse_method = fetch_bulbapedia_tables(session)
+    pokedex_entries, setdex_entries, seasons_dataset, bundle_url = fetch_championslab_datasets(session)
     entry_by_name, entries_by_dex, mega_lookup = build_champions_entry_index(pokedex_entries)
     observed_sets_by_name = build_observed_sets_by_name(setdex_entries, pokedex_entries)
     availability_lookup = build_bulbapedia_availability(roster_table)
@@ -963,20 +1104,21 @@ def main() -> None:
             }
         )
 
+    season_rule_data = parse_season_rules(seasons_dataset)
     seasons_rows = [
         {
             "season_key": SEASON_KEY,
             "season_name": season_info["season_name"],
-            "start_date": "2026-04-08",
-            "end_date": "2026-05-13",
+            "start_date": parse_human_date(season_info["start_date_human"]),
+            "end_date": parse_human_date(season_info["end_date_human"]),
             "battle_format": "Doubles",
-            "bring_pick_rule": "Ranked Battles current regulation",
-            "level_rule": "50",
-            "mega_allowed": 1,
-            "duplicate_pokemon_allowed": 0,
-            "duplicate_items_allowed": 0,
-            "timer_minutes": 10,
-            "notes": f"Champions Lab shows regulation until {season_info['regulation_until_human']}. Bulbapedia current roster text states current roster until {bulba_roster_until}.",
+            "bring_pick_rule": season_rule_data["bring_pick_rule"],
+            "level_rule": season_rule_data["level_rule"],
+            "mega_allowed": season_rule_data["mega_allowed"],
+            "duplicate_pokemon_allowed": season_rule_data["duplicate_pokemon_allowed"],
+            "duplicate_items_allowed": season_rule_data["duplicate_items_allowed"],
+            "timer_minutes": season_rule_data["timer_minutes"],
+            "notes": f"Champions Lab rules: {season_rule_data['rules_source_text']}. Regulation until {season_info['regulation_until_human']}. Bulbapedia current roster text states current roster until {bulba_roster_until}.",
             "source_key": "championslab",
         }
     ]
@@ -1005,6 +1147,27 @@ def main() -> None:
     for filename, fieldnames in empty_relation_headers.items():
         write_csv(RAW / filename, fieldnames, [])
 
+    sync_summary = build_sync_summary(
+        season_info=season_info,
+        seasons_dataset=seasons_dataset,
+        bundle_url=bundle_url,
+        bulba_parse_method=bulba_parse_method,
+        roster_table=roster_table,
+        mega_table=mega_table,
+        pokedex_entries=pokedex_entries,
+        setdex_entries=setdex_entries,
+        pokemon_rows=pokemon_rows,
+        tiers_rows=tiers_rows,
+        mega_rows=mega_rows,
+        abilities_catalog=abilities_catalog,
+        moves_catalog=moves_catalog,
+        items_catalog=items_catalog,
+        pokemon_abilities_rows=pokemon_abilities_rows,
+        pokemon_moves_rows=pokemon_moves_rows,
+        speed_rows=speed_rows,
+    )
+    write_json(BUILD / "sync_summary.json", sync_summary)
+
     print(f"[OK] Roster actual sincronizado: {len(pokemon_rows)} Pokemon legales")
     print(f"[OK] Tiers actuales sincronizados: {len(tiers_rows)} filas")
     print(f"[OK] Stats base sincronizados: {len(stats_rows)} filas")
@@ -1014,6 +1177,7 @@ def main() -> None:
     print(f"[OK] Relaciones de movimientos sincronizadas: {len(pokemon_moves_rows)} filas")
     print(f"[OK] Catalogo de objetos sincronizado: {len(items_catalog)} objetos")
     print(f"[OK] Megas legales sincronizadas: {len(mega_rows)} filas")
+    print(f"[OK] Resumen de sincronizacion generado: {BUILD / 'sync_summary.json'}")
     print("[INFO] Tablas curadas por Pokemon reiniciadas; la capa competitiva se deriva en el siguiente paso")
 
 

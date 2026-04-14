@@ -39,6 +39,14 @@ Este paquete incluye:
 - scripts esqueleto para construir la BD correctamente
 
 ## Flujo recomendado en Codex
+Comando operativo principal:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\release_bundle.ps1
+```
+
+Desglose del flujo:
+
 1. Revisar `docs/specifications.md`
 2. Revisar `docs/validation_report.md`
 3. Revisar `docs/automation_review.md`

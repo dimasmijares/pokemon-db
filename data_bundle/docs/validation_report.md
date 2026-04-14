@@ -13,6 +13,10 @@ La estructura de la BD ya está alineada con la especificación funcional base:
 
 El estado actual es **estructuralmente válido**, con avisos pendientes de **cobertura de datos**.
 Tras la sincronización del 13 de abril de 2026, la cobertura del roster legal actual ya es completa en `pokemon`, `stats_base`, `tiers` y `speed_profiles`.
+Además, el flujo semiautomático deja ahora dos resúmenes operativos:
+
+- `data_build/sync_summary.json`
+- `data_build/validation_summary.json`
 
 ## Comandos ejecutados
 
@@ -29,6 +33,7 @@ powershell -ExecutionPolicy Bypass -File scripts\release_bundle.ps1
 - `species_key` se repite en 16 especies con formas; debe interpretarse junto con `form_key`
 - `pokemon_moves` mezcla dos capas confirmadas de Champions: `champions_move_pool` y `observed_set`; no deben interpretarse como la misma semántica
 - `pokemon_roles`, `pokemon_archetypes`, `cores` y `matchups` ya se cargan, pero como capa derivada y no como dato oficial del juego
+- Bulbapedia se extrae hoy con parser fallback de bloques de texto; el pipeline lo detecta explícitamente y lo deja reflejado en el resumen de sincronización
 
 ## Comprobaciones que ya pasan
 
@@ -92,6 +97,13 @@ powershell -ExecutionPolicy Bypass -File scripts\release_bundle.ps1
 - `v_trick_room_candidates`: 62 filas
 - `v_charizard_answers`: 3 filas
 
+## Salvaguardas nuevas del pipeline
+- validación explícita del método de extracción de Bulbapedia
+- validación de coherencia entre el roster esperado en Champions Lab y el roster realmente extraído
+- validación de existencia de `champions_move_pool` y `observed_set`
+- comparación contra `data_build/validation_summary.json` previo para detectar regresiones fuertes en métricas clave
+- separación entre errores críticos y warnings asumibles en un flujo semiautomático
+
 ## Correcciones aplicadas
 
 1. Se unificó el modelo relacional en `pokemon_id`.
@@ -121,6 +133,10 @@ powershell -ExecutionPolicy Bypass -File scripts\release_bundle.ps1
 16. Se reajustó `v_move_users` para devolver una sola fila por movimiento, separando `move_pool_user_count` y `observed_set_user_count`.
 17. Se endureció `scripts/build_db.py` para reconstruir el esquema incluso cuando Windows mantiene bloqueada la SQLite durante el borrado del archivo.
 18. Se refinó la capa derivada para dar más peso a movimientos realmente observados en sets actuales al asignar ciertos roles competitivos.
+19. Se desacopló la extracción del bundle de Champions Lab de ids de módulo fijos y se pasó a resolver chunks candidatos con validación estructural.
+20. Se pasó `seasons_rules` a derivar también las reglas visibles del dataset activo de Champions Lab, reduciendo hardcodes en la tabla.
+21. Se añadió `data_build/sync_summary.json` para dejar métricas y método de extracción por fuente en cada ejecución.
+22. Se añadió `data_build/validation_summary.json` para comparar la ejecución actual con la anterior y detectar regresiones silenciosas.
 
 ## Trabajo pendiente
 

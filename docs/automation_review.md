@@ -13,6 +13,11 @@ La BD ya puede reconstruirse con datos actuales del formato usando un flujo repr
 5. `scripts/export_views.py`
 6. `scripts/build_data_bundle.py`
 
+Además del flujo principal, cada ejecución deja dos artefactos útiles para supervisión y futura automatización gratuita:
+
+- `data_build/sync_summary.json`
+- `data_build/validation_summary.json`
+
 La parte estable del modelo ya está automatizada o semiautomatizada. La parte cambiante del metajuego se ha separado:
 
 - `pokemon`, `tiers` y `seasons_rules` se sincronizan contra fuentes actuales.
@@ -42,9 +47,10 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - Estado: correcto
 
 #### `seasons_rules`
-- Método actual: scraping ligero de Champions Lab para temporada activa y fechas visibles
+- Método actual: extracción de temporada activa y reglas visibles desde Champions Lab, combinando HTML y dataset del bundle principal
 - Fuente: Champions Lab
 - Estado: correcto
+- Mejora aplicada: `bring_pick_rule`, `level_rule`, duplicados, `mega_allowed` y timer ya no quedan hardcodeados si el dataset activo trae esa información
 - Nota: el campo `notes` conserva la discrepancia observada entre `Regulation Until` en Champions Lab y `current roster until` en Bulbapedia
 
 #### `pokemon`
@@ -100,7 +106,7 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - Fuente: Bulbapedia + Champions Lab
 - Estado: correcto
 - Cobertura actual: 59 megas legales
-- Riesgo: el nombre de algunas piedras mega personalizadas sigue usando fallback manual si el bundle cambia el etiquetado
+- Mejora aplicada: el pipeline registra en `sync_summary.json` cuántas megas han necesitado fallback manual; hoy son `0`
 
 #### `pokemon_moves`
 - Método actual: move pool confirmado desde la Pokédex actual de Champions Lab, con una segunda capa de movimientos observados en sets
@@ -108,6 +114,7 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - Estado: correcto para Champions actual
 - Cobertura actual: 14.172 relaciones
 - Consecuencia: `v_move_users` ya devuelve una fila por movimiento y separa `move_pool_user_count`, `observed_set_user_count` y `observed_set_coverage_pct`
+- Mejora aplicada: el extractor del bundle de Champions Lab ya no depende de ids de módulo fijos; resuelve chunks candidatos y valida la estructura real de los bloques extraídos
 
 ### Tablas derivadas con automatización controlada
 
@@ -122,13 +129,13 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - Método actual: derivación desde equipos curados, core pairs y señales de clima/TR/Tailwind
 - Fuente: Champions Lab Meta + reglas internas
 - Estado: útil para clasificación funcional
-- Cobertura actual: 226 relaciones
+- Cobertura actual: 224 relaciones
 
 #### `matchups`
 - Método actual: derivación de checks y soft checks para amenazas S/A usando tipado, bulk y cobertura
 - Fuente: Champions Lab + tiers actuales + reglas internas
 - Estado: orientativo, con confianza explícita
-- Cobertura actual: 48 relaciones
+- Cobertura actual: 168 relaciones
 
 ### Tablas que pueden poblarse manualmente o con extracción controlada
 
@@ -179,6 +186,7 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 1. Mantener `pokemon`, `tiers` y `seasons_rules` desde Champions Lab mientras siga renderizando HTML estático.
 2. Mantener `stats_base`, `pokemon_abilities`, `moves` y `speed_profiles` desde la Pokédex actual de Champions Lab.
 3. Mantener `mega_forms` comparando Bulbapedia con seed local hasta encontrar una fuente mejor para megas personalizadas.
+4. Usar `data_build/sync_summary.json` y `data_build/validation_summary.json` como base para una futura automatización gratuita en GitHub Actions sin rediseñar el pipeline.
 
 ### Posible, pero con más trabajo
 1. Elevar de `observed_set` a métricas de uso reales por movimiento si Champions Lab expone una API más estable.
@@ -203,7 +211,17 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - `pokemon_roles`: 512
 - `pokemon_archetypes`: 224
 - `cores`: 6
-- `matchups`: 48
+- `matchups`: 168
+
+## Señales operativas nuevas
+- `data_build/sync_summary.json` resume por ejecución:
+  - fuente y método de extracción por origen
+  - cobertura por dataset
+  - ratios útiles para alertas futuras
+- `data_build/validation_summary.json` resume:
+  - métricas clave del estado actual
+  - warnings y fallos
+  - comparativa contra la ejecución anterior para detectar regresiones silenciosas
 
 ## Siguiente mejora recomendada
 La siguiente mejora con mejor retorno es reforzar la trazabilidad de la capa derivada:

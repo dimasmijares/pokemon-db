@@ -1,6 +1,6 @@
 source_key,source_name,source_type,url,trust_level,last_checked_at,license_notes,notes
-pokemon_champions_official,Pokemon Champions Official,official,https://champions.pokemon.com/es-es/gameplay/,high,2026-04-13,,"Gameplay overview confirming Ranked Battles, Mega Evolution in the first regulation and rotating regulations."
-championslab,Champions Lab,meta_site,https://championslab.xyz/,medium,2026-04-13,,"Used for current season, visible roster tiers, current Pokedex move pools, current ability pools and observed set data."
-bulbapedia,Bulbapedia,fan_db,https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_in_Pok%C3%A9mon_Champions,medium,2026-04-13,CC BY-NC-SA 2.5,Used for current roster availability notes and current legal Mega Evolution list.
-pokeapi,PokeAPI,fan_db,https://pokeapi.co/docs,medium,2026-04-13,CC BY-SA 4.0,"Used for species flags, generation data, localized names and standard item fallbacks."
-manual_curation,Manual Curation,manual_curation,,low,2026-04-13,,Used only for fallback mega stone naming when no cleaner structured source is available.
+pokemon_champions_official,Pokemon Champions Official,official,https://champions.pokemon.com/es-es/gameplay/,high,2026-04-14,,"Gameplay overview confirming Ranked Battles, Mega Evolution in the first regulation and rotating regulations."
+championslab,Champions Lab,meta_site,https://championslab.xyz/,medium,2026-04-14,,"Used for current season, visible roster tiers, current Pokedex move pools, current ability pools and observed set data."
+bulbapedia,Bulbapedia,fan_db,https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_in_Pok%C3%A9mon_Champions,medium,2026-04-14,CC BY-NC-SA 2.5,Used for current roster availability notes and current legal Mega Evolution list.
+pokeapi,PokeAPI,fan_db,https://pokeapi.co/docs,medium,2026-04-14,CC BY-SA 4.0,"Used for species flags, generation data, localized names and standard item fallbacks."
+manual_curation,Manual Curation,manual_curation,,low,2026-04-14,,Used only for fallback mega stone naming when no cleaner structured source is available.

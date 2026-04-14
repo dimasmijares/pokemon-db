@@ -1,9 +1,12 @@
 from pathlib import Path
 import csv
+import json
 import sys
+from typing import Optional
 
 BASE = Path(__file__).resolve().parents[1]
 RAW = BASE / "data_raw"
+BUILD = BASE / "data_build"
 
 
 def read_csv(csv_name: str) -> list[dict[str, str]]:
@@ -35,6 +38,18 @@ def orphan_count(rows: list[dict[str, str]], key: str, valid_keys: set[str]) -> 
 
 def print_section(title: str) -> None:
     print(f"\n{title}")
+
+
+def load_json(path: Path) -> Optional[dict]:
+    if not path.exists():
+        return None
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def percent_drop(previous: int, current: int) -> float:
+    if previous <= 0:
+        return 0.0
+    return (previous - current) / previous
 
 
 def main() -> int:
@@ -75,6 +90,8 @@ def main() -> int:
 
     failures: list[str] = []
     warnings: list[str] = []
+    sync_summary = load_json(BUILD / "sync_summary.json")
+    previous_summary = load_json(BUILD / "validation_summary.json")
 
     print_section("Validaciones de claves")
     pokemon_id_duplicates = duplicate_values(pokemon_rows, ["pokemon_id"])
@@ -185,6 +202,96 @@ def main() -> int:
         warnings.append("cobertura de tiers incompleta")
     if speed_coverage < legal_pokemon_count:
         warnings.append("cobertura de speed profiles incompleta")
+
+    print_section("Validaciones de scraping")
+    if not sync_summary:
+        warnings.append("falta data_build/sync_summary.json; no hay trazabilidad de scraping")
+        print("- WARN: falta data_build/sync_summary.json")
+    else:
+        source_health = sync_summary.get("source_health", {})
+        dataset_metrics = sync_summary.get("dataset_metrics", {})
+        automation_signals = sync_summary.get("automation_signals", {})
+
+        home_expected = int(source_health.get("championslab_home_expected_roster_count") or 0)
+        home_actual = int(source_health.get("championslab_home_extracted_roster_count") or 0)
+        if home_expected and home_expected != home_actual:
+            failures.append("Champions Lab roster count no coincide con lo esperado")
+            print(f"- FAIL: Champions Lab roster count {home_actual}/{home_expected}")
+        else:
+            print(f"- OK: Champions Lab roster count {home_actual}/{home_expected}")
+
+        bulba_parse_method = source_health.get("bulbapedia_parse_method", "")
+        print(f"- INFO: Bulbapedia parse method = {bulba_parse_method}")
+        if automation_signals.get("has_bulbapedia_fallback_parser"):
+            warnings.append("Bulbapedia se extrajo con parser fallback de bloques de texto")
+
+        if int(source_health.get("championslab_pokedex_entries") or 0) < legal_pokemon_count:
+            failures.append("Pokédex de Champions Lab insuficiente para el roster actual")
+            print("- FAIL: pokedex entries de Champions Lab por debajo del roster legal")
+        else:
+            print(f"- OK: pokedex entries de Champions Lab = {source_health.get('championslab_pokedex_entries')}")
+
+        if int(dataset_metrics.get("pokemon_move_pool_rows") or 0) <= 0:
+            failures.append("pokemon_moves sin capa champions_move_pool")
+            print("- FAIL: pokemon_moves sin champions_move_pool")
+        else:
+            print(f"- OK: champions_move_pool rows = {dataset_metrics.get('pokemon_move_pool_rows')}")
+
+        if int(dataset_metrics.get("pokemon_observed_set_rows") or 0) <= 0:
+            warnings.append("pokemon_moves sin observed_set")
+            print("- WARN: pokemon_moves sin observed_set")
+        else:
+            print(f"- OK: observed_set rows = {dataset_metrics.get('pokemon_observed_set_rows')}")
+
+        manual_mega_ratio = float(automation_signals.get("manual_curation_mega_ratio") or 0)
+        if manual_mega_ratio > 0.35:
+            warnings.append("exceso de megas con fallback manual")
+            print(f"- WARN: manual_curation_mega_ratio = {manual_mega_ratio:.2%}")
+        else:
+            print(f"- OK: manual_curation_mega_ratio = {manual_mega_ratio:.2%}")
+
+    print_section("Comparativa con ejecución anterior")
+    current_summary = {
+        "generated_at": (sync_summary or {}).get("generated_at", ""),
+        "season_key": current_season,
+        "metrics": {
+            "legal_pokemon_count": legal_pokemon_count,
+            "stats_coverage": stats_coverage,
+            "tier_coverage_doubles_current": tier_coverage,
+            "speed_coverage_doubles_current": speed_coverage,
+            "mega_forms_count": len(mega_rows),
+            "moves_catalog_count": len(moves_rows),
+            "pokemon_moves_count": len(pokemon_moves_rows),
+            "champions_move_pool_count": sum(1 for row in pokemon_moves_rows if row.get("availability_status") == "champions_move_pool"),
+            "observed_set_count": sum(1 for row in pokemon_moves_rows if row.get("availability_status") == "observed_set"),
+            "matchups_count": len(matchups_rows),
+        },
+        "warnings": warnings,
+        "failures": failures,
+        "sync_summary": sync_summary or {},
+    }
+    if previous_summary and previous_summary.get("metrics"):
+        for metric_name, current_value in current_summary["metrics"].items():
+            previous_value = int(previous_summary["metrics"].get(metric_name) or 0)
+            if previous_value <= 0:
+                continue
+            drop = percent_drop(previous_value, int(current_value))
+            if drop > 0.25:
+                failures.append(f"regresión fuerte en {metric_name}: {current_value}/{previous_value}")
+                print(f"- FAIL: {metric_name} cayó a {current_value} desde {previous_value}")
+            elif drop > 0.10:
+                warnings.append(f"regresión moderada en {metric_name}: {current_value}/{previous_value}")
+                print(f"- WARN: {metric_name} cayó a {current_value} desde {previous_value}")
+            else:
+                print(f"- OK: {metric_name} = {current_value} (previo {previous_value})")
+    else:
+        print("- INFO: no hay validation_summary.json previo para comparar")
+
+    BUILD.mkdir(parents=True, exist_ok=True)
+    (BUILD / "validation_summary.json").write_text(
+        json.dumps(current_summary, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     print_section("Resultado")
     if failures:
