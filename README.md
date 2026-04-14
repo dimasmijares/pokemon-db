@@ -23,6 +23,22 @@ Montar una BD que permita responder preguntas como:
 - si la web necesita nuevos campos, vistas o exports, el cambio debe hacerse aquí primero
 - `pokemon-app` debe consumir este contrato, no redefinirlo
 
+## Flujo entre repos
+- `pokemon-db` produce el contrato (`data_bundle/`) y `pokemon-app` lo consume
+- `pokemon-app` debe devolver peticiones concretas cuando el bundle no permita resolver bien una necesidad de producto
+- esas peticiones deben traducirse aquí en cambios de datos, vistas, exports o documentación del contrato
+- cuando se pida un prompt en este repo para responder a una necesidad detectada en `pokemon-app`, conviene incluir:
+  - objetivo de producto
+  - límite concreto detectado en la app
+  - campo, vista o export que falta o es insuficiente
+  - resultado esperado en el bundle
+
+### Plantilla breve de petición upstream
+- contexto: qué pantalla o funcionalidad de `pokemon-app` ha encontrado el límite
+- gap actual: qué dato falta o qué dato no está suficientemente expuesto
+- cambio pedido: nuevo campo, vista, export o mejora de documentación
+- criterio de aceptación: cómo sabremos que `pokemon-app` ya puede resolverlo sin heurísticas locales
+
 ## Estructura del proyecto
 - raíz del repo: proyecto operativo y raíz Git real
 - `data_raw/`: fuentes editables en CSV
