@@ -1,0 +1,209 @@
+pokemon_id,dex_number,species_key,form_key,name_en,name_es,form_name_en,form_name_es,type1_key,type2_key,generation,is_legendary,is_mythical,has_mega,mega_key,is_currently_legal,season_key,tier_current,tier_source_key,roster_source_key,format_availability,notes
+3,3,venusaur,,Venusaur,Venusaur,,,grass,poison,1,0,0,1,mega-venusaur,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+6,6,charizard,,Charizard,Charizard,,,fire,flying,1,0,0,1,mega-charizard-x,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+9,9,blastoise,,Blastoise,Blastoise,,,water,,1,0,0,1,mega-blastoise,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+15,15,beedrill,,Beedrill,Beedrill,,,bug,poison,1,0,0,1,mega-beedrill,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+18,18,pidgeot,,Pidgeot,Pidgeot,,,normal,flying,1,0,0,1,mega-pidgeot,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+24,24,arbok,,Arbok,Arbok,,,poison,,1,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+25,25,pikachu,,Pikachu,Pikachu,,,electric,,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+26,26,raichu,,Raichu,Raichu,,,electric,,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+36,36,clefable,,Clefable,Clefable,,,fairy,,1,0,0,1,mega-clefable,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+38,38,ninetales,,Ninetales,Ninetales,,,fire,,1,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+59,59,arcanine,,Arcanine,Arcanine,,,fire,,1,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+65,65,alakazam,,Alakazam,Alakazam,,,psychic,,1,0,0,1,mega-alakazam,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+68,68,machamp,,Machamp,Machamp,,,fighting,,1,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+71,71,victreebel,,Victreebel,Victreebel,,,grass,poison,1,0,0,1,mega-victreebel,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+80,80,slowbro,,Slowbro,Slowbro,,,water,psychic,1,0,0,1,mega-slowbro,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+94,94,gengar,,Gengar,Gengar,,,ghost,poison,1,0,0,1,mega-gengar,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+115,115,kangaskhan,,Kangaskhan,Kangaskhan,,,normal,,1,0,0,1,mega-kangaskhan,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+121,121,starmie,,Starmie,Starmie,,,water,psychic,1,0,0,1,mega-starmie,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+127,127,pinsir,,Pinsir,Pinsir,,,bug,,1,0,0,1,mega-pinsir,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+128,128,tauros,,Tauros,Tauros,,,normal,,1,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+130,130,gyarados,,Gyarados,Gyarados,,,water,flying,1,0,0,1,mega-gyarados,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+132,132,ditto,,Ditto,Ditto,,,normal,,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+134,134,vaporeon,,Vaporeon,Vaporeon,,,water,,1,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+135,135,jolteon,,Jolteon,Jolteon,,,electric,,1,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+136,136,flareon,,Flareon,Flareon,,,fire,,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+142,142,aerodactyl,,Aerodactyl,Aerodactyl,,,rock,flying,1,0,0,1,mega-aerodactyl,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+143,143,snorlax,,Snorlax,Snorlax,,,normal,,1,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+149,149,dragonite,,Dragonite,Dragonite,,,dragon,flying,1,0,0,1,mega-dragonite,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+154,154,meganium,,Meganium,Meganium,,,grass,,2,0,0,1,mega-meganium,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+157,157,typhlosion,,Typhlosion,Typhlosion,,,fire,,2,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+160,160,feraligatr,,Feraligatr,Feraligatr,,,water,,2,0,0,1,mega-feraligatr,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+168,168,ariados,,Ariados,Ariados,,,bug,poison,2,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+181,181,ampharos,,Ampharos,Ampharos,,,electric,,2,0,0,1,mega-ampharos,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+184,184,azumarill,,Azumarill,Azumarill,,,water,fairy,2,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+186,186,politoed,,Politoed,Politoed,,,water,,2,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+196,196,espeon,,Espeon,Espeon,,,psychic,,2,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+197,197,umbreon,,Umbreon,Umbreon,,,dark,,2,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+199,199,slowking,,Slowking,Slowking,,,water,psychic,2,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+205,205,forretress,,Forretress,Forretress,,,bug,steel,2,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+208,208,steelix,,Steelix,Steelix,,,steel,ground,2,0,0,1,mega-steelix,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+212,212,scizor,,Scizor,Scizor,,,bug,steel,2,0,0,1,mega-scizor,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+214,214,heracross,,Heracross,Heracross,,,bug,fighting,2,0,0,1,mega-heracross,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+227,227,skarmory,,Skarmory,Skarmory,,,steel,flying,2,0,0,1,mega-skarmory,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+229,229,houndoom,,Houndoom,Houndoom,,,dark,fire,2,0,0,1,mega-houndoom,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+248,248,tyranitar,,Tyranitar,Tyranitar,,,rock,dark,2,0,0,1,mega-tyranitar,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+279,279,pelipper,,Pelipper,Pelipper,,,water,flying,3,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+282,282,gardevoir,,Gardevoir,Gardevoir,,,psychic,fairy,3,0,0,1,mega-gardevoir,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+302,302,sableye,,Sableye,Sableye,,,dark,ghost,3,0,0,1,mega-sableye,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+306,306,aggron,,Aggron,Aggron,,,steel,rock,3,0,0,1,mega-aggron,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+308,308,medicham,,Medicham,Medicham,,,fighting,psychic,3,0,0,1,mega-medicham,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+310,310,manectric,,Manectric,Manectric,,,electric,,3,0,0,1,mega-manectric,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+319,319,sharpedo,,Sharpedo,Sharpedo,,,water,dark,3,0,0,1,mega-sharpedo,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+323,323,camerupt,,Camerupt,Camerupt,,,fire,ground,3,0,0,1,mega-camerupt,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+324,324,torkoal,,Torkoal,Torkoal,,,fire,,3,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+334,334,altaria,,Altaria,Altaria,,,dragon,flying,3,0,0,1,mega-altaria,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+350,350,milotic,,Milotic,Milotic,,,water,,3,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+351,351,castform,,Castform,Castform,,,normal,,3,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+354,354,banette,,Banette,Banette,,,ghost,,3,0,0,1,mega-banette,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+358,358,chimecho,,Chimecho,Chimecho,,,psychic,,3,0,0,1,mega-chimecho,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+359,359,absol,,Absol,Absol,,,dark,,3,0,0,1,mega-absol,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+362,362,glalie,,Glalie,Glalie,,,ice,,3,0,0,1,mega-glalie,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+389,389,torterra,,Torterra,Torterra,,,grass,ground,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+392,392,infernape,,Infernape,Infernape,,,fire,fighting,4,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+395,395,empoleon,,Empoleon,Empoleon,,,water,steel,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+405,405,luxray,,Luxray,Luxray,,,electric,,4,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+407,407,roserade,,Roserade,Roserade,,,grass,poison,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+409,409,rampardos,,Rampardos,Rampardos,,,rock,,4,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+411,411,bastiodon,,Bastiodon,Bastiodon,,,rock,steel,4,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+428,428,lopunny,,Lopunny,Lopunny,,,normal,,4,0,0,1,mega-lopunny,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+442,442,spiritomb,,Spiritomb,Spiritomb,,,ghost,dark,4,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+445,445,garchomp,,Garchomp,Garchomp,,,dragon,ground,4,0,0,1,mega-garchomp,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+448,448,lucario,,Lucario,Lucario,,,fighting,steel,4,0,0,1,mega-lucario,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+450,450,hippowdon,,Hippowdon,Hippowdon,,,ground,,4,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+454,454,toxicroak,,Toxicroak,Toxicroak,,,poison,fighting,4,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+460,460,abomasnow,,Abomasnow,Abomasnow,,,grass,ice,4,0,0,1,mega-abomasnow,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+461,461,weavile,,Weavile,Weavile,,,dark,ice,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+464,464,rhyperior,,Rhyperior,Rhyperior,,,ground,rock,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+470,470,leafeon,,Leafeon,Leafeon,,,grass,,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+471,471,glaceon,,Glaceon,Glaceon,,,ice,,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+472,472,gliscor,,Gliscor,Gliscor,,,ground,flying,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+473,473,mamoswine,,Mamoswine,Mamoswine,,,ice,ground,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+475,475,gallade,,Gallade,Gallade,,,psychic,fighting,4,0,0,1,mega-gallade,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+478,478,froslass,,Froslass,Froslass,,,ice,ghost,4,0,0,1,mega-froslass,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+479,479,rotom,,Rotom,Rotom,,,electric,ghost,4,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+497,497,serperior,,Serperior,Serperior,,,grass,,5,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+500,500,emboar,,Emboar,Emboar,,,fire,fighting,5,0,0,1,mega-emboar,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+503,503,samurott,,Samurott,Samurott,,,water,,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+505,505,watchog,,Watchog,Watchog,,,normal,,5,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+510,510,liepard,,Liepard,Liepard,,,dark,,5,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+512,512,simisage,,Simisage,Simisage,,,grass,,5,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+514,514,simisear,,Simisear,Simisear,,,fire,,5,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+516,516,simipour,,Simipour,Simipour,,,water,,5,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+530,530,excadrill,,Excadrill,Excadrill,,,ground,steel,5,0,0,1,mega-excadrill,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+531,531,audino,,Audino,Audino,,,normal,,5,0,0,1,mega-audino,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+534,534,conkeldurr,,Conkeldurr,Conkeldurr,,,fighting,,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+547,547,whimsicott,,Whimsicott,Whimsicott,,,grass,fairy,5,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+553,553,krookodile,,Krookodile,Krookodile,,,ground,dark,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+563,563,cofagrigus,,Cofagrigus,Cofagrigus,,,ghost,,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+569,569,garbodor,,Garbodor,Garbodor,,,poison,,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+571,571,zoroark,,Zoroark,Zoroark,,,dark,,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+579,579,reuniclus,,Reuniclus,Reuniclus,,,psychic,,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+584,584,vanilluxe,,Vanilluxe,Vanilluxe,,,ice,,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+587,587,emolga,,Emolga,Emolga,,,electric,flying,5,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+609,609,chandelure,,Chandelure,Chandelure,,,ghost,fire,5,0,0,1,mega-chandelure,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+614,614,beartic,,Beartic,Beartic,,,ice,,5,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+618,618,stunfisk,,Stunfisk,Stunfisk,,,ground,electric,5,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+623,623,golurk,,Golurk,Golurk,,,ground,ghost,5,0,0,1,mega-golurk,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+635,635,hydreigon,,Hydreigon,Hydreigon,,,dark,dragon,5,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+637,637,volcarona,,Volcarona,Volcarona,,,bug,fire,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+652,652,chesnaught,,Chesnaught,Chesnaught,,,grass,fighting,6,0,0,1,mega-chesnaught,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+655,655,delphox,,Delphox,Delphox,,,fire,psychic,6,0,0,1,mega-delphox,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+658,658,greninja,,Greninja,Greninja,,,water,dark,6,0,0,1,mega-greninja,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+660,660,diggersby,,Diggersby,Diggersby,,,normal,ground,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+663,663,talonflame,,Talonflame,Talonflame,,,fire,flying,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+666,666,vivillon,,Vivillon,Vivillon,,,bug,flying,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+670,670,floette,,Floette,Floette,,,fairy,,6,0,0,1,mega-floette,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+671,671,florges,,Florges,Florges,,,fairy,,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+675,675,pangoro,,Pangoro,Pangoro,,,fighting,dark,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+676,676,furfrou,,Furfrou,Furfrou,,,normal,,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+678,678,meowstic,meowstic-m,Meowstic,Meowstic,Meowstic-M,Meowstic-M,psychic,,6,0,0,1,mega-meowstic,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+681,681,aegislash,,Aegislash,Aegislash,,,steel,ghost,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+683,683,aromatisse,,Aromatisse,Aromatisse,,,fairy,,6,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+685,685,slurpuff,,Slurpuff,Slurpuff,,,fairy,,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+693,693,clawitzer,,Clawitzer,Clawitzer,,,water,,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+695,695,heliolisk,,Heliolisk,Heliolisk,,,electric,normal,6,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+697,697,tyrantrum,,Tyrantrum,Tyrantrum,,,rock,dragon,6,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+699,699,aurorus,,Aurorus,Aurorus,,,rock,ice,6,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+700,700,sylveon,,Sylveon,Sylveon,,,fairy,,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+701,701,hawlucha,,Hawlucha,Hawlucha,,,fighting,flying,6,0,0,1,mega-hawlucha,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+702,702,dedenne,,Dedenne,Dedenne,,,electric,fairy,6,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+706,706,goodra,,Goodra,Goodra,,,dragon,,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+707,707,klefki,,Klefki,Klefki,,,steel,fairy,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+709,709,trevenant,,Trevenant,Trevenant,,,ghost,grass,6,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+711,711,gourgeist,,Gourgeist,Gourgeist,,,ghost,grass,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+713,713,avalugg,,Avalugg,Avalugg,,,ice,,6,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+715,715,noivern,,Noivern,Noivern,,,flying,dragon,6,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+724,724,decidueye,,Decidueye,Decidueye,,,grass,ghost,7,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+727,727,incineroar,,Incineroar,Incineroar,,,fire,dark,7,0,0,0,,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+730,730,primarina,,Primarina,Primarina,,,water,fairy,7,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+733,733,toucannon,,Toucannon,Toucannon,,,normal,flying,7,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+740,740,crabominable,,Crabominable,Crabominable,,,fighting,ice,7,0,0,1,mega-crabominable,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+745,745,lycanroc,,Lycanroc,Lycanroc,,,rock,,7,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+748,748,toxapex,,Toxapex,Toxapex,,,poison,water,7,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+750,750,mudsdale,,Mudsdale,Mudsdale,,,ground,,7,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+752,752,araquanid,,Araquanid,Araquanid,,,water,bug,7,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+758,758,salazzle,,Salazzle,Salazzle,,,poison,fire,7,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+763,763,tsareena,,Tsareena,Tsareena,,,grass,,7,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+765,765,oranguru,,Oranguru,Oranguru,,,normal,psychic,7,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+766,766,passimian,,Passimian,Passimian,,,fighting,,7,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+778,778,mimikyu,,Mimikyu,Mimikyu,,,ghost,fairy,7,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+780,780,drampa,,Drampa,Drampa,,,normal,dragon,7,0,0,1,mega-drampa,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+784,784,kommo-o,,Kommo-o,Kommo-o,,,dragon,fighting,7,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+823,823,corviknight,,Corviknight,Corviknight,,,flying,steel,8,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+841,841,flapple,,Flapple,Flapple,,,grass,dragon,8,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+842,842,appletun,,Appletun,Appletun,,,grass,dragon,8,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+844,844,sandaconda,,Sandaconda,Sandaconda,,,ground,,8,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+855,855,polteageist,,Polteageist,Polteageist,,,ghost,,8,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+858,858,hatterene,,Hatterene,Hatterene,,,psychic,fairy,8,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+866,866,mr-rime,,Mr. Rime,Mr. Rime,,,ice,psychic,8,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+867,867,runerigus,,Runerigus,Runerigus,,,ground,ghost,8,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+869,869,alcremie,,Alcremie,Alcremie,,,fairy,,8,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+877,877,morpeko,,Morpeko,Morpeko,,,electric,dark,8,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+887,887,dragapult,,Dragapult,Dragapult,,,dragon,ghost,8,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+899,899,wyrdeer,,Wyrdeer,Wyrdeer,,,normal,psychic,8,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+900,900,kleavor,,Kleavor,Kleavor,,,bug,rock,8,0,0,0,,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+902,902,basculegion,basculegion-m,Basculegion,Basculegion,Basculegion-M,Basculegion-M,water,ghost,8,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+903,903,sneasler,,Sneasler,Sneasler,,,fighting,poison,8,0,0,0,,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+908,908,meowscarada,,Meowscarada,Meowscarada,,,grass,dark,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+911,911,skeledirge,,Skeledirge,Skeledirge,,,fire,ghost,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+914,914,quaquaval,,Quaquaval,Quaquaval,,,water,fighting,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+925,925,maushold,,Maushold,Maushold,,,normal,,9,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+934,934,garganacl,,Garganacl,Garganacl,,,rock,,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+936,936,armarouge,,Armarouge,Armarouge,,,fire,psychic,9,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+937,937,ceruledge,,Ceruledge,Ceruledge,,,fire,ghost,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+939,939,bellibolt,,Bellibolt,Bellibolt,,,electric,,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+952,952,scovillain,,Scovillain,Scovillain,,,grass,fire,9,0,0,1,mega-scovillain,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+956,956,espathra,,Espathra,Espathra,,,psychic,,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+959,959,tinkaton,,Tinkaton,Tinkaton,,,fairy,steel,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+964,964,palafin,,Palafin,Palafin,,,water,,9,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+968,968,orthworm,,Orthworm,Orthworm,,,steel,,9,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+970,970,glimmora,,Glimmora,Glimmora,,,rock,poison,9,0,0,1,mega-glimmora,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+981,981,farigiraf,,Farigiraf,Farigiraf,,,normal,psychic,9,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+983,983,kingambit,,Kingambit,Kingambit,,,dark,steel,9,0,0,0,,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+1013,1013,sinistcha,,Sinistcha,Sinistcha,,,grass,ghost,9,0,0,0,,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+1018,1018,archaludon,,Archaludon,Archaludon,,,steel,dragon,9,0,0,0,,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+1019,1019,hydrapple,,Hydrapple,Hydrapple,,,grass,dragon,9,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10008,479,rotom,heat-rotom,Rotom,Rotom,Heat Rotom,Heat Rotom,electric,fire,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10009,479,rotom,wash-rotom,Rotom,Rotom,Wash Rotom,Wash Rotom,electric,water,4,0,0,0,,1,season_m1_reg_ma,S,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10010,479,rotom,frost-rotom,Rotom,Rotom,Frost Rotom,Frost Rotom,electric,ice,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10011,479,rotom,fan-rotom,Rotom,Rotom,Fan Rotom,Fan Rotom,electric,flying,4,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10012,479,rotom,mow-rotom,Rotom,Rotom,Mow Rotom,Mow Rotom,electric,grass,4,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10100,26,raichu,alolan-raichu,Raichu,Raichu,Alolan Raichu,Alolan Raichu,electric,psychic,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10104,38,ninetales,alolan-ninetales,Ninetales,Ninetales,Alolan Ninetales,Alolan Ninetales,ice,fairy,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10165,80,slowbro,galarian-slowbro,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,poison,psychic,1,0,0,1,mega-slowbro,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10172,199,slowking,galarian-slowking,Slowking,Slowking,Galarian Slowking,Galarian Slowking,poison,psychic,2,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10180,618,stunfisk,galarian-stunfisk,Stunfisk,Stunfisk,Galarian Stunfisk,Galarian Stunfisk,ground,steel,5,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10230,59,arcanine,hisuian-arcanine,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,fire,rock,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10233,157,typhlosion,hisuian-typhlosion,Typhlosion,Typhlosion,Hisuian Typhlosion,Hisuian Typhlosion,fire,ghost,2,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10236,503,samurott,hisuian-samurott,Samurott,Samurott,Hisuian Samurott,Hisuian Samurott,water,dark,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10239,571,zoroark,hisuian-zoroark,Zoroark,Zoroark,Hisuian Zoroark,Hisuian Zoroark,normal,ghost,5,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10242,706,goodra,hisuian-goodra,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,steel,dragon,6,0,0,0,,1,season_m1_reg_ma,A,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10244,724,decidueye,hisuian-decidueye,Decidueye,Decidueye,Hisuian Decidueye,Hisuian Decidueye,grass,fighting,7,0,0,0,,1,season_m1_reg_ma,C,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10245,713,avalugg,hisuian-avalugg,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,ice,rock,6,0,0,0,,1,season_m1_reg_ma,D,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10250,128,tauros,paldean-tauros,Tauros,Tauros,Paldean Tauros,Paldean Tauros,fighting,,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10251,128,tauros,paldean-tauros-blaze,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),fighting,fire,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10252,128,tauros,paldean-tauros-aqua,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),fighting,water,1,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10678,678,meowstic,meowstic-f,Meowstic,Meowstic,Meowstic-F,Meowstic-F,psychic,,6,0,0,1,mega-meowstic,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.
+10902,902,basculegion,basculegion-f,Basculegion,Basculegion,Basculegion-F,Basculegion-F,water,ghost,8,0,0,0,,1,season_m1_reg_ma,B,championslab,championslab,standard,Roster legal in current Champions Lab active regulation.

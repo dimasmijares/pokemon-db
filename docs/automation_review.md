@@ -1,7 +1,7 @@
 # Revisión de automatización y carga
 
 ## Fecha de revisión
-2026-04-13
+2026-04-14
 
 ## Resumen ejecutivo
 La BD ya puede reconstruirse con datos actuales del formato usando un flujo reproducible:
@@ -11,6 +11,7 @@ La BD ya puede reconstruirse con datos actuales del formato usando un flujo repr
 3. `scripts/validate_data.py`
 4. `scripts/build_db.py`
 5. `scripts/export_views.py`
+6. `scripts/build_data_bundle.py`
 
 La parte estable del modelo ya está automatizada o semiautomatizada. La parte cambiante del metajuego se ha separado:
 

@@ -8,6 +8,7 @@ import re
 
 import pandas as pd
 import requests
+from bs4 import BeautifulSoup
 
 BASE = Path(__file__).resolve().parents[1]
 RAW = BASE / "data_raw"
@@ -50,6 +51,27 @@ TYPE_COLORS = {
     "dragon",
     "dark",
     "fairy",
+}
+
+BULBAPEDIA_TYPES = {
+    "Normal",
+    "Fire",
+    "Water",
+    "Electric",
+    "Grass",
+    "Ice",
+    "Fighting",
+    "Poison",
+    "Ground",
+    "Flying",
+    "Psychic",
+    "Bug",
+    "Rock",
+    "Ghost",
+    "Dragon",
+    "Dark",
+    "Steel",
+    "Fairy",
 }
 
 ROLE_ROWS = [
@@ -249,12 +271,84 @@ def fetch_bulbapedia_tables(session: requests.Session) -> tuple[pd.DataFrame, pd
     tables = pd.read_html(StringIO(html))
     roster_table = tables[0]
     mega_table = tables[1]
+    if roster_table.empty or "Ndex" not in roster_table.columns or mega_table.empty or "Ndex" not in mega_table.columns:
+        roster_table, mega_table = parse_bulbapedia_text_tables(html)
     current_roster_match = re.search(
         r"Until ([A-Za-z]+ \d{1,2}, \d{4}), the current roster is ([^.]+)\.",
         html,
     )
     current_roster_until = current_roster_match.group(1) if current_roster_match else ""
     return roster_table, mega_table, current_roster_until
+
+
+def parse_bulbapedia_text_tables(html: str) -> tuple[pd.DataFrame, pd.DataFrame]:
+    text = BeautifulSoup(html, "html.parser").get_text("\n")
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+
+    blocks: list[list[str]] = []
+    current: list[str] = []
+    for line in lines:
+        if re.fullmatch(r"#\d{4}", line):
+            if current:
+                blocks.append(current)
+            current = [line]
+        elif current:
+            current.append(line)
+    if current:
+        blocks.append(current)
+
+    roster_rows: list[dict[str, str]] = []
+    mega_rows: list[dict[str, str]] = []
+
+    for block in blocks:
+        dex = block[0]
+        tokens = block[1:]
+        i = 0
+        while i < len(tokens):
+            name = tokens[i]
+            i += 1
+            qualifiers: list[str] = []
+            while i < len(tokens) and tokens[i] not in BULBAPEDIA_TYPES:
+                qualifiers.append(tokens[i])
+                i += 1
+
+            if i >= len(tokens):
+                break
+
+            type_values: list[str] = []
+            while i < len(tokens) and tokens[i] in BULBAPEDIA_TYPES:
+                type_values.append(tokens[i].strip().lower())
+                i += 1
+
+            if i >= len(tokens):
+                break
+
+            availability = tokens[i]
+            i += 1
+            if i < len(tokens) and re.fullmatch(r"\d+\.\d+(?:\.\d+)?", tokens[i]):
+                version_added = tokens[i]
+                i += 1
+            else:
+                version_added = ""
+
+            pokemon_label = " ".join([name, *qualifiers]).strip()
+            row = {
+                "Ndex": dex,
+                "Pokémon": pokemon_label,
+                "Type": type_values[0] if type_values else "",
+                "Type.1": type_values[1] if len(type_values) > 1 else "",
+                "Normally available?": availability,
+                "Version added": version_added,
+            }
+            if any(part.startswith("Mega ") for part in qualifiers):
+                mega_rows.append(row)
+            else:
+                roster_rows.append(row)
+
+    if not roster_rows or not mega_rows:
+        raise RuntimeError("No se pudo reconstruir la tabla de Bulbapedia desde el HTML actual")
+
+    return pd.DataFrame(roster_rows), pd.DataFrame(mega_rows)
 
 
 def build_bulbapedia_availability(roster_table: pd.DataFrame) -> dict[tuple[int, str], str]:

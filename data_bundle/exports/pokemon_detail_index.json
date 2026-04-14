@@ -20,7 +20,7 @@
     "abilities": "chlorophyll, overgrow",
     "roles": "Bulky Support",
     "archetypes": "Sun",
-    "tier_value": "B",
+    "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -72,7 +72,7 @@
     "abilities": "rain_dish, torrent",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Rain",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -98,7 +98,7 @@
     "abilities": "sniper, swarm",
     "roles": "Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -124,7 +124,7 @@
     "abilities": "big_pecks, keen_eye, tangled_feet",
     "roles": "Pivot, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -150,7 +150,7 @@
     "abilities": "intimidate, shed_skin, unnerve",
     "roles": "Pivot",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -176,7 +176,7 @@
     "abilities": "lightning_rod, static",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -202,7 +202,7 @@
     "abilities": "lightning_rod, static",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -228,7 +228,7 @@
     "abilities": "cute_charm, magic_guard, unaware",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -254,7 +254,7 @@
     "abilities": "drought, flash_fire",
     "roles": "Bulky Support, Weather Setter",
     "archetypes": "Sun",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -280,7 +280,7 @@
     "abilities": "flash_fire, intimidate, justified",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Offense",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -332,7 +332,7 @@
     "abilities": "guts, no_guard, steadfast",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -358,7 +358,7 @@
     "abilities": "chlorophyll, gluttony",
     "roles": "Wallbreaker",
     "archetypes": "Sun",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -384,7 +384,7 @@
     "abilities": "oblivious, own_tempo, regenerator",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -410,7 +410,7 @@
     "abilities": "cursed_body",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -436,7 +436,7 @@
     "abilities": "early_bird, inner_focus, scrappy",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -462,7 +462,7 @@
     "abilities": "analytic, illuminate, natural_cure",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -488,7 +488,7 @@
     "abilities": "hyper_cutter, mold_breaker, moxie",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -514,7 +514,7 @@
     "abilities": "anger_point, intimidate, sheer_force",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -566,7 +566,7 @@
     "abilities": "imposter, limber",
     "roles": "Bulky Support",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -592,7 +592,7 @@
     "abilities": "hydration, water_absorb",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -618,7 +618,7 @@
     "abilities": "quick_feet, volt_absorb",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -644,7 +644,7 @@
     "abilities": "flash_fire, guts",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -696,7 +696,7 @@
     "abilities": "gluttony, immunity, thick_fat",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -721,8 +721,8 @@
     "bst": 600,
     "abilities": "inner_focus, multiscale",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
-    "archetypes": "Tailwind",
-    "tier_value": "B",
+    "archetypes": "Hyper Offense, Sand, Tailwind",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -748,7 +748,7 @@
     "abilities": "leaf_guard, mega_sol, overgrow",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -774,7 +774,7 @@
     "abilities": "blaze, flash_fire",
     "roles": "Bulky Support",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -800,7 +800,7 @@
     "abilities": "dragonize, sheer_force, torrent",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -852,7 +852,7 @@
     "abilities": "plus, static",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -878,7 +878,7 @@
     "abilities": "huge_power, sap_sipper, thick_fat",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -904,7 +904,7 @@
     "abilities": "damp, drizzle, water_absorb",
     "roles": "Bulky Support, Speed Control, Weather Setter",
     "archetypes": "Rain",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -982,7 +982,7 @@
     "abilities": "oblivious, own_tempo, regenerator",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1034,7 +1034,7 @@
     "abilities": "rock_head, sheer_force, sturdy",
     "roles": "Bulky Support",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1060,7 +1060,7 @@
     "abilities": "light_metal, swarm, technician",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Tailwind",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1086,7 +1086,7 @@
     "abilities": "guts, moxie, swarm",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1112,7 +1112,7 @@
     "abilities": "keen_eye, sturdy, weak_armor",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1138,7 +1138,7 @@
     "abilities": "early_bird, flash_fire, unnerve",
     "roles": "Bulky Support",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1215,8 +1215,8 @@
     "bst": 518,
     "abilities": "synchronize, telepathy, trace",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
-    "archetypes": "Offense, Sand, Trick Room",
-    "tier_value": "B",
+    "archetypes": "Sand, Trick Room",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1242,7 +1242,7 @@
     "abilities": "keen_eye, prankster, stall",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1268,7 +1268,7 @@
     "abilities": "heavy_metal, rock_head, sturdy",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1294,7 +1294,7 @@
     "abilities": "pure_power, telepathy",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1320,7 +1320,7 @@
     "abilities": "lightning_rod, minus, static",
     "roles": "Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1372,7 +1372,7 @@
     "abilities": "anger_point, magma_armor, solid_rock",
     "roles": "Bulky Support",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1398,7 +1398,7 @@
     "abilities": "drought, shell_armor, white_smoke",
     "roles": "Bulky Support, Weather Setter",
     "archetypes": "Sun, Trick Room",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1424,7 +1424,7 @@
     "abilities": "cloud_nine, natural_cure",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1449,8 +1449,8 @@
     "bst": 540,
     "abilities": "competitive, cute_charm, marvel_scale",
     "roles": "Bulky Support, Speed Control",
-    "archetypes": "Balance",
-    "tier_value": "B",
+    "archetypes": "Sand",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1528,7 +1528,7 @@
     "abilities": "levitate",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1554,7 +1554,7 @@
     "abilities": "justified, pressure, super_luck",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1580,7 +1580,7 @@
     "abilities": "ice_body, inner_focus, moody",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1606,7 +1606,7 @@
     "abilities": "overgrow, shell_armor",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1632,7 +1632,7 @@
     "abilities": "blaze, iron_fist",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1658,7 +1658,7 @@
     "abilities": "competitive, torrent",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1684,7 +1684,7 @@
     "abilities": "guts, intimidate, rivalry",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1710,7 +1710,7 @@
     "abilities": "natural_cure, poison_point, technician",
     "roles": "Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1762,7 +1762,7 @@
     "abilities": "soundproof, sturdy",
     "roles": "Bulky Support",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1788,7 +1788,7 @@
     "abilities": "cute_charm, klutz, limber",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1814,7 +1814,7 @@
     "abilities": "infiltrator, pressure",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1839,7 +1839,7 @@
     "bst": 600,
     "abilities": "rough_skin, sand_veil",
     "roles": "Bulky Support, Wallbreaker",
-    "archetypes": "Offense, Sand",
+    "archetypes": "Sand",
     "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -1866,7 +1866,7 @@
     "abilities": "inner_focus, justified, steadfast",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1892,7 +1892,7 @@
     "abilities": "sand_force, sand_stream",
     "roles": "Bulky Support",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1944,7 +1944,7 @@
     "abilities": "snow_warning, soundproof",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1970,7 +1970,7 @@
     "abilities": "pickpocket, pressure",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -1996,7 +1996,7 @@
     "abilities": "lightning_rod, reckless, solid_rock",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2022,7 +2022,7 @@
     "abilities": "chlorophyll, leaf_guard",
     "roles": "Bulky Support",
     "archetypes": "Sun",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2048,7 +2048,7 @@
     "abilities": "ice_body, snow_cloak",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2074,7 +2074,7 @@
     "abilities": "hyper_cutter, poison_heal, sand_veil",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2100,7 +2100,7 @@
     "abilities": "oblivious, snow_cloak, thick_fat",
     "roles": "Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2126,7 +2126,7 @@
     "abilities": "justified, sharpness, steadfast",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2152,7 +2152,7 @@
     "abilities": "cursed_body, snow_cloak",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2178,7 +2178,7 @@
     "abilities": "levitate",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2204,7 +2204,7 @@
     "abilities": "contrary, overgrow",
     "roles": "Bulky Support",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2230,7 +2230,7 @@
     "abilities": "blaze, reckless",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2334,7 +2334,7 @@
     "abilities": "gluttony, overgrow",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2360,7 +2360,7 @@
     "abilities": "blaze, gluttony",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2411,8 +2411,8 @@
     "bst": 508,
     "abilities": "mold_breaker, sand_force, sand_rush",
     "roles": "Bulky Support, Wallbreaker",
-    "archetypes": "Sand",
-    "tier_value": "B",
+    "archetypes": "Hyper Offense, Sand",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2438,7 +2438,7 @@
     "abilities": "healer, klutz, regenerator",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2464,7 +2464,7 @@
     "abilities": "guts, iron_fist, sheer_force",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2489,7 +2489,7 @@
     "bst": 480,
     "abilities": "chlorophyll, infiltrator, prankster",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
-    "archetypes": "Offense, Rain, Sun, Tailwind, Trick Room",
+    "archetypes": "Rain, Sun, Tailwind, Trick Room",
     "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -2516,7 +2516,7 @@
     "abilities": "anger_point, intimidate, moxie",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2542,7 +2542,7 @@
     "abilities": "mummy",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2568,7 +2568,7 @@
     "abilities": "aftermath, stench, weak_armor",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2594,7 +2594,7 @@
     "abilities": "illusion",
     "roles": "Bulky Support, Pivot, Wallbreaker",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2620,7 +2620,7 @@
     "abilities": "magic_guard, overcoat, regenerator",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2646,7 +2646,7 @@
     "abilities": "ice_body, snow_warning, weak_armor",
     "roles": "Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2672,7 +2672,7 @@
     "abilities": "motor_drive, static",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2698,7 +2698,7 @@
     "abilities": "flame_body, flash_fire, infiltrator",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2724,7 +2724,7 @@
     "abilities": "slush_rush, snow_cloak, swift_swim",
     "roles": "Speed Control, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2750,7 +2750,7 @@
     "abilities": "limber, sand_veil, static",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2776,7 +2776,7 @@
     "abilities": "iron_fist, klutz, no_guard",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2802,7 +2802,7 @@
     "abilities": "levitate",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Tailwind",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2828,7 +2828,7 @@
     "abilities": "flame_body, swarm",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Tailwind",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2854,7 +2854,7 @@
     "abilities": "bulletproof, overgrow",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2880,7 +2880,7 @@
     "abilities": "blaze, magician",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2906,7 +2906,7 @@
     "abilities": "protean, torrent",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Sand",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2932,7 +2932,7 @@
     "abilities": "cheek_pouch, huge_power, pickup",
     "roles": "Pivot",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -2984,7 +2984,7 @@
     "abilities": "compound_eyes, friend_guard, shield_dust",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3009,8 +3009,8 @@
     "bst": 371,
     "abilities": "flower_veil, symbiosis",
     "roles": "Bulky Support",
-    "archetypes": "Trick Room",
-    "tier_value": "A",
+    "archetypes": "Hyper Offense, Trick Room",
+    "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3036,7 +3036,7 @@
     "abilities": "flower_veil, symbiosis",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3062,7 +3062,7 @@
     "abilities": "iron_fist, mold_breaker, scrappy",
     "roles": "Bulky Support, Pivot, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3088,7 +3088,7 @@
     "abilities": "fur_coat",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3114,7 +3114,7 @@
     "abilities": "infiltrator, keen_eye, prankster",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3139,7 +3139,7 @@
     "bst": 500,
     "abilities": "stance_change",
     "roles": "Bulky Support",
-    "archetypes": "Sun",
+    "archetypes": "Balance",
     "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -3166,7 +3166,7 @@
     "abilities": "aroma_veil, healer",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3192,7 +3192,7 @@
     "abilities": "sweet_veil, unburden",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3218,7 +3218,7 @@
     "abilities": "mega_launcher",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3270,7 +3270,7 @@
     "abilities": "rock_head, strong_jaw",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3348,7 +3348,7 @@
     "abilities": "limber, mold_breaker, unburden",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Offense",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3400,7 +3400,7 @@
     "abilities": "gooey, hydration, sap_sipper",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3426,7 +3426,7 @@
     "abilities": "magician, prankster",
     "roles": "Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3478,7 +3478,7 @@
     "abilities": "frisk, insomnia, pickup",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3504,7 +3504,7 @@
     "abilities": "ice_body, own_tempo, sturdy",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3530,7 +3530,7 @@
     "abilities": "frisk, infiltrator, telepathy",
     "roles": "Pivot, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3556,7 +3556,7 @@
     "abilities": "long_reach, overgrow",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3581,7 +3581,7 @@
     "bst": 530,
     "abilities": "blaze, intimidate",
     "roles": "Bulky Support, Pivot",
-    "archetypes": "Offense, Rain, Sand, Sun, Trick Room",
+    "archetypes": "Hyper Offense, Rain, Sand, Trick Room",
     "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -3608,7 +3608,7 @@
     "abilities": "liquid_voice, torrent",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3634,7 +3634,7 @@
     "abilities": "keen_eye, sheer_force, skill_link",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3660,7 +3660,7 @@
     "abilities": "anger_point, hyper_cutter, iron_fist",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3686,7 +3686,7 @@
     "abilities": "keen_eye, sand_rush, steadfast",
     "roles": "Bulky Support",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3712,7 +3712,7 @@
     "abilities": "limber, merciless, regenerator",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3738,7 +3738,7 @@
     "abilities": "inner_focus, own_tempo, stamina",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3764,7 +3764,7 @@
     "abilities": "water_absorb, water_bubble",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3842,7 +3842,7 @@
     "abilities": "inner_focus, symbiosis, telepathy",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3868,7 +3868,7 @@
     "abilities": "defiant, receiver",
     "roles": "Pivot, Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3894,7 +3894,7 @@
     "abilities": "disguise",
     "roles": "Bulky Support, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3920,7 +3920,7 @@
     "abilities": "berserk, cloud_nine, sap_sipper",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -3971,8 +3971,8 @@
     "bst": 495,
     "abilities": "mirror_armor, pressure, unnerve",
     "roles": "Bulky Support, Pivot, Speed Control",
-    "archetypes": "Tailwind",
-    "tier_value": "B",
+    "archetypes": "Sand, Tailwind",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4024,7 +4024,7 @@
     "abilities": "gluttony, ripen, thick_fat",
     "roles": "Bulky Support",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4076,7 +4076,7 @@
     "abilities": "cursed_body, weak_armor",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4102,7 +4102,7 @@
     "abilities": "anticipation, healer, magic_bounce",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4128,7 +4128,7 @@
     "abilities": "ice_body, screen_cleaner, tangled_feet",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4180,7 +4180,7 @@
     "abilities": "aroma_veil, sweet_veil",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4206,7 +4206,7 @@
     "abilities": "hunger_switch",
     "roles": "Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4231,7 +4231,7 @@
     "bst": 600,
     "abilities": "clear_body, cursed_body, infiltrator",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
-    "archetypes": "Offense, Rain",
+    "archetypes": "Rain",
     "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -4258,7 +4258,7 @@
     "abilities": "frisk, intimidate, sap_sipper",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4284,7 +4284,7 @@
     "abilities": "sharpness, sheer_force, swarm",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4335,7 +4335,7 @@
     "bst": 510,
     "abilities": "poison_touch, pressure, unburden",
     "roles": "Pivot, Wallbreaker",
-    "archetypes": "Offense",
+    "archetypes": "Hyper Offense",
     "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -4362,7 +4362,7 @@
     "abilities": "overgrow, protean",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4388,7 +4388,7 @@
     "abilities": "blaze, unaware",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4414,7 +4414,7 @@
     "abilities": "moxie, torrent",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4440,7 +4440,7 @@
     "abilities": "cheek_pouch, friend_guard, technician",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4466,7 +4466,7 @@
     "abilities": "clear_body, purifying_salt, sturdy",
     "roles": "Bulky Support",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4492,7 +4492,7 @@
     "abilities": "flash_fire, weak_armor",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4518,7 +4518,7 @@
     "abilities": "flash_fire, weak_armor",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4544,7 +4544,7 @@
     "abilities": "damp, electromorphosis, static",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4570,7 +4570,7 @@
     "abilities": "chlorophyll, insomnia, moody",
     "roles": "Bulky Support",
     "archetypes": "Sun",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4596,7 +4596,7 @@
     "abilities": "frisk, opportunist, speed_boost",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4622,7 +4622,7 @@
     "abilities": "mold_breaker, own_tempo, pickpocket",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4648,7 +4648,7 @@
     "abilities": "zero_to_hero",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "B",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4674,7 +4674,7 @@
     "abilities": "earth_eater, sand_veil",
     "roles": "Bulky Support",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4699,8 +4699,8 @@
     "bst": 525,
     "abilities": "corrosion, toxic_debris",
     "roles": "Wallbreaker",
-    "archetypes": "Balance",
-    "tier_value": "B",
+    "archetypes": "Sand",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4751,7 +4751,7 @@
     "bst": 550,
     "abilities": "defiant, pressure, supreme_overlord",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
-    "archetypes": "Offense, Trick Room",
+    "archetypes": "Trick Room",
     "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -4777,7 +4777,7 @@
     "bst": 508,
     "abilities": "heatproof, hospitality",
     "roles": "Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",
-    "archetypes": "Trick Room",
+    "archetypes": "Sand, Trick Room",
     "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
@@ -4804,7 +4804,7 @@
     "abilities": "stalwart, stamina, sturdy",
     "roles": "Bulky Support, Speed Control, Wallbreaker",
     "archetypes": "Rain",
-    "tier_value": "A",
+    "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4856,7 +4856,7 @@
     "abilities": "levitate",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4881,8 +4881,8 @@
     "bst": 520,
     "abilities": "levitate",
     "roles": "Bulky Support, Pivot, Speed Control",
-    "archetypes": "Balance",
-    "tier_value": "A",
+    "archetypes": "Hyper Offense",
+    "tier_value": "S",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4908,7 +4908,7 @@
     "abilities": "levitate",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4934,7 +4934,7 @@
     "abilities": "levitate",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4960,7 +4960,7 @@
     "abilities": "levitate",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -4986,7 +4986,7 @@
     "abilities": "surge_surfer",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Offense",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5038,7 +5038,7 @@
     "abilities": "own_tempo, quick_draw, regenerator",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5064,7 +5064,7 @@
     "abilities": "curious_medicine, own_tempo, regenerator",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5090,7 +5090,7 @@
     "abilities": "mimicry",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5116,7 +5116,7 @@
     "abilities": "flash_fire, intimidate, rock_head",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5142,7 +5142,7 @@
     "abilities": "blaze, frisk",
     "roles": "Bulky Support",
     "archetypes": "Offense",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5168,7 +5168,7 @@
     "abilities": "sharpness, shell_armor",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5194,7 +5194,7 @@
     "abilities": "illusion",
     "roles": "Bulky Support, Pivot, Speed Control, Wallbreaker",
     "archetypes": "Offense",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5220,7 +5220,7 @@
     "abilities": "gooey, sap_sipper, shell_armor",
     "roles": "Bulky Support, Wallbreaker",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "A",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5246,7 +5246,7 @@
     "abilities": "long_reach, scrappy",
     "roles": "Bulky Support, Pivot, Speed Control",
     "archetypes": "Tailwind",
-    "tier_value": "D",
+    "tier_value": "C",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5298,7 +5298,7 @@
     "abilities": "anger_point, cud_chew, intimidate",
     "roles": "Pivot",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5324,7 +5324,7 @@
     "abilities": "anger_point, cud_chew, intimidate",
     "roles": "Bulky Support, Pivot",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5350,7 +5350,7 @@
     "abilities": "anger_point, cud_chew, intimidate",
     "roles": "Pivot",
     "archetypes": "Offense",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5376,7 +5376,7 @@
     "abilities": "competitive, infiltrator, keen_eye",
     "roles": "Bulky Support, Pivot, Speed Control, Trick Room Setter",
     "archetypes": "Trick Room",
-    "tier_value": "D",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"
@@ -5402,7 +5402,7 @@
     "abilities": "adaptability, mold_breaker, swift_swim",
     "roles": "Bulky Support, Speed Control",
     "archetypes": "Balance",
-    "tier_value": "C",
+    "tier_value": "B",
     "is_currently_legal": 1,
     "season_key": "season_m1_reg_ma",
     "format_availability": "standard"

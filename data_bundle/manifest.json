@@ -114,6 +114,6 @@
     "pokemon_roles_rows": 512,
     "pokemon_archetypes_rows": 224,
     "cores_rows": 6,
-    "matchups_rows": 48
+    "matchups_rows": 168
   }
 }

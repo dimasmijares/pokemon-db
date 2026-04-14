@@ -1,0 +1,209 @@
+pokemon_id,dex_number,species_key,form_key,name_en,name_es,form_name_en,form_name_es,type1_key,type2_key,hp,attack,defense,sp_attack,sp_defense,speed,bst,abilities,roles,archetypes,tier_value,is_currently_legal,season_key,format_availability
+3,3,venusaur,,Venusaur,Venusaur,,,grass,poison,80,82,83,100,100,80,525,"chlorophyll, overgrow",Bulky Support,Sun,S,1,season_m1_reg_ma,standard
+6,6,charizard,,Charizard,Charizard,,,fire,flying,78,84,78,109,85,100,534,"blaze, solar_power",Bulky Support,Sun,A,1,season_m1_reg_ma,standard
+9,9,blastoise,,Blastoise,Blastoise,,,water,,79,83,100,85,105,78,530,"rain_dish, torrent","Bulky Support, Pivot",Rain,A,1,season_m1_reg_ma,standard
+15,15,beedrill,,Beedrill,Beedrill,,,bug,poison,65,90,40,45,80,75,395,"sniper, swarm","Pivot, Speed Control",Balance,C,1,season_m1_reg_ma,standard
+18,18,pidgeot,,Pidgeot,Pidgeot,,,normal,flying,83,80,75,70,70,101,479,"big_pecks, keen_eye, tangled_feet","Pivot, Speed Control",Tailwind,C,1,season_m1_reg_ma,standard
+24,24,arbok,,Arbok,Arbok,,,poison,,60,95,69,65,79,80,448,"intimidate, shed_skin, unnerve",Pivot,Balance,C,1,season_m1_reg_ma,standard
+25,25,pikachu,,Pikachu,Pikachu,,,electric,,35,55,40,50,50,90,320,"lightning_rod, static","Bulky Support, Pivot, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+26,26,raichu,,Raichu,Raichu,,,electric,,60,90,55,90,80,110,485,"lightning_rod, static","Bulky Support, Pivot, Speed Control",Offense,B,1,season_m1_reg_ma,standard
+36,36,clefable,,Clefable,Clefable,,,fairy,,95,70,73,95,90,60,483,"cute_charm, magic_guard, unaware","Bulky Support, Speed Control",Trick Room,A,1,season_m1_reg_ma,standard
+38,38,ninetales,,Ninetales,Ninetales,,,fire,,73,76,75,81,100,100,505,"drought, flash_fire","Bulky Support, Weather Setter",Sun,C,1,season_m1_reg_ma,standard
+59,59,arcanine,,Arcanine,Arcanine,,,fire,,90,110,80,100,80,95,555,"flash_fire, intimidate, justified","Bulky Support, Pivot",Offense,A,1,season_m1_reg_ma,standard
+65,65,alakazam,,Alakazam,Alakazam,,,psychic,,55,50,45,135,95,120,500,"inner_focus, magic_guard, synchronize","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,D,1,season_m1_reg_ma,standard
+68,68,machamp,,Machamp,Machamp,,,fighting,,90,130,80,65,85,55,505,"guts, no_guard, steadfast","Bulky Support, Wallbreaker",Trick Room,C,1,season_m1_reg_ma,standard
+71,71,victreebel,,Victreebel,Victreebel,,,grass,poison,80,105,65,100,70,70,490,"chlorophyll, gluttony",Wallbreaker,Sun,B,1,season_m1_reg_ma,standard
+80,80,slowbro,,Slowbro,Slowbro,,,water,psychic,95,75,110,100,80,30,490,"oblivious, own_tempo, regenerator","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,A,1,season_m1_reg_ma,standard
+94,94,gengar,,Gengar,Gengar,,,ghost,poison,60,65,60,130,75,110,500,cursed_body,"Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,A,1,season_m1_reg_ma,standard
+115,115,kangaskhan,,Kangaskhan,Kangaskhan,,,normal,,105,95,80,40,80,90,490,"early_bird, inner_focus, scrappy","Bulky Support, Pivot, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+121,121,starmie,,Starmie,Starmie,,,water,psychic,60,75,85,100,85,115,520,"analytic, illuminate, natural_cure","Bulky Support, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+127,127,pinsir,,Pinsir,Pinsir,,,bug,,65,125,100,55,70,85,500,"hyper_cutter, mold_breaker, moxie","Bulky Support, Wallbreaker",Balance,A,1,season_m1_reg_ma,standard
+128,128,tauros,,Tauros,Tauros,,,normal,,75,100,95,40,70,110,490,"anger_point, intimidate, sheer_force","Bulky Support, Pivot, Speed Control",Offense,C,1,season_m1_reg_ma,standard
+130,130,gyarados,,Gyarados,Gyarados,,,water,flying,95,125,79,60,100,81,540,"intimidate, moxie","Bulky Support, Pivot, Speed Control, Wallbreaker",Rain,B,1,season_m1_reg_ma,standard
+132,132,ditto,,Ditto,Ditto,,,normal,,48,48,48,48,48,48,288,"imposter, limber",Bulky Support,Trick Room,B,1,season_m1_reg_ma,standard
+134,134,vaporeon,,Vaporeon,Vaporeon,,,water,,130,65,60,110,95,65,525,"hydration, water_absorb","Bulky Support, Speed Control",Balance,A,1,season_m1_reg_ma,standard
+135,135,jolteon,,Jolteon,Jolteon,,,electric,,65,65,60,110,95,130,525,"quick_feet, volt_absorb","Bulky Support, Pivot, Speed Control",Offense,C,1,season_m1_reg_ma,standard
+136,136,flareon,,Flareon,Flareon,,,fire,,65,130,60,95,110,65,525,"flash_fire, guts","Bulky Support, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+142,142,aerodactyl,,Aerodactyl,Aerodactyl,,,rock,flying,80,105,65,60,75,130,515,"pressure, rock_head, unnerve",Speed Control,Tailwind,A,1,season_m1_reg_ma,standard
+143,143,snorlax,,Snorlax,Snorlax,,,normal,,160,110,65,65,110,30,540,"gluttony, immunity, thick_fat","Bulky Support, Speed Control",Trick Room,A,1,season_m1_reg_ma,standard
+149,149,dragonite,,Dragonite,Dragonite,,,dragon,flying,91,134,95,100,100,80,600,"inner_focus, multiscale","Bulky Support, Speed Control, Wallbreaker","Hyper Offense, Sand, Tailwind",A,1,season_m1_reg_ma,standard
+154,154,meganium,,Meganium,Meganium,,,grass,,80,82,100,83,100,80,525,"leaf_guard, mega_sol, overgrow",Bulky Support,Balance,A,1,season_m1_reg_ma,standard
+157,157,typhlosion,,Typhlosion,Typhlosion,,,fire,,78,84,78,109,85,100,534,"blaze, flash_fire",Bulky Support,Offense,C,1,season_m1_reg_ma,standard
+160,160,feraligatr,,Feraligatr,Feraligatr,,,water,,85,105,100,79,83,78,530,"dragonize, sheer_force, torrent","Bulky Support, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+168,168,ariados,,Ariados,Ariados,,,bug,poison,70,90,70,60,70,40,400,"insomnia, sniper, swarm","Bulky Support, Speed Control",Trick Room,D,1,season_m1_reg_ma,standard
+181,181,ampharos,,Ampharos,Ampharos,,,electric,,90,75,85,115,90,55,510,"plus, static","Bulky Support, Pivot, Speed Control",Trick Room,B,1,season_m1_reg_ma,standard
+184,184,azumarill,,Azumarill,Azumarill,,,water,fairy,100,50,80,60,80,50,420,"huge_power, sap_sipper, thick_fat","Bulky Support, Speed Control",Trick Room,A,1,season_m1_reg_ma,standard
+186,186,politoed,,Politoed,Politoed,,,water,,90,75,75,90,100,70,500,"damp, drizzle, water_absorb","Bulky Support, Speed Control, Weather Setter",Rain,A,1,season_m1_reg_ma,standard
+196,196,espeon,,Espeon,Espeon,,,psychic,,65,65,60,130,95,110,525,"magic_bounce, synchronize","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,D,1,season_m1_reg_ma,standard
+197,197,umbreon,,Umbreon,Umbreon,,,dark,,95,65,110,60,130,65,525,"inner_focus, synchronize","Bulky Support, Speed Control",Balance,D,1,season_m1_reg_ma,standard
+199,199,slowking,,Slowking,Slowking,,,water,psychic,95,75,80,100,110,30,490,"oblivious, own_tempo, regenerator","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+205,205,forretress,,Forretress,Forretress,,,bug,steel,75,90,140,60,60,40,465,"overcoat, sturdy","Bulky Support, Pivot, Speed Control",Trick Room,D,1,season_m1_reg_ma,standard
+208,208,steelix,,Steelix,Steelix,,,steel,ground,75,85,200,55,65,30,510,"rock_head, sheer_force, sturdy",Bulky Support,Trick Room,B,1,season_m1_reg_ma,standard
+212,212,scizor,,Scizor,Scizor,,,bug,steel,70,130,100,55,80,65,500,"light_metal, swarm, technician","Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind,A,1,season_m1_reg_ma,standard
+214,214,heracross,,Heracross,Heracross,,,bug,fighting,80,125,75,40,95,85,500,"guts, moxie, swarm","Bulky Support, Wallbreaker",Balance,A,1,season_m1_reg_ma,standard
+227,227,skarmory,,Skarmory,Skarmory,,,steel,flying,65,80,140,40,70,70,465,"keen_eye, sturdy, weak_armor","Bulky Support, Speed Control",Tailwind,A,1,season_m1_reg_ma,standard
+229,229,houndoom,,Houndoom,Houndoom,,,dark,fire,75,90,50,110,80,95,500,"early_bird, flash_fire, unnerve",Bulky Support,Offense,B,1,season_m1_reg_ma,standard
+248,248,tyranitar,,Tyranitar,Tyranitar,,,rock,dark,100,134,110,95,100,61,600,"sand_stream, unnerve","Bulky Support, Speed Control, Wallbreaker",Sand,A,1,season_m1_reg_ma,standard
+279,279,pelipper,,Pelipper,Pelipper,,,water,flying,60,50,100,95,70,65,440,"drizzle, keen_eye, rain_dish","Bulky Support, Pivot, Speed Control, Weather Setter","Rain, Tailwind",A,1,season_m1_reg_ma,standard
+282,282,gardevoir,,Gardevoir,Gardevoir,,,psychic,fairy,68,65,65,125,115,80,518,"synchronize, telepathy, trace","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker","Sand, Trick Room",A,1,season_m1_reg_ma,standard
+302,302,sableye,,Sableye,Sableye,,,dark,ghost,50,75,75,65,65,50,380,"keen_eye, prankster, stall","Bulky Support, Pivot, Speed Control",Trick Room,A,1,season_m1_reg_ma,standard
+306,306,aggron,,Aggron,Aggron,,,steel,rock,70,110,180,60,60,50,530,"heavy_metal, rock_head, sturdy","Bulky Support, Speed Control",Trick Room,B,1,season_m1_reg_ma,standard
+308,308,medicham,,Medicham,Medicham,,,fighting,psychic,60,60,75,60,75,80,410,"pure_power, telepathy","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+310,310,manectric,,Manectric,Manectric,,,electric,,70,75,60,105,60,105,475,"lightning_rod, minus, static","Pivot, Speed Control",Offense,B,1,season_m1_reg_ma,standard
+319,319,sharpedo,,Sharpedo,Sharpedo,,,water,dark,70,120,40,95,40,95,460,"rough_skin, speed_boost","Speed Control, Wallbreaker",Offense,D,1,season_m1_reg_ma,standard
+323,323,camerupt,,Camerupt,Camerupt,,,fire,ground,70,100,70,105,75,40,460,"anger_point, magma_armor, solid_rock",Bulky Support,Trick Room,B,1,season_m1_reg_ma,standard
+324,324,torkoal,,Torkoal,Torkoal,,,fire,,70,85,140,85,70,20,470,"drought, shell_armor, white_smoke","Bulky Support, Weather Setter","Sun, Trick Room",A,1,season_m1_reg_ma,standard
+334,334,altaria,,Altaria,Altaria,,,dragon,flying,75,70,90,70,105,80,490,"cloud_nine, natural_cure","Bulky Support, Speed Control",Tailwind,A,1,season_m1_reg_ma,standard
+350,350,milotic,,Milotic,Milotic,,,water,,95,60,79,100,125,81,540,"competitive, cute_charm, marvel_scale","Bulky Support, Speed Control",Sand,A,1,season_m1_reg_ma,standard
+351,351,castform,,Castform,Castform,,,normal,,70,70,70,70,70,70,420,forecast,Speed Control,Balance,D,1,season_m1_reg_ma,standard
+354,354,banette,,Banette,Banette,,,ghost,,64,115,65,83,63,65,455,"cursed_body, frisk, insomnia","Bulky Support, Speed Control, Trick Room Setter",Trick Room,D,1,season_m1_reg_ma,standard
+358,358,chimecho,,Chimecho,Chimecho,,,psychic,,75,50,80,95,90,65,455,levitate,"Bulky Support, Speed Control, Trick Room Setter",Trick Room,C,1,season_m1_reg_ma,standard
+359,359,absol,,Absol,Absol,,,dark,,65,130,60,75,60,75,465,"justified, pressure, super_luck","Bulky Support, Speed Control, Wallbreaker",Balance,C,1,season_m1_reg_ma,standard
+362,362,glalie,,Glalie,Glalie,,,ice,,80,80,80,80,80,80,480,"ice_body, inner_focus, moody","Bulky Support, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+389,389,torterra,,Torterra,Torterra,,,grass,ground,95,109,105,75,85,56,525,"overgrow, shell_armor",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+392,392,infernape,,Infernape,Infernape,,,fire,fighting,76,104,71,104,71,108,534,"blaze, iron_fist","Bulky Support, Pivot",Offense,C,1,season_m1_reg_ma,standard
+395,395,empoleon,,Empoleon,Empoleon,,,water,steel,84,86,88,111,101,60,530,"competitive, torrent","Bulky Support, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+405,405,luxray,,Luxray,Luxray,,,electric,,80,120,79,95,79,70,523,"guts, intimidate, rivalry","Bulky Support, Pivot, Speed Control, Wallbreaker",Balance,C,1,season_m1_reg_ma,standard
+407,407,roserade,,Roserade,Roserade,,,grass,poison,60,70,65,125,105,90,515,"natural_cure, poison_point, technician",Wallbreaker,Balance,B,1,season_m1_reg_ma,standard
+409,409,rampardos,,Rampardos,Rampardos,,,rock,,97,165,60,65,50,58,495,"mold_breaker, sheer_force",Wallbreaker,Balance,D,1,season_m1_reg_ma,standard
+411,411,bastiodon,,Bastiodon,Bastiodon,,,rock,steel,60,52,168,47,138,30,495,"soundproof, sturdy",Bulky Support,Trick Room,C,1,season_m1_reg_ma,standard
+428,428,lopunny,,Lopunny,Lopunny,,,normal,,65,76,84,54,96,105,480,"cute_charm, klutz, limber","Bulky Support, Pivot, Speed Control",Offense,B,1,season_m1_reg_ma,standard
+442,442,spiritomb,,Spiritomb,Spiritomb,,,ghost,dark,50,92,108,92,108,35,485,"infiltrator, pressure","Bulky Support, Speed Control, Trick Room Setter",Trick Room,C,1,season_m1_reg_ma,standard
+445,445,garchomp,,Garchomp,Garchomp,,,dragon,ground,108,130,95,80,85,102,600,"rough_skin, sand_veil","Bulky Support, Wallbreaker",Sand,S,1,season_m1_reg_ma,standard
+448,448,lucario,,Lucario,Lucario,,,fighting,steel,70,110,70,115,70,90,525,"inner_focus, justified, steadfast",Bulky Support,Balance,A,1,season_m1_reg_ma,standard
+450,450,hippowdon,,Hippowdon,Hippowdon,,,ground,,108,112,118,68,72,47,525,"sand_force, sand_stream",Bulky Support,Trick Room,C,1,season_m1_reg_ma,standard
+454,454,toxicroak,,Toxicroak,Toxicroak,,,poison,fighting,83,106,65,86,65,85,490,"anticipation, dry_skin, poison_touch","Bulky Support, Pivot, Speed Control",Balance,D,1,season_m1_reg_ma,standard
+460,460,abomasnow,,Abomasnow,Abomasnow,,,grass,ice,90,92,75,92,85,60,494,"snow_warning, soundproof","Bulky Support, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+461,461,weavile,,Weavile,Weavile,,,dark,ice,70,120,65,45,85,125,510,"pickpocket, pressure","Bulky Support, Pivot, Speed Control, Wallbreaker",Offense,B,1,season_m1_reg_ma,standard
+464,464,rhyperior,,Rhyperior,Rhyperior,,,ground,rock,115,140,130,55,55,40,535,"lightning_rod, reckless, solid_rock","Bulky Support, Speed Control, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+470,470,leafeon,,Leafeon,Leafeon,,,grass,,65,110,130,60,65,95,525,"chlorophyll, leaf_guard",Bulky Support,Sun,B,1,season_m1_reg_ma,standard
+471,471,glaceon,,Glaceon,Glaceon,,,ice,,65,60,110,130,95,65,525,"ice_body, snow_cloak","Bulky Support, Speed Control, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+472,472,gliscor,,Gliscor,Gliscor,,,ground,flying,75,95,125,45,75,95,510,"hyper_cutter, poison_heal, sand_veil","Bulky Support, Pivot, Speed Control",Tailwind,B,1,season_m1_reg_ma,standard
+473,473,mamoswine,,Mamoswine,Mamoswine,,,ice,ground,110,130,80,70,60,80,530,"oblivious, snow_cloak, thick_fat","Speed Control, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+475,475,gallade,,Gallade,Gallade,,,psychic,fighting,68,125,65,65,115,80,518,"justified, sharpness, steadfast","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+478,478,froslass,,Froslass,Froslass,,,ice,ghost,70,80,70,80,70,110,480,"cursed_body, snow_cloak","Bulky Support, Speed Control",Offense,A,1,season_m1_reg_ma,standard
+479,479,rotom,,Rotom,Rotom,,,electric,ghost,50,50,77,95,77,91,440,levitate,"Bulky Support, Pivot, Speed Control",Balance,C,1,season_m1_reg_ma,standard
+497,497,serperior,,Serperior,Serperior,,,grass,,75,75,95,75,95,113,528,"contrary, overgrow",Bulky Support,Offense,C,1,season_m1_reg_ma,standard
+500,500,emboar,,Emboar,Emboar,,,fire,fighting,110,123,65,100,65,65,528,"blaze, reckless","Bulky Support, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+503,503,samurott,,Samurott,Samurott,,,water,,95,100,85,108,70,70,528,"shell_armor, torrent","Bulky Support, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+505,505,watchog,,Watchog,Watchog,,,normal,,60,85,69,60,69,77,420,"analytic, illuminate, keen_eye",Speed Control,Balance,D,1,season_m1_reg_ma,standard
+510,510,liepard,,Liepard,Liepard,,,dark,,64,88,50,88,50,106,446,"limber, prankster, unburden","Pivot, Speed Control",Offense,D,1,season_m1_reg_ma,standard
+512,512,simisage,,Simisage,Simisage,,,grass,,75,98,63,98,63,101,498,"gluttony, overgrow","Bulky Support, Pivot",Offense,C,1,season_m1_reg_ma,standard
+514,514,simisear,,Simisear,Simisear,,,fire,,75,98,63,98,63,101,498,"blaze, gluttony","Bulky Support, Pivot",Offense,C,1,season_m1_reg_ma,standard
+516,516,simipour,,Simipour,Simipour,,,water,,75,98,63,98,63,101,498,"gluttony, torrent","Bulky Support, Pivot, Speed Control",Offense,D,1,season_m1_reg_ma,standard
+530,530,excadrill,,Excadrill,Excadrill,,,ground,steel,110,135,60,50,65,88,508,"mold_breaker, sand_force, sand_rush","Bulky Support, Wallbreaker","Hyper Offense, Sand",A,1,season_m1_reg_ma,standard
+531,531,audino,,Audino,Audino,,,normal,,103,60,86,60,86,50,445,"healer, klutz, regenerator","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,C,1,season_m1_reg_ma,standard
+534,534,conkeldurr,,Conkeldurr,Conkeldurr,,,fighting,,105,140,95,55,65,45,505,"guts, iron_fist, sheer_force","Bulky Support, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+547,547,whimsicott,,Whimsicott,Whimsicott,,,grass,fairy,60,67,85,77,75,116,480,"chlorophyll, infiltrator, prankster","Bulky Support, Pivot, Speed Control, Trick Room Setter","Rain, Sun, Tailwind, Trick Room",A,1,season_m1_reg_ma,standard
+553,553,krookodile,,Krookodile,Krookodile,,,ground,dark,95,117,80,65,70,92,519,"anger_point, intimidate, moxie","Bulky Support, Pivot",Balance,B,1,season_m1_reg_ma,standard
+563,563,cofagrigus,,Cofagrigus,Cofagrigus,,,ghost,,58,50,145,95,105,30,483,mummy,"Bulky Support, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+569,569,garbodor,,Garbodor,Garbodor,,,poison,,80,95,82,60,82,75,474,"aftermath, stench, weak_armor",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+571,571,zoroark,,Zoroark,Zoroark,,,dark,,60,105,60,120,60,105,510,illusion,"Bulky Support, Pivot, Wallbreaker",Offense,B,1,season_m1_reg_ma,standard
+579,579,reuniclus,,Reuniclus,Reuniclus,,,psychic,,110,65,75,125,85,30,490,"magic_guard, overcoat, regenerator","Bulky Support, Pivot, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+584,584,vanilluxe,,Vanilluxe,Vanilluxe,,,ice,,71,95,85,110,95,79,535,"ice_body, snow_warning, weak_armor",Speed Control,Balance,B,1,season_m1_reg_ma,standard
+587,587,emolga,,Emolga,Emolga,,,electric,flying,55,75,60,75,60,103,428,"motor_drive, static","Bulky Support, Pivot, Speed Control",Offense,C,1,season_m1_reg_ma,standard
+609,609,chandelure,,Chandelure,Chandelure,,,ghost,fire,60,55,90,145,90,80,520,"flame_body, flash_fire, infiltrator","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+614,614,beartic,,Beartic,Beartic,,,ice,,95,130,80,70,80,50,505,"slush_rush, snow_cloak, swift_swim","Speed Control, Wallbreaker",Trick Room,C,1,season_m1_reg_ma,standard
+618,618,stunfisk,,Stunfisk,Stunfisk,,,ground,electric,109,66,84,81,99,32,471,"limber, sand_veil, static","Bulky Support, Speed Control",Trick Room,A,1,season_m1_reg_ma,standard
+623,623,golurk,,Golurk,Golurk,,,ground,ghost,89,124,80,55,80,55,483,"iron_fist, klutz, no_guard","Bulky Support, Speed Control, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+635,635,hydreigon,,Hydreigon,Hydreigon,,,dark,dragon,92,105,90,125,90,98,600,levitate,"Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind,A,1,season_m1_reg_ma,standard
+637,637,volcarona,,Volcarona,Volcarona,,,bug,fire,85,60,65,135,105,100,550,"flame_body, swarm","Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind,B,1,season_m1_reg_ma,standard
+652,652,chesnaught,,Chesnaught,Chesnaught,,,grass,fighting,88,107,122,74,75,64,530,"bulletproof, overgrow",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+655,655,delphox,,Delphox,Delphox,,,fire,psychic,75,69,72,114,100,104,534,"blaze, magician","Bulky Support, Speed Control, Trick Room Setter",Trick Room,A,1,season_m1_reg_ma,standard
+658,658,greninja,,Greninja,Greninja,,,water,dark,72,95,67,103,71,122,530,"protean, torrent","Bulky Support, Pivot, Speed Control",Sand,A,1,season_m1_reg_ma,standard
+660,660,diggersby,,Diggersby,Diggersby,,,normal,ground,85,56,77,50,77,78,423,"cheek_pouch, huge_power, pickup",Pivot,Balance,B,1,season_m1_reg_ma,standard
+663,663,talonflame,,Talonflame,Talonflame,,,fire,flying,78,81,71,74,69,126,499,"flame_body, gale_wings","Bulky Support, Pivot, Speed Control",Tailwind,B,1,season_m1_reg_ma,standard
+666,666,vivillon,,Vivillon,Vivillon,,,bug,flying,80,52,50,90,50,89,411,"compound_eyes, friend_guard, shield_dust","Bulky Support, Pivot, Speed Control",Tailwind,B,1,season_m1_reg_ma,standard
+670,670,floette,,Floette,Floette,,,fairy,,54,45,47,75,98,52,371,"flower_veil, symbiosis",Bulky Support,"Hyper Offense, Trick Room",S,1,season_m1_reg_ma,standard
+671,671,florges,,Florges,Florges,,,fairy,,78,65,68,112,154,75,552,"flower_veil, symbiosis",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+675,675,pangoro,,Pangoro,Pangoro,,,fighting,dark,95,124,78,69,71,58,495,"iron_fist, mold_breaker, scrappy","Bulky Support, Pivot, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+676,676,furfrou,,Furfrou,Furfrou,,,normal,,75,80,60,65,90,102,472,fur_coat,"Bulky Support, Pivot, Speed Control",Offense,B,1,season_m1_reg_ma,standard
+678,678,meowstic,meowstic-m,Meowstic,Meowstic,Meowstic-M,Meowstic-M,psychic,,74,48,76,83,81,104,466,"infiltrator, keen_eye, prankster","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,A,1,season_m1_reg_ma,standard
+681,681,aegislash,,Aegislash,Aegislash,,,steel,ghost,60,50,140,50,140,60,500,stance_change,Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+683,683,aromatisse,,Aromatisse,Aromatisse,,,fairy,,101,72,72,99,89,29,462,"aroma_veil, healer","Bulky Support, Speed Control, Trick Room Setter",Trick Room,C,1,season_m1_reg_ma,standard
+685,685,slurpuff,,Slurpuff,Slurpuff,,,fairy,,82,80,86,85,75,72,480,"sweet_veil, unburden",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+693,693,clawitzer,,Clawitzer,Clawitzer,,,water,,71,73,88,120,89,59,500,mega_launcher,"Bulky Support, Pivot, Speed Control, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+695,695,heliolisk,,Heliolisk,Heliolisk,,,electric,normal,62,55,52,109,94,109,481,"dry_skin, sand_veil, solar_power","Pivot, Speed Control",Offense,D,1,season_m1_reg_ma,standard
+697,697,tyrantrum,,Tyrantrum,Tyrantrum,,,rock,dragon,82,121,119,69,59,71,521,"rock_head, strong_jaw","Bulky Support, Wallbreaker",Balance,C,1,season_m1_reg_ma,standard
+699,699,aurorus,,Aurorus,Aurorus,,,rock,ice,123,77,72,99,92,58,521,"refrigerate, snow_warning","Bulky Support, Speed Control",Balance,D,1,season_m1_reg_ma,standard
+700,700,sylveon,,Sylveon,Sylveon,,,fairy,,95,65,65,110,130,60,525,"cute_charm, pixilate",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+701,701,hawlucha,,Hawlucha,Hawlucha,,,fighting,flying,78,92,75,74,63,118,500,"limber, mold_breaker, unburden","Bulky Support, Pivot",Offense,B,1,season_m1_reg_ma,standard
+702,702,dedenne,,Dedenne,Dedenne,,,electric,fairy,67,58,57,81,67,101,431,"cheek_pouch, pickup, plus","Bulky Support, Pivot, Speed Control",Offense,D,1,season_m1_reg_ma,standard
+706,706,goodra,,Goodra,Goodra,,,dragon,,90,100,70,110,150,80,600,"gooey, hydration, sap_sipper","Bulky Support, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+707,707,klefki,,Klefki,Klefki,,,steel,fairy,57,80,91,80,87,75,470,"magician, prankster","Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+709,709,trevenant,,Trevenant,Trevenant,,,ghost,grass,85,110,76,65,82,56,474,"frisk, harvest, natural_cure","Bulky Support, Speed Control, Trick Room Setter",Trick Room,D,1,season_m1_reg_ma,standard
+711,711,gourgeist,,Gourgeist,Gourgeist,,,ghost,grass,65,90,122,58,75,84,494,"frisk, insomnia, pickup","Bulky Support, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+713,713,avalugg,,Avalugg,Avalugg,,,ice,,95,117,184,44,46,28,514,"ice_body, own_tempo, sturdy","Bulky Support, Speed Control",Trick Room,C,1,season_m1_reg_ma,standard
+715,715,noivern,,Noivern,Noivern,,,flying,dragon,85,70,80,97,80,123,535,"frisk, infiltrator, telepathy","Pivot, Speed Control",Tailwind,B,1,season_m1_reg_ma,standard
+724,724,decidueye,,Decidueye,Decidueye,,,grass,ghost,78,107,75,100,100,70,530,"long_reach, overgrow","Bulky Support, Pivot, Speed Control",Tailwind,C,1,season_m1_reg_ma,standard
+727,727,incineroar,,Incineroar,Incineroar,,,fire,dark,95,115,90,80,90,60,530,"blaze, intimidate","Bulky Support, Pivot","Hyper Offense, Rain, Sand, Trick Room",S,1,season_m1_reg_ma,standard
+730,730,primarina,,Primarina,Primarina,,,water,fairy,80,74,74,126,116,60,530,"liquid_voice, torrent","Bulky Support, Speed Control, Wallbreaker",Balance,A,1,season_m1_reg_ma,standard
+733,733,toucannon,,Toucannon,Toucannon,,,normal,flying,80,120,75,75,75,60,485,"keen_eye, sheer_force, skill_link","Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind,C,1,season_m1_reg_ma,standard
+740,740,crabominable,,Crabominable,Crabominable,,,fighting,ice,97,132,77,62,67,43,478,"anger_point, hyper_cutter, iron_fist","Bulky Support, Speed Control, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+745,745,lycanroc,,Lycanroc,Lycanroc,,,rock,,75,115,65,55,65,112,487,"keen_eye, sand_rush, steadfast",Bulky Support,Offense,B,1,season_m1_reg_ma,standard
+748,748,toxapex,,Toxapex,Toxapex,,,poison,water,50,63,152,53,142,35,495,"limber, merciless, regenerator","Bulky Support, Pivot, Speed Control",Trick Room,B,1,season_m1_reg_ma,standard
+750,750,mudsdale,,Mudsdale,Mudsdale,,,ground,,100,125,100,55,85,35,500,"inner_focus, own_tempo, stamina","Bulky Support, Wallbreaker",Trick Room,C,1,season_m1_reg_ma,standard
+752,752,araquanid,,Araquanid,Araquanid,,,water,bug,68,70,92,50,132,42,454,"water_absorb, water_bubble","Bulky Support, Speed Control",Trick Room,B,1,season_m1_reg_ma,standard
+758,758,salazzle,,Salazzle,Salazzle,,,poison,fire,68,64,60,111,60,117,480,"corrosion, oblivious","Bulky Support, Pivot, Speed Control",Offense,D,1,season_m1_reg_ma,standard
+763,763,tsareena,,Tsareena,Tsareena,,,grass,,72,120,98,50,98,72,510,"leaf_guard, queenly_majesty, sweet_veil","Bulky Support, Pivot, Wallbreaker",Balance,A,1,season_m1_reg_ma,standard
+765,765,oranguru,,Oranguru,Oranguru,,,normal,psychic,90,60,80,90,110,60,490,"inner_focus, symbiosis, telepathy","Bulky Support, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+766,766,passimian,,Passimian,Passimian,,,fighting,,100,120,90,40,60,80,490,"defiant, receiver","Pivot, Speed Control, Wallbreaker",Balance,C,1,season_m1_reg_ma,standard
+778,778,mimikyu,,Mimikyu,Mimikyu,,,ghost,fairy,55,90,80,50,105,96,476,disguise,"Bulky Support, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+780,780,drampa,,Drampa,Drampa,,,normal,dragon,78,60,85,135,91,36,485,"berserk, cloud_nine, sap_sipper","Bulky Support, Speed Control, Wallbreaker",Trick Room,B,1,season_m1_reg_ma,standard
+784,784,kommo-o,,Kommo-o,Kommo-o,,,dragon,fighting,75,110,125,100,105,85,600,"bulletproof, overcoat, soundproof","Bulky Support, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+823,823,corviknight,,Corviknight,Corviknight,,,flying,steel,98,87,105,53,85,67,495,"mirror_armor, pressure, unnerve","Bulky Support, Pivot, Speed Control","Sand, Tailwind",A,1,season_m1_reg_ma,standard
+841,841,flapple,,Flapple,Flapple,,,grass,dragon,70,110,80,95,60,70,485,"gluttony, hustle, ripen",Pivot,Balance,D,1,season_m1_reg_ma,standard
+842,842,appletun,,Appletun,Appletun,,,grass,dragon,110,85,80,100,80,30,485,"gluttony, ripen, thick_fat",Bulky Support,Trick Room,C,1,season_m1_reg_ma,standard
+844,844,sandaconda,,Sandaconda,Sandaconda,,,ground,,72,107,125,65,70,71,510,"sand_spit, sand_veil, shed_skin",Bulky Support,Balance,D,1,season_m1_reg_ma,standard
+855,855,polteageist,,Polteageist,Polteageist,,,ghost,,60,65,65,134,114,70,508,"cursed_body, weak_armor","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,C,1,season_m1_reg_ma,standard
+858,858,hatterene,,Hatterene,Hatterene,,,psychic,fairy,57,90,95,136,103,29,510,"anticipation, healer, magic_bounce","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,A,1,season_m1_reg_ma,standard
+866,866,mr-rime,,Mr. Rime,Mr. Rime,,,ice,psychic,80,85,75,110,100,70,520,"ice_body, screen_cleaner, tangled_feet","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+867,867,runerigus,,Runerigus,Runerigus,,,ground,ghost,58,95,145,50,105,30,483,wandering_spirit,"Bulky Support, Speed Control, Trick Room Setter",Trick Room,D,1,season_m1_reg_ma,standard
+869,869,alcremie,,Alcremie,Alcremie,,,fairy,,65,60,75,110,121,64,495,"aroma_veil, sweet_veil",Bulky Support,Balance,C,1,season_m1_reg_ma,standard
+877,877,morpeko,,Morpeko,Morpeko,,,electric,dark,58,95,58,70,58,97,436,hunger_switch,"Pivot, Speed Control",Offense,B,1,season_m1_reg_ma,standard
+887,887,dragapult,,Dragapult,Dragapult,,,dragon,ghost,88,120,75,100,75,142,600,"clear_body, cursed_body, infiltrator","Bulky Support, Pivot, Speed Control, Wallbreaker",Rain,B,1,season_m1_reg_ma,standard
+899,899,wyrdeer,,Wyrdeer,Wyrdeer,,,normal,psychic,103,105,72,105,75,65,525,"frisk, intimidate, sap_sipper","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,C,1,season_m1_reg_ma,standard
+900,900,kleavor,,Kleavor,Kleavor,,,bug,rock,70,135,95,45,70,85,500,"sharpness, sheer_force, swarm","Bulky Support, Pivot, Speed Control, Wallbreaker",Tailwind,S,1,season_m1_reg_ma,standard
+902,902,basculegion,basculegion-m,Basculegion,Basculegion,Basculegion-M,Basculegion-M,water,ghost,120,112,65,80,75,78,530,"adaptability, mold_breaker, swift_swim","Bulky Support, Speed Control",Rain,A,1,season_m1_reg_ma,standard
+903,903,sneasler,,Sneasler,Sneasler,,,fighting,poison,80,130,60,40,80,120,510,"poison_touch, pressure, unburden","Pivot, Wallbreaker",Hyper Offense,S,1,season_m1_reg_ma,standard
+908,908,meowscarada,,Meowscarada,Meowscarada,,,grass,dark,76,110,70,81,70,123,530,"overgrow, protean","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+911,911,skeledirge,,Skeledirge,Skeledirge,,,fire,ghost,104,75,100,110,75,66,530,"blaze, unaware",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+914,914,quaquaval,,Quaquaval,Quaquaval,,,water,fighting,85,120,80,85,75,85,530,"moxie, torrent","Bulky Support, Pivot, Speed Control, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+925,925,maushold,,Maushold,Maushold,,,normal,,74,75,70,65,75,111,470,"cheek_pouch, friend_guard, technician","Bulky Support, Pivot, Speed Control",Offense,A,1,season_m1_reg_ma,standard
+934,934,garganacl,,Garganacl,Garganacl,,,rock,,100,100,130,45,90,35,500,"clear_body, purifying_salt, sturdy",Bulky Support,Trick Room,B,1,season_m1_reg_ma,standard
+936,936,armarouge,,Armarouge,Armarouge,,,fire,psychic,85,60,100,125,80,75,525,"flash_fire, weak_armor","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker",Trick Room,A,1,season_m1_reg_ma,standard
+937,937,ceruledge,,Ceruledge,Ceruledge,,,fire,ghost,75,125,80,60,100,85,525,"flash_fire, weak_armor","Bulky Support, Wallbreaker",Balance,B,1,season_m1_reg_ma,standard
+939,939,bellibolt,,Bellibolt,Bellibolt,,,electric,,109,64,91,103,83,45,495,"damp, electromorphosis, static","Bulky Support, Pivot, Speed Control",Trick Room,B,1,season_m1_reg_ma,standard
+952,952,scovillain,,Scovillain,Scovillain,,,grass,fire,65,108,65,108,65,75,486,"chlorophyll, insomnia, moody",Bulky Support,Sun,A,1,season_m1_reg_ma,standard
+956,956,espathra,,Espathra,Espathra,,,psychic,,95,60,60,101,60,105,481,"frisk, opportunist, speed_boost","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+959,959,tinkaton,,Tinkaton,Tinkaton,,,fairy,steel,85,75,77,70,105,94,506,"mold_breaker, own_tempo, pickpocket","Bulky Support, Pivot, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+964,964,palafin,,Palafin,Palafin,,,water,,100,70,72,53,62,100,457,zero_to_hero,"Bulky Support, Speed Control",Offense,A,1,season_m1_reg_ma,standard
+968,968,orthworm,,Orthworm,Orthworm,,,steel,,70,85,145,60,55,65,480,"earth_eater, sand_veil",Bulky Support,Balance,B,1,season_m1_reg_ma,standard
+970,970,glimmora,,Glimmora,Glimmora,,,rock,poison,83,55,90,130,81,86,525,"corrosion, toxic_debris",Wallbreaker,Sand,A,1,season_m1_reg_ma,standard
+981,981,farigiraf,,Farigiraf,Farigiraf,,,normal,psychic,120,90,70,110,70,60,520,"armor_tail, cud_chew, sap_sipper","Bulky Support, Speed Control, Trick Room Setter","Sun, Trick Room",A,1,season_m1_reg_ma,standard
+983,983,kingambit,,Kingambit,Kingambit,,,dark,steel,100,135,120,60,85,50,550,"defiant, pressure, supreme_overlord","Bulky Support, Speed Control, Wallbreaker",Trick Room,S,1,season_m1_reg_ma,standard
+1013,1013,sinistcha,,Sinistcha,Sinistcha,,,grass,ghost,71,60,106,121,80,70,508,"heatproof, hospitality","Bulky Support, Speed Control, Trick Room Setter, Wallbreaker","Sand, Trick Room",S,1,season_m1_reg_ma,standard
+1018,1018,archaludon,,Archaludon,Archaludon,,,steel,dragon,90,105,130,125,65,85,600,"stalwart, stamina, sturdy","Bulky Support, Speed Control, Wallbreaker",Rain,S,1,season_m1_reg_ma,standard
+1019,1019,hydrapple,,Hydrapple,Hydrapple,,,grass,dragon,106,80,110,120,80,44,540,"regenerator, sticky_hold, supersweet_syrup","Bulky Support, Pivot, Wallbreaker",Trick Room,D,1,season_m1_reg_ma,standard
+10008,479,rotom,heat-rotom,Rotom,Rotom,Heat Rotom,Heat Rotom,electric,fire,50,65,107,105,107,86,520,levitate,"Bulky Support, Pivot, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+10009,479,rotom,wash-rotom,Rotom,Rotom,Wash Rotom,Wash Rotom,electric,water,50,65,107,105,107,86,520,levitate,"Bulky Support, Pivot, Speed Control",Hyper Offense,S,1,season_m1_reg_ma,standard
+10010,479,rotom,frost-rotom,Rotom,Rotom,Frost Rotom,Frost Rotom,electric,ice,50,65,107,105,107,86,520,levitate,"Bulky Support, Pivot, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+10011,479,rotom,fan-rotom,Rotom,Rotom,Fan Rotom,Fan Rotom,electric,flying,50,65,107,105,107,86,520,levitate,"Bulky Support, Pivot, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+10012,479,rotom,mow-rotom,Rotom,Rotom,Mow Rotom,Mow Rotom,electric,grass,50,65,107,105,107,86,520,levitate,"Bulky Support, Pivot, Speed Control",Balance,A,1,season_m1_reg_ma,standard
+10100,26,raichu,alolan-raichu,Raichu,Raichu,Alolan Raichu,Alolan Raichu,electric,psychic,60,85,50,95,85,110,485,surge_surfer,"Bulky Support, Pivot, Speed Control",Offense,B,1,season_m1_reg_ma,standard
+10104,38,ninetales,alolan-ninetales,Ninetales,Ninetales,Alolan Ninetales,Alolan Ninetales,ice,fairy,73,67,75,81,100,109,505,"snow_cloak, snow_warning","Bulky Support, Speed Control",Offense,B,1,season_m1_reg_ma,standard
+10165,80,slowbro,galarian-slowbro,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,poison,psychic,95,100,95,100,70,30,490,"own_tempo, quick_draw, regenerator","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+10172,199,slowking,galarian-slowking,Slowking,Slowking,Galarian Slowking,Galarian Slowking,poison,psychic,95,65,80,110,110,30,490,"curious_medicine, own_tempo, regenerator","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+10180,618,stunfisk,galarian-stunfisk,Stunfisk,Stunfisk,Galarian Stunfisk,Galarian Stunfisk,ground,steel,109,81,99,66,84,32,471,mimicry,"Bulky Support, Speed Control",Trick Room,C,1,season_m1_reg_ma,standard
+10230,59,arcanine,hisuian-arcanine,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,fire,rock,95,115,80,95,80,90,555,"flash_fire, intimidate, rock_head","Bulky Support, Pivot",Balance,B,1,season_m1_reg_ma,standard
+10233,157,typhlosion,hisuian-typhlosion,Typhlosion,Typhlosion,Hisuian Typhlosion,Hisuian Typhlosion,fire,ghost,73,84,78,119,85,95,534,"blaze, frisk",Bulky Support,Offense,B,1,season_m1_reg_ma,standard
+10236,503,samurott,hisuian-samurott,Samurott,Samurott,Hisuian Samurott,Hisuian Samurott,water,dark,90,108,80,100,65,85,528,"sharpness, shell_armor","Bulky Support, Speed Control",Balance,B,1,season_m1_reg_ma,standard
+10239,571,zoroark,hisuian-zoroark,Zoroark,Zoroark,Hisuian Zoroark,Hisuian Zoroark,normal,ghost,55,100,60,125,60,110,510,illusion,"Bulky Support, Pivot, Speed Control, Wallbreaker",Offense,B,1,season_m1_reg_ma,standard
+10242,706,goodra,hisuian-goodra,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,steel,dragon,80,100,100,110,150,60,600,"gooey, sap_sipper, shell_armor","Bulky Support, Wallbreaker",Balance,A,1,season_m1_reg_ma,standard
+10244,724,decidueye,hisuian-decidueye,Decidueye,Decidueye,Hisuian Decidueye,Hisuian Decidueye,grass,fighting,88,112,80,95,95,60,530,"long_reach, scrappy","Bulky Support, Pivot, Speed Control",Tailwind,C,1,season_m1_reg_ma,standard
+10245,713,avalugg,hisuian-avalugg,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,ice,rock,95,127,184,34,36,38,514,"ice_body, strong_jaw, sturdy","Bulky Support, Speed Control, Wallbreaker",Trick Room,D,1,season_m1_reg_ma,standard
+10250,128,tauros,paldean-tauros,Tauros,Tauros,Paldean Tauros,Paldean Tauros,fighting,,75,110,105,30,70,100,490,"anger_point, cud_chew, intimidate",Pivot,Offense,B,1,season_m1_reg_ma,standard
+10251,128,tauros,paldean-tauros-blaze,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),fighting,fire,75,110,105,30,70,100,490,"anger_point, cud_chew, intimidate","Bulky Support, Pivot",Offense,B,1,season_m1_reg_ma,standard
+10252,128,tauros,paldean-tauros-aqua,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),fighting,water,75,110,105,30,70,100,490,"anger_point, cud_chew, intimidate",Pivot,Offense,B,1,season_m1_reg_ma,standard
+10678,678,meowstic,meowstic-f,Meowstic,Meowstic,Meowstic-F,Meowstic-F,psychic,,74,48,76,83,81,104,466,"competitive, infiltrator, keen_eye","Bulky Support, Pivot, Speed Control, Trick Room Setter",Trick Room,B,1,season_m1_reg_ma,standard
+10902,902,basculegion,basculegion-f,Basculegion,Basculegion,Basculegion-F,Basculegion-F,water,ghost,120,92,65,100,75,78,530,"adaptability, mold_breaker, swift_swim","Bulky Support, Speed Control",Balance,B,1,season_m1_reg_ma,standard

@@ -1,7 +1,7 @@
 # Informe de validación
 
 ## Fecha
-2026-04-13
+2026-04-14
 
 ## Resultado ejecutivo
 La estructura de la BD ya está alineada con la especificación funcional base:
@@ -17,11 +17,7 @@ Tras la sincronización del 13 de abril de 2026, la cobertura del roster legal a
 ## Comandos ejecutados
 
 ```powershell
-python scripts\sync_current_champions.py
-python scripts\derive_competitive_layer.py
-python scripts\validate_data.py
-python scripts\build_db.py
-python scripts\export_views.py
+powershell -ExecutionPolicy Bypass -File scripts\release_bundle.ps1
 ```
 
 ## Estado de validación

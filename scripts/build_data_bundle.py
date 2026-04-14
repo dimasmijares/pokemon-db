@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from datetime import datetime, timezone
 import json
 import shutil
 import sqlite3
@@ -228,9 +229,10 @@ Si necesitas páginas estáticas o caché:
 def build_manifest(export_sources: dict[str, str]) -> None:
     conn = sqlite3.connect(DB_SRC)
     try:
+        generated_at = datetime.now(timezone.utc)
         manifest = {
-            "bundle_version": "2026.04.14.1",
-            "generated_at": "2026-04-14",
+            "bundle_version": generated_at.strftime("%Y.%m.%d.1"),
+            "generated_at": generated_at.date().isoformat(),
             "sqlite_path": "db/pokemon_champions.sqlite",
             "recommended_frontend_views": [
                 "v_team_builder_pool",

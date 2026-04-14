@@ -18,6 +18,7 @@ Montar una BD que permita responder preguntas como:
 - qué respuestas existen contra amenazas como Mega Charizard Y
 
 ## Estructura del proyecto
+- raíz del repo: proyecto operativo y raíz Git real
 - `data_raw/`: fuentes editables en CSV
 - `data_build/pokemon_champions.sqlite`: base SQLite generada
 - `data_build/exports/`: exportaciones útiles
