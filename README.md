@@ -17,6 +17,12 @@ Montar una BD que permita responder preguntas como:
 - qué candidatos encajan en lluvia, sol, Espacio Raro, balance, etc.
 - qué respuestas existen contra amenazas como Mega Charizard Y
 
+## Responsabilidad del repo
+- este repo produce el dato de dominio y el contrato de entrega para otros consumidores
+- aquí se mantienen la SQLite, los scripts de sincronización, las validaciones y `data_bundle/`
+- si la web necesita nuevos campos, vistas o exports, el cambio debe hacerse aquí primero
+- `pokemon-app` debe consumir este contrato, no redefinirlo
+
 ## Estructura del proyecto
 - raíz del repo: proyecto operativo y raíz Git real
 - `data_raw/`: fuentes editables en CSV
