@@ -42,3 +42,7 @@
 ## Fase 7
 - Publicar en GitHub
 - Crear automatizaciones de actualización
+
+## Mejora futura de handoff
+- desacoplar la importación del `data_bundle` de rutas locales fijas entre repos
+- permitir origen configurable del bundle o distribución como artefacto remoto versionado
