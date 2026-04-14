@@ -46,3 +46,10 @@
 ## Mejora futura de handoff
 - desacoplar la importación del `data_bundle` de rutas locales fijas entre repos
 - permitir origen configurable del bundle o distribución como artefacto remoto versionado
+
+## Mejora futura de automatización
+- mantener primero un flujo semiautomático local robusto con `scripts/release_bundle.ps1`
+- evaluar después automatización gratuita con GitHub Actions para regeneración periódica del bundle
+- añadir validaciones de regresión y diff contra la ejecución anterior antes de publicar cambios
+- publicar solo si el pipeline pasa y la calidad mínima del dato se mantiene
+- estudiar sincronización posterior hacia `pokemon-app` mediante importación controlada, preferiblemente sin push ciego a producción
