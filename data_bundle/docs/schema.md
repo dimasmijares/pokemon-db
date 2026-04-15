@@ -252,6 +252,11 @@
 - `v_pokemon_summary`
 - `v_speed_table`
 - `v_move_users`
+- `v_move_user_links`
+- `v_pokemon_abilities_summary`
+- `v_pokemon_moves_summary`
+- `v_pokemon_roles_summary`
+- `v_pokemon_archetypes_summary`
 - `v_team_builder_pool`
 - `v_rain_candidates`
 - `v_sun_candidates`
@@ -259,10 +264,14 @@
 - `v_charizard_answers`
 
 ### Criterios funcionales
-- `v_pokemon_summary` resume ficha base, tier, roles, arquetipos y habilidades.
+- `v_pokemon_summary` resume ficha base, tier, roles, arquetipos y habilidades, incluyendo agregados bilingües.
 - `v_speed_table` expone perfiles de velocidad por `season_key` y `format`.
 - `v_move_users` resume cobertura de movimientos confirmados en Champions, separando move pool estructural y presencia en sets observados.
-- `v_team_builder_pool` da el pool legal para construcción de equipos.
+- `v_move_user_links` expone la relación estructurada movimiento ↔ Pokémon para construir exports enlazables por `pokemon_id`.
+- `v_pokemon_abilities_summary` expone habilidades por Pokémon con nombres y descripciones bilingües.
+- `v_pokemon_moves_summary` expone movimientos por Pokémon con señales `is_in_move_pool` y `is_observed_in_sets`.
+- `v_pokemon_roles_summary` y `v_pokemon_archetypes_summary` exponen relaciones estructuradas y bilingües para frontend.
+- `v_team_builder_pool` da el pool legal para construcción de equipos, con nombres localizados y agregados bilingües.
 - `v_rain_candidates` y `v_sun_candidates` mezclan habilidades y tipado relevante.
 - `v_trick_room_candidates` usa `trick_room_rating` y velocidad base baja.
 - `v_charizard_answers` materializa matchups frente a Charizard en dobles.

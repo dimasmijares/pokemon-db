@@ -5,7 +5,7 @@
     "source_type": "official",
     "url": "https://champions.pokemon.com/es-es/gameplay/",
     "trust_level": "high",
-    "last_checked_at": "2026-04-14",
+    "last_checked_at": "2026-04-15",
     "license_notes": null,
     "notes": "Gameplay overview confirming Ranked Battles, Mega Evolution in the first regulation and rotating regulations."
   },
@@ -15,7 +15,7 @@
     "source_type": "meta_site",
     "url": "https://championslab.xyz/",
     "trust_level": "medium",
-    "last_checked_at": "2026-04-14",
+    "last_checked_at": "2026-04-15",
     "license_notes": null,
     "notes": "Used for current season, visible roster tiers, current Pokedex move pools, current ability pools and observed set data."
   },
@@ -25,7 +25,7 @@
     "source_type": "fan_db",
     "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_in_Pok%C3%A9mon_Champions",
     "trust_level": "medium",
-    "last_checked_at": "2026-04-14",
+    "last_checked_at": "2026-04-15",
     "license_notes": "CC BY-NC-SA 2.5",
     "notes": "Used for current roster availability notes and current legal Mega Evolution list."
   },
@@ -35,7 +35,7 @@
     "source_type": "fan_db",
     "url": "https://pokeapi.co/docs",
     "trust_level": "medium",
-    "last_checked_at": "2026-04-14",
+    "last_checked_at": "2026-04-15",
     "license_notes": "CC BY-SA 4.0",
     "notes": "Used for species flags, generation data, localized names and standard item fallbacks."
   },
@@ -45,7 +45,7 @@
     "source_type": "manual_curation",
     "url": null,
     "trust_level": "low",
-    "last_checked_at": "2026-04-14",
+    "last_checked_at": "2026-04-15",
     "license_notes": null,
     "notes": "Used only for fallback mega stone naming when no cleaner structured source is available."
   }

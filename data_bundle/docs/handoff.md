@@ -25,6 +25,7 @@ Usa esta vista para:
 - búsqueda por nombre
 - filtros por tier
 - filtros por rol o arquetipo ya derivados
+- nombres localizados desde el propio export de listado
 
 ### Detalle de Pokemon
 
@@ -38,6 +39,12 @@ Usa esta vista para:
 - habilidades actuales
 - roles y arquetipos derivados
 - tier actual
+
+Y usa estos exports estructurados para evitar joins locales:
+
+- `exports/pokemon_detail_index.json`
+- `exports/pokemon_abilities_summary.json`
+- `exports/pokemon_moves_summary.json`
 
 ### Búsqueda y filtros de velocidad
 
@@ -61,12 +68,14 @@ Campos relevantes:
 - `observed_set_user_count`
 - `observed_set_coverage_pct`
 - `users`
+- `name_es`
 
 Interpretación:
 
 - `move_pool_user_count`: cuantos Pokemon tienen ese movimiento en el move pool actual de Champions
 - `observed_set_user_count`: cuantos Pokemon lo llevan en sets observados
 - `observed_set_coverage_pct`: proporcion observada respecto al move pool
+- en el export JSON, `users` sale estructurado y enlazable por `pokemon_id`
 
 ### Filtros temáticos rápidos
 
@@ -138,6 +147,7 @@ Si quieres minimizar complejidad:
 2. usa `v_pokemon_summary` para detalle
 3. usa `v_speed_table` para speed logic
 4. usa `v_move_users` para búsquedas por movimiento
+5. usa los exports `pokemon_abilities_summary.json`, `pokemon_moves_summary.json`, `pokemon_roles_summary.json` y `pokemon_archetypes_summary.json` para detalle y localización sin joins locales
 
 Si necesitas páginas estáticas o caché:
 

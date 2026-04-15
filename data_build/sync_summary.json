@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14",
+  "generated_at": "2026-04-15",
   "season_key": "season_m1_reg_ma",
   "season_name": "Season M-1 - Regulation M-A",
   "season_dates": {
@@ -15,8 +15,8 @@
     "championslab_setdex_groups": 207,
     "championslab_active_seasons_in_bundle": 1,
     "championslab_active_season_match": "Season M-1  -  Regulation M-A",
-    "bulbapedia_parse_method": "html_text_blocks",
-    "bulbapedia_roster_rows": 262,
+    "bulbapedia_parse_method": "pandas_read_html",
+    "bulbapedia_roster_rows": 213,
     "bulbapedia_mega_rows": 59
   },
   "dataset_metrics": {
@@ -38,7 +38,7 @@
       "pokeapi": 74,
       "championslab": 87
     },
-    "has_bulbapedia_fallback_parser": true,
+    "has_bulbapedia_fallback_parser": false,
     "manual_curation_mega_ratio": 0.0,
     "observed_set_move_ratio": 0.1197
   }

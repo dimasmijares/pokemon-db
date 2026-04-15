@@ -56,6 +56,11 @@ def create_schema(conn: sqlite3.Connection) -> None:
         DROP VIEW IF EXISTS v_trick_room_candidates;
         DROP VIEW IF EXISTS v_sun_candidates;
         DROP VIEW IF EXISTS v_rain_candidates;
+        DROP VIEW IF EXISTS v_pokemon_archetypes_summary;
+        DROP VIEW IF EXISTS v_pokemon_roles_summary;
+        DROP VIEW IF EXISTS v_pokemon_moves_summary;
+        DROP VIEW IF EXISTS v_pokemon_abilities_summary;
+        DROP VIEW IF EXISTS v_move_user_links;
         DROP VIEW IF EXISTS v_team_builder_pool;
         DROP VIEW IF EXISTS v_move_users;
         DROP VIEW IF EXISTS v_speed_table;
@@ -465,9 +470,24 @@ def create_views(conn: sqlite3.Connection) -> None:
             (
                 SELECT GROUP_CONCAT(pa.ability_key, ', ')
                 FROM pokemon_abilities pa
+                JOIN abilities ab ON ab.ability_key = pa.ability_key
+                WHERE pa.pokemon_id = p.pokemon_id
+                  AND pa.is_currently_available = 1
+            ) AS ability_keys,
+            (
+                SELECT GROUP_CONCAT(ab.name_en, ', ')
+                FROM pokemon_abilities pa
+                JOIN abilities ab ON ab.ability_key = pa.ability_key
                 WHERE pa.pokemon_id = p.pokemon_id
                   AND pa.is_currently_available = 1
             ) AS abilities,
+            (
+                SELECT GROUP_CONCAT(COALESCE(ab.name_es, ab.name_en), ', ')
+                FROM pokemon_abilities pa
+                JOIN abilities ab ON ab.ability_key = pa.ability_key
+                WHERE pa.pokemon_id = p.pokemon_id
+                  AND pa.is_currently_available = 1
+            ) AS abilities_es,
             (
                 SELECT GROUP_CONCAT(r.name_en, ', ')
                 FROM pokemon_roles pr
@@ -477,6 +497,14 @@ def create_views(conn: sqlite3.Connection) -> None:
                   AND pr.format = 'doubles'
             ) AS roles,
             (
+                SELECT GROUP_CONCAT(COALESCE(r.name_es, r.name_en), ', ')
+                FROM pokemon_roles pr
+                JOIN roles r ON r.role_key = pr.role_key
+                WHERE pr.pokemon_id = p.pokemon_id
+                  AND pr.season_key = p.season_key
+                  AND pr.format = 'doubles'
+            ) AS roles_es,
+            (
                 SELECT GROUP_CONCAT(a.name_en, ', ')
                 FROM pokemon_archetypes pa2
                 JOIN archetypes a ON a.archetype_key = pa2.archetype_key
@@ -484,6 +512,14 @@ def create_views(conn: sqlite3.Connection) -> None:
                   AND pa2.season_key = p.season_key
                   AND pa2.format = 'doubles'
             ) AS archetypes,
+            (
+                SELECT GROUP_CONCAT(COALESCE(a.name_es, a.name_en), ', ')
+                FROM pokemon_archetypes pa2
+                JOIN archetypes a ON a.archetype_key = pa2.archetype_key
+                WHERE pa2.pokemon_id = p.pokemon_id
+                  AND pa2.season_key = p.season_key
+                  AND pa2.format = 'doubles'
+            ) AS archetypes_es,
             t.tier_value,
             p.is_currently_legal,
             p.season_key,
@@ -519,6 +555,7 @@ def create_views(conn: sqlite3.Connection) -> None:
         SELECT
             m.move_key,
             m.name_en,
+            m.name_es,
             COUNT(DISTINCT CASE WHEN pm.is_confirmed_in_champions = 1 THEN pm.pokemon_id END) AS confirmed_user_count,
             COUNT(DISTINCT CASE WHEN pm.is_confirmed_in_champions = 0 THEN pm.pokemon_id END) AS inferred_user_count,
             COUNT(DISTINCT CASE WHEN pm.availability_status = 'champions_move_pool' THEN pm.pokemon_id END) AS move_pool_user_count,
@@ -537,7 +574,32 @@ def create_views(conn: sqlite3.Connection) -> None:
         FROM pokemon_moves pm
         JOIN moves m ON m.move_key = pm.move_key
         JOIN pokemon p ON p.pokemon_id = pm.pokemon_id
-        GROUP BY m.move_key, m.name_en;
+        GROUP BY m.move_key, m.name_en, m.name_es;
+
+        CREATE VIEW v_move_user_links AS
+        SELECT
+            m.move_key,
+            m.name_en,
+            m.name_es,
+            p.pokemon_id,
+            p.name_en AS pokemon_name_en,
+            p.name_es AS pokemon_name_es,
+            p.form_name_en,
+            p.form_name_es,
+            MAX(CASE WHEN pm.availability_status = 'champions_move_pool' THEN 1 ELSE 0 END) AS is_in_move_pool,
+            MAX(CASE WHEN pm.availability_status = 'observed_set' THEN 1 ELSE 0 END) AS is_observed_in_sets
+        FROM pokemon_moves pm
+        JOIN moves m ON m.move_key = pm.move_key
+        JOIN pokemon p ON p.pokemon_id = pm.pokemon_id
+        GROUP BY
+            m.move_key,
+            m.name_en,
+            m.name_es,
+            p.pokemon_id,
+            p.name_en,
+            p.name_es,
+            p.form_name_en,
+            p.form_name_es;
 
         CREATE VIEW v_team_builder_pool AS
         SELECT
@@ -545,7 +607,9 @@ def create_views(conn: sqlite3.Connection) -> None:
             p.species_key,
             p.form_key,
             p.name_en,
+            p.name_es,
             p.form_name_en,
+            p.form_name_es,
             p.type1_key,
             p.type2_key,
             t.tier_value,
@@ -558,6 +622,14 @@ def create_views(conn: sqlite3.Connection) -> None:
                   AND pr.format = 'doubles'
             ) AS roles,
             (
+                SELECT GROUP_CONCAT(COALESCE(r.name_es, r.name_en), ', ')
+                FROM pokemon_roles pr
+                JOIN roles r ON r.role_key = pr.role_key
+                WHERE pr.pokemon_id = p.pokemon_id
+                  AND pr.season_key = p.season_key
+                  AND pr.format = 'doubles'
+            ) AS roles_es,
+            (
                 SELECT GROUP_CONCAT(a.name_en, ', ')
                 FROM pokemon_archetypes pa2
                 JOIN archetypes a ON a.archetype_key = pa2.archetype_key
@@ -565,6 +637,15 @@ def create_views(conn: sqlite3.Connection) -> None:
                   AND pa2.season_key = p.season_key
                   AND pa2.format = 'doubles'
             ) AS archetypes
+            ,
+            (
+                SELECT GROUP_CONCAT(COALESCE(a.name_es, a.name_en), ', ')
+                FROM pokemon_archetypes pa2
+                JOIN archetypes a ON a.archetype_key = pa2.archetype_key
+                WHERE pa2.pokemon_id = p.pokemon_id
+                  AND pa2.season_key = p.season_key
+                  AND pa2.format = 'doubles'
+            ) AS archetypes_es
         FROM pokemon p
         LEFT JOIN tiers t
             ON t.pokemon_id = p.pokemon_id
@@ -669,6 +750,81 @@ def create_views(conn: sqlite3.Connection) -> None:
         JOIN pokemon answer ON answer.pokemon_id = m.answer_pokemon_id
         WHERE m.format = 'doubles'
           AND threat.species_key = 'charizard';
+
+        CREATE VIEW v_pokemon_abilities_summary AS
+        SELECT
+            p.pokemon_id,
+            p.name_en AS pokemon_name_en,
+            p.name_es AS pokemon_name_es,
+            p.form_name_en,
+            p.form_name_es,
+            pa.ability_key,
+            pa.slot_type,
+            pa.is_currently_available,
+            a.name_en,
+            a.name_es,
+            a.description_en,
+            a.description_es
+        FROM pokemon_abilities pa
+        JOIN pokemon p ON p.pokemon_id = pa.pokemon_id
+        JOIN abilities a ON a.ability_key = pa.ability_key
+        WHERE pa.is_currently_available = 1;
+
+        CREATE VIEW v_pokemon_moves_summary AS
+        SELECT
+            p.pokemon_id,
+            p.name_en AS pokemon_name_en,
+            p.name_es AS pokemon_name_es,
+            p.form_name_en,
+            p.form_name_es,
+            m.move_key,
+            m.name_en,
+            m.name_es,
+            MAX(CASE WHEN pm.availability_status = 'champions_move_pool' THEN 1 ELSE 0 END) AS is_in_move_pool,
+            MAX(CASE WHEN pm.availability_status = 'observed_set' THEN 1 ELSE 0 END) AS is_observed_in_sets
+        FROM pokemon_moves pm
+        JOIN pokemon p ON p.pokemon_id = pm.pokemon_id
+        JOIN moves m ON m.move_key = pm.move_key
+        GROUP BY
+            p.pokemon_id,
+            p.name_en,
+            p.name_es,
+            p.form_name_en,
+            p.form_name_es,
+            m.move_key,
+            m.name_en,
+            m.name_es;
+
+        CREATE VIEW v_pokemon_roles_summary AS
+        SELECT
+            pr.pokemon_id,
+            pr.role_key,
+            r.name_en,
+            r.name_es,
+            r.description_en,
+            r.description_es,
+            pr.confidence,
+            pr.season_key,
+            pr.format,
+            pr.curation_source_key,
+            pr.notes
+        FROM pokemon_roles pr
+        JOIN roles r ON r.role_key = pr.role_key;
+
+        CREATE VIEW v_pokemon_archetypes_summary AS
+        SELECT
+            pa.pokemon_id,
+            pa.archetype_key,
+            a.name_en,
+            a.name_es,
+            a.description_en,
+            a.description_es,
+            pa.fit_score,
+            pa.season_key,
+            pa.format,
+            pa.notes
+        FROM pokemon_archetypes pa
+        JOIN archetypes a ON a.archetype_key = pa.archetype_key;
         """
     )
     conn.commit()

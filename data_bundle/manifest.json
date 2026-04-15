@@ -1,6 +1,6 @@
 {
-  "bundle_version": "2026.04.14.1",
-  "generated_at": "2026-04-14",
+  "bundle_version": "2026.04.15.1",
+  "generated_at": "2026-04-15",
   "sqlite_path": "db/pokemon_champions.sqlite",
   "recommended_frontend_views": [
     "v_team_builder_pool",
@@ -18,6 +18,10 @@
     "search_and_filters": "v_team_builder_pool",
     "speed_filters": "v_speed_table",
     "move_lookup": "v_move_users",
+    "pokemon_abilities": "v_pokemon_abilities_summary",
+    "pokemon_moves": "v_pokemon_moves_summary",
+    "pokemon_roles": "v_pokemon_roles_summary",
+    "pokemon_archetypes": "v_pokemon_archetypes_summary",
     "threat_answers": "v_charizard_answers"
   },
   "derived_or_non_official_tables": {
@@ -55,7 +59,10 @@
   "compatibility_notes": [
     "This bundle format replaces the old web_ready_bundle handoff.",
     "v_move_users returns one row per move and exposes move_pool_user_count, observed_set_user_count and observed_set_coverage_pct.",
-    "pokemon_moves is sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets."
+    "pokemon_moves is sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets.",
+    "pokemon_list.json now includes localized display names and structured role/archetype relations.",
+    "pokemon_detail_index.json now includes structured abilities, roles and archetypes for detail pages.",
+    "move_users.json now exposes localized move names and structured users linked by pokemon_id."
   ],
   "stable_identifiers": [
     "pokemon_id",
@@ -69,19 +76,35 @@
   "exports": [
     {
       "file": "pokemon_list.json",
-      "source": "SELECT * FROM v_team_builder_pool"
+      "source": "Derived from v_team_builder_pool + v_pokemon_roles_summary + v_pokemon_archetypes_summary"
     },
     {
       "file": "pokemon_detail_index.json",
-      "source": "SELECT * FROM v_pokemon_summary"
+      "source": "Derived from v_pokemon_summary + v_pokemon_abilities_summary + v_pokemon_roles_summary + v_pokemon_archetypes_summary"
+    },
+    {
+      "file": "move_users.json",
+      "source": "Derived from v_move_users + v_move_user_links"
     },
     {
       "file": "speed_profiles.json",
       "source": "SELECT * FROM v_speed_table"
     },
     {
-      "file": "move_users.json",
-      "source": "SELECT * FROM v_move_users"
+      "file": "pokemon_abilities_summary.json",
+      "source": "SELECT * FROM v_pokemon_abilities_summary"
+    },
+    {
+      "file": "pokemon_moves_summary.json",
+      "source": "SELECT * FROM v_pokemon_moves_summary"
+    },
+    {
+      "file": "pokemon_roles_summary.json",
+      "source": "SELECT * FROM v_pokemon_roles_summary"
+    },
+    {
+      "file": "pokemon_archetypes_summary.json",
+      "source": "SELECT * FROM v_pokemon_archetypes_summary"
     },
     {
       "file": "rain_candidates.json",
@@ -111,6 +134,8 @@
   "bundle_contents_summary": {
     "v_pokemon_summary_rows": 208,
     "v_move_users_rows": 518,
+    "v_pokemon_abilities_summary_rows": 504,
+    "v_pokemon_moves_summary_rows": 12657,
     "pokemon_roles_rows": 512,
     "pokemon_archetypes_rows": 224,
     "cores_rows": 6,
