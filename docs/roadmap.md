@@ -1,53 +1,54 @@
 # Hoja de ruta
 
-## Fase 0
-- Crear el esqueleto
-- Crear esquema SQL
-- Crear scripts base
-- Crear CSV vacíos
+## Estado actual
 
-## Fase 1
-- Cargar roster legal actual
-- Cargar reglas de temporada
-- Cargar tiers iniciales
-- Cargar tipos
+Completado y operativo:
 
-## Fase 2
-- Cargar estadísticas base
-- Cargar megas
-- Cargar piedras mega
-- Cargar habilidades
+- sincronización del roster legal actual
+- sincronización de reglas de temporada y tiers actuales
+- carga de stats, habilidades, movimientos, ítems y megas legales
+- generación de `speed_profiles`
+- reconstrucción reproducible de SQLite
+- exports frontend-ready y `data_bundle/`
+- validación estructural, comparativa y de cobertura localizada
+- capa competitiva derivada (`roles`, `archetypes`, `cores`, `matchups`)
 
-## Fase 3
-- Cargar movimientos
-- Cargar relaciones Pokémon ↔ movimiento
-- Completar traducciones al castellano
+## Pendientes de datos
 
-## Fase 4
-- Generar speed profiles a nivel 50
-- Crear vistas básicas
+### Prioridad alta
 
-## Fase 5
-- Añadir capa competitiva
-- roles
-- arquetipos
-- cores
-- checks / answers
+- completar una fuente fiable para `items.effect_short_es` y `items.effect_long_es`
+- mejorar la cobertura restante de `abilities.description_es`
+- mejorar la cobertura restante de `moves.effect_short_es` y `moves.effect_long_es`
 
-## Fase 6
-- Añadir generador de equipos
-- Añadir consultas de lluvia / sol / Espacio Raro
-- Añadir respuestas a Mega Charizard Y
+### Prioridad media
 
-## Fase 7
-- Publicar en GitHub
-- Crear automatizaciones de actualización
+- reforzar con una fuente más directa la capa derivada de curación por Pokémon:
+  - `pokemon_roles`
+  - `pokemon_archetypes`
+  - `matchups`
+- consolidar una política estable para `cores` si Champions Lab cambia el HTML o la terminología visible
+- añadir, si la fuente lo permite, métricas de frecuencia o win rate por movimiento para complementar `observed_set`
+
+## Pendientes de producto / contrato
+
+- revisar si el bundle debe exponer más texto corto bilingüe útil para `pokemon-app`
+- mantener documentado qué partes son oficiales, confirmadas o derivadas
+- seguir respondiendo a peticiones upstream concretas desde `pokemon-app` cuando el contrato no cubra una necesidad real de UX
+
+## Pendientes de criterio funcional
+
+- afinar la lógica de candidatos por clima con reglas competitivas más precisas
+- enriquecer `matchups` y `cores`
+- decidir si `format_availability` debe pasar de `standard` a un vocabulario más formal
 
 ## Mejora futura de handoff
+
 - desacoplar la importación del `data_bundle` de rutas locales fijas entre repos
 - permitir origen configurable del bundle o distribución como artefacto remoto versionado
 
 ## Mejora futura de automatización
+
 - mantener primero un flujo semiautomático local robusto con `scripts/release_bundle.ps1`
 - evaluar después automatización gratuita con GitHub Actions para regeneración periódica del bundle
 - añadir validaciones de regresión y diff contra la ejecución anterior antes de publicar cambios

@@ -176,6 +176,9 @@ powershell -ExecutionPolicy Bypass -File scripts\release_bundle.ps1
 ## Trabajo pendiente
 
 ### Pendiente de datos
+- completar una fuente fiable para `items.effect_short_es` y `items.effect_long_es`
+- cerrar la cobertura restante de `abilities.description_es` (`16` habilidades sin ES)
+- cerrar la cobertura restante de `moves.effect_short_es` y `moves.effect_long_es` (`49` movimientos sin ES)
 - reforzar con una fuente más directa la capa derivada de curación por Pokémon (`pokemon_roles`, `pokemon_archetypes`, `matchups`)
 - consolidar una política estable para `cores` si Champions Lab cambia el marcado HTML o la terminología visible
 - añadir, si la fuente lo permite, métricas de frecuencia o win rate por movimiento para complementar `observed_set`
