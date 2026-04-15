@@ -9,9 +9,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 3,
@@ -23,9 +23,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Chlorophyll",
-    "name_es": "Chlorophyll",
+    "name_es": "Clorofila",
     "description_en": "Doubles Speed during strong sunlight.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay sol."
   },
   {
     "pokemon_id": 6,
@@ -37,9 +37,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 6,
@@ -51,9 +51,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Solar Power",
-    "name_es": "Solar Power",
+    "name_es": "Poder Solar",
     "description_en": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but HP decreases every turn.",
-    "description_es": null
+    "description_es": "Si hace sol, baja los PS, pero potencia el At. Esp."
   },
   {
     "pokemon_id": 9,
@@ -65,9 +65,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 9,
@@ -79,9 +79,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Rain Dish",
-    "name_es": "Rain Dish",
+    "name_es": "Cura Lluvia",
     "description_en": "Heals for 1/16 max HP after each turn during rain.",
-    "description_es": null
+    "description_es": "Recupera PS de forma gradual cuando llueve."
   },
   {
     "pokemon_id": 15,
@@ -93,9 +93,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Swarm",
-    "name_es": "Swarm",
+    "name_es": "Enjambre",
     "description_en": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Bicho en un apuro."
   },
   {
     "pokemon_id": 15,
@@ -107,9 +107,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sniper",
-    "name_es": "Sniper",
+    "name_es": "Francotirador",
     "description_en": "Powers up moves if they become critical hits.",
-    "description_es": null
+    "description_es": "Potencia los movimientos si se vuelven críticos."
   },
   {
     "pokemon_id": 18,
@@ -121,9 +121,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 18,
@@ -135,9 +135,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Tangled Feet",
-    "name_es": "Tangled Feet",
+    "name_es": "Tumbos",
     "description_en": "Raises evasion if the Pokémon is confused.",
-    "description_es": null
+    "description_es": "Sube la Evasión si el Pokémon está confuso."
   },
   {
     "pokemon_id": 18,
@@ -149,9 +149,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Big Pecks",
-    "name_es": "Big Pecks",
+    "name_es": "Sacapecho",
     "description_en": "Protects the Pokémon from Defense-lowering attacks.",
-    "description_es": null
+    "description_es": "Protege de los ataques que bajan la Defensa."
   },
   {
     "pokemon_id": 24,
@@ -163,9 +163,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 24,
@@ -177,9 +177,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Shed Skin",
-    "name_es": "Shed Skin",
+    "name_es": "Mudar",
     "description_en": "Heals the body by shedding.",
-    "description_es": null
+    "description_es": "Cura los problemas de estado mudando la piel."
   },
   {
     "pokemon_id": 24,
@@ -191,9 +191,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Unnerve",
-    "name_es": "Unnerve",
+    "name_es": "Nerviosismo",
     "description_en": "Prevents foes from eating berries.",
-    "description_es": null
+    "description_es": "Pone nervioso al rival y le impide usar bayas."
   },
   {
     "pokemon_id": 25,
@@ -205,9 +205,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Static",
-    "name_es": "Static",
+    "name_es": "Elec. Estática",
     "description_en": "Paralyzes on contact.",
-    "description_es": null
+    "description_es": "Puede paralizar al mínimo contacto."
   },
   {
     "pokemon_id": 25,
@@ -219,9 +219,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Lightning Rod",
-    "name_es": "Lightning Rod",
+    "name_es": "Pararrayos",
     "description_en": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-    "description_es": null
+    "description_es": "Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp."
   },
   {
     "pokemon_id": 26,
@@ -233,9 +233,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Static",
-    "name_es": "Static",
+    "name_es": "Elec. Estática",
     "description_en": "Paralyzes on contact.",
-    "description_es": null
+    "description_es": "Puede paralizar al mínimo contacto."
   },
   {
     "pokemon_id": 26,
@@ -247,9 +247,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Lightning Rod",
-    "name_es": "Lightning Rod",
+    "name_es": "Pararrayos",
     "description_en": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-    "description_es": null
+    "description_es": "Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp."
   },
   {
     "pokemon_id": 36,
@@ -261,9 +261,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Cute Charm",
-    "name_es": "Cute Charm",
+    "name_es": "Gran Encanto",
     "description_en": "Has a 30% chance of infatuating attacking Pokémon on contact.",
-    "description_es": null
+    "description_es": "Tocar al Pokémon puede causar enamoramiento."
   },
   {
     "pokemon_id": 36,
@@ -275,9 +275,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Magic Guard",
-    "name_es": "Magic Guard",
+    "name_es": "Muro Mágico",
     "description_en": "The Pokémon only takes damage from attacks.",
-    "description_es": null
+    "description_es": "Solo dañan al Pokémon los ataques directos."
   },
   {
     "pokemon_id": 36,
@@ -289,9 +289,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Unaware",
-    "name_es": "Unaware",
+    "name_es": "Ignorante",
     "description_en": "Ignores the opposing Pokémon's stat changes.",
-    "description_es": null
+    "description_es": "No tiene en cuenta las mejoras en las características del rival."
   },
   {
     "pokemon_id": 38,
@@ -303,9 +303,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 38,
@@ -317,9 +317,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Drought",
-    "name_es": "Drought",
+    "name_es": "Sequía",
     "description_en": "Turns the sunlight harsh when the Pokémon enters a battle.",
-    "description_es": null
+    "description_es": "El sol sale si el Pokémon entra en combate."
   },
   {
     "pokemon_id": 59,
@@ -331,9 +331,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 59,
@@ -345,9 +345,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 59,
@@ -359,9 +359,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Justified",
-    "name_es": "Justified",
+    "name_es": "Justiciero",
     "description_en": "Raises Attack when hit by Dark-type moves.",
-    "description_es": null
+    "description_es": "Sube el Ataque al recibir uno de tipo Siniestro."
   },
   {
     "pokemon_id": 65,
@@ -373,9 +373,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Synchronize",
-    "name_es": "Synchronize",
+    "name_es": "Sincronía",
     "description_en": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-    "description_es": null
+    "description_es": "Contagia envenenamiento, parálisis o quemaduras."
   },
   {
     "pokemon_id": 65,
@@ -387,9 +387,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 65,
@@ -401,9 +401,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Magic Guard",
-    "name_es": "Magic Guard",
+    "name_es": "Muro Mágico",
     "description_en": "The Pokémon only takes damage from attacks.",
-    "description_es": null
+    "description_es": "Solo dañan al Pokémon los ataques directos."
   },
   {
     "pokemon_id": 68,
@@ -415,9 +415,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Guts",
-    "name_es": "Guts",
+    "name_es": "Agallas",
     "description_en": "Ups ATTACK if suffering.",
-    "description_es": null
+    "description_es": "Sube el Ataque si sufre un problema de estado."
   },
   {
     "pokemon_id": 68,
@@ -429,9 +429,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "No Guard",
-    "name_es": "No Guard",
+    "name_es": "Indefenso",
     "description_en": "Ensures that all moves used by and against the Pokémon land.",
-    "description_es": null
+    "description_es": "El movimiento del Pokémon y el del rival acertarán."
   },
   {
     "pokemon_id": 68,
@@ -443,9 +443,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Steadfast",
-    "name_es": "Steadfast",
+    "name_es": "Impasible",
     "description_en": "Raises Speed one stage upon flinching.",
-    "description_es": null
+    "description_es": "Cada vez que retrocede sube su Velocidad."
   },
   {
     "pokemon_id": 71,
@@ -457,9 +457,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Chlorophyll",
-    "name_es": "Chlorophyll",
+    "name_es": "Clorofila",
     "description_en": "Doubles Speed during strong sunlight.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay sol."
   },
   {
     "pokemon_id": 71,
@@ -471,9 +471,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Gluttony",
-    "name_es": "Gluttony",
+    "name_es": "Gula",
     "description_en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
-    "description_es": null
+    "description_es": "Fomenta el uso rápido de la baya que porte."
   },
   {
     "pokemon_id": 80,
@@ -485,9 +485,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Oblivious",
-    "name_es": "Oblivious",
+    "name_es": "Despiste",
     "description_en": "Prevents attraction.",
-    "description_es": null
+    "description_es": "Evita que el Pokémon sea atraído o provocado."
   },
   {
     "pokemon_id": 80,
@@ -499,9 +499,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Own Tempo",
-    "name_es": "Own Tempo",
+    "name_es": "Ritmo Propio",
     "description_en": "Prevents confusion.",
-    "description_es": null
+    "description_es": "Evita ser confundido."
   },
   {
     "pokemon_id": 80,
@@ -513,9 +513,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 94,
@@ -527,9 +527,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Cursed Body",
-    "name_es": "Cursed Body",
+    "name_es": "Cuerpo Maldito",
     "description_en": "Has a 30% chance of Disabling any move that hits the Pokémon.",
-    "description_es": null
+    "description_es": "Puede anular el movimiento usado en su contra."
   },
   {
     "pokemon_id": 115,
@@ -541,9 +541,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Early Bird",
-    "name_es": "Early Bird",
+    "name_es": "Madrugar",
     "description_en": "Makes sleep pass twice as quickly.",
-    "description_es": null
+    "description_es": "El Pokémon se despierta rápidamente."
   },
   {
     "pokemon_id": 115,
@@ -555,9 +555,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Scrappy",
-    "name_es": "Scrappy",
+    "name_es": "Intrépido",
     "description_en": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.",
-    "description_es": null
+    "description_es": "Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma."
   },
   {
     "pokemon_id": 115,
@@ -569,9 +569,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 121,
@@ -583,9 +583,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Illuminate",
-    "name_es": "Illuminate",
+    "name_es": "Iluminación",
     "description_en": "By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Aumenta la probabilidad de encontrar Pokémon."
   },
   {
     "pokemon_id": 121,
@@ -597,9 +597,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Natural Cure",
-    "name_es": "Natural Cure",
+    "name_es": "Cura Natural",
     "description_en": "All status conditions heal when the Pokémon switches out.",
-    "description_es": null
+    "description_es": "Cura problemas de estado al cambiar de Pokémon."
   },
   {
     "pokemon_id": 121,
@@ -611,9 +611,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Analytic",
-    "name_es": "Analytic",
+    "name_es": "Cálculo Final",
     "description_en": "Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn.",
-    "description_es": null
+    "description_es": "Potencia el movimiento si es el último en atacar."
   },
   {
     "pokemon_id": 127,
@@ -625,9 +625,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Hyper Cutter",
-    "name_es": "Hyper Cutter",
+    "name_es": "Corte Fuerte",
     "description_en": "Prevents Attack from being lowered by other Pokémon.",
-    "description_es": null
+    "description_es": "Evita que disminuya el Ataque."
   },
   {
     "pokemon_id": 127,
@@ -639,9 +639,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   },
   {
     "pokemon_id": 127,
@@ -653,9 +653,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Moxie",
-    "name_es": "Moxie",
+    "name_es": "Autoestima",
     "description_en": "Boosts Attack after knocking out any Pokémon.",
-    "description_es": null
+    "description_es": "Potencia el Ataque al debilitar a un objetivo."
   },
   {
     "pokemon_id": 128,
@@ -667,9 +667,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 128,
@@ -681,9 +681,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Anger Point",
-    "name_es": "Anger Point",
+    "name_es": "Irascible",
     "description_en": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
-    "description_es": null
+    "description_es": "Sube el Ataque al máximo tras un golpe crítico."
   },
   {
     "pokemon_id": 128,
@@ -695,9 +695,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sheer Force",
-    "name_es": "Sheer Force",
+    "name_es": "Potencia Bruta",
     "description_en": "Removes additional effects from moves but increases their power.",
-    "description_es": null
+    "description_es": "Sube la potencia y anula los efectos secundarios."
   },
   {
     "pokemon_id": 130,
@@ -709,9 +709,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 130,
@@ -723,9 +723,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Moxie",
-    "name_es": "Moxie",
+    "name_es": "Autoestima",
     "description_en": "Boosts Attack after knocking out any Pokémon.",
-    "description_es": null
+    "description_es": "Potencia el Ataque al debilitar a un objetivo."
   },
   {
     "pokemon_id": 132,
@@ -737,9 +737,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Limber",
-    "name_es": "Limber",
+    "name_es": "Flexibilidad",
     "description_en": "Prevents paralysis.",
-    "description_es": null
+    "description_es": "Evita ser paralizado."
   },
   {
     "pokemon_id": 132,
@@ -751,9 +751,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Imposter",
-    "name_es": "Imposter",
+    "name_es": "Impostor",
     "description_en": "Transforms into the foe on entry.",
-    "description_es": null
+    "description_es": "Se transforma en el Pokémon que tiene enfrente."
   },
   {
     "pokemon_id": 134,
@@ -765,9 +765,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Water Absorb",
-    "name_es": "Water Absorb",
+    "name_es": "Absorbe Agua",
     "description_en": "Restores HP if hit by a Water-type move.",
-    "description_es": null
+    "description_es": "Recupera PS al recibir ataques de tipo Agua."
   },
   {
     "pokemon_id": 134,
@@ -779,9 +779,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Hydration",
-    "name_es": "Hydration",
+    "name_es": "Hidratación",
     "description_en": "Heals status conditions when it is raining.",
-    "description_es": null
+    "description_es": "Cura los problemas de estado si está lloviendo."
   },
   {
     "pokemon_id": 135,
@@ -793,9 +793,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Volt Absorb",
-    "name_es": "Volt Absorb",
+    "name_es": "Absorbe Elec",
     "description_en": "Turns electricity into HP.",
-    "description_es": null
+    "description_es": "Recupera PS al recibir ataques de tipo Eléctrico."
   },
   {
     "pokemon_id": 135,
@@ -807,9 +807,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Quick Feet",
-    "name_es": "Quick Feet",
+    "name_es": "Pies Rápidos",
     "description_en": "Boosts Speed if there is a status problem.",
-    "description_es": null
+    "description_es": "Potencia la Velocidad si hay problemas de estado."
   },
   {
     "pokemon_id": 136,
@@ -821,9 +821,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 136,
@@ -835,9 +835,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Guts",
-    "name_es": "Guts",
+    "name_es": "Agallas",
     "description_en": "Ups ATTACK if suffering.",
-    "description_es": null
+    "description_es": "Sube el Ataque si sufre un problema de estado."
   },
   {
     "pokemon_id": 142,
@@ -849,9 +849,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Rock Head",
-    "name_es": "Rock Head",
+    "name_es": "Cabeza Roca",
     "description_en": "Protects the Pokémon from recoil damage.",
-    "description_es": null
+    "description_es": "Impide que el Pokémon se dañe con sus movimientos."
   },
   {
     "pokemon_id": 142,
@@ -863,9 +863,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Pressure",
-    "name_es": "Pressure",
+    "name_es": "Presión",
     "description_en": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "description_es": null
+    "description_es": "Hace que los PP del rival se acaben antes."
   },
   {
     "pokemon_id": 142,
@@ -877,9 +877,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Unnerve",
-    "name_es": "Unnerve",
+    "name_es": "Nerviosismo",
     "description_en": "Prevents foes from eating berries.",
-    "description_es": null
+    "description_es": "Pone nervioso al rival y le impide usar bayas."
   },
   {
     "pokemon_id": 143,
@@ -891,9 +891,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Immunity",
-    "name_es": "Immunity",
+    "name_es": "Inmunidad",
     "description_en": "Prevents poison.",
-    "description_es": null
+    "description_es": "Evita el envenenamiento."
   },
   {
     "pokemon_id": 143,
@@ -905,9 +905,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Thick Fat",
-    "name_es": "Thick Fat",
+    "name_es": "Sebo",
     "description_en": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-    "description_es": null
+    "description_es": "Atenúa los ataques de tipo Fuego y Hielo."
   },
   {
     "pokemon_id": 143,
@@ -919,9 +919,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Gluttony",
-    "name_es": "Gluttony",
+    "name_es": "Gula",
     "description_en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
-    "description_es": null
+    "description_es": "Fomenta el uso rápido de la baya que porte."
   },
   {
     "pokemon_id": 149,
@@ -933,9 +933,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 149,
@@ -947,9 +947,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Multiscale",
-    "name_es": "Multiscale",
+    "name_es": "Multiescamas",
     "description_en": "Reduces damage taken when HP is full.",
-    "description_es": null
+    "description_es": "Reduce el daño sufrido si los PS están al máximo."
   },
   {
     "pokemon_id": 154,
@@ -961,9 +961,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 154,
@@ -989,9 +989,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Leaf Guard",
-    "name_es": "Leaf Guard",
+    "name_es": "Defensa Hoja",
     "description_en": "Protects against major status ailments during strong sunlight.",
-    "description_es": null
+    "description_es": "Evita los problemas de estado si hace sol."
   },
   {
     "pokemon_id": 157,
@@ -1003,9 +1003,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 157,
@@ -1017,9 +1017,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 160,
@@ -1031,9 +1031,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 160,
@@ -1059,9 +1059,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sheer Force",
-    "name_es": "Sheer Force",
+    "name_es": "Potencia Bruta",
     "description_en": "Removes additional effects from moves but increases their power.",
-    "description_es": null
+    "description_es": "Sube la potencia y anula los efectos secundarios."
   },
   {
     "pokemon_id": 168,
@@ -1073,9 +1073,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Swarm",
-    "name_es": "Swarm",
+    "name_es": "Enjambre",
     "description_en": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Bicho en un apuro."
   },
   {
     "pokemon_id": 168,
@@ -1087,9 +1087,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Insomnia",
-    "name_es": "Insomnia",
+    "name_es": "Insomnio",
     "description_en": "Prevents sleep.",
-    "description_es": null
+    "description_es": "Evita el quedarse dormido."
   },
   {
     "pokemon_id": 168,
@@ -1101,9 +1101,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sniper",
-    "name_es": "Sniper",
+    "name_es": "Francotirador",
     "description_en": "Powers up moves if they become critical hits.",
-    "description_es": null
+    "description_es": "Potencia los movimientos si se vuelven críticos."
   },
   {
     "pokemon_id": 181,
@@ -1115,9 +1115,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Static",
-    "name_es": "Static",
+    "name_es": "Elec. Estática",
     "description_en": "Paralyzes on contact.",
-    "description_es": null
+    "description_es": "Puede paralizar al mínimo contacto."
   },
   {
     "pokemon_id": 181,
@@ -1129,9 +1129,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Plus",
-    "name_es": "Plus",
+    "name_es": "Más",
     "description_en": "Powers up with MINUS.",
-    "description_es": null
+    "description_es": "Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos."
   },
   {
     "pokemon_id": 184,
@@ -1143,9 +1143,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Thick Fat",
-    "name_es": "Thick Fat",
+    "name_es": "Sebo",
     "description_en": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-    "description_es": null
+    "description_es": "Atenúa los ataques de tipo Fuego y Hielo."
   },
   {
     "pokemon_id": 184,
@@ -1157,9 +1157,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Huge Power",
-    "name_es": "Huge Power",
+    "name_es": "Potencia",
     "description_en": "Doubles the Pokémon's Attack stat.",
-    "description_es": null
+    "description_es": "Aumenta el Ataque."
   },
   {
     "pokemon_id": 184,
@@ -1171,9 +1171,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sap Sipper",
-    "name_es": "Sap Sipper",
+    "name_es": "Herbívoro",
     "description_en": "Raises Attack when hit by Grass-type moves.",
-    "description_es": null
+    "description_es": "Neutraliza los movimientos de tipo Planta y sube el Ataque."
   },
   {
     "pokemon_id": 186,
@@ -1185,9 +1185,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Water Absorb",
-    "name_es": "Water Absorb",
+    "name_es": "Absorbe Agua",
     "description_en": "Restores HP if hit by a Water-type move.",
-    "description_es": null
+    "description_es": "Recupera PS al recibir ataques de tipo Agua."
   },
   {
     "pokemon_id": 186,
@@ -1199,9 +1199,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Damp",
-    "name_es": "Damp",
+    "name_es": "Humedad",
     "description_en": "Prevents self-destruction.",
-    "description_es": null
+    "description_es": "Evita que un Pokémon pueda autodestruirse."
   },
   {
     "pokemon_id": 186,
@@ -1213,9 +1213,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Drizzle",
-    "name_es": "Drizzle",
+    "name_es": "Llovizna",
     "description_en": "Summons rain that lasts indefinitely upon entering battle.",
-    "description_es": null
+    "description_es": "Hace que llueva cuando entra en combate."
   },
   {
     "pokemon_id": 196,
@@ -1227,9 +1227,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Synchronize",
-    "name_es": "Synchronize",
+    "name_es": "Sincronía",
     "description_en": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-    "description_es": null
+    "description_es": "Contagia envenenamiento, parálisis o quemaduras."
   },
   {
     "pokemon_id": 196,
@@ -1241,9 +1241,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Magic Bounce",
-    "name_es": "Magic Bounce",
+    "name_es": "Espejo Mágico",
     "description_en": "Reflects most non-damaging moves back at their user.",
-    "description_es": null
+    "description_es": "Permite devolver los ataques de estado."
   },
   {
     "pokemon_id": 197,
@@ -1255,9 +1255,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Synchronize",
-    "name_es": "Synchronize",
+    "name_es": "Sincronía",
     "description_en": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-    "description_es": null
+    "description_es": "Contagia envenenamiento, parálisis o quemaduras."
   },
   {
     "pokemon_id": 197,
@@ -1269,9 +1269,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 199,
@@ -1283,9 +1283,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Oblivious",
-    "name_es": "Oblivious",
+    "name_es": "Despiste",
     "description_en": "Prevents attraction.",
-    "description_es": null
+    "description_es": "Evita que el Pokémon sea atraído o provocado."
   },
   {
     "pokemon_id": 199,
@@ -1297,9 +1297,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Own Tempo",
-    "name_es": "Own Tempo",
+    "name_es": "Ritmo Propio",
     "description_en": "Prevents confusion.",
-    "description_es": null
+    "description_es": "Evita ser confundido."
   },
   {
     "pokemon_id": 199,
@@ -1311,9 +1311,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 205,
@@ -1325,9 +1325,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 205,
@@ -1339,9 +1339,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Overcoat",
-    "name_es": "Overcoat",
+    "name_es": "Funda",
     "description_en": "Protects against damage from weather.",
-    "description_es": null
+    "description_es": "Protege del polvo, la arena y el granizo."
   },
   {
     "pokemon_id": 208,
@@ -1353,9 +1353,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Rock Head",
-    "name_es": "Rock Head",
+    "name_es": "Cabeza Roca",
     "description_en": "Protects the Pokémon from recoil damage.",
-    "description_es": null
+    "description_es": "Impide que el Pokémon se dañe con sus movimientos."
   },
   {
     "pokemon_id": 208,
@@ -1367,9 +1367,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 208,
@@ -1381,9 +1381,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sheer Force",
-    "name_es": "Sheer Force",
+    "name_es": "Potencia Bruta",
     "description_en": "Removes additional effects from moves but increases their power.",
-    "description_es": null
+    "description_es": "Sube la potencia y anula los efectos secundarios."
   },
   {
     "pokemon_id": 212,
@@ -1395,9 +1395,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Swarm",
-    "name_es": "Swarm",
+    "name_es": "Enjambre",
     "description_en": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Bicho en un apuro."
   },
   {
     "pokemon_id": 212,
@@ -1409,9 +1409,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Technician",
-    "name_es": "Technician",
+    "name_es": "Experto",
     "description_en": "Powers up weak moves so the Pokémon can deal more damage with them.",
-    "description_es": null
+    "description_es": "Potencia los movimientos más débiles del Pokémon."
   },
   {
     "pokemon_id": 212,
@@ -1423,9 +1423,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Light Metal",
-    "name_es": "Light Metal",
+    "name_es": "Metal Liviano",
     "description_en": "Halves the Pokémon's weight.",
-    "description_es": null
+    "description_es": "Reduce a la mitad el peso del Pokémon."
   },
   {
     "pokemon_id": 214,
@@ -1437,9 +1437,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Swarm",
-    "name_es": "Swarm",
+    "name_es": "Enjambre",
     "description_en": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Bicho en un apuro."
   },
   {
     "pokemon_id": 214,
@@ -1451,9 +1451,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Guts",
-    "name_es": "Guts",
+    "name_es": "Agallas",
     "description_en": "Ups ATTACK if suffering.",
-    "description_es": null
+    "description_es": "Sube el Ataque si sufre un problema de estado."
   },
   {
     "pokemon_id": 214,
@@ -1465,9 +1465,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Moxie",
-    "name_es": "Moxie",
+    "name_es": "Autoestima",
     "description_en": "Boosts Attack after knocking out any Pokémon.",
-    "description_es": null
+    "description_es": "Potencia el Ataque al debilitar a un objetivo."
   },
   {
     "pokemon_id": 227,
@@ -1479,9 +1479,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 227,
@@ -1493,9 +1493,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 227,
@@ -1507,9 +1507,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Weak Armor",
-    "name_es": "Weak Armor",
+    "name_es": "Armadura Frágil",
     "description_en": "Physical attacks lower Defense and raise Speed.",
-    "description_es": null
+    "description_es": "Un ataque físico baja la Defensa y sube la Velocidad."
   },
   {
     "pokemon_id": 229,
@@ -1521,9 +1521,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Early Bird",
-    "name_es": "Early Bird",
+    "name_es": "Madrugar",
     "description_en": "Makes sleep pass twice as quickly.",
-    "description_es": null
+    "description_es": "El Pokémon se despierta rápidamente."
   },
   {
     "pokemon_id": 229,
@@ -1535,9 +1535,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 229,
@@ -1549,9 +1549,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Unnerve",
-    "name_es": "Unnerve",
+    "name_es": "Nerviosismo",
     "description_en": "Prevents foes from eating berries.",
-    "description_es": null
+    "description_es": "Pone nervioso al rival y le impide usar bayas."
   },
   {
     "pokemon_id": 248,
@@ -1563,9 +1563,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sand Stream",
-    "name_es": "Sand Stream",
+    "name_es": "Chorro Arena",
     "description_en": "The Pokémon summons a sandstorm when it enters a battle.",
-    "description_es": null
+    "description_es": "Crea una tormenta de arena en el combate."
   },
   {
     "pokemon_id": 248,
@@ -1577,9 +1577,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Unnerve",
-    "name_es": "Unnerve",
+    "name_es": "Nerviosismo",
     "description_en": "Prevents foes from eating berries.",
-    "description_es": null
+    "description_es": "Pone nervioso al rival y le impide usar bayas."
   },
   {
     "pokemon_id": 279,
@@ -1591,9 +1591,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 279,
@@ -1605,9 +1605,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Drizzle",
-    "name_es": "Drizzle",
+    "name_es": "Llovizna",
     "description_en": "Summons rain that lasts indefinitely upon entering battle.",
-    "description_es": null
+    "description_es": "Hace que llueva cuando entra en combate."
   },
   {
     "pokemon_id": 279,
@@ -1619,9 +1619,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Rain Dish",
-    "name_es": "Rain Dish",
+    "name_es": "Cura Lluvia",
     "description_en": "Heals for 1/16 max HP after each turn during rain.",
-    "description_es": null
+    "description_es": "Recupera PS de forma gradual cuando llueve."
   },
   {
     "pokemon_id": 282,
@@ -1633,9 +1633,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Synchronize",
-    "name_es": "Synchronize",
+    "name_es": "Sincronía",
     "description_en": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-    "description_es": null
+    "description_es": "Contagia envenenamiento, parálisis o quemaduras."
   },
   {
     "pokemon_id": 282,
@@ -1647,9 +1647,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Trace",
-    "name_es": "Trace",
+    "name_es": "Rastro",
     "description_en": "When it enters a battle, the Pokémon copies an opposing Pokémon's Ability.",
-    "description_es": null
+    "description_es": "Copia la habilidad del rival."
   },
   {
     "pokemon_id": 282,
@@ -1661,9 +1661,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Telepathy",
-    "name_es": "Telepathy",
+    "name_es": "Telepatía",
     "description_en": "Protects against friendly Pokémon's damaging moves.",
-    "description_es": null
+    "description_es": "Elude los ataques de aliados en batalla."
   },
   {
     "pokemon_id": 302,
@@ -1675,9 +1675,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 302,
@@ -1689,9 +1689,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Stall",
-    "name_es": "Stall",
+    "name_es": "Rezagado",
     "description_en": "The Pokémon moves after even slower foes.",
-    "description_es": null
+    "description_es": "El Pokémon se mueve tras todos los demás."
   },
   {
     "pokemon_id": 302,
@@ -1703,9 +1703,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Prankster",
-    "name_es": "Prankster",
+    "name_es": "Bromista",
     "description_en": "Gives priority to the Pokémon's status moves.",
-    "description_es": null
+    "description_es": "Permite lanzar ataques de estado en primer lugar."
   },
   {
     "pokemon_id": 306,
@@ -1717,9 +1717,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 306,
@@ -1731,9 +1731,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Rock Head",
-    "name_es": "Rock Head",
+    "name_es": "Cabeza Roca",
     "description_en": "Protects the Pokémon from recoil damage.",
-    "description_es": null
+    "description_es": "Impide que el Pokémon se dañe con sus movimientos."
   },
   {
     "pokemon_id": 306,
@@ -1745,9 +1745,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Heavy Metal",
-    "name_es": "Heavy Metal",
+    "name_es": "Metal Pesado",
     "description_en": "Doubles the Pokémon's weight.",
-    "description_es": null
+    "description_es": "Duplica el peso del Pokémon."
   },
   {
     "pokemon_id": 308,
@@ -1759,9 +1759,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pure Power",
-    "name_es": "Pure Power",
+    "name_es": "Energía Pura",
     "description_en": "Doubles the Pokémon's Attack stat.",
-    "description_es": null
+    "description_es": "Aumenta el Ataque."
   },
   {
     "pokemon_id": 308,
@@ -1773,9 +1773,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Telepathy",
-    "name_es": "Telepathy",
+    "name_es": "Telepatía",
     "description_en": "Protects against friendly Pokémon's damaging moves.",
-    "description_es": null
+    "description_es": "Elude los ataques de aliados en batalla."
   },
   {
     "pokemon_id": 310,
@@ -1787,9 +1787,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Static",
-    "name_es": "Static",
+    "name_es": "Elec. Estática",
     "description_en": "Paralyzes on contact.",
-    "description_es": null
+    "description_es": "Puede paralizar al mínimo contacto."
   },
   {
     "pokemon_id": 310,
@@ -1801,9 +1801,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Lightning Rod",
-    "name_es": "Lightning Rod",
+    "name_es": "Pararrayos",
     "description_en": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-    "description_es": null
+    "description_es": "Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp."
   },
   {
     "pokemon_id": 310,
@@ -1815,9 +1815,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Minus",
-    "name_es": "Minus",
+    "name_es": "Menos",
     "description_en": "Powers up with PLUS.",
-    "description_es": null
+    "description_es": "Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos."
   },
   {
     "pokemon_id": 319,
@@ -1829,9 +1829,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Rough Skin",
-    "name_es": "Rough Skin",
+    "name_es": "Piel Tosca",
     "description_en": "Damages attacking Pokémon for 1/8 their max HP on contact.",
-    "description_es": null
+    "description_es": "Hiere al tacto."
   },
   {
     "pokemon_id": 319,
@@ -1843,9 +1843,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Speed Boost",
-    "name_es": "Speed Boost",
+    "name_es": "Impulso",
     "description_en": "Gradually boosts SPEED.",
-    "description_es": null
+    "description_es": "Aumenta la Velocidad gradualmente."
   },
   {
     "pokemon_id": 323,
@@ -1857,9 +1857,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Magma Armor",
-    "name_es": "Magma Armor",
+    "name_es": "Escudo Magma",
     "description_en": "Prevents freezing.",
-    "description_es": null
+    "description_es": "Evita la congelación."
   },
   {
     "pokemon_id": 323,
@@ -1871,9 +1871,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Solid Rock",
-    "name_es": "Solid Rock",
+    "name_es": "Roca Sólida",
     "description_en": "Decreases damage taken from super-effective moves by 1/4.",
-    "description_es": null
+    "description_es": "Mitiga los movimientos supereficaces."
   },
   {
     "pokemon_id": 323,
@@ -1885,9 +1885,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Anger Point",
-    "name_es": "Anger Point",
+    "name_es": "Irascible",
     "description_en": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
-    "description_es": null
+    "description_es": "Sube el Ataque al máximo tras un golpe crítico."
   },
   {
     "pokemon_id": 324,
@@ -1899,9 +1899,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "White Smoke",
-    "name_es": "White Smoke",
+    "name_es": "Humo Blanco",
     "description_en": "Prevents stats from being lowered by other Pokémon.",
-    "description_es": null
+    "description_es": "Evita que bajen las características."
   },
   {
     "pokemon_id": 324,
@@ -1913,9 +1913,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Drought",
-    "name_es": "Drought",
+    "name_es": "Sequía",
     "description_en": "Turns the sunlight harsh when the Pokémon enters a battle.",
-    "description_es": null
+    "description_es": "El sol sale si el Pokémon entra en combate."
   },
   {
     "pokemon_id": 324,
@@ -1927,9 +1927,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Shell Armor",
-    "name_es": "Shell Armor",
+    "name_es": "Caparazón",
     "description_en": "A hard shell protects the Pokémon from critical hits.",
-    "description_es": null
+    "description_es": "Bloquea los golpes críticos."
   },
   {
     "pokemon_id": 334,
@@ -1941,9 +1941,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Natural Cure",
-    "name_es": "Natural Cure",
+    "name_es": "Cura Natural",
     "description_en": "All status conditions heal when the Pokémon switches out.",
-    "description_es": null
+    "description_es": "Cura problemas de estado al cambiar de Pokémon."
   },
   {
     "pokemon_id": 334,
@@ -1955,9 +1955,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cloud Nine",
-    "name_es": "Cloud Nine",
+    "name_es": "Aclimatación",
     "description_en": "Negates all effects of weather, but does not prevent the weather itself.",
-    "description_es": null
+    "description_es": "Anula los efectos del tiempo atmosférico."
   },
   {
     "pokemon_id": 350,
@@ -1969,9 +1969,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Marvel Scale",
-    "name_es": "Marvel Scale",
+    "name_es": "Escama Especial",
     "description_en": "Increases Defense to 1.5× with a major status ailment.",
-    "description_es": null
+    "description_es": "Sube la Defensa si sufre un problema de estado."
   },
   {
     "pokemon_id": 350,
@@ -1983,9 +1983,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Competitive",
-    "name_es": "Competitive",
+    "name_es": "Tenacidad",
     "description_en": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
-    "description_es": null
+    "description_es": "Aumenta su At. Esp. cuando disminuyen otras características."
   },
   {
     "pokemon_id": 350,
@@ -1997,9 +1997,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cute Charm",
-    "name_es": "Cute Charm",
+    "name_es": "Gran Encanto",
     "description_en": "Has a 30% chance of infatuating attacking Pokémon on contact.",
-    "description_es": null
+    "description_es": "Tocar al Pokémon puede causar enamoramiento."
   },
   {
     "pokemon_id": 351,
@@ -2011,9 +2011,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Forecast",
-    "name_es": "Forecast",
+    "name_es": "Predicción",
     "description_en": "Changes the Pokémon's type and appearance based on the weather in battle.",
-    "description_es": null
+    "description_es": "Se transforma según el tiempo atmosférico."
   },
   {
     "pokemon_id": 354,
@@ -2025,9 +2025,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Insomnia",
-    "name_es": "Insomnia",
+    "name_es": "Insomnio",
     "description_en": "Prevents sleep.",
-    "description_es": null
+    "description_es": "Evita el quedarse dormido."
   },
   {
     "pokemon_id": 354,
@@ -2039,9 +2039,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Frisk",
-    "name_es": "Frisk",
+    "name_es": "Cacheo",
     "description_en": "The Pokémon can check the foe’s held item.",
-    "description_es": null
+    "description_es": "El Pokémon puede ver el objeto que lleva el rival."
   },
   {
     "pokemon_id": 354,
@@ -2053,9 +2053,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cursed Body",
-    "name_es": "Cursed Body",
+    "name_es": "Cuerpo Maldito",
     "description_en": "Has a 30% chance of Disabling any move that hits the Pokémon.",
-    "description_es": null
+    "description_es": "Puede anular el movimiento usado en su contra."
   },
   {
     "pokemon_id": 358,
@@ -2067,9 +2067,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 359,
@@ -2081,9 +2081,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pressure",
-    "name_es": "Pressure",
+    "name_es": "Presión",
     "description_en": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "description_es": null
+    "description_es": "Hace que los PP del rival se acaben antes."
   },
   {
     "pokemon_id": 359,
@@ -2095,9 +2095,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Super Luck",
-    "name_es": "Super Luck",
+    "name_es": "Afortunado",
     "description_en": "Raises moves' critical hit rates one stage.",
-    "description_es": null
+    "description_es": "Aumenta la probabilidad de dar golpes críticos."
   },
   {
     "pokemon_id": 359,
@@ -2109,9 +2109,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Justified",
-    "name_es": "Justified",
+    "name_es": "Justiciero",
     "description_en": "Raises Attack when hit by Dark-type moves.",
-    "description_es": null
+    "description_es": "Sube el Ataque al recibir uno de tipo Siniestro."
   },
   {
     "pokemon_id": 362,
@@ -2123,9 +2123,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 362,
@@ -2137,9 +2137,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Ice Body",
-    "name_es": "Ice Body",
+    "name_es": "Gélido",
     "description_en": "The Pokémon regains HP in a hailstorm.",
-    "description_es": null
+    "description_es": "Recupera algunos PS cuando hay tormentas de granizo."
   },
   {
     "pokemon_id": 362,
@@ -2151,9 +2151,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Moody",
-    "name_es": "Moody",
+    "name_es": "Veleta",
     "description_en": "Raises a random stat two stages and lowers another one stage after each turn.",
-    "description_es": null
+    "description_es": "Sube una característica mucho, pero baja otra."
   },
   {
     "pokemon_id": 389,
@@ -2165,9 +2165,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 389,
@@ -2179,9 +2179,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Shell Armor",
-    "name_es": "Shell Armor",
+    "name_es": "Caparazón",
     "description_en": "A hard shell protects the Pokémon from critical hits.",
-    "description_es": null
+    "description_es": "Bloquea los golpes críticos."
   },
   {
     "pokemon_id": 392,
@@ -2193,9 +2193,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 392,
@@ -2207,9 +2207,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Iron Fist",
-    "name_es": "Iron Fist",
+    "name_es": "Puño Férreo",
     "description_en": "Powers up punching moves.",
-    "description_es": null
+    "description_es": "Aumenta la fuerza de los puñetazos."
   },
   {
     "pokemon_id": 395,
@@ -2221,9 +2221,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 395,
@@ -2235,9 +2235,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Competitive",
-    "name_es": "Competitive",
+    "name_es": "Tenacidad",
     "description_en": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
-    "description_es": null
+    "description_es": "Aumenta su At. Esp. cuando disminuyen otras características."
   },
   {
     "pokemon_id": 405,
@@ -2249,9 +2249,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Rivalry",
-    "name_es": "Rivalry",
+    "name_es": "Rivalidad",
     "description_en": "Raises Attack if the foe is of the same gender.",
-    "description_es": null
+    "description_es": "Si el objetivo es del mismo sexo, inflige más daño."
   },
   {
     "pokemon_id": 405,
@@ -2263,9 +2263,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 405,
@@ -2277,9 +2277,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Guts",
-    "name_es": "Guts",
+    "name_es": "Agallas",
     "description_en": "Ups ATTACK if suffering.",
-    "description_es": null
+    "description_es": "Sube el Ataque si sufre un problema de estado."
   },
   {
     "pokemon_id": 407,
@@ -2291,9 +2291,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Natural Cure",
-    "name_es": "Natural Cure",
+    "name_es": "Cura Natural",
     "description_en": "All status conditions heal when the Pokémon switches out.",
-    "description_es": null
+    "description_es": "Cura problemas de estado al cambiar de Pokémon."
   },
   {
     "pokemon_id": 407,
@@ -2305,9 +2305,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Poison Point",
-    "name_es": "Poison Point",
+    "name_es": "Punto Tóxico",
     "description_en": "Poisons foe on contact.",
-    "description_es": null
+    "description_es": "Puede envenenar al mínimo contacto."
   },
   {
     "pokemon_id": 407,
@@ -2319,9 +2319,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Technician",
-    "name_es": "Technician",
+    "name_es": "Experto",
     "description_en": "Powers up weak moves so the Pokémon can deal more damage with them.",
-    "description_es": null
+    "description_es": "Potencia los movimientos más débiles del Pokémon."
   },
   {
     "pokemon_id": 409,
@@ -2333,9 +2333,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   },
   {
     "pokemon_id": 409,
@@ -2347,9 +2347,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sheer Force",
-    "name_es": "Sheer Force",
+    "name_es": "Potencia Bruta",
     "description_en": "Removes additional effects from moves but increases their power.",
-    "description_es": null
+    "description_es": "Sube la potencia y anula los efectos secundarios."
   },
   {
     "pokemon_id": 411,
@@ -2361,9 +2361,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 411,
@@ -2375,9 +2375,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Soundproof",
-    "name_es": "Soundproof",
+    "name_es": "Insonorizar",
     "description_en": "Protects against sound-based moves.",
-    "description_es": null
+    "description_es": "Evita ataques de sonido."
   },
   {
     "pokemon_id": 428,
@@ -2389,9 +2389,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Cute Charm",
-    "name_es": "Cute Charm",
+    "name_es": "Gran Encanto",
     "description_en": "Has a 30% chance of infatuating attacking Pokémon on contact.",
-    "description_es": null
+    "description_es": "Tocar al Pokémon puede causar enamoramiento."
   },
   {
     "pokemon_id": 428,
@@ -2403,9 +2403,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Klutz",
-    "name_es": "Klutz",
+    "name_es": "Zoquete",
     "description_en": "Can't use held items.",
-    "description_es": null
+    "description_es": "El Pokémon no puede usar objetos equipados."
   },
   {
     "pokemon_id": 428,
@@ -2417,9 +2417,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Limber",
-    "name_es": "Limber",
+    "name_es": "Flexibilidad",
     "description_en": "Prevents paralysis.",
-    "description_es": null
+    "description_es": "Evita ser paralizado."
   },
   {
     "pokemon_id": 442,
@@ -2431,9 +2431,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pressure",
-    "name_es": "Pressure",
+    "name_es": "Presión",
     "description_en": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "description_es": null
+    "description_es": "Hace que los PP del rival se acaben antes."
   },
   {
     "pokemon_id": 442,
@@ -2445,9 +2445,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Infiltrator",
-    "name_es": "Infiltrator",
+    "name_es": "Allanamiento",
     "description_en": "Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-    "description_es": null
+    "description_es": "Ataca rodeando la barrera del rival."
   },
   {
     "pokemon_id": 445,
@@ -2459,9 +2459,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sand Veil",
-    "name_es": "Sand Veil",
+    "name_es": "Velo Arena",
     "description_en": "Ups evasion in a sandstorm.",
-    "description_es": null
+    "description_es": "Aumenta la Evasión en las tormentas de arena."
   },
   {
     "pokemon_id": 445,
@@ -2473,9 +2473,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Rough Skin",
-    "name_es": "Rough Skin",
+    "name_es": "Piel Tosca",
     "description_en": "Damages attacking Pokémon for 1/8 their max HP on contact.",
-    "description_es": null
+    "description_es": "Hiere al tacto."
   },
   {
     "pokemon_id": 448,
@@ -2487,9 +2487,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Steadfast",
-    "name_es": "Steadfast",
+    "name_es": "Impasible",
     "description_en": "Raises Speed one stage upon flinching.",
-    "description_es": null
+    "description_es": "Cada vez que retrocede sube su Velocidad."
   },
   {
     "pokemon_id": 448,
@@ -2501,9 +2501,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 448,
@@ -2515,9 +2515,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Justified",
-    "name_es": "Justified",
+    "name_es": "Justiciero",
     "description_en": "Raises Attack when hit by Dark-type moves.",
-    "description_es": null
+    "description_es": "Sube el Ataque al recibir uno de tipo Siniestro."
   },
   {
     "pokemon_id": 450,
@@ -2529,9 +2529,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sand Stream",
-    "name_es": "Sand Stream",
+    "name_es": "Chorro Arena",
     "description_en": "The Pokémon summons a sandstorm when it enters a battle.",
-    "description_es": null
+    "description_es": "Crea una tormenta de arena en el combate."
   },
   {
     "pokemon_id": 450,
@@ -2543,9 +2543,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sand Force",
-    "name_es": "Sand Force",
+    "name_es": "Poder Arena",
     "description_en": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
-    "description_es": null
+    "description_es": "Potencia algunos movimientos durante las tormentas de arena."
   },
   {
     "pokemon_id": 454,
@@ -2557,9 +2557,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Anticipation",
-    "name_es": "Anticipation",
+    "name_es": "Anticipación",
     "description_en": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
-    "description_es": null
+    "description_es": "Prevé los movimientos peligrosos del rival."
   },
   {
     "pokemon_id": 454,
@@ -2571,9 +2571,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Dry Skin",
-    "name_es": "Dry Skin",
+    "name_es": "Piel Seca",
     "description_en": "Reduces HP if it is hot. Water restores HP.",
-    "description_es": null
+    "description_es": "Pierde PS si hace calor. Los recupera con agua."
   },
   {
     "pokemon_id": 454,
@@ -2585,9 +2585,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Poison Touch",
-    "name_es": "Poison Touch",
+    "name_es": "Toque Tóxico",
     "description_en": "Has a 30% chance of poisoning target Pokémon upon contact.",
-    "description_es": null
+    "description_es": "Puede envenenar al objetivo con solo tocarlo."
   },
   {
     "pokemon_id": 460,
@@ -2599,9 +2599,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Snow Warning",
-    "name_es": "Snow Warning",
+    "name_es": "Nevada",
     "description_en": "The Pokémon makes it snow when it enters a battle.",
-    "description_es": null
+    "description_es": "El Pokémon invoca una tormenta de granizo."
   },
   {
     "pokemon_id": 460,
@@ -2613,9 +2613,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Soundproof",
-    "name_es": "Soundproof",
+    "name_es": "Insonorizar",
     "description_en": "Protects against sound-based moves.",
-    "description_es": null
+    "description_es": "Evita ataques de sonido."
   },
   {
     "pokemon_id": 461,
@@ -2627,9 +2627,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pressure",
-    "name_es": "Pressure",
+    "name_es": "Presión",
     "description_en": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "description_es": null
+    "description_es": "Hace que los PP del rival se acaben antes."
   },
   {
     "pokemon_id": 461,
@@ -2641,9 +2641,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Pickpocket",
-    "name_es": "Pickpocket",
+    "name_es": "Hurto",
     "description_en": "Steals attacking Pokémon's held items on contact.",
-    "description_es": null
+    "description_es": "Al ser golpeado, roba el objeto del objetivo."
   },
   {
     "pokemon_id": 464,
@@ -2655,9 +2655,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Lightning Rod",
-    "name_es": "Lightning Rod",
+    "name_es": "Pararrayos",
     "description_en": "Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-    "description_es": null
+    "description_es": "Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp."
   },
   {
     "pokemon_id": 464,
@@ -2669,9 +2669,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Solid Rock",
-    "name_es": "Solid Rock",
+    "name_es": "Roca Sólida",
     "description_en": "Decreases damage taken from super-effective moves by 1/4.",
-    "description_es": null
+    "description_es": "Mitiga los movimientos supereficaces."
   },
   {
     "pokemon_id": 464,
@@ -2683,9 +2683,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Reckless",
-    "name_es": "Reckless",
+    "name_es": "Audaz",
     "description_en": "Strengthens recoil moves to 1.2× their power.",
-    "description_es": null
+    "description_es": "Potencia los movimientos que dañan al usuario."
   },
   {
     "pokemon_id": 470,
@@ -2697,9 +2697,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Leaf Guard",
-    "name_es": "Leaf Guard",
+    "name_es": "Defensa Hoja",
     "description_en": "Protects against major status ailments during strong sunlight.",
-    "description_es": null
+    "description_es": "Evita los problemas de estado si hace sol."
   },
   {
     "pokemon_id": 470,
@@ -2711,9 +2711,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Chlorophyll",
-    "name_es": "Chlorophyll",
+    "name_es": "Clorofila",
     "description_en": "Doubles Speed during strong sunlight.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay sol."
   },
   {
     "pokemon_id": 471,
@@ -2725,9 +2725,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Snow Cloak",
-    "name_es": "Snow Cloak",
+    "name_es": "Manto Níveo",
     "description_en": "Raises evasion in a hailstorm.",
-    "description_es": null
+    "description_es": "Sube la Evasión durante una tormenta de granizo."
   },
   {
     "pokemon_id": 471,
@@ -2739,9 +2739,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Ice Body",
-    "name_es": "Ice Body",
+    "name_es": "Gélido",
     "description_en": "The Pokémon regains HP in a hailstorm.",
-    "description_es": null
+    "description_es": "Recupera algunos PS cuando hay tormentas de granizo."
   },
   {
     "pokemon_id": 472,
@@ -2753,9 +2753,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Hyper Cutter",
-    "name_es": "Hyper Cutter",
+    "name_es": "Corte Fuerte",
     "description_en": "Prevents Attack from being lowered by other Pokémon.",
-    "description_es": null
+    "description_es": "Evita que disminuya el Ataque."
   },
   {
     "pokemon_id": 472,
@@ -2767,9 +2767,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sand Veil",
-    "name_es": "Sand Veil",
+    "name_es": "Velo Arena",
     "description_en": "Ups evasion in a sandstorm.",
-    "description_es": null
+    "description_es": "Aumenta la Evasión en las tormentas de arena."
   },
   {
     "pokemon_id": 472,
@@ -2781,9 +2781,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Poison Heal",
-    "name_es": "Poison Heal",
+    "name_es": "Antídoto",
     "description_en": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
-    "description_es": null
+    "description_es": "Recupera PS si el Pokémon ha sido envenenado."
   },
   {
     "pokemon_id": 473,
@@ -2795,9 +2795,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Oblivious",
-    "name_es": "Oblivious",
+    "name_es": "Despiste",
     "description_en": "Prevents attraction.",
-    "description_es": null
+    "description_es": "Evita que el Pokémon sea atraído o provocado."
   },
   {
     "pokemon_id": 473,
@@ -2809,9 +2809,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Snow Cloak",
-    "name_es": "Snow Cloak",
+    "name_es": "Manto Níveo",
     "description_en": "Raises evasion in a hailstorm.",
-    "description_es": null
+    "description_es": "Sube la Evasión durante una tormenta de granizo."
   },
   {
     "pokemon_id": 473,
@@ -2823,9 +2823,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Thick Fat",
-    "name_es": "Thick Fat",
+    "name_es": "Sebo",
     "description_en": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-    "description_es": null
+    "description_es": "Atenúa los ataques de tipo Fuego y Hielo."
   },
   {
     "pokemon_id": 475,
@@ -2837,9 +2837,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Steadfast",
-    "name_es": "Steadfast",
+    "name_es": "Impasible",
     "description_en": "Raises Speed one stage upon flinching.",
-    "description_es": null
+    "description_es": "Cada vez que retrocede sube su Velocidad."
   },
   {
     "pokemon_id": 475,
@@ -2851,7 +2851,7 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sharpness",
-    "name_es": "Sharpness",
+    "name_es": "Cortante",
     "description_en": "Powers up slicing moves.",
     "description_es": null
   },
@@ -2865,9 +2865,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Justified",
-    "name_es": "Justified",
+    "name_es": "Justiciero",
     "description_en": "Raises Attack when hit by Dark-type moves.",
-    "description_es": null
+    "description_es": "Sube el Ataque al recibir uno de tipo Siniestro."
   },
   {
     "pokemon_id": 478,
@@ -2879,9 +2879,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Snow Cloak",
-    "name_es": "Snow Cloak",
+    "name_es": "Manto Níveo",
     "description_en": "Raises evasion in a hailstorm.",
-    "description_es": null
+    "description_es": "Sube la Evasión durante una tormenta de granizo."
   },
   {
     "pokemon_id": 478,
@@ -2893,9 +2893,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cursed Body",
-    "name_es": "Cursed Body",
+    "name_es": "Cuerpo Maldito",
     "description_en": "Has a 30% chance of Disabling any move that hits the Pokémon.",
-    "description_es": null
+    "description_es": "Puede anular el movimiento usado en su contra."
   },
   {
     "pokemon_id": 479,
@@ -2907,9 +2907,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 497,
@@ -2921,9 +2921,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 497,
@@ -2935,9 +2935,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Contrary",
-    "name_es": "Contrary",
+    "name_es": "Respondón",
     "description_en": "Inverts stat changes.",
-    "description_es": null
+    "description_es": "Invierte los cambios en las características."
   },
   {
     "pokemon_id": 500,
@@ -2949,9 +2949,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 500,
@@ -2963,9 +2963,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Reckless",
-    "name_es": "Reckless",
+    "name_es": "Audaz",
     "description_en": "Strengthens recoil moves to 1.2× their power.",
-    "description_es": null
+    "description_es": "Potencia los movimientos que dañan al usuario."
   },
   {
     "pokemon_id": 503,
@@ -2977,9 +2977,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 503,
@@ -2991,9 +2991,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Shell Armor",
-    "name_es": "Shell Armor",
+    "name_es": "Caparazón",
     "description_en": "A hard shell protects the Pokémon from critical hits.",
-    "description_es": null
+    "description_es": "Bloquea los golpes críticos."
   },
   {
     "pokemon_id": 505,
@@ -3005,9 +3005,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Illuminate",
-    "name_es": "Illuminate",
+    "name_es": "Iluminación",
     "description_en": "By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Aumenta la probabilidad de encontrar Pokémon."
   },
   {
     "pokemon_id": 505,
@@ -3019,9 +3019,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 505,
@@ -3033,9 +3033,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Analytic",
-    "name_es": "Analytic",
+    "name_es": "Cálculo Final",
     "description_en": "Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn.",
-    "description_es": null
+    "description_es": "Potencia el movimiento si es el último en atacar."
   },
   {
     "pokemon_id": 510,
@@ -3047,9 +3047,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Limber",
-    "name_es": "Limber",
+    "name_es": "Flexibilidad",
     "description_en": "Prevents paralysis.",
-    "description_es": null
+    "description_es": "Evita ser paralizado."
   },
   {
     "pokemon_id": 510,
@@ -3061,9 +3061,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Unburden",
-    "name_es": "Unburden",
+    "name_es": "Liviano",
     "description_en": "Doubles Speed upon using or losing a held item.",
-    "description_es": null
+    "description_es": "Sube la Velocidad si usa o pierde el objeto que lleve."
   },
   {
     "pokemon_id": 510,
@@ -3075,9 +3075,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Prankster",
-    "name_es": "Prankster",
+    "name_es": "Bromista",
     "description_en": "Gives priority to the Pokémon's status moves.",
-    "description_es": null
+    "description_es": "Permite lanzar ataques de estado en primer lugar."
   },
   {
     "pokemon_id": 512,
@@ -3089,9 +3089,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Gluttony",
-    "name_es": "Gluttony",
+    "name_es": "Gula",
     "description_en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
-    "description_es": null
+    "description_es": "Fomenta el uso rápido de la baya que porte."
   },
   {
     "pokemon_id": 512,
@@ -3103,9 +3103,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 514,
@@ -3117,9 +3117,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Gluttony",
-    "name_es": "Gluttony",
+    "name_es": "Gula",
     "description_en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
-    "description_es": null
+    "description_es": "Fomenta el uso rápido de la baya que porte."
   },
   {
     "pokemon_id": 514,
@@ -3131,9 +3131,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 516,
@@ -3145,9 +3145,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Gluttony",
-    "name_es": "Gluttony",
+    "name_es": "Gula",
     "description_en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
-    "description_es": null
+    "description_es": "Fomenta el uso rápido de la baya que porte."
   },
   {
     "pokemon_id": 516,
@@ -3159,9 +3159,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 530,
@@ -3173,9 +3173,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sand Rush",
-    "name_es": "Sand Rush",
+    "name_es": "Ímpetu Arena",
     "description_en": "Doubles Speed during a sandstorm.  Protects against sandstorm damage.",
-    "description_es": null
+    "description_es": "Aumenta la Velocidad durante las tormentas de arena."
   },
   {
     "pokemon_id": 530,
@@ -3187,9 +3187,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sand Force",
-    "name_es": "Sand Force",
+    "name_es": "Poder Arena",
     "description_en": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
-    "description_es": null
+    "description_es": "Potencia algunos movimientos durante las tormentas de arena."
   },
   {
     "pokemon_id": 530,
@@ -3201,9 +3201,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   },
   {
     "pokemon_id": 531,
@@ -3215,9 +3215,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Healer",
-    "name_es": "Healer",
+    "name_es": "Alma Cura",
     "description_en": "Sometimes cures the status conditions of the Pokémon's allies.",
-    "description_es": null
+    "description_es": "A veces cura los cambios de estado de un aliado."
   },
   {
     "pokemon_id": 531,
@@ -3229,9 +3229,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 531,
@@ -3243,9 +3243,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Klutz",
-    "name_es": "Klutz",
+    "name_es": "Zoquete",
     "description_en": "Can't use held items.",
-    "description_es": null
+    "description_es": "El Pokémon no puede usar objetos equipados."
   },
   {
     "pokemon_id": 534,
@@ -3257,9 +3257,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Guts",
-    "name_es": "Guts",
+    "name_es": "Agallas",
     "description_en": "Ups ATTACK if suffering.",
-    "description_es": null
+    "description_es": "Sube el Ataque si sufre un problema de estado."
   },
   {
     "pokemon_id": 534,
@@ -3271,9 +3271,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sheer Force",
-    "name_es": "Sheer Force",
+    "name_es": "Potencia Bruta",
     "description_en": "Removes additional effects from moves but increases their power.",
-    "description_es": null
+    "description_es": "Sube la potencia y anula los efectos secundarios."
   },
   {
     "pokemon_id": 534,
@@ -3285,9 +3285,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Iron Fist",
-    "name_es": "Iron Fist",
+    "name_es": "Puño Férreo",
     "description_en": "Powers up punching moves.",
-    "description_es": null
+    "description_es": "Aumenta la fuerza de los puñetazos."
   },
   {
     "pokemon_id": 547,
@@ -3299,9 +3299,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Prankster",
-    "name_es": "Prankster",
+    "name_es": "Bromista",
     "description_en": "Gives priority to the Pokémon's status moves.",
-    "description_es": null
+    "description_es": "Permite lanzar ataques de estado en primer lugar."
   },
   {
     "pokemon_id": 547,
@@ -3313,9 +3313,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Infiltrator",
-    "name_es": "Infiltrator",
+    "name_es": "Allanamiento",
     "description_en": "Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-    "description_es": null
+    "description_es": "Ataca rodeando la barrera del rival."
   },
   {
     "pokemon_id": 547,
@@ -3327,9 +3327,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Chlorophyll",
-    "name_es": "Chlorophyll",
+    "name_es": "Clorofila",
     "description_en": "Doubles Speed during strong sunlight.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay sol."
   },
   {
     "pokemon_id": 553,
@@ -3341,9 +3341,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 553,
@@ -3355,9 +3355,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Moxie",
-    "name_es": "Moxie",
+    "name_es": "Autoestima",
     "description_en": "Boosts Attack after knocking out any Pokémon.",
-    "description_es": null
+    "description_es": "Potencia el Ataque al debilitar a un objetivo."
   },
   {
     "pokemon_id": 553,
@@ -3369,9 +3369,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Anger Point",
-    "name_es": "Anger Point",
+    "name_es": "Irascible",
     "description_en": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
-    "description_es": null
+    "description_es": "Sube el Ataque al máximo tras un golpe crítico."
   },
   {
     "pokemon_id": 563,
@@ -3383,9 +3383,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Mummy",
-    "name_es": "Mummy",
+    "name_es": "Momia",
     "description_en": "Contact with this Pokémon spreads this Ability.",
-    "description_es": null
+    "description_es": "Contagia Momia al rival que lo toque."
   },
   {
     "pokemon_id": 569,
@@ -3397,9 +3397,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Stench",
-    "name_es": "Stench",
+    "name_es": "Hedor",
     "description_en": "Helps repel wild POKéMON.",
-    "description_es": null
+    "description_es": "Es posible que el rival retroceda por el mal olor."
   },
   {
     "pokemon_id": 569,
@@ -3411,9 +3411,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Weak Armor",
-    "name_es": "Weak Armor",
+    "name_es": "Armadura Frágil",
     "description_en": "Physical attacks lower Defense and raise Speed.",
-    "description_es": null
+    "description_es": "Un ataque físico baja la Defensa y sube la Velocidad."
   },
   {
     "pokemon_id": 569,
@@ -3425,9 +3425,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Aftermath",
-    "name_es": "Aftermath",
+    "name_es": "Detonación",
     "description_en": "Damages the foe landing the finishing hit.",
-    "description_es": null
+    "description_es": "Daña al agresor que le ha dado el golpe de gracia."
   },
   {
     "pokemon_id": 571,
@@ -3439,9 +3439,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Illusion",
-    "name_es": "Illusion",
+    "name_es": "Ilusión",
     "description_en": "Takes on the appearance of the last party member.",
-    "description_es": null
+    "description_es": "Se convierte en el último Pokémon del equipo."
   },
   {
     "pokemon_id": 579,
@@ -3453,9 +3453,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overcoat",
-    "name_es": "Overcoat",
+    "name_es": "Funda",
     "description_en": "Protects against damage from weather.",
-    "description_es": null
+    "description_es": "Protege del polvo, la arena y el granizo."
   },
   {
     "pokemon_id": 579,
@@ -3467,9 +3467,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Magic Guard",
-    "name_es": "Magic Guard",
+    "name_es": "Muro Mágico",
     "description_en": "The Pokémon only takes damage from attacks.",
-    "description_es": null
+    "description_es": "Solo dañan al Pokémon los ataques directos."
   },
   {
     "pokemon_id": 579,
@@ -3481,9 +3481,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 584,
@@ -3495,9 +3495,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Ice Body",
-    "name_es": "Ice Body",
+    "name_es": "Gélido",
     "description_en": "The Pokémon regains HP in a hailstorm.",
-    "description_es": null
+    "description_es": "Recupera algunos PS cuando hay tormentas de granizo."
   },
   {
     "pokemon_id": 584,
@@ -3509,9 +3509,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Snow Warning",
-    "name_es": "Snow Warning",
+    "name_es": "Nevada",
     "description_en": "The Pokémon makes it snow when it enters a battle.",
-    "description_es": null
+    "description_es": "El Pokémon invoca una tormenta de granizo."
   },
   {
     "pokemon_id": 584,
@@ -3523,9 +3523,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Weak Armor",
-    "name_es": "Weak Armor",
+    "name_es": "Armadura Frágil",
     "description_en": "Physical attacks lower Defense and raise Speed.",
-    "description_es": null
+    "description_es": "Un ataque físico baja la Defensa y sube la Velocidad."
   },
   {
     "pokemon_id": 587,
@@ -3537,9 +3537,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Static",
-    "name_es": "Static",
+    "name_es": "Elec. Estática",
     "description_en": "Paralyzes on contact.",
-    "description_es": null
+    "description_es": "Puede paralizar al mínimo contacto."
   },
   {
     "pokemon_id": 587,
@@ -3551,9 +3551,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Motor Drive",
-    "name_es": "Motor Drive",
+    "name_es": "Electromotor",
     "description_en": "Absorbs electric moves, raising Speed one stage.",
-    "description_es": null
+    "description_es": "Sube la Velocidad si le alcanza un ataque eléctrico."
   },
   {
     "pokemon_id": 609,
@@ -3565,9 +3565,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 609,
@@ -3579,9 +3579,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Flame Body",
-    "name_es": "Flame Body",
+    "name_es": "Cuerpo Llama",
     "description_en": "Has a 30% chance of burning attacking Pokémon on contact.",
-    "description_es": null
+    "description_es": "Puede quemar al mínimo contacto."
   },
   {
     "pokemon_id": 609,
@@ -3593,9 +3593,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Infiltrator",
-    "name_es": "Infiltrator",
+    "name_es": "Allanamiento",
     "description_en": "Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-    "description_es": null
+    "description_es": "Ataca rodeando la barrera del rival."
   },
   {
     "pokemon_id": 614,
@@ -3607,9 +3607,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Snow Cloak",
-    "name_es": "Snow Cloak",
+    "name_es": "Manto Níveo",
     "description_en": "Raises evasion in a hailstorm.",
-    "description_es": null
+    "description_es": "Sube la Evasión durante una tormenta de granizo."
   },
   {
     "pokemon_id": 614,
@@ -3621,9 +3621,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Slush Rush",
-    "name_es": "Slush Rush",
+    "name_es": "Quitanieves",
     "description_en": "Boosts the Pokémon’s Speed stat in a hailstorm.",
-    "description_es": null
+    "description_es": "Aumenta su Velocidad si está granizando."
   },
   {
     "pokemon_id": 614,
@@ -3635,9 +3635,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Swift Swim",
-    "name_es": "Swift Swim",
+    "name_es": "Nado Rápido",
     "description_en": "Doubles Speed during rain.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay lluvia."
   },
   {
     "pokemon_id": 618,
@@ -3649,9 +3649,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Static",
-    "name_es": "Static",
+    "name_es": "Elec. Estática",
     "description_en": "Paralyzes on contact.",
-    "description_es": null
+    "description_es": "Puede paralizar al mínimo contacto."
   },
   {
     "pokemon_id": 618,
@@ -3663,9 +3663,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Limber",
-    "name_es": "Limber",
+    "name_es": "Flexibilidad",
     "description_en": "Prevents paralysis.",
-    "description_es": null
+    "description_es": "Evita ser paralizado."
   },
   {
     "pokemon_id": 618,
@@ -3677,9 +3677,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sand Veil",
-    "name_es": "Sand Veil",
+    "name_es": "Velo Arena",
     "description_en": "Ups evasion in a sandstorm.",
-    "description_es": null
+    "description_es": "Aumenta la Evasión en las tormentas de arena."
   },
   {
     "pokemon_id": 623,
@@ -3691,9 +3691,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Iron Fist",
-    "name_es": "Iron Fist",
+    "name_es": "Puño Férreo",
     "description_en": "Powers up punching moves.",
-    "description_es": null
+    "description_es": "Aumenta la fuerza de los puñetazos."
   },
   {
     "pokemon_id": 623,
@@ -3705,9 +3705,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Klutz",
-    "name_es": "Klutz",
+    "name_es": "Zoquete",
     "description_en": "Can't use held items.",
-    "description_es": null
+    "description_es": "El Pokémon no puede usar objetos equipados."
   },
   {
     "pokemon_id": 623,
@@ -3719,9 +3719,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "No Guard",
-    "name_es": "No Guard",
+    "name_es": "Indefenso",
     "description_en": "Ensures that all moves used by and against the Pokémon land.",
-    "description_es": null
+    "description_es": "El movimiento del Pokémon y el del rival acertarán."
   },
   {
     "pokemon_id": 635,
@@ -3733,9 +3733,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 637,
@@ -3747,9 +3747,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flame Body",
-    "name_es": "Flame Body",
+    "name_es": "Cuerpo Llama",
     "description_en": "Has a 30% chance of burning attacking Pokémon on contact.",
-    "description_es": null
+    "description_es": "Puede quemar al mínimo contacto."
   },
   {
     "pokemon_id": 637,
@@ -3761,9 +3761,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Swarm",
-    "name_es": "Swarm",
+    "name_es": "Enjambre",
     "description_en": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Bicho en un apuro."
   },
   {
     "pokemon_id": 652,
@@ -3775,9 +3775,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 652,
@@ -3789,9 +3789,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Bulletproof",
-    "name_es": "Bulletproof",
+    "name_es": "Antibalas",
     "description_en": "Protects the Pokémon from some ball and bomb moves.",
-    "description_es": null
+    "description_es": "No le afectan las bombas ni algunos proyectiles."
   },
   {
     "pokemon_id": 655,
@@ -3803,9 +3803,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 655,
@@ -3817,9 +3817,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Magician",
-    "name_es": "Magician",
+    "name_es": "Prestidigitador",
     "description_en": "The Pokémon steals the held item of a Pokémon it hits with a move.",
-    "description_es": null
+    "description_es": "Roba el objeto del Pokémon al que alcance con un movimiento."
   },
   {
     "pokemon_id": 658,
@@ -3831,9 +3831,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 658,
@@ -3845,9 +3845,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Protean",
-    "name_es": "Protean",
+    "name_es": "Mutatipo",
     "description_en": "Changes the Pokémon's type to the type of the move it's about to use.",
-    "description_es": null
+    "description_es": "Cambia su tipo al del movimiento que acaba de usar."
   },
   {
     "pokemon_id": 660,
@@ -3859,9 +3859,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pickup",
-    "name_es": "Pickup",
+    "name_es": "Recogida",
     "description_en": "May pick up items.",
-    "description_es": null
+    "description_es": "El Pokémon puede encontrar objetos."
   },
   {
     "pokemon_id": 660,
@@ -3873,9 +3873,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Cheek Pouch",
-    "name_es": "Cheek Pouch",
+    "name_es": "Carrillo",
     "description_en": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
-    "description_es": null
+    "description_es": "Recupera PS al comer bayas."
   },
   {
     "pokemon_id": 660,
@@ -3887,9 +3887,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Huge Power",
-    "name_es": "Huge Power",
+    "name_es": "Potencia",
     "description_en": "Doubles the Pokémon's Attack stat.",
-    "description_es": null
+    "description_es": "Aumenta el Ataque."
   },
   {
     "pokemon_id": 663,
@@ -3901,9 +3901,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flame Body",
-    "name_es": "Flame Body",
+    "name_es": "Cuerpo Llama",
     "description_en": "Has a 30% chance of burning attacking Pokémon on contact.",
-    "description_es": null
+    "description_es": "Puede quemar al mínimo contacto."
   },
   {
     "pokemon_id": 663,
@@ -3915,9 +3915,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Gale Wings",
-    "name_es": "Gale Wings",
+    "name_es": "Alas Vendaval",
     "description_en": "Raises flying moves' priority by one stage.",
-    "description_es": null
+    "description_es": "Da prioridad a los movimientos de tipo Volador."
   },
   {
     "pokemon_id": 666,
@@ -3929,9 +3929,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Shield Dust",
-    "name_es": "Shield Dust",
+    "name_es": "Polvo Escudo",
     "description_en": "Prevents added effects.",
-    "description_es": null
+    "description_es": "Anula el efecto secundario del ataque sufrido."
   },
   {
     "pokemon_id": 666,
@@ -3943,9 +3943,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Compound Eyes",
-    "name_es": "Compound Eyes",
+    "name_es": "Ojo Compuesto",
     "description_en": "Raises accuracy.",
-    "description_es": null
+    "description_es": "Aumenta la Precisión del Pokémon."
   },
   {
     "pokemon_id": 666,
@@ -3957,9 +3957,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Friend Guard",
-    "name_es": "Friend Guard",
+    "name_es": "Compiescolta",
     "description_en": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
-    "description_es": null
+    "description_es": "Reduce el daño que sufren los aliados."
   },
   {
     "pokemon_id": 670,
@@ -3971,9 +3971,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flower Veil",
-    "name_es": "Flower Veil",
+    "name_es": "Velo Flor",
     "description_en": "Prevents lowering of ally Grass-type Pokémon’s stats.",
-    "description_es": null
+    "description_es": "Evita que bajen las características de Pokémon tipo Planta aliados."
   },
   {
     "pokemon_id": 670,
@@ -3985,9 +3985,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Symbiosis",
-    "name_es": "Symbiosis",
+    "name_es": "Simbiosis",
     "description_en": "Passes the bearer's held item to an ally when the ally uses up its item.",
-    "description_es": null
+    "description_es": "El Pokémon puede pasar su objeto a un aliado."
   },
   {
     "pokemon_id": 671,
@@ -3999,9 +3999,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flower Veil",
-    "name_es": "Flower Veil",
+    "name_es": "Velo Flor",
     "description_en": "Prevents lowering of ally Grass-type Pokémon’s stats.",
-    "description_es": null
+    "description_es": "Evita que bajen las características de Pokémon tipo Planta aliados."
   },
   {
     "pokemon_id": 671,
@@ -4013,9 +4013,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Symbiosis",
-    "name_es": "Symbiosis",
+    "name_es": "Simbiosis",
     "description_en": "Passes the bearer's held item to an ally when the ally uses up its item.",
-    "description_es": null
+    "description_es": "El Pokémon puede pasar su objeto a un aliado."
   },
   {
     "pokemon_id": 675,
@@ -4027,9 +4027,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Iron Fist",
-    "name_es": "Iron Fist",
+    "name_es": "Puño Férreo",
     "description_en": "Powers up punching moves.",
-    "description_es": null
+    "description_es": "Aumenta la fuerza de los puñetazos."
   },
   {
     "pokemon_id": 675,
@@ -4041,9 +4041,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   },
   {
     "pokemon_id": 675,
@@ -4055,9 +4055,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Scrappy",
-    "name_es": "Scrappy",
+    "name_es": "Intrépido",
     "description_en": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.",
-    "description_es": null
+    "description_es": "Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma."
   },
   {
     "pokemon_id": 676,
@@ -4069,9 +4069,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Fur Coat",
-    "name_es": "Fur Coat",
+    "name_es": "Pelaje Recio",
     "description_en": "Halves damage from physical moves.",
-    "description_es": null
+    "description_es": "Reduce a la mitad el daño recibido por ataques físicos."
   },
   {
     "pokemon_id": 678,
@@ -4083,9 +4083,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 678,
@@ -4097,9 +4097,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Infiltrator",
-    "name_es": "Infiltrator",
+    "name_es": "Allanamiento",
     "description_en": "Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-    "description_es": null
+    "description_es": "Ataca rodeando la barrera del rival."
   },
   {
     "pokemon_id": 678,
@@ -4111,9 +4111,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Prankster",
-    "name_es": "Prankster",
+    "name_es": "Bromista",
     "description_en": "Gives priority to the Pokémon's status moves.",
-    "description_es": null
+    "description_es": "Permite lanzar ataques de estado en primer lugar."
   },
   {
     "pokemon_id": 681,
@@ -4125,9 +4125,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Stance Change",
-    "name_es": "Stance Change",
+    "name_es": "Cambio Táctico",
     "description_en": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",
-    "description_es": null
+    "description_es": "Cambia de forma según su estilo de combate."
   },
   {
     "pokemon_id": 683,
@@ -4139,9 +4139,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Healer",
-    "name_es": "Healer",
+    "name_es": "Alma Cura",
     "description_en": "Sometimes cures the status conditions of the Pokémon's allies.",
-    "description_es": null
+    "description_es": "A veces cura los cambios de estado de un aliado."
   },
   {
     "pokemon_id": 683,
@@ -4153,9 +4153,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Aroma Veil",
-    "name_es": "Aroma Veil",
+    "name_es": "Velo Aroma",
     "description_en": "Protects allies from attacks that limit their move choices.",
-    "description_es": null
+    "description_es": "Protege al equipo de ataques que impiden elegir movimientos."
   },
   {
     "pokemon_id": 685,
@@ -4167,9 +4167,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sweet Veil",
-    "name_es": "Sweet Veil",
+    "name_es": "Velo Dulce",
     "description_en": "Prevents itself and ally Pokémon from falling asleep.",
-    "description_es": null
+    "description_es": "Evita que tu equipo Pokémon se duerma."
   },
   {
     "pokemon_id": 685,
@@ -4181,9 +4181,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Unburden",
-    "name_es": "Unburden",
+    "name_es": "Liviano",
     "description_en": "Doubles Speed upon using or losing a held item.",
-    "description_es": null
+    "description_es": "Sube la Velocidad si usa o pierde el objeto que lleve."
   },
   {
     "pokemon_id": 693,
@@ -4195,9 +4195,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Mega Launcher",
-    "name_es": "Mega Launcher",
+    "name_es": "Megadisparador",
     "description_en": "Powers up pulse moves.",
-    "description_es": null
+    "description_es": "Aumenta la potencia de algunos movimientos de pulsos y auras."
   },
   {
     "pokemon_id": 695,
@@ -4209,9 +4209,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Dry Skin",
-    "name_es": "Dry Skin",
+    "name_es": "Piel Seca",
     "description_en": "Reduces HP if it is hot. Water restores HP.",
-    "description_es": null
+    "description_es": "Pierde PS si hace calor. Los recupera con agua."
   },
   {
     "pokemon_id": 695,
@@ -4223,9 +4223,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sand Veil",
-    "name_es": "Sand Veil",
+    "name_es": "Velo Arena",
     "description_en": "Ups evasion in a sandstorm.",
-    "description_es": null
+    "description_es": "Aumenta la Evasión en las tormentas de arena."
   },
   {
     "pokemon_id": 695,
@@ -4237,9 +4237,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Solar Power",
-    "name_es": "Solar Power",
+    "name_es": "Poder Solar",
     "description_en": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but HP decreases every turn.",
-    "description_es": null
+    "description_es": "Si hace sol, baja los PS, pero potencia el At. Esp."
   },
   {
     "pokemon_id": 697,
@@ -4251,9 +4251,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Strong Jaw",
-    "name_es": "Strong Jaw",
+    "name_es": "Mandíbula Fuerte",
     "description_en": "The Pokémon's strong jaw boosts the power of its biting moves.",
-    "description_es": null
+    "description_es": "Su robusta mandíbula le confiere una potente mordedura."
   },
   {
     "pokemon_id": 697,
@@ -4265,9 +4265,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Rock Head",
-    "name_es": "Rock Head",
+    "name_es": "Cabeza Roca",
     "description_en": "Protects the Pokémon from recoil damage.",
-    "description_es": null
+    "description_es": "Impide que el Pokémon se dañe con sus movimientos."
   },
   {
     "pokemon_id": 699,
@@ -4279,9 +4279,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Refrigerate",
-    "name_es": "Refrigerate",
+    "name_es": "Piel Helada",
     "description_en": "Normal-type moves become Ice-type moves. The power of those moves is boosted a little.",
-    "description_es": null
+    "description_es": "Convierte movimientos de tipo Normal en tipo Hielo."
   },
   {
     "pokemon_id": 699,
@@ -4293,9 +4293,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Snow Warning",
-    "name_es": "Snow Warning",
+    "name_es": "Nevada",
     "description_en": "The Pokémon makes it snow when it enters a battle.",
-    "description_es": null
+    "description_es": "El Pokémon invoca una tormenta de granizo."
   },
   {
     "pokemon_id": 700,
@@ -4307,9 +4307,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Cute Charm",
-    "name_es": "Cute Charm",
+    "name_es": "Gran Encanto",
     "description_en": "Has a 30% chance of infatuating attacking Pokémon on contact.",
-    "description_es": null
+    "description_es": "Tocar al Pokémon puede causar enamoramiento."
   },
   {
     "pokemon_id": 700,
@@ -4321,9 +4321,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Pixilate",
-    "name_es": "Pixilate",
+    "name_es": "Piel Feérica",
     "description_en": "Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.",
-    "description_es": null
+    "description_es": "Convierte movimientos de tipo Normal en tipo Hada."
   },
   {
     "pokemon_id": 701,
@@ -4335,9 +4335,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Limber",
-    "name_es": "Limber",
+    "name_es": "Flexibilidad",
     "description_en": "Prevents paralysis.",
-    "description_es": null
+    "description_es": "Evita ser paralizado."
   },
   {
     "pokemon_id": 701,
@@ -4349,9 +4349,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Unburden",
-    "name_es": "Unburden",
+    "name_es": "Liviano",
     "description_en": "Doubles Speed upon using or losing a held item.",
-    "description_es": null
+    "description_es": "Sube la Velocidad si usa o pierde el objeto que lleve."
   },
   {
     "pokemon_id": 701,
@@ -4363,9 +4363,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   },
   {
     "pokemon_id": 702,
@@ -4377,9 +4377,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Cheek Pouch",
-    "name_es": "Cheek Pouch",
+    "name_es": "Carrillo",
     "description_en": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
-    "description_es": null
+    "description_es": "Recupera PS al comer bayas."
   },
   {
     "pokemon_id": 702,
@@ -4391,9 +4391,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Pickup",
-    "name_es": "Pickup",
+    "name_es": "Recogida",
     "description_en": "May pick up items.",
-    "description_es": null
+    "description_es": "El Pokémon puede encontrar objetos."
   },
   {
     "pokemon_id": 702,
@@ -4405,9 +4405,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Plus",
-    "name_es": "Plus",
+    "name_es": "Más",
     "description_en": "Powers up with MINUS.",
-    "description_es": null
+    "description_es": "Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos."
   },
   {
     "pokemon_id": 706,
@@ -4419,9 +4419,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sap Sipper",
-    "name_es": "Sap Sipper",
+    "name_es": "Herbívoro",
     "description_en": "Raises Attack when hit by Grass-type moves.",
-    "description_es": null
+    "description_es": "Neutraliza los movimientos de tipo Planta y sube el Ataque."
   },
   {
     "pokemon_id": 706,
@@ -4433,9 +4433,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Hydration",
-    "name_es": "Hydration",
+    "name_es": "Hidratación",
     "description_en": "Heals status conditions when it is raining.",
-    "description_es": null
+    "description_es": "Cura los problemas de estado si está lloviendo."
   },
   {
     "pokemon_id": 706,
@@ -4447,9 +4447,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Gooey",
-    "name_es": "Gooey",
+    "name_es": "Baba",
     "description_en": "Contact with the Pokémon lowers the attacker's Speed stat.",
-    "description_es": null
+    "description_es": "Baja la Velocidad del Pokémon con el que entra en contacto."
   },
   {
     "pokemon_id": 707,
@@ -4461,9 +4461,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Prankster",
-    "name_es": "Prankster",
+    "name_es": "Bromista",
     "description_en": "Gives priority to the Pokémon's status moves.",
-    "description_es": null
+    "description_es": "Permite lanzar ataques de estado en primer lugar."
   },
   {
     "pokemon_id": 707,
@@ -4475,9 +4475,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Magician",
-    "name_es": "Magician",
+    "name_es": "Prestidigitador",
     "description_en": "The Pokémon steals the held item of a Pokémon it hits with a move.",
-    "description_es": null
+    "description_es": "Roba el objeto del Pokémon al que alcance con un movimiento."
   },
   {
     "pokemon_id": 709,
@@ -4489,9 +4489,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Natural Cure",
-    "name_es": "Natural Cure",
+    "name_es": "Cura Natural",
     "description_en": "All status conditions heal when the Pokémon switches out.",
-    "description_es": null
+    "description_es": "Cura problemas de estado al cambiar de Pokémon."
   },
   {
     "pokemon_id": 709,
@@ -4503,9 +4503,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Frisk",
-    "name_es": "Frisk",
+    "name_es": "Cacheo",
     "description_en": "The Pokémon can check the foe’s held item.",
-    "description_es": null
+    "description_es": "El Pokémon puede ver el objeto que lleva el rival."
   },
   {
     "pokemon_id": 709,
@@ -4517,9 +4517,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Harvest",
-    "name_es": "Harvest",
+    "name_es": "Cosecha",
     "description_en": "May create another Berry after one is used. 100% chance in sunshine.",
-    "description_es": null
+    "description_es": "Permite reutilizar varias veces una misma baya."
   },
   {
     "pokemon_id": 711,
@@ -4531,9 +4531,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pickup",
-    "name_es": "Pickup",
+    "name_es": "Recogida",
     "description_en": "May pick up items.",
-    "description_es": null
+    "description_es": "El Pokémon puede encontrar objetos."
   },
   {
     "pokemon_id": 711,
@@ -4545,9 +4545,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Frisk",
-    "name_es": "Frisk",
+    "name_es": "Cacheo",
     "description_en": "The Pokémon can check the foe’s held item.",
-    "description_es": null
+    "description_es": "El Pokémon puede ver el objeto que lleva el rival."
   },
   {
     "pokemon_id": 711,
@@ -4559,9 +4559,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Insomnia",
-    "name_es": "Insomnia",
+    "name_es": "Insomnio",
     "description_en": "Prevents sleep.",
-    "description_es": null
+    "description_es": "Evita el quedarse dormido."
   },
   {
     "pokemon_id": 713,
@@ -4573,9 +4573,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Own Tempo",
-    "name_es": "Own Tempo",
+    "name_es": "Ritmo Propio",
     "description_en": "Prevents confusion.",
-    "description_es": null
+    "description_es": "Evita ser confundido."
   },
   {
     "pokemon_id": 713,
@@ -4587,9 +4587,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Ice Body",
-    "name_es": "Ice Body",
+    "name_es": "Gélido",
     "description_en": "The Pokémon regains HP in a hailstorm.",
-    "description_es": null
+    "description_es": "Recupera algunos PS cuando hay tormentas de granizo."
   },
   {
     "pokemon_id": 713,
@@ -4601,9 +4601,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 715,
@@ -4615,9 +4615,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Frisk",
-    "name_es": "Frisk",
+    "name_es": "Cacheo",
     "description_en": "The Pokémon can check the foe’s held item.",
-    "description_es": null
+    "description_es": "El Pokémon puede ver el objeto que lleva el rival."
   },
   {
     "pokemon_id": 715,
@@ -4629,9 +4629,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Infiltrator",
-    "name_es": "Infiltrator",
+    "name_es": "Allanamiento",
     "description_en": "Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-    "description_es": null
+    "description_es": "Ataca rodeando la barrera del rival."
   },
   {
     "pokemon_id": 715,
@@ -4643,9 +4643,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Telepathy",
-    "name_es": "Telepathy",
+    "name_es": "Telepatía",
     "description_en": "Protects against friendly Pokémon's damaging moves.",
-    "description_es": null
+    "description_es": "Elude los ataques de aliados en batalla."
   },
   {
     "pokemon_id": 724,
@@ -4657,9 +4657,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 724,
@@ -4671,9 +4671,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Long Reach",
-    "name_es": "Long Reach",
+    "name_es": "Remoto",
     "description_en": "Moves don't make contact.",
-    "description_es": null
+    "description_es": "Permite usar cualquier movimiento sin entrar en contacto con el rival."
   },
   {
     "pokemon_id": 727,
@@ -4685,9 +4685,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 727,
@@ -4699,9 +4699,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 730,
@@ -4713,9 +4713,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 730,
@@ -4727,9 +4727,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Liquid Voice",
-    "name_es": "Liquid Voice",
+    "name_es": "Voz Fluida",
     "description_en": "All sound-based moves become Water-type moves.",
-    "description_es": null
+    "description_es": "Hace que todos los movimientos del Pokémon basados en sonido pasen a ser de tipo Agua."
   },
   {
     "pokemon_id": 733,
@@ -4741,9 +4741,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 733,
@@ -4755,9 +4755,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Skill Link",
-    "name_es": "Skill Link",
+    "name_es": "Encadenado",
     "description_en": "Maximizes the number of times multistrike moves hit.",
-    "description_es": null
+    "description_es": "Aumenta la frecuencia de los movimientos múltiples."
   },
   {
     "pokemon_id": 733,
@@ -4769,9 +4769,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sheer Force",
-    "name_es": "Sheer Force",
+    "name_es": "Potencia Bruta",
     "description_en": "Removes additional effects from moves but increases their power.",
-    "description_es": null
+    "description_es": "Sube la potencia y anula los efectos secundarios."
   },
   {
     "pokemon_id": 740,
@@ -4783,9 +4783,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Hyper Cutter",
-    "name_es": "Hyper Cutter",
+    "name_es": "Corte Fuerte",
     "description_en": "Prevents Attack from being lowered by other Pokémon.",
-    "description_es": null
+    "description_es": "Evita que disminuya el Ataque."
   },
   {
     "pokemon_id": 740,
@@ -4797,9 +4797,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Iron Fist",
-    "name_es": "Iron Fist",
+    "name_es": "Puño Férreo",
     "description_en": "Powers up punching moves.",
-    "description_es": null
+    "description_es": "Aumenta la fuerza de los puñetazos."
   },
   {
     "pokemon_id": 740,
@@ -4811,9 +4811,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Anger Point",
-    "name_es": "Anger Point",
+    "name_es": "Irascible",
     "description_en": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
-    "description_es": null
+    "description_es": "Sube el Ataque al máximo tras un golpe crítico."
   },
   {
     "pokemon_id": 745,
@@ -4825,9 +4825,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 745,
@@ -4839,9 +4839,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sand Rush",
-    "name_es": "Sand Rush",
+    "name_es": "Ímpetu Arena",
     "description_en": "Doubles Speed during a sandstorm.  Protects against sandstorm damage.",
-    "description_es": null
+    "description_es": "Aumenta la Velocidad durante las tormentas de arena."
   },
   {
     "pokemon_id": 745,
@@ -4853,9 +4853,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Steadfast",
-    "name_es": "Steadfast",
+    "name_es": "Impasible",
     "description_en": "Raises Speed one stage upon flinching.",
-    "description_es": null
+    "description_es": "Cada vez que retrocede sube su Velocidad."
   },
   {
     "pokemon_id": 748,
@@ -4867,9 +4867,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Merciless",
-    "name_es": "Merciless",
+    "name_es": "Ensañamiento",
     "description_en": "This Pokémon's moves critical hit against poisoned targets.",
-    "description_es": null
+    "description_es": "Hace que los movimientos asesten siempre un golpe crítico si el rival está envenenado."
   },
   {
     "pokemon_id": 748,
@@ -4881,9 +4881,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Limber",
-    "name_es": "Limber",
+    "name_es": "Flexibilidad",
     "description_en": "Prevents paralysis.",
-    "description_es": null
+    "description_es": "Evita ser paralizado."
   },
   {
     "pokemon_id": 748,
@@ -4895,9 +4895,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 750,
@@ -4909,9 +4909,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Own Tempo",
-    "name_es": "Own Tempo",
+    "name_es": "Ritmo Propio",
     "description_en": "Prevents confusion.",
-    "description_es": null
+    "description_es": "Evita ser confundido."
   },
   {
     "pokemon_id": 750,
@@ -4923,9 +4923,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Stamina",
-    "name_es": "Stamina",
+    "name_es": "Firmeza",
     "description_en": "Raises this Pokémon's Defense by one stage when it takes damage from a move.",
-    "description_es": null
+    "description_es": "Aumenta la Defensa al recibir un ataque físico."
   },
   {
     "pokemon_id": 750,
@@ -4937,9 +4937,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 752,
@@ -4951,9 +4951,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Water Bubble",
-    "name_es": "Water Bubble",
+    "name_es": "Pompa",
     "description_en": "Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.",
-    "description_es": null
+    "description_es": "Reduce el daño que le provocan los movimientos de tipo Fuego e impide que sufra quemaduras."
   },
   {
     "pokemon_id": 752,
@@ -4965,9 +4965,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Water Absorb",
-    "name_es": "Water Absorb",
+    "name_es": "Absorbe Agua",
     "description_en": "Restores HP if hit by a Water-type move.",
-    "description_es": null
+    "description_es": "Recupera PS al recibir ataques de tipo Agua."
   },
   {
     "pokemon_id": 758,
@@ -4979,9 +4979,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Corrosion",
-    "name_es": "Corrosion",
+    "name_es": "Corrosión",
     "description_en": "This Pokémon can inflict poison on Poison and Steel Pokémon.",
-    "description_es": null
+    "description_es": "Permite envenenar incluso a rivales de tipo Acero o Veneno."
   },
   {
     "pokemon_id": 758,
@@ -4993,9 +4993,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Oblivious",
-    "name_es": "Oblivious",
+    "name_es": "Despiste",
     "description_en": "Prevents attraction.",
-    "description_es": null
+    "description_es": "Evita que el Pokémon sea atraído o provocado."
   },
   {
     "pokemon_id": 763,
@@ -5007,9 +5007,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Leaf Guard",
-    "name_es": "Leaf Guard",
+    "name_es": "Defensa Hoja",
     "description_en": "Protects against major status ailments during strong sunlight.",
-    "description_es": null
+    "description_es": "Evita los problemas de estado si hace sol."
   },
   {
     "pokemon_id": 763,
@@ -5021,9 +5021,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Queenly Majesty",
-    "name_es": "Queenly Majesty",
+    "name_es": "Regia Presencia",
     "description_en": "Opposing Pokémon cannot use priority attacks.",
-    "description_es": null
+    "description_es": "Intimida al rival y le impide usar movimientos con prioridad dirigidos al Pokémon."
   },
   {
     "pokemon_id": 763,
@@ -5035,9 +5035,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sweet Veil",
-    "name_es": "Sweet Veil",
+    "name_es": "Velo Dulce",
     "description_en": "Prevents itself and ally Pokémon from falling asleep.",
-    "description_es": null
+    "description_es": "Evita que tu equipo Pokémon se duerma."
   },
   {
     "pokemon_id": 765,
@@ -5049,9 +5049,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Inner Focus",
-    "name_es": "Inner Focus",
+    "name_es": "Foco Interno",
     "description_en": "The Pokémon's intensely focused, and that prevents it from flinching.",
-    "description_es": null
+    "description_es": "Evita el retroceso."
   },
   {
     "pokemon_id": 765,
@@ -5063,9 +5063,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Telepathy",
-    "name_es": "Telepathy",
+    "name_es": "Telepatía",
     "description_en": "Protects against friendly Pokémon's damaging moves.",
-    "description_es": null
+    "description_es": "Elude los ataques de aliados en batalla."
   },
   {
     "pokemon_id": 765,
@@ -5077,9 +5077,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Symbiosis",
-    "name_es": "Symbiosis",
+    "name_es": "Simbiosis",
     "description_en": "Passes the bearer's held item to an ally when the ally uses up its item.",
-    "description_es": null
+    "description_es": "El Pokémon puede pasar su objeto a un aliado."
   },
   {
     "pokemon_id": 766,
@@ -5091,9 +5091,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Receiver",
-    "name_es": "Receiver",
+    "name_es": "Receptor",
     "description_en": "The Pokémon copies the Ability of a defeated ally.",
-    "description_es": null
+    "description_es": "Adquiere la habilidad de un aliado debilitado."
   },
   {
     "pokemon_id": 766,
@@ -5105,9 +5105,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Defiant",
-    "name_es": "Defiant",
+    "name_es": "Competitivo",
     "description_en": "Raises Attack two stages upon having any stat lowered.",
-    "description_es": null
+    "description_es": "Sube el Ataque cuando el rival le baja las características."
   },
   {
     "pokemon_id": 778,
@@ -5119,9 +5119,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Disguise",
-    "name_es": "Disguise",
+    "name_es": "Disfraz",
     "description_en": "Prevents the first instance of battle damage.",
-    "description_es": null
+    "description_es": "Permite eludir un único ataque valiéndose de la tela que le cubre el cuerpo."
   },
   {
     "pokemon_id": 780,
@@ -5133,9 +5133,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Berserk",
-    "name_es": "Berserk",
+    "name_es": "Cólera",
     "description_en": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to become half or less.",
-    "description_es": null
+    "description_es": "Aumenta el Ataque Especial si los ataques del oponente le reducen los PS a la mitad."
   },
   {
     "pokemon_id": 780,
@@ -5147,9 +5147,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sap Sipper",
-    "name_es": "Sap Sipper",
+    "name_es": "Herbívoro",
     "description_en": "Raises Attack when hit by Grass-type moves.",
-    "description_es": null
+    "description_es": "Neutraliza los movimientos de tipo Planta y sube el Ataque."
   },
   {
     "pokemon_id": 780,
@@ -5161,9 +5161,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cloud Nine",
-    "name_es": "Cloud Nine",
+    "name_es": "Aclimatación",
     "description_en": "Negates all effects of weather, but does not prevent the weather itself.",
-    "description_es": null
+    "description_es": "Anula los efectos del tiempo atmosférico."
   },
   {
     "pokemon_id": 784,
@@ -5175,9 +5175,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Bulletproof",
-    "name_es": "Bulletproof",
+    "name_es": "Antibalas",
     "description_en": "Protects the Pokémon from some ball and bomb moves.",
-    "description_es": null
+    "description_es": "No le afectan las bombas ni algunos proyectiles."
   },
   {
     "pokemon_id": 784,
@@ -5189,9 +5189,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Soundproof",
-    "name_es": "Soundproof",
+    "name_es": "Insonorizar",
     "description_en": "Protects against sound-based moves.",
-    "description_es": null
+    "description_es": "Evita ataques de sonido."
   },
   {
     "pokemon_id": 784,
@@ -5203,9 +5203,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Overcoat",
-    "name_es": "Overcoat",
+    "name_es": "Funda",
     "description_en": "Protects against damage from weather.",
-    "description_es": null
+    "description_es": "Protege del polvo, la arena y el granizo."
   },
   {
     "pokemon_id": 823,
@@ -5217,9 +5217,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pressure",
-    "name_es": "Pressure",
+    "name_es": "Presión",
     "description_en": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "description_es": null
+    "description_es": "Hace que los PP del rival se acaben antes."
   },
   {
     "pokemon_id": 823,
@@ -5231,9 +5231,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Unnerve",
-    "name_es": "Unnerve",
+    "name_es": "Nerviosismo",
     "description_en": "Prevents foes from eating berries.",
-    "description_es": null
+    "description_es": "Pone nervioso al rival y le impide usar bayas."
   },
   {
     "pokemon_id": 823,
@@ -5245,9 +5245,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Mirror Armor",
-    "name_es": "Mirror Armor",
+    "name_es": "Coraza Reflejo",
     "description_en": "Reflects stat-lowering effects back.",
-    "description_es": null
+    "description_es": "Refleja los efectos que reducen las características."
   },
   {
     "pokemon_id": 841,
@@ -5259,9 +5259,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Ripen",
-    "name_es": "Ripen",
+    "name_es": "Maduración",
     "description_en": "Ripens Berries and doubles their effect.",
-    "description_es": null
+    "description_es": "Hace madurar las bayas, por lo que duplica sus efectos."
   },
   {
     "pokemon_id": 841,
@@ -5273,9 +5273,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Gluttony",
-    "name_es": "Gluttony",
+    "name_es": "Gula",
     "description_en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
-    "description_es": null
+    "description_es": "Fomenta el uso rápido de la baya que porte."
   },
   {
     "pokemon_id": 841,
@@ -5287,9 +5287,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Hustle",
-    "name_es": "Hustle",
+    "name_es": "Entusiasmo",
     "description_en": "Trades accuracy for power.",
-    "description_es": null
+    "description_es": "Aumenta el Ataque, pero reduce la Precisión."
   },
   {
     "pokemon_id": 842,
@@ -5301,9 +5301,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Ripen",
-    "name_es": "Ripen",
+    "name_es": "Maduración",
     "description_en": "Ripens Berries and doubles their effect.",
-    "description_es": null
+    "description_es": "Hace madurar las bayas, por lo que duplica sus efectos."
   },
   {
     "pokemon_id": 842,
@@ -5315,9 +5315,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Gluttony",
-    "name_es": "Gluttony",
+    "name_es": "Gula",
     "description_en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
-    "description_es": null
+    "description_es": "Fomenta el uso rápido de la baya que porte."
   },
   {
     "pokemon_id": 842,
@@ -5329,9 +5329,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Thick Fat",
-    "name_es": "Thick Fat",
+    "name_es": "Sebo",
     "description_en": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-    "description_es": null
+    "description_es": "Atenúa los ataques de tipo Fuego y Hielo."
   },
   {
     "pokemon_id": 844,
@@ -5343,9 +5343,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sand Spit",
-    "name_es": "Sand Spit",
+    "name_es": "Expulsarena",
     "description_en": "The Pokémon creates a sandstorm when it’s hit by an attack.",
-    "description_es": null
+    "description_es": "Provoca una tormenta de arena al recibir un ataque."
   },
   {
     "pokemon_id": 844,
@@ -5357,9 +5357,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Shed Skin",
-    "name_es": "Shed Skin",
+    "name_es": "Mudar",
     "description_en": "Heals the body by shedding.",
-    "description_es": null
+    "description_es": "Cura los problemas de estado mudando la piel."
   },
   {
     "pokemon_id": 844,
@@ -5371,9 +5371,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sand Veil",
-    "name_es": "Sand Veil",
+    "name_es": "Velo Arena",
     "description_en": "Ups evasion in a sandstorm.",
-    "description_es": null
+    "description_es": "Aumenta la Evasión en las tormentas de arena."
   },
   {
     "pokemon_id": 855,
@@ -5385,9 +5385,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Weak Armor",
-    "name_es": "Weak Armor",
+    "name_es": "Armadura Frágil",
     "description_en": "Physical attacks lower Defense and raise Speed.",
-    "description_es": null
+    "description_es": "Un ataque físico baja la Defensa y sube la Velocidad."
   },
   {
     "pokemon_id": 855,
@@ -5399,9 +5399,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cursed Body",
-    "name_es": "Cursed Body",
+    "name_es": "Cuerpo Maldito",
     "description_en": "Has a 30% chance of Disabling any move that hits the Pokémon.",
-    "description_es": null
+    "description_es": "Puede anular el movimiento usado en su contra."
   },
   {
     "pokemon_id": 858,
@@ -5413,9 +5413,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Healer",
-    "name_es": "Healer",
+    "name_es": "Alma Cura",
     "description_en": "Sometimes cures the status conditions of the Pokémon's allies.",
-    "description_es": null
+    "description_es": "A veces cura los cambios de estado de un aliado."
   },
   {
     "pokemon_id": 858,
@@ -5427,9 +5427,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Anticipation",
-    "name_es": "Anticipation",
+    "name_es": "Anticipación",
     "description_en": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
-    "description_es": null
+    "description_es": "Prevé los movimientos peligrosos del rival."
   },
   {
     "pokemon_id": 858,
@@ -5441,9 +5441,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Magic Bounce",
-    "name_es": "Magic Bounce",
+    "name_es": "Espejo Mágico",
     "description_en": "Reflects most non-damaging moves back at their user.",
-    "description_es": null
+    "description_es": "Permite devolver los ataques de estado."
   },
   {
     "pokemon_id": 866,
@@ -5455,9 +5455,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Tangled Feet",
-    "name_es": "Tangled Feet",
+    "name_es": "Tumbos",
     "description_en": "Raises evasion if the Pokémon is confused.",
-    "description_es": null
+    "description_es": "Sube la Evasión si el Pokémon está confuso."
   },
   {
     "pokemon_id": 866,
@@ -5469,9 +5469,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Screen Cleaner",
-    "name_es": "Screen Cleaner",
+    "name_es": "Antibarrera",
     "description_en": "When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.",
-    "description_es": null
+    "description_es": "Anula los efectos de Pantalla de Luz, Reflejo y Velo Aurora tanto de rivales como de aliados al entrar en combate."
   },
   {
     "pokemon_id": 866,
@@ -5483,9 +5483,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Ice Body",
-    "name_es": "Ice Body",
+    "name_es": "Gélido",
     "description_en": "The Pokémon regains HP in a hailstorm.",
-    "description_es": null
+    "description_es": "Recupera algunos PS cuando hay tormentas de granizo."
   },
   {
     "pokemon_id": 867,
@@ -5497,9 +5497,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Wandering Spirit",
-    "name_es": "Wandering Spirit",
+    "name_es": "Alma Errante",
     "description_en": "Exchanges ability with attacker on contact.",
-    "description_es": null
+    "description_es": "Si le alcanza un movimiento de contacto, intercambia su habilidad con la del agresor."
   },
   {
     "pokemon_id": 869,
@@ -5511,9 +5511,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sweet Veil",
-    "name_es": "Sweet Veil",
+    "name_es": "Velo Dulce",
     "description_en": "Prevents itself and ally Pokémon from falling asleep.",
-    "description_es": null
+    "description_es": "Evita que tu equipo Pokémon se duerma."
   },
   {
     "pokemon_id": 869,
@@ -5525,9 +5525,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Aroma Veil",
-    "name_es": "Aroma Veil",
+    "name_es": "Velo Aroma",
     "description_en": "Protects allies from attacks that limit their move choices.",
-    "description_es": null
+    "description_es": "Protege al equipo de ataques que impiden elegir movimientos."
   },
   {
     "pokemon_id": 877,
@@ -5539,9 +5539,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Hunger Switch",
-    "name_es": "Hunger Switch",
+    "name_es": "Mutapetito",
     "description_en": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.",
-    "description_es": null
+    "description_es": "Alterna entre su Forma Saciada y Forma Voraz al final de cada turno."
   },
   {
     "pokemon_id": 887,
@@ -5553,9 +5553,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Clear Body",
-    "name_es": "Clear Body",
+    "name_es": "Cuerpo Puro",
     "description_en": "Prevents stat reduction.",
-    "description_es": null
+    "description_es": "Evita que bajen las características."
   },
   {
     "pokemon_id": 887,
@@ -5567,9 +5567,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Infiltrator",
-    "name_es": "Infiltrator",
+    "name_es": "Allanamiento",
     "description_en": "Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-    "description_es": null
+    "description_es": "Ataca rodeando la barrera del rival."
   },
   {
     "pokemon_id": 887,
@@ -5581,9 +5581,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cursed Body",
-    "name_es": "Cursed Body",
+    "name_es": "Cuerpo Maldito",
     "description_en": "Has a 30% chance of Disabling any move that hits the Pokémon.",
-    "description_es": null
+    "description_es": "Puede anular el movimiento usado en su contra."
   },
   {
     "pokemon_id": 899,
@@ -5595,9 +5595,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 899,
@@ -5609,9 +5609,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Frisk",
-    "name_es": "Frisk",
+    "name_es": "Cacheo",
     "description_en": "The Pokémon can check the foe’s held item.",
-    "description_es": null
+    "description_es": "El Pokémon puede ver el objeto que lleva el rival."
   },
   {
     "pokemon_id": 899,
@@ -5623,9 +5623,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sap Sipper",
-    "name_es": "Sap Sipper",
+    "name_es": "Herbívoro",
     "description_en": "Raises Attack when hit by Grass-type moves.",
-    "description_es": null
+    "description_es": "Neutraliza los movimientos de tipo Planta y sube el Ataque."
   },
   {
     "pokemon_id": 900,
@@ -5637,9 +5637,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Swarm",
-    "name_es": "Swarm",
+    "name_es": "Enjambre",
     "description_en": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Bicho en un apuro."
   },
   {
     "pokemon_id": 900,
@@ -5651,9 +5651,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sheer Force",
-    "name_es": "Sheer Force",
+    "name_es": "Potencia Bruta",
     "description_en": "Removes additional effects from moves but increases their power.",
-    "description_es": null
+    "description_es": "Sube la potencia y anula los efectos secundarios."
   },
   {
     "pokemon_id": 900,
@@ -5665,7 +5665,7 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sharpness",
-    "name_es": "Sharpness",
+    "name_es": "Cortante",
     "description_en": "Powers up slicing moves.",
     "description_es": null
   },
@@ -5679,9 +5679,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Swift Swim",
-    "name_es": "Swift Swim",
+    "name_es": "Nado Rápido",
     "description_en": "Doubles Speed during rain.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay lluvia."
   },
   {
     "pokemon_id": 902,
@@ -5693,9 +5693,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Adaptability",
-    "name_es": "Adaptability",
+    "name_es": "Adaptable",
     "description_en": "Powers up moves of the same type as the Pokémon.",
-    "description_es": null
+    "description_es": "Potencia los movimientos del mismo tipo del Pokémon."
   },
   {
     "pokemon_id": 902,
@@ -5707,9 +5707,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   },
   {
     "pokemon_id": 903,
@@ -5721,9 +5721,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Pressure",
-    "name_es": "Pressure",
+    "name_es": "Presión",
     "description_en": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "description_es": null
+    "description_es": "Hace que los PP del rival se acaben antes."
   },
   {
     "pokemon_id": 903,
@@ -5735,9 +5735,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Unburden",
-    "name_es": "Unburden",
+    "name_es": "Liviano",
     "description_en": "Doubles Speed upon using or losing a held item.",
-    "description_es": null
+    "description_es": "Sube la Velocidad si usa o pierde el objeto que lleve."
   },
   {
     "pokemon_id": 903,
@@ -5749,9 +5749,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Poison Touch",
-    "name_es": "Poison Touch",
+    "name_es": "Toque Tóxico",
     "description_en": "Has a 30% chance of poisoning target Pokémon upon contact.",
-    "description_es": null
+    "description_es": "Puede envenenar al objetivo con solo tocarlo."
   },
   {
     "pokemon_id": 908,
@@ -5763,9 +5763,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Overgrow",
-    "name_es": "Overgrow",
+    "name_es": "Espesura",
     "description_en": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Planta en un apuro."
   },
   {
     "pokemon_id": 908,
@@ -5777,9 +5777,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Protean",
-    "name_es": "Protean",
+    "name_es": "Mutatipo",
     "description_en": "Changes the Pokémon's type to the type of the move it's about to use.",
-    "description_es": null
+    "description_es": "Cambia su tipo al del movimiento que acaba de usar."
   },
   {
     "pokemon_id": 911,
@@ -5791,9 +5791,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 911,
@@ -5805,9 +5805,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Unaware",
-    "name_es": "Unaware",
+    "name_es": "Ignorante",
     "description_en": "Ignores the opposing Pokémon's stat changes.",
-    "description_es": null
+    "description_es": "No tiene en cuenta las mejoras en las características del rival."
   },
   {
     "pokemon_id": 914,
@@ -5819,9 +5819,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Torrent",
-    "name_es": "Torrent",
+    "name_es": "Torrente",
     "description_en": "Ups WATER moves in a pinch.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Agua en un apuro."
   },
   {
     "pokemon_id": 914,
@@ -5833,9 +5833,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Moxie",
-    "name_es": "Moxie",
+    "name_es": "Autoestima",
     "description_en": "Boosts Attack after knocking out any Pokémon.",
-    "description_es": null
+    "description_es": "Potencia el Ataque al debilitar a un objetivo."
   },
   {
     "pokemon_id": 925,
@@ -5847,9 +5847,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Friend Guard",
-    "name_es": "Friend Guard",
+    "name_es": "Compiescolta",
     "description_en": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
-    "description_es": null
+    "description_es": "Reduce el daño que sufren los aliados."
   },
   {
     "pokemon_id": 925,
@@ -5861,9 +5861,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Cheek Pouch",
-    "name_es": "Cheek Pouch",
+    "name_es": "Carrillo",
     "description_en": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
-    "description_es": null
+    "description_es": "Recupera PS al comer bayas."
   },
   {
     "pokemon_id": 925,
@@ -5875,9 +5875,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Technician",
-    "name_es": "Technician",
+    "name_es": "Experto",
     "description_en": "Powers up weak moves so the Pokémon can deal more damage with them.",
-    "description_es": null
+    "description_es": "Potencia los movimientos más débiles del Pokémon."
   },
   {
     "pokemon_id": 934,
@@ -5889,7 +5889,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Purifying Salt",
-    "name_es": "Purifying Salt",
+    "name_es": "Sal Purificadora",
     "description_en": "Prevents status and halves Ghost damage.",
     "description_es": null
   },
@@ -5903,9 +5903,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 934,
@@ -5917,9 +5917,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Clear Body",
-    "name_es": "Clear Body",
+    "name_es": "Cuerpo Puro",
     "description_en": "Prevents stat reduction.",
-    "description_es": null
+    "description_es": "Evita que bajen las características."
   },
   {
     "pokemon_id": 936,
@@ -5931,9 +5931,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 936,
@@ -5945,9 +5945,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Weak Armor",
-    "name_es": "Weak Armor",
+    "name_es": "Armadura Frágil",
     "description_en": "Physical attacks lower Defense and raise Speed.",
-    "description_es": null
+    "description_es": "Un ataque físico baja la Defensa y sube la Velocidad."
   },
   {
     "pokemon_id": 937,
@@ -5959,9 +5959,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 937,
@@ -5973,9 +5973,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Weak Armor",
-    "name_es": "Weak Armor",
+    "name_es": "Armadura Frágil",
     "description_en": "Physical attacks lower Defense and raise Speed.",
-    "description_es": null
+    "description_es": "Un ataque físico baja la Defensa y sube la Velocidad."
   },
   {
     "pokemon_id": 939,
@@ -5987,7 +5987,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Electromorphosis",
-    "name_es": "Electromorphosis",
+    "name_es": "Dinamo",
     "description_en": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.",
     "description_es": null
   },
@@ -6001,9 +6001,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Static",
-    "name_es": "Static",
+    "name_es": "Elec. Estática",
     "description_en": "Paralyzes on contact.",
-    "description_es": null
+    "description_es": "Puede paralizar al mínimo contacto."
   },
   {
     "pokemon_id": 939,
@@ -6015,9 +6015,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Damp",
-    "name_es": "Damp",
+    "name_es": "Humedad",
     "description_en": "Prevents self-destruction.",
-    "description_es": null
+    "description_es": "Evita que un Pokémon pueda autodestruirse."
   },
   {
     "pokemon_id": 952,
@@ -6029,9 +6029,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Chlorophyll",
-    "name_es": "Chlorophyll",
+    "name_es": "Clorofila",
     "description_en": "Doubles Speed during strong sunlight.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay sol."
   },
   {
     "pokemon_id": 952,
@@ -6043,9 +6043,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Insomnia",
-    "name_es": "Insomnia",
+    "name_es": "Insomnio",
     "description_en": "Prevents sleep.",
-    "description_es": null
+    "description_es": "Evita el quedarse dormido."
   },
   {
     "pokemon_id": 952,
@@ -6057,9 +6057,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Moody",
-    "name_es": "Moody",
+    "name_es": "Veleta",
     "description_en": "Raises a random stat two stages and lowers another one stage after each turn.",
-    "description_es": null
+    "description_es": "Sube una característica mucho, pero baja otra."
   },
   {
     "pokemon_id": 956,
@@ -6071,7 +6071,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Opportunist",
-    "name_es": "Opportunist",
+    "name_es": "Oportunista",
     "description_en": "If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.",
     "description_es": null
   },
@@ -6085,9 +6085,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Frisk",
-    "name_es": "Frisk",
+    "name_es": "Cacheo",
     "description_en": "The Pokémon can check the foe’s held item.",
-    "description_es": null
+    "description_es": "El Pokémon puede ver el objeto que lleva el rival."
   },
   {
     "pokemon_id": 956,
@@ -6099,9 +6099,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Speed Boost",
-    "name_es": "Speed Boost",
+    "name_es": "Impulso",
     "description_en": "Gradually boosts SPEED.",
-    "description_es": null
+    "description_es": "Aumenta la Velocidad gradualmente."
   },
   {
     "pokemon_id": 959,
@@ -6113,9 +6113,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   },
   {
     "pokemon_id": 959,
@@ -6127,9 +6127,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Own Tempo",
-    "name_es": "Own Tempo",
+    "name_es": "Ritmo Propio",
     "description_en": "Prevents confusion.",
-    "description_es": null
+    "description_es": "Evita ser confundido."
   },
   {
     "pokemon_id": 959,
@@ -6141,9 +6141,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Pickpocket",
-    "name_es": "Pickpocket",
+    "name_es": "Hurto",
     "description_en": "Steals attacking Pokémon's held items on contact.",
-    "description_es": null
+    "description_es": "Al ser golpeado, roba el objeto del objetivo."
   },
   {
     "pokemon_id": 964,
@@ -6155,7 +6155,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Zero To Hero",
-    "name_es": "Zero To Hero",
+    "name_es": "Cambio Heroico",
     "description_en": "Transforms into its Hero Form when switching out.",
     "description_es": null
   },
@@ -6169,7 +6169,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Earth Eater",
-    "name_es": "Earth Eater",
+    "name_es": "Geofagia",
     "description_en": "If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage.",
     "description_es": null
   },
@@ -6183,9 +6183,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sand Veil",
-    "name_es": "Sand Veil",
+    "name_es": "Velo Arena",
     "description_en": "Ups evasion in a sandstorm.",
-    "description_es": null
+    "description_es": "Aumenta la Evasión en las tormentas de arena."
   },
   {
     "pokemon_id": 970,
@@ -6197,7 +6197,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Toxic Debris",
-    "name_es": "Toxic Debris",
+    "name_es": "Capa Tóxica",
     "description_en": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.",
     "description_es": null
   },
@@ -6211,9 +6211,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Corrosion",
-    "name_es": "Corrosion",
+    "name_es": "Corrosión",
     "description_en": "This Pokémon can inflict poison on Poison and Steel Pokémon.",
-    "description_es": null
+    "description_es": "Permite envenenar incluso a rivales de tipo Acero o Veneno."
   },
   {
     "pokemon_id": 981,
@@ -6225,7 +6225,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Cud Chew",
-    "name_es": "Cud Chew",
+    "name_es": "Rumia",
     "description_en": "Eats a consumed berry again at end of next turn.",
     "description_es": null
   },
@@ -6239,7 +6239,7 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Armor Tail",
-    "name_es": "Armor Tail",
+    "name_es": "Cola Armadura",
     "description_en": "Prevents priority moves against this Pokémon and allies.",
     "description_es": null
   },
@@ -6253,9 +6253,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sap Sipper",
-    "name_es": "Sap Sipper",
+    "name_es": "Herbívoro",
     "description_en": "Raises Attack when hit by Grass-type moves.",
-    "description_es": null
+    "description_es": "Neutraliza los movimientos de tipo Planta y sube el Ataque."
   },
   {
     "pokemon_id": 983,
@@ -6267,9 +6267,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Defiant",
-    "name_es": "Defiant",
+    "name_es": "Competitivo",
     "description_en": "Raises Attack two stages upon having any stat lowered.",
-    "description_es": null
+    "description_es": "Sube el Ataque cuando el rival le baja las características."
   },
   {
     "pokemon_id": 983,
@@ -6281,7 +6281,7 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Supreme Overlord",
-    "name_es": "Supreme Overlord",
+    "name_es": "General Supremo",
     "description_en": "Attack and Special Attack are boosted for each party Pokémon that has been defeated.",
     "description_es": null
   },
@@ -6295,9 +6295,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Pressure",
-    "name_es": "Pressure",
+    "name_es": "Presión",
     "description_en": "Increases the PP cost of moves targetting the Pokémon by one.",
-    "description_es": null
+    "description_es": "Hace que los PP del rival se acaben antes."
   },
   {
     "pokemon_id": 1013,
@@ -6309,7 +6309,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Hospitality",
-    "name_es": "Hospitality",
+    "name_es": "Hospitalidad",
     "description_en": "When a Pokémon with Hospitality enters a battle, it restores HP for an ally by 25%.",
     "description_es": null
   },
@@ -6323,9 +6323,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Heatproof",
-    "name_es": "Heatproof",
+    "name_es": "Ignífugo",
     "description_en": "Halves damage from fire moves and burns.",
-    "description_es": null
+    "description_es": "Atenúa los movimientos de tipo Fuego."
   },
   {
     "pokemon_id": 1018,
@@ -6337,9 +6337,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Stamina",
-    "name_es": "Stamina",
+    "name_es": "Firmeza",
     "description_en": "Raises this Pokémon's Defense by one stage when it takes damage from a move.",
-    "description_es": null
+    "description_es": "Aumenta la Defensa al recibir un ataque físico."
   },
   {
     "pokemon_id": 1018,
@@ -6351,9 +6351,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 1018,
@@ -6365,9 +6365,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Stalwart",
-    "name_es": "Stalwart",
+    "name_es": "Acérrimo",
     "description_en": "Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.",
-    "description_es": null
+    "description_es": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos."
   },
   {
     "pokemon_id": 1019,
@@ -6379,7 +6379,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Supersweet Syrup",
-    "name_es": "Supersweet Syrup",
+    "name_es": "Néctar Dulce",
     "description_en": "Once per battle, when a Pokémon with Supersweet Syrup enters the battle, it lowers the evasion stat of all adjacent opponents by one stage. ",
     "description_es": null
   },
@@ -6393,9 +6393,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 1019,
@@ -6407,9 +6407,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sticky Hold",
-    "name_es": "Sticky Hold",
+    "name_es": "Viscosidad",
     "description_en": "Prevents a held item from being removed by other Pokémon.",
-    "description_es": null
+    "description_es": "Protege al Pokémon del robo de objetos."
   },
   {
     "pokemon_id": 10008,
@@ -6421,9 +6421,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 10009,
@@ -6435,9 +6435,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 10010,
@@ -6449,9 +6449,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 10011,
@@ -6463,9 +6463,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 10012,
@@ -6477,9 +6477,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Levitate",
-    "name_es": "Levitate",
+    "name_es": "Levitación",
     "description_en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-    "description_es": null
+    "description_es": "Proporciona inmunidad frente a los ataques de tipo Tierra."
   },
   {
     "pokemon_id": 10100,
@@ -6491,9 +6491,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Surge Surfer",
-    "name_es": "Surge Surfer",
+    "name_es": "Cola Surf",
     "description_en": "Doubles Speed on Electric Terrain.",
-    "description_es": null
+    "description_es": "Duplica la Velocidad si hay un campo eléctrico en el terreno de combate."
   },
   {
     "pokemon_id": 10104,
@@ -6505,9 +6505,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Snow Warning",
-    "name_es": "Snow Warning",
+    "name_es": "Nevada",
     "description_en": "The Pokémon makes it snow when it enters a battle.",
-    "description_es": null
+    "description_es": "El Pokémon invoca una tormenta de granizo."
   },
   {
     "pokemon_id": 10104,
@@ -6519,9 +6519,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Snow Cloak",
-    "name_es": "Snow Cloak",
+    "name_es": "Manto Níveo",
     "description_en": "Raises evasion in a hailstorm.",
-    "description_es": null
+    "description_es": "Sube la Evasión durante una tormenta de granizo."
   },
   {
     "pokemon_id": 10165,
@@ -6533,9 +6533,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Quick Draw",
-    "name_es": "Quick Draw",
+    "name_es": "Mano Rápida",
     "description_en": "Enables the Pokémon to move first occasionally.",
-    "description_es": null
+    "description_es": "A veces, puede atacar el primero."
   },
   {
     "pokemon_id": 10165,
@@ -6547,9 +6547,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Own Tempo",
-    "name_es": "Own Tempo",
+    "name_es": "Ritmo Propio",
     "description_en": "Prevents confusion.",
-    "description_es": null
+    "description_es": "Evita ser confundido."
   },
   {
     "pokemon_id": 10165,
@@ -6561,9 +6561,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 10172,
@@ -6575,9 +6575,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Curious Medicine",
-    "name_es": "Curious Medicine",
+    "name_es": "Medicina Extraña",
     "description_en": "When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.",
-    "description_es": null
+    "description_es": "Al entrar en combate, rezuma una substancia medicinal por la caracola que revierte los cambios en las características de los aliados."
   },
   {
     "pokemon_id": 10172,
@@ -6589,9 +6589,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Own Tempo",
-    "name_es": "Own Tempo",
+    "name_es": "Ritmo Propio",
     "description_en": "Prevents confusion.",
-    "description_es": null
+    "description_es": "Evita ser confundido."
   },
   {
     "pokemon_id": 10172,
@@ -6603,9 +6603,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Regenerator",
-    "name_es": "Regenerator",
+    "name_es": "Regeneración",
     "description_en": "Heals for 1/3 max HP upon switching out.",
-    "description_es": null
+    "description_es": "Recupera unos pocos PS al cambiar de Pokémon."
   },
   {
     "pokemon_id": 10180,
@@ -6617,9 +6617,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Mimicry",
-    "name_es": "Mimicry",
+    "name_es": "Mimetismo",
     "description_en": "Changes the Pokémon’s type depending on the terrain.",
-    "description_es": null
+    "description_es": "Cambia su tipo según el campo que haya en el terreno de combate."
   },
   {
     "pokemon_id": 10230,
@@ -6631,9 +6631,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 10230,
@@ -6645,9 +6645,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Flash Fire",
-    "name_es": "Flash Fire",
+    "name_es": "Absorbe Fuego",
     "description_en": "Powers up if hit by fire.",
-    "description_es": null
+    "description_es": "Potencia movimientos de tipo Fuego si ha sufrido antes alguno."
   },
   {
     "pokemon_id": 10230,
@@ -6659,9 +6659,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Rock Head",
-    "name_es": "Rock Head",
+    "name_es": "Cabeza Roca",
     "description_en": "Protects the Pokémon from recoil damage.",
-    "description_es": null
+    "description_es": "Impide que el Pokémon se dañe con sus movimientos."
   },
   {
     "pokemon_id": 10233,
@@ -6673,9 +6673,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Blaze",
-    "name_es": "Blaze",
+    "name_es": "Mar Llamas",
     "description_en": "Powers up Fire-type moves when HP is low.",
-    "description_es": null
+    "description_es": "Potencia los ataques de tipo Fuego en un apuro."
   },
   {
     "pokemon_id": 10233,
@@ -6687,9 +6687,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Frisk",
-    "name_es": "Frisk",
+    "name_es": "Cacheo",
     "description_en": "The Pokémon can check the foe’s held item.",
-    "description_es": null
+    "description_es": "El Pokémon puede ver el objeto que lleva el rival."
   },
   {
     "pokemon_id": 10236,
@@ -6701,7 +6701,7 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sharpness",
-    "name_es": "Sharpness",
+    "name_es": "Cortante",
     "description_en": "Powers up slicing moves.",
     "description_es": null
   },
@@ -6715,9 +6715,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Shell Armor",
-    "name_es": "Shell Armor",
+    "name_es": "Caparazón",
     "description_en": "A hard shell protects the Pokémon from critical hits.",
-    "description_es": null
+    "description_es": "Bloquea los golpes críticos."
   },
   {
     "pokemon_id": 10239,
@@ -6729,9 +6729,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Illusion",
-    "name_es": "Illusion",
+    "name_es": "Ilusión",
     "description_en": "Takes on the appearance of the last party member.",
-    "description_es": null
+    "description_es": "Se convierte en el último Pokémon del equipo."
   },
   {
     "pokemon_id": 10242,
@@ -6743,9 +6743,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Sap Sipper",
-    "name_es": "Sap Sipper",
+    "name_es": "Herbívoro",
     "description_en": "Raises Attack when hit by Grass-type moves.",
-    "description_es": null
+    "description_es": "Neutraliza los movimientos de tipo Planta y sube el Ataque."
   },
   {
     "pokemon_id": 10242,
@@ -6757,9 +6757,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Shell Armor",
-    "name_es": "Shell Armor",
+    "name_es": "Caparazón",
     "description_en": "A hard shell protects the Pokémon from critical hits.",
-    "description_es": null
+    "description_es": "Bloquea los golpes críticos."
   },
   {
     "pokemon_id": 10242,
@@ -6771,9 +6771,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Gooey",
-    "name_es": "Gooey",
+    "name_es": "Baba",
     "description_en": "Contact with the Pokémon lowers the attacker's Speed stat.",
-    "description_es": null
+    "description_es": "Baja la Velocidad del Pokémon con el que entra en contacto."
   },
   {
     "pokemon_id": 10244,
@@ -6785,9 +6785,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Scrappy",
-    "name_es": "Scrappy",
+    "name_es": "Intrépido",
     "description_en": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.",
-    "description_es": null
+    "description_es": "Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma."
   },
   {
     "pokemon_id": 10244,
@@ -6799,9 +6799,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Long Reach",
-    "name_es": "Long Reach",
+    "name_es": "Remoto",
     "description_en": "Moves don't make contact.",
-    "description_es": null
+    "description_es": "Permite usar cualquier movimiento sin entrar en contacto con el rival."
   },
   {
     "pokemon_id": 10245,
@@ -6813,9 +6813,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Strong Jaw",
-    "name_es": "Strong Jaw",
+    "name_es": "Mandíbula Fuerte",
     "description_en": "The Pokémon's strong jaw boosts the power of its biting moves.",
-    "description_es": null
+    "description_es": "Su robusta mandíbula le confiere una potente mordedura."
   },
   {
     "pokemon_id": 10245,
@@ -6827,9 +6827,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Ice Body",
-    "name_es": "Ice Body",
+    "name_es": "Gélido",
     "description_en": "The Pokémon regains HP in a hailstorm.",
-    "description_es": null
+    "description_es": "Recupera algunos PS cuando hay tormentas de granizo."
   },
   {
     "pokemon_id": 10245,
@@ -6841,9 +6841,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Sturdy",
-    "name_es": "Sturdy",
+    "name_es": "Robustez",
     "description_en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-    "description_es": null
+    "description_es": "Evita que el rival pueda debilitarle de un solo golpe."
   },
   {
     "pokemon_id": 10250,
@@ -6855,9 +6855,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 10250,
@@ -6869,9 +6869,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Anger Point",
-    "name_es": "Anger Point",
+    "name_es": "Irascible",
     "description_en": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
-    "description_es": null
+    "description_es": "Sube el Ataque al máximo tras un golpe crítico."
   },
   {
     "pokemon_id": 10250,
@@ -6883,7 +6883,7 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cud Chew",
-    "name_es": "Cud Chew",
+    "name_es": "Rumia",
     "description_en": "Eats a consumed berry again at end of next turn.",
     "description_es": null
   },
@@ -6897,9 +6897,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 10251,
@@ -6911,9 +6911,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Anger Point",
-    "name_es": "Anger Point",
+    "name_es": "Irascible",
     "description_en": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
-    "description_es": null
+    "description_es": "Sube el Ataque al máximo tras un golpe crítico."
   },
   {
     "pokemon_id": 10251,
@@ -6925,7 +6925,7 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cud Chew",
-    "name_es": "Cud Chew",
+    "name_es": "Rumia",
     "description_en": "Eats a consumed berry again at end of next turn.",
     "description_es": null
   },
@@ -6939,9 +6939,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Intimidate",
-    "name_es": "Intimidate",
+    "name_es": "Intimidación",
     "description_en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-    "description_es": null
+    "description_es": "Baja el Ataque del rival."
   },
   {
     "pokemon_id": 10252,
@@ -6953,9 +6953,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Anger Point",
-    "name_es": "Anger Point",
+    "name_es": "Irascible",
     "description_en": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
-    "description_es": null
+    "description_es": "Sube el Ataque al máximo tras un golpe crítico."
   },
   {
     "pokemon_id": 10252,
@@ -6967,7 +6967,7 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Cud Chew",
-    "name_es": "Cud Chew",
+    "name_es": "Rumia",
     "description_en": "Eats a consumed berry again at end of next turn.",
     "description_es": null
   },
@@ -6981,9 +6981,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Keen Eye",
-    "name_es": "Keen Eye",
+    "name_es": "Vista Lince",
     "description_en": "Prevents accuracy from being lowered.",
-    "description_es": null
+    "description_es": "Evita que disminuya la Precisión."
   },
   {
     "pokemon_id": 10678,
@@ -6995,9 +6995,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Infiltrator",
-    "name_es": "Infiltrator",
+    "name_es": "Allanamiento",
     "description_en": "Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-    "description_es": null
+    "description_es": "Ataca rodeando la barrera del rival."
   },
   {
     "pokemon_id": 10678,
@@ -7009,9 +7009,9 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Competitive",
-    "name_es": "Competitive",
+    "name_es": "Tenacidad",
     "description_en": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
-    "description_es": null
+    "description_es": "Aumenta su At. Esp. cuando disminuyen otras características."
   },
   {
     "pokemon_id": 10902,
@@ -7023,9 +7023,9 @@
     "slot_type": "ability-1",
     "is_currently_available": 1,
     "name_en": "Swift Swim",
-    "name_es": "Swift Swim",
+    "name_es": "Nado Rápido",
     "description_en": "Doubles Speed during rain.",
-    "description_es": null
+    "description_es": "Sube la Velocidad cuando hay lluvia."
   },
   {
     "pokemon_id": 10902,
@@ -7037,9 +7037,9 @@
     "slot_type": "ability-2",
     "is_currently_available": 1,
     "name_en": "Adaptability",
-    "name_es": "Adaptability",
+    "name_es": "Adaptable",
     "description_en": "Powers up moves of the same type as the Pokémon.",
-    "description_es": null
+    "description_es": "Potencia los movimientos del mismo tipo del Pokémon."
   },
   {
     "pokemon_id": 10902,
@@ -7051,8 +7051,8 @@
     "slot_type": "hidden",
     "is_currently_available": 1,
     "name_en": "Mold Breaker",
-    "name_es": "Mold Breaker",
+    "name_es": "Rompemoldes",
     "description_en": "Moves can be used on the target regardless of its Abilities.",
-    "description_es": null
+    "description_es": "Usa movimientos sin que importen las habilidades del objetivo."
   }
 ]

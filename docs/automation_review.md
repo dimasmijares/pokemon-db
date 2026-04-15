@@ -24,6 +24,29 @@ La parte estable del modelo ya está automatizada o semiautomatizada. La parte c
 - `stats_base`, `pokemon_abilities`, `moves`, `items` y `speed_profiles` se generan automáticamente para el roster legal actual.
 - `pokemon_moves` ya no depende del learnset bruto de Scarlet/Violet: se sincroniza desde la Pokédex actual de Champions Lab y se complementa con sets observados.
 - La capa competitiva derivada (`pokemon_roles`, `pokemon_archetypes`, `cores`, `matchups`) se genera en un segundo paso separado y queda trazada como curación derivada, no como dato oficial de juego.
+- La cobertura localizada ES ya no depende solo de seeds manuales: `abilities` y `moves` se enriquecen automáticamente desde `PokeAPI`, mientras que `items` sigue con cobertura descriptiva ES nula por falta de fuente estructurada fiable.
+
+## Cobertura localizada actual
+
+- `abilities.description_es`: `174/190` (`91.6%`)
+- `moves.effect_short_es`: `469/518` (`90.5%`)
+- `moves.effect_long_es`: `469/518` (`90.5%`)
+- `items.effect_short_es`: `0/161` (`0.0%`)
+- `items.effect_long_es`: `0/161` (`0.0%`)
+
+## Método actual para localización ES
+
+- `abilities`
+  - `name_es` desde `PokeAPI.names`
+  - `description_es` desde `PokeAPI.flavor_text_entries`
+- `moves`
+  - `name_es` desde `PokeAPI.names`
+  - `effect_short_es` y `effect_long_es` desde `PokeAPI.flavor_text_entries`
+- `items`
+  - `name_es` desde `PokeAPI.names`
+  - `effect_*_es` sigue vacío porque `PokeAPI` no aporta una capa ES equivalente para la mayoría de ítems y no se ha añadido traducción manual no verificable
+
+Esta decisión mantiene el bundle fiable: mejor fallback claro que texto “traducido” sin fuente verificable.
 
 ## Cómo está montada la BD
 

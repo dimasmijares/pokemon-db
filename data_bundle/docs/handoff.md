@@ -139,6 +139,13 @@ Importante sobre `pokemon_moves`:
 - sale del move pool actual visible en Champions Lab
 - además puede incluir capa `observed_set` para movimientos vistos en sets
 
+## Cobertura localizada a tener en cuenta
+
+- `name_es` ya tiene cobertura completa en Pokemon, habilidades, movimientos e ítems
+- `description_es` de habilidades y `effect_*_es` de movimientos tienen cobertura alta pero no total
+- `effect_*_es` de ítems sigue sin cobertura fiable; la app debe prever fallback limpio al inglés en ese punto
+- `roles` y `archetypes` sí tienen nombres y descripciones bilingües completas
+
 ## Recomendación de consumo web
 
 Si quieres minimizar complejidad:

@@ -386,6 +386,13 @@ Importante sobre `pokemon_moves`:
 - sale del move pool actual visible en Champions Lab
 - además puede incluir capa `observed_set` para movimientos vistos en sets
 
+## Cobertura localizada a tener en cuenta
+
+- `name_es` ya tiene cobertura completa en Pokemon, habilidades, movimientos e ítems
+- `description_es` de habilidades y `effect_*_es` de movimientos tienen cobertura alta pero no total
+- `effect_*_es` de ítems sigue sin cobertura fiable; la app debe prever fallback limpio al inglés en ese punto
+- `roles` y `archetypes` sí tienen nombres y descripciones bilingües completas
+
 ## Recomendación de consumo web
 
 Si quieres minimizar complejidad:
@@ -467,6 +474,7 @@ def build_manifest(export_sources: dict[str, str]) -> None:
                 "pokemon_list.json now includes localized display names and structured role/archetype relations.",
                 "pokemon_detail_index.json now includes structured abilities, roles and archetypes for detail pages.",
                 "move_users.json now exposes localized move names and structured users linked by pokemon_id.",
+                "Localized ES names are complete for pokemon, abilities, moves and items; descriptive ES coverage remains partial for abilities and moves, and absent for items.",
             ],
             "stable_identifiers": [
                 "pokemon_id",

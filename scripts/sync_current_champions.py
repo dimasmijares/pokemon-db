@@ -181,6 +181,13 @@ def normalize_resource_key(value: str) -> str:
     return value.strip("_")
 
 
+def name_to_api_slug(value: str) -> str:
+    value = value.strip().lower().replace("’", "'")
+    value = value.replace("'", "")
+    value = re.sub(r"[^a-z0-9]+", "-", value)
+    return value.strip("-")
+
+
 def normalize_compare_name(value: str) -> str:
     value = value.strip().lower().replace("’", "'")
     replacements = {
@@ -625,17 +632,111 @@ def build_species_cache(session: requests.Session, dex_numbers: set[int]) -> dic
     return cache
 
 
-def upsert_ability_row(abilities: dict[str, dict], ability_name: str, description: str) -> str:
+def clean_flavor_text(value: str) -> str:
+    return " ".join(value.replace("\n", " ").replace("\f", " ").split())
+
+
+def first_language_name(entries: list[dict], language: str) -> str:
+    return next((entry["name"] for entry in entries if entry.get("language", {}).get("name") == language), "")
+
+
+def first_language_effect(entries: list[dict], language: str) -> tuple[str, str]:
+    for entry in entries:
+        if entry.get("language", {}).get("name") == language:
+            short_effect = clean_flavor_text(entry.get("short_effect") or "")
+            effect = clean_flavor_text(entry.get("effect") or short_effect)
+            return short_effect, effect
+    return "", ""
+
+
+def first_language_flavor(entries: list[dict], language: str) -> str:
+    seen = set()
+    for entry in entries:
+        if entry.get("language", {}).get("name") != language:
+            continue
+        value = clean_flavor_text(entry.get("flavor_text") or "")
+        if value and value not in seen:
+            seen.add(value)
+            return value
+    return ""
+
+
+def fetch_ability_localization(session: requests.Session, ability_name: str, cache: dict[str, dict]) -> dict[str, str]:
+    slug = name_to_api_slug(ability_name)
+    if slug in cache:
+        return cache[slug]
+    payload = try_request_json(f"{POKEAPI_BASE}/ability/{slug}", session)
+    if not payload:
+        cache[slug] = {}
+        return {}
+    short_en, effect_en = first_language_effect(payload.get("effect_entries", []), "en")
+    flavor_es = first_language_flavor(payload.get("flavor_text_entries", []), "es")
+    localized = {
+        "name_es": first_language_name(payload.get("names", []), "es"),
+        "description_en": effect_en or short_en,
+        "description_es": flavor_es,
+    }
+    cache[slug] = localized
+    return localized
+
+
+def fetch_move_localization(session: requests.Session, move_name: str, cache: dict[str, dict]) -> dict[str, str]:
+    slug = name_to_api_slug(move_name)
+    if slug in cache:
+        return cache[slug]
+    payload = try_request_json(f"{POKEAPI_BASE}/move/{slug}", session)
+    if not payload:
+        cache[slug] = {}
+        return {}
+    short_en, effect_en = first_language_effect(payload.get("effect_entries", []), "en")
+    flavor_es = first_language_flavor(payload.get("flavor_text_entries", []), "es")
+    localized = {
+        "name_es": first_language_name(payload.get("names", []), "es"),
+        "effect_short_en": short_en or effect_en,
+        "effect_long_en": effect_en or short_en,
+        "effect_short_es": flavor_es,
+        "effect_long_es": flavor_es,
+    }
+    cache[slug] = localized
+    return localized
+
+
+def fetch_item_localization(session: requests.Session, item_name: str, cache: dict[str, dict]) -> dict[str, str]:
+    slug = name_to_api_slug(item_name)
+    if slug in cache:
+        return cache[slug]
+    payload = try_request_json(f"{POKEAPI_BASE}/item/{slug}", session)
+    if not payload:
+        cache[slug] = {}
+        return {}
+    short_en, effect_en = first_language_effect(payload.get("effect_entries", []), "en")
+    flavor_es = first_language_flavor(payload.get("flavor_text_entries", []), "es")
+    localized = {
+        "name_es": first_language_name(payload.get("names", []), "es"),
+        "effect_short_en": short_en or effect_en,
+        "effect_long_en": effect_en or short_en,
+        "effect_short_es": flavor_es,
+        "effect_long_es": flavor_es,
+        "category_key": normalize_resource_key(payload.get("category", {}).get("name", "held_items")),
+    }
+    cache[slug] = localized
+    return localized
+
+
+def upsert_ability_row(
+    abilities: dict[str, dict], ability_name: str, description: str, session: requests.Session, localization_cache: dict[str, dict]
+) -> str:
     ability_key = normalize_resource_key(ability_name)
     existing = abilities.get(ability_key, {})
+    localized = fetch_ability_localization(session, ability_name, localization_cache)
     abilities[ability_key] = {
         "ability_key": ability_key,
         "name_en": ability_name,
-        "name_es": existing.get("name_es") or ability_name,
-        "description_en": description or existing.get("description_en", ""),
-        "description_es": existing.get("description_es", ""),
+        "name_es": existing.get("name_es") or localized.get("name_es") or ability_name,
+        "description_en": description or existing.get("description_en", "") or localized.get("description_en", ""),
+        "description_es": existing.get("description_es", "") or localized.get("description_es", ""),
         "is_signature": existing.get("is_signature") or "0",
-        "source_key": "championslab",
+        "source_key": "championslab" if description else (existing.get("source_key") or "pokeapi"),
     }
     return ability_key
 
@@ -655,15 +756,16 @@ def infer_move_flags(move_name: str, category_key: str) -> dict[str, str]:
     }
 
 
-def upsert_move_row(moves: dict[str, dict], move_entry: dict) -> str:
+def upsert_move_row(moves: dict[str, dict], move_entry: dict, session: requests.Session, localization_cache: dict[str, dict]) -> str:
     move_key = normalize_resource_key(move_entry["name"])
     category_key = str(move_entry.get("category") or "").lower() or "unknown"
     flags = infer_move_flags(move_entry["name"], category_key)
     existing = moves.get(move_key, {})
+    localized = fetch_move_localization(session, move_entry["name"], localization_cache)
     moves[move_key] = {
         "move_key": move_key,
         "name_en": move_entry["name"],
-        "name_es": existing.get("name_es") or move_entry["name"],
+        "name_es": existing.get("name_es") or localized.get("name_es") or move_entry["name"],
         "type_key": str(move_entry.get("type") or existing.get("type_key") or "unknown").lower(),
         "category_key": category_key,
         "power": "" if move_entry.get("power") is None else str(move_entry["power"]),
@@ -678,10 +780,10 @@ def upsert_move_row(moves: dict[str, dict], move_entry: dict) -> str:
         "is_bite": existing.get("is_bite") or flags["is_bite"],
         "is_slashing": existing.get("is_slashing") or flags["is_slashing"],
         "is_status": existing.get("is_status") or flags["is_status"],
-        "effect_short_en": move_entry.get("description") or existing.get("effect_short_en", ""),
-        "effect_short_es": existing.get("effect_short_es", ""),
-        "effect_long_en": move_entry.get("description") or existing.get("effect_long_en", ""),
-        "effect_long_es": existing.get("effect_long_es", ""),
+        "effect_short_en": move_entry.get("description") or existing.get("effect_short_en", "") or localized.get("effect_short_en", ""),
+        "effect_short_es": existing.get("effect_short_es", "") or localized.get("effect_short_es", ""),
+        "effect_long_en": move_entry.get("description") or existing.get("effect_long_en", "") or localized.get("effect_long_en", ""),
+        "effect_long_es": existing.get("effect_long_es", "") or localized.get("effect_long_es", ""),
         "source_key": "championslab",
     }
     return move_key
@@ -703,30 +805,29 @@ def infer_mega_stone_name(mega_name: str) -> str:
     return f"{base_name}ite"
 
 
-def ensure_item_row(items: dict[str, dict], item_name: str, session: requests.Session, force_mega_stone: bool = False) -> str:
+def ensure_item_row(
+    items: dict[str, dict],
+    item_name: str,
+    session: requests.Session,
+    localization_cache: dict[str, dict],
+    force_mega_stone: bool = False,
+) -> str:
     item_key = normalize_resource_key(item_name)
     if item_key in items:
         return item_key
 
     api_payload = try_request_json(f"{POKEAPI_BASE}/item/{item_name_to_api_slug(item_name)}", session)
     if api_payload:
-        name_es = next(
-            (entry["name"] for entry in api_payload.get("names", []) if entry["language"]["name"] == "es"),
-            item_name,
-        )
-        effect_en = next(
-            (entry["short_effect"] for entry in api_payload.get("effect_entries", []) if entry["language"]["name"] == "en"),
-            "",
-        )
+        localized = fetch_item_localization(session, item_name, localization_cache)
         items[item_key] = {
             "item_key": item_key,
             "name_en": item_name,
-            "name_es": name_es,
-            "category_key": normalize_resource_key(api_payload.get("category", {}).get("name", "held_items")),
-            "effect_short_en": effect_en,
-            "effect_short_es": "",
-            "effect_long_en": effect_en,
-            "effect_long_es": "",
+            "name_es": localized.get("name_es") or item_name,
+            "category_key": localized.get("category_key") or normalize_resource_key(api_payload.get("category", {}).get("name", "held_items")),
+            "effect_short_en": localized.get("effect_short_en", ""),
+            "effect_short_es": localized.get("effect_short_es", ""),
+            "effect_long_en": localized.get("effect_long_en", localized.get("effect_short_en", "")),
+            "effect_long_es": localized.get("effect_long_es", localized.get("effect_short_es", "")),
             "is_mega_stone": "1" if force_mega_stone else "0",
             "source_key": "pokeapi",
         }
@@ -896,6 +997,9 @@ def main() -> None:
     abilities_catalog: dict[str, dict] = {}
     moves_catalog: dict[str, dict] = {}
     items_catalog: dict[str, dict] = {}
+    ability_localization_cache: dict[str, dict] = {}
+    move_localization_cache: dict[str, dict] = {}
+    item_localization_cache: dict[str, dict] = {}
     seen_pokemon_moves = set()
 
     mega_names_by_species: dict[int, list[str]] = {}
@@ -980,7 +1084,9 @@ def main() -> None:
         )
 
         for ability_index, ability in enumerate(entry.get("abilities", []), start=1):
-            ability_key = upsert_ability_row(abilities_catalog, ability["name"], ability.get("description", ""))
+            ability_key = upsert_ability_row(
+                abilities_catalog, ability["name"], ability.get("description", ""), session, ability_localization_cache
+            )
             slot_type = "hidden" if ability.get("isHidden") else f"ability-{ability_index}"
             pokemon_abilities_rows.append(
                 {
@@ -1001,7 +1107,7 @@ def main() -> None:
                 observed_move_keys.add(normalize_resource_key(move_name))
 
         for move in entry.get("moves", []):
-            move_key = upsert_move_row(moves_catalog, move)
+            move_key = upsert_move_row(moves_catalog, move, session, move_localization_cache)
             base_row_key = (pokemon_id, move_key, "champions_roster")
             if base_row_key not in seen_pokemon_moves:
                 seen_pokemon_moves.add(base_row_key)
@@ -1011,7 +1117,7 @@ def main() -> None:
                         "move_key": move_key,
                         "availability_status": "champions_move_pool",
                         "learn_method": "champions_roster",
-                        "learn_method_es": "champions_roster",
+                            "learn_method_es": "pool_actual_champions",
                         "is_confirmed_in_champions": 1,
                         "source_key": "championslab",
                         "notes": f"Listed in Champions Lab current Pokedex move pool as of {TODAY}.",
@@ -1027,7 +1133,7 @@ def main() -> None:
                             "move_key": move_key,
                             "availability_status": "observed_set",
                             "learn_method": "observed_set",
-                            "learn_method_es": "observed_set",
+                            "learn_method_es": "set_observado",
                             "is_confirmed_in_champions": 1,
                             "source_key": "championslab",
                             "notes": f"Observed in Champions Lab current set data as of {TODAY}.",
@@ -1035,7 +1141,7 @@ def main() -> None:
                     )
 
         for observed_item in observed_item_names:
-            ensure_item_row(items_catalog, observed_item, session)
+            ensure_item_row(items_catalog, observed_item, session, item_localization_cache)
 
         speed_profile = accurate_level_50_speeds(base_stats["speed"])
         speed_rows.append(
@@ -1069,7 +1175,13 @@ def main() -> None:
         inferred_stone_name = seed.get("mega_stone_name_en") or infer_mega_stone_name(mega_name)
         mega_stone_name_en = seed.get("mega_stone_name_en") or inferred_stone_name
         mega_stone_name_es = seed.get("mega_stone_name_es") or mega_stone_name_en
-        mega_stone_key = ensure_item_row(items_catalog, mega_stone_name_en, session, force_mega_stone=True)
+        mega_stone_key = ensure_item_row(
+            items_catalog,
+            mega_stone_name_en,
+            session,
+            item_localization_cache,
+            force_mega_stone=True,
+        )
 
         ability_key = ""
         if form.get("abilities"):
@@ -1077,6 +1189,8 @@ def main() -> None:
                 abilities_catalog,
                 form["abilities"][0]["name"],
                 form["abilities"][0].get("description", ""),
+                session,
+                ability_localization_cache,
             )
 
         stats = form.get("baseStats", {})

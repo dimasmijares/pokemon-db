@@ -2,7 +2,7 @@
   {
     "move_key": "absorb",
     "name_en": "Absorb",
-    "name_es": "Absorb",
+    "name_es": "Absorber",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -23,7 +23,7 @@
   {
     "move_key": "accelerock",
     "name_en": "Accelerock",
-    "name_es": "Accelerock",
+    "name_es": "Roca Veloz",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -44,7 +44,7 @@
   {
     "move_key": "acid_armor",
     "name_en": "Acid Armor",
-    "name_es": "Acid Armor",
+    "name_es": "Armadura Ácida",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -128,7 +128,7 @@
   {
     "move_key": "acid_spray",
     "name_en": "Acid Spray",
-    "name_es": "Acid Spray",
+    "name_es": "Bomba Ácida",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -302,7 +302,7 @@
   {
     "move_key": "acrobatics",
     "name_en": "Acrobatics",
-    "name_es": "Acrobatics",
+    "name_es": "Acróbata",
     "confirmed_user_count": 33,
     "inferred_user_count": 0,
     "move_pool_user_count": 33,
@@ -611,7 +611,7 @@
   {
     "move_key": "acupressure",
     "name_en": "Acupressure",
-    "name_es": "Acupressure",
+    "name_es": "Acupresión",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -632,7 +632,7 @@
   {
     "move_key": "aerial_ace",
     "name_en": "Aerial Ace",
-    "name_es": "Aerial Ace",
+    "name_es": "Golpe Aéreo",
     "confirmed_user_count": 57,
     "inferred_user_count": 0,
     "move_pool_user_count": 57,
@@ -1157,7 +1157,7 @@
   {
     "move_key": "after_you",
     "name_en": "After You",
-    "name_es": "After You",
+    "name_es": "Cede Paso",
     "confirmed_user_count": 10,
     "inferred_user_count": 0,
     "move_pool_user_count": 10,
@@ -1259,7 +1259,7 @@
   {
     "move_key": "agility",
     "name_en": "Agility",
-    "name_es": "Agility",
+    "name_es": "Agilidad",
     "confirmed_user_count": 58,
     "inferred_user_count": 0,
     "move_pool_user_count": 58,
@@ -1793,7 +1793,7 @@
   {
     "move_key": "air_cutter",
     "name_en": "Air Cutter",
-    "name_es": "Air Cutter",
+    "name_es": "Aire Afilado",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -1958,7 +1958,7 @@
   {
     "move_key": "air_slash",
     "name_en": "Air Slash",
-    "name_es": "Air Slash",
+    "name_es": "Tajo Aéreo",
     "confirmed_user_count": 28,
     "inferred_user_count": 0,
     "move_pool_user_count": 28,
@@ -2222,7 +2222,7 @@
   {
     "move_key": "alluring_voice",
     "name_en": "Alluring Voice",
-    "name_es": "Alluring Voice",
+    "name_es": "Canto Encantador",
     "confirmed_user_count": 25,
     "inferred_user_count": 0,
     "move_pool_user_count": 25,
@@ -2459,7 +2459,7 @@
   {
     "move_key": "ally_switch",
     "name_en": "Ally Switch",
-    "name_es": "Ally Switch",
+    "name_es": "Cambio de Banda",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -2897,7 +2897,7 @@
   {
     "move_key": "ancient_power",
     "name_en": "Ancient Power",
-    "name_es": "Ancient Power",
+    "name_es": "Poder Pasado",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -3089,7 +3089,7 @@
   {
     "move_key": "apple_acid",
     "name_en": "Apple Acid",
-    "name_es": "Apple Acid",
+    "name_es": "Ácido Málico",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -3158,7 +3158,7 @@
   {
     "move_key": "aqua_jet",
     "name_en": "Aqua Jet",
-    "name_es": "Aqua Jet",
+    "name_es": "Acua Jet",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -3323,7 +3323,7 @@
   {
     "move_key": "aqua_ring",
     "name_en": "Aqua Ring",
-    "name_es": "Aqua Ring",
+    "name_es": "Acua Aro",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -3437,7 +3437,7 @@
   {
     "move_key": "aqua_tail",
     "name_en": "Aqua Tail",
-    "name_es": "Aqua Tail",
+    "name_es": "Acua Cola",
     "confirmed_user_count": 12,
     "inferred_user_count": 0,
     "move_pool_user_count": 12,
@@ -3578,7 +3578,7 @@
   {
     "move_key": "aromatherapy",
     "name_en": "Aromatherapy",
-    "name_es": "Aromatherapy",
+    "name_es": "Aromaterapia",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -3599,7 +3599,7 @@
   {
     "move_key": "aromatic_mist",
     "name_en": "Aromatic Mist",
-    "name_es": "Aromatic Mist",
+    "name_es": "Niebla Aromática",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -3656,7 +3656,7 @@
   {
     "move_key": "assurance",
     "name_en": "Assurance",
-    "name_es": "Assurance",
+    "name_es": "Buena Baza",
     "confirmed_user_count": 41,
     "inferred_user_count": 0,
     "move_pool_user_count": 41,
@@ -4037,7 +4037,7 @@
   {
     "move_key": "attract",
     "name_en": "Attract",
-    "name_es": "Attract",
+    "name_es": "Atracción",
     "confirmed_user_count": 62,
     "inferred_user_count": 0,
     "move_pool_user_count": 62,
@@ -4607,7 +4607,7 @@
   {
     "move_key": "aura_sphere",
     "name_en": "Aura Sphere",
-    "name_es": "Aura Sphere",
+    "name_es": "Esfera Aural",
     "confirmed_user_count": 14,
     "inferred_user_count": 0,
     "move_pool_user_count": 14,
@@ -4745,7 +4745,7 @@
   {
     "move_key": "aura_wheel",
     "name_en": "Aura Wheel",
-    "name_es": "Aura Wheel",
+    "name_es": "Rueda Aural",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -4766,7 +4766,7 @@
   {
     "move_key": "aurora_veil",
     "name_en": "Aurora Veil",
-    "name_es": "Aurora Veil",
+    "name_es": "Velo Aurora",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -4832,7 +4832,7 @@
   {
     "move_key": "avalanche",
     "name_en": "Avalanche",
-    "name_es": "Avalanche",
+    "name_es": "Alud",
     "confirmed_user_count": 34,
     "inferred_user_count": 0,
     "move_pool_user_count": 34,
@@ -5171,7 +5171,7 @@
   {
     "move_key": "baby_doll_eyes",
     "name_en": "Baby-Doll Eyes",
-    "name_es": "Baby-Doll Eyes",
+    "name_es": "Ojitos Tiernos",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -5363,7 +5363,7 @@
   {
     "move_key": "baneful_bunker",
     "name_en": "Baneful Bunker",
-    "name_es": "Baneful Bunker",
+    "name_es": "Búnker",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -5384,7 +5384,7 @@
   {
     "move_key": "baton_pass",
     "name_en": "Baton Pass",
-    "name_es": "Baton Pass",
+    "name_es": "Relevo",
     "confirmed_user_count": 42,
     "inferred_user_count": 0,
     "move_pool_user_count": 42,
@@ -5774,7 +5774,7 @@
   {
     "move_key": "beak_blast",
     "name_en": "Beak Blast",
-    "name_es": "Beak Blast",
+    "name_es": "Pico Cañón",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -5795,7 +5795,7 @@
   {
     "move_key": "beat_up",
     "name_en": "Beat Up",
-    "name_es": "Beat Up",
+    "name_es": "Paliza",
     "confirmed_user_count": 16,
     "inferred_user_count": 0,
     "move_pool_user_count": 16,
@@ -5951,7 +5951,7 @@
   {
     "move_key": "belch",
     "name_en": "Belch",
-    "name_es": "Belch",
+    "name_es": "Eructo",
     "confirmed_user_count": 15,
     "inferred_user_count": 0,
     "move_pool_user_count": 15,
@@ -6098,7 +6098,7 @@
   {
     "move_key": "belly_drum",
     "name_en": "Belly Drum",
-    "name_es": "Belly Drum",
+    "name_es": "Tambor",
     "confirmed_user_count": 10,
     "inferred_user_count": 0,
     "move_pool_user_count": 10,
@@ -6200,7 +6200,7 @@
   {
     "move_key": "bind",
     "name_en": "Bind",
-    "name_es": "Bind",
+    "name_es": "Atadura",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -6239,7 +6239,7 @@
   {
     "move_key": "bite",
     "name_en": "Bite",
-    "name_es": "Bite",
+    "name_es": "Mordisco",
     "confirmed_user_count": 57,
     "inferred_user_count": 0,
     "move_pool_user_count": 57,
@@ -6806,7 +6806,7 @@
   {
     "move_key": "blast_burn",
     "name_en": "Blast Burn",
-    "name_es": "Blast Burn",
+    "name_es": "Anillo Ígneo",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -6890,7 +6890,7 @@
   {
     "move_key": "blaze_kick",
     "name_en": "Blaze Kick",
-    "name_es": "Blaze Kick",
+    "name_es": "Patada Ígnea",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -6956,7 +6956,7 @@
   {
     "move_key": "blizzard",
     "name_en": "Blizzard",
-    "name_es": "Blizzard",
+    "name_es": "Ventisca",
     "confirmed_user_count": 58,
     "inferred_user_count": 0,
     "move_pool_user_count": 58,
@@ -7490,7 +7490,7 @@
   {
     "move_key": "block",
     "name_en": "Block",
-    "name_es": "Block",
+    "name_es": "Bloqueo",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -7619,7 +7619,7 @@
   {
     "move_key": "body_press",
     "name_en": "Body Press",
-    "name_es": "Body Press",
+    "name_es": "Plancha Corporal",
     "confirmed_user_count": 43,
     "inferred_user_count": 0,
     "move_pool_user_count": 43,
@@ -8018,7 +8018,7 @@
   {
     "move_key": "body_slam",
     "name_en": "Body Slam",
-    "name_es": "Body Slam",
+    "name_es": "Golpe Cuerpo",
     "confirmed_user_count": 133,
     "inferred_user_count": 0,
     "move_pool_user_count": 133,
@@ -9227,7 +9227,7 @@
   {
     "move_key": "bone_rush",
     "name_en": "Bone Rush",
-    "name_es": "Bone Rush",
+    "name_es": "Ataque Óseo",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -9248,7 +9248,7 @@
   {
     "move_key": "boomburst",
     "name_en": "Boomburst",
-    "name_es": "Boomburst",
+    "name_es": "Estruendo",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -9305,7 +9305,7 @@
   {
     "move_key": "bounce",
     "name_en": "Bounce",
-    "name_es": "Bounce",
+    "name_es": "Bote",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -9488,7 +9488,7 @@
   {
     "move_key": "brave_bird",
     "name_en": "Brave Bird",
-    "name_es": "Brave Bird",
+    "name_es": "Pájaro Osado",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -9599,7 +9599,7 @@
   {
     "move_key": "breaking_swipe",
     "name_en": "Breaking Swipe",
-    "name_es": "Breaking Swipe",
+    "name_es": "Vasto Impacto",
     "confirmed_user_count": 27,
     "inferred_user_count": 0,
     "move_pool_user_count": 27,
@@ -9854,7 +9854,7 @@
   {
     "move_key": "brick_break",
     "name_en": "Brick Break",
-    "name_es": "Brick Break",
+    "name_es": "Demolición",
     "confirmed_user_count": 80,
     "inferred_user_count": 0,
     "move_pool_user_count": 80,
@@ -10586,7 +10586,7 @@
   {
     "move_key": "brutal_swing",
     "name_en": "Brutal Swing",
-    "name_es": "Brutal Swing",
+    "name_es": "Giro Vil",
     "confirmed_user_count": 47,
     "inferred_user_count": 0,
     "move_pool_user_count": 47,
@@ -11021,7 +11021,7 @@
   {
     "move_key": "bug_bite",
     "name_en": "Bug Bite",
-    "name_es": "Bug Bite",
+    "name_es": "Picadura",
     "confirmed_user_count": 12,
     "inferred_user_count": 0,
     "move_pool_user_count": 12,
@@ -11141,7 +11141,7 @@
   {
     "move_key": "bug_buzz",
     "name_en": "Bug Buzz",
-    "name_es": "Bug Buzz",
+    "name_es": "Zumbido",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -11234,7 +11234,7 @@
   {
     "move_key": "bulk_up",
     "name_en": "Bulk Up",
-    "name_es": "Bulk Up",
+    "name_es": "Corpulencia",
     "confirmed_user_count": 34,
     "inferred_user_count": 0,
     "move_pool_user_count": 34,
@@ -11552,7 +11552,7 @@
   {
     "move_key": "bulldoze",
     "name_en": "Bulldoze",
-    "name_es": "Bulldoze",
+    "name_es": "Terratemblor",
     "confirmed_user_count": 91,
     "inferred_user_count": 0,
     "move_pool_user_count": 91,
@@ -12383,7 +12383,7 @@
   {
     "move_key": "bullet_punch",
     "name_en": "Bullet Punch",
-    "name_es": "Bullet Punch",
+    "name_es": "Puño Bala",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -12449,7 +12449,7 @@
   {
     "move_key": "bullet_seed",
     "name_en": "Bullet Seed",
-    "name_es": "Bullet Seed",
+    "name_es": "Semilladora",
     "confirmed_user_count": 24,
     "inferred_user_count": 0,
     "move_pool_user_count": 24,
@@ -12677,7 +12677,7 @@
   {
     "move_key": "burn_up",
     "name_en": "Burn Up",
-    "name_es": "Burn Up",
+    "name_es": "Llama Final",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -12761,7 +12761,7 @@
   {
     "move_key": "burning_jealousy",
     "name_en": "Burning Jealousy",
-    "name_es": "Burning Jealousy",
+    "name_es": "Envidia Ardiente",
     "confirmed_user_count": 21,
     "inferred_user_count": 0,
     "move_pool_user_count": 21,
@@ -12962,7 +12962,7 @@
   {
     "move_key": "calm_mind",
     "name_en": "Calm Mind",
-    "name_es": "Calm Mind",
+    "name_es": "Paz Mental",
     "confirmed_user_count": 62,
     "inferred_user_count": 0,
     "move_pool_user_count": 62,
@@ -13532,7 +13532,7 @@
   {
     "move_key": "captivate",
     "name_en": "Captivate",
-    "name_es": "Captivate",
+    "name_es": "Seducción",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -13574,7 +13574,7 @@
   {
     "move_key": "charge",
     "name_en": "Charge",
-    "name_es": "Charge",
+    "name_es": "Carga",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -13757,7 +13757,7 @@
   {
     "move_key": "charge_beam",
     "name_en": "Charge Beam",
-    "name_es": "Charge Beam",
+    "name_es": "Rayo Carga",
     "confirmed_user_count": 30,
     "inferred_user_count": 0,
     "move_pool_user_count": 30,
@@ -14039,7 +14039,7 @@
   {
     "move_key": "charm",
     "name_en": "Charm",
-    "name_es": "Charm",
+    "name_es": "Encanto",
     "confirmed_user_count": 54,
     "inferred_user_count": 0,
     "move_pool_user_count": 54,
@@ -15074,7 +15074,7 @@
   {
     "move_key": "circle_throw",
     "name_en": "Circle Throw",
-    "name_es": "Circle Throw",
+    "name_es": "Llave Giro",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -15140,7 +15140,7 @@
   {
     "move_key": "clanging_scales",
     "name_en": "Clanging Scales",
-    "name_es": "Clanging Scales",
+    "name_es": "Fragor Escamas",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -15161,7 +15161,7 @@
   {
     "move_key": "clangorous_soul",
     "name_en": "Clangorous Soul",
-    "name_es": "Clangorous Soul",
+    "name_es": "Estruendo Escama",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -15182,7 +15182,7 @@
   {
     "move_key": "clear_smog",
     "name_en": "Clear Smog",
-    "name_es": "Clear Smog",
+    "name_es": "Niebla Clara",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -15257,7 +15257,7 @@
   {
     "move_key": "close_combat",
     "name_en": "Close Combat",
-    "name_es": "Close Combat",
+    "name_es": "A Bocajarro",
     "confirmed_user_count": 40,
     "inferred_user_count": 0,
     "move_pool_user_count": 40,
@@ -15629,7 +15629,7 @@
   {
     "move_key": "coaching",
     "name_en": "Coaching",
-    "name_es": "Coaching",
+    "name_es": "Motivación",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -15803,7 +15803,7 @@
   {
     "move_key": "coil",
     "name_en": "Coil",
-    "name_es": "Coil",
+    "name_es": "Enrosque",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -15899,7 +15899,7 @@
   {
     "move_key": "confide",
     "name_en": "Confide",
-    "name_es": "Confide",
+    "name_es": "Confidencia",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -15920,7 +15920,7 @@
   {
     "move_key": "confuse_ray",
     "name_en": "Confuse Ray",
-    "name_es": "Confuse Ray",
+    "name_es": "Rayo Confuso",
     "confirmed_user_count": 50,
     "inferred_user_count": 0,
     "move_pool_user_count": 50,
@@ -16382,7 +16382,7 @@
   {
     "move_key": "copycat",
     "name_en": "Copycat",
-    "name_es": "Copycat",
+    "name_es": "Copión",
     "confirmed_user_count": 23,
     "inferred_user_count": 0,
     "move_pool_user_count": 23,
@@ -16601,7 +16601,7 @@
   {
     "move_key": "corrosive_gas",
     "name_en": "Corrosive Gas",
-    "name_es": "Corrosive Gas",
+    "name_es": "Gas Corrosivo",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -16649,7 +16649,7 @@
   {
     "move_key": "cosmic_power",
     "name_en": "Cosmic Power",
-    "name_es": "Cosmic Power",
+    "name_es": "Masa Cósmica",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -16706,7 +16706,7 @@
   {
     "move_key": "cotton_guard",
     "name_en": "Cotton Guard",
-    "name_es": "Cotton Guard",
+    "name_es": "Rizo Algodón",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -16772,7 +16772,7 @@
   {
     "move_key": "cotton_spore",
     "name_en": "Cotton Spore",
-    "name_es": "Cotton Spore",
+    "name_es": "Esporagodón",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -16820,7 +16820,7 @@
   {
     "move_key": "counter",
     "name_en": "Counter",
-    "name_es": "Counter",
+    "name_es": "Contraataque",
     "confirmed_user_count": 31,
     "inferred_user_count": 0,
     "move_pool_user_count": 31,
@@ -17111,7 +17111,7 @@
   {
     "move_key": "covet",
     "name_en": "Covet",
-    "name_es": "Covet",
+    "name_es": "Antojo",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -17303,7 +17303,7 @@
   {
     "move_key": "crabhammer",
     "name_en": "Crabhammer",
-    "name_es": "Crabhammer",
+    "name_es": "Martillazo",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -17342,7 +17342,7 @@
   {
     "move_key": "cross_chop",
     "name_en": "Cross Chop",
-    "name_es": "Cross Chop",
+    "name_es": "Tajo Cruzado",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -17399,7 +17399,7 @@
   {
     "move_key": "cross_poison",
     "name_en": "Cross Poison",
-    "name_es": "Cross Poison",
+    "name_es": "Veneno X",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -17483,7 +17483,7 @@
   {
     "move_key": "crunch",
     "name_en": "Crunch",
-    "name_es": "Crunch",
+    "name_es": "Triturar",
     "confirmed_user_count": 54,
     "inferred_user_count": 0,
     "move_pool_user_count": 54,
@@ -17981,7 +17981,7 @@
   {
     "move_key": "crush_claw",
     "name_en": "Crush Claw",
-    "name_es": "Crush Claw",
+    "name_es": "Garra Brutal",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -18002,7 +18002,7 @@
   {
     "move_key": "curse",
     "name_en": "Curse",
-    "name_es": "Curse",
+    "name_es": "Maldición",
     "confirmed_user_count": 84,
     "inferred_user_count": 0,
     "move_pool_user_count": 84,
@@ -18770,7 +18770,7 @@
   {
     "move_key": "dark_pulse",
     "name_en": "Dark Pulse",
-    "name_es": "Dark Pulse",
+    "name_es": "Pulso Umbrío",
     "confirmed_user_count": 59,
     "inferred_user_count": 0,
     "move_pool_user_count": 59,
@@ -19313,7 +19313,7 @@
   {
     "move_key": "darkest_lariat",
     "name_en": "Darkest Lariat",
-    "name_es": "Darkest Lariat",
+    "name_es": "Lariat Oscuro",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -19352,7 +19352,7 @@
   {
     "move_key": "dazzling_gleam",
     "name_en": "Dazzling Gleam",
-    "name_es": "Dazzling Gleam",
+    "name_es": "Brillo Mágico",
     "confirmed_user_count": 36,
     "inferred_user_count": 0,
     "move_pool_user_count": 36,
@@ -19688,7 +19688,7 @@
   {
     "move_key": "decorate",
     "name_en": "Decorate",
-    "name_es": "Decorate",
+    "name_es": "Decoración",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -19709,7 +19709,7 @@
   {
     "move_key": "defog",
     "name_en": "Defog",
-    "name_es": "Defog",
+    "name_es": "Despejar",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -19820,7 +19820,7 @@
   {
     "move_key": "destiny_bond",
     "name_en": "Destiny Bond",
-    "name_es": "Destiny Bond",
+    "name_es": "Mismo Destino",
     "confirmed_user_count": 16,
     "inferred_user_count": 0,
     "move_pool_user_count": 16,
@@ -19976,7 +19976,7 @@
   {
     "move_key": "detect",
     "name_en": "Detect",
-    "name_es": "Detect",
+    "name_es": "Detección",
     "confirmed_user_count": 24,
     "inferred_user_count": 0,
     "move_pool_user_count": 24,
@@ -20204,7 +20204,7 @@
   {
     "move_key": "dig",
     "name_en": "Dig",
-    "name_es": "Dig",
+    "name_es": "Excavar",
     "confirmed_user_count": 97,
     "inferred_user_count": 0,
     "move_pool_user_count": 97,
@@ -21110,7 +21110,7 @@
   {
     "move_key": "disable",
     "name_en": "Disable",
-    "name_es": "Disable",
+    "name_es": "Anulación",
     "confirmed_user_count": 28,
     "inferred_user_count": 0,
     "move_pool_user_count": 28,
@@ -21374,7 +21374,7 @@
   {
     "move_key": "discharge",
     "name_en": "Discharge",
-    "name_es": "Discharge",
+    "name_es": "Chispazo",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -21557,7 +21557,7 @@
   {
     "move_key": "dive",
     "name_en": "Dive",
-    "name_es": "Dive",
+    "name_es": "Buceo",
     "confirmed_user_count": 25,
     "inferred_user_count": 0,
     "move_pool_user_count": 25,
@@ -21794,7 +21794,7 @@
   {
     "move_key": "double_edge",
     "name_en": "Double-Edge",
-    "name_es": "Double-Edge",
+    "name_es": "Doble Filo",
     "confirmed_user_count": 95,
     "inferred_user_count": 0,
     "move_pool_user_count": 95,
@@ -22661,7 +22661,7 @@
   {
     "move_key": "double_hit",
     "name_en": "Double Hit",
-    "name_es": "Double Hit",
+    "name_es": "Doble Golpe",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -22835,7 +22835,7 @@
   {
     "move_key": "double_kick",
     "name_en": "Double Kick",
-    "name_es": "Double Kick",
+    "name_es": "Doble Patada",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -22874,7 +22874,7 @@
   {
     "move_key": "double_slap",
     "name_en": "Double Slap",
-    "name_es": "Double Slap",
+    "name_es": "Doble Bofetón",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -22895,7 +22895,7 @@
   {
     "move_key": "double_team",
     "name_en": "Double Team",
-    "name_es": "Double Team",
+    "name_es": "Doble Equipo",
     "confirmed_user_count": 31,
     "inferred_user_count": 0,
     "move_pool_user_count": 31,
@@ -23186,7 +23186,7 @@
   {
     "move_key": "draco_meteor",
     "name_en": "Draco Meteor",
-    "name_es": "Draco Meteor",
+    "name_es": "Cometa Draco",
     "confirmed_user_count": 15,
     "inferred_user_count": 0,
     "move_pool_user_count": 15,
@@ -23333,7 +23333,7 @@
   {
     "move_key": "dragon_breath",
     "name_en": "Dragon Breath",
-    "name_es": "Dragon Breath",
+    "name_es": "Dragoaliento",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -23354,7 +23354,7 @@
   {
     "move_key": "dragon_cheer",
     "name_en": "Dragon Cheer",
-    "name_es": "Dragon Cheer",
+    "name_es": "Bramido Dragón",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -23528,7 +23528,7 @@
   {
     "move_key": "dragon_claw",
     "name_en": "Dragon Claw",
-    "name_es": "Dragon Claw",
+    "name_es": "Garra Dragón",
     "confirmed_user_count": 21,
     "inferred_user_count": 0,
     "move_pool_user_count": 21,
@@ -23729,7 +23729,7 @@
   {
     "move_key": "dragon_dance",
     "name_en": "Dragon Dance",
-    "name_es": "Dragon Dance",
+    "name_es": "Danza Dragón",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -23894,7 +23894,7 @@
   {
     "move_key": "dragon_darts",
     "name_en": "Dragon Darts",
-    "name_es": "Dragon Darts",
+    "name_es": "Dracoflechas",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -23915,7 +23915,7 @@
   {
     "move_key": "dragon_pulse",
     "name_en": "Dragon Pulse",
-    "name_es": "Dragon Pulse",
+    "name_es": "Pulso Dragón",
     "confirmed_user_count": 37,
     "inferred_user_count": 0,
     "move_pool_user_count": 37,
@@ -24260,7 +24260,7 @@
   {
     "move_key": "dragon_rush",
     "name_en": "Dragon Rush",
-    "name_es": "Dragon Rush",
+    "name_es": "Carga Dragón",
     "confirmed_user_count": 14,
     "inferred_user_count": 0,
     "move_pool_user_count": 14,
@@ -24398,7 +24398,7 @@
   {
     "move_key": "dragon_tail",
     "name_en": "Dragon Tail",
-    "name_es": "Dragon Tail",
+    "name_es": "Cola Dragón",
     "confirmed_user_count": 25,
     "inferred_user_count": 0,
     "move_pool_user_count": 25,
@@ -24635,7 +24635,7 @@
   {
     "move_key": "drain_punch",
     "name_en": "Drain Punch",
-    "name_es": "Drain Punch",
+    "name_es": "Puño Drenaje",
     "confirmed_user_count": 37,
     "inferred_user_count": 0,
     "move_pool_user_count": 37,
@@ -24980,7 +24980,7 @@
   {
     "move_key": "draining_kiss",
     "name_en": "Draining Kiss",
-    "name_es": "Draining Kiss",
+    "name_es": "Beso Drenaje",
     "confirmed_user_count": 29,
     "inferred_user_count": 0,
     "move_pool_user_count": 29,
@@ -25253,7 +25253,7 @@
   {
     "move_key": "drill_peck",
     "name_en": "Drill Peck",
-    "name_es": "Drill Peck",
+    "name_es": "Pico Taladro",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -25310,7 +25310,7 @@
   {
     "move_key": "drill_run",
     "name_en": "Drill Run",
-    "name_es": "Drill Run",
+    "name_es": "Taladradora",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -25439,7 +25439,7 @@
   {
     "move_key": "dual_wingbeat",
     "name_en": "Dual Wingbeat",
-    "name_es": "Dual Wingbeat",
+    "name_es": "Ala Bis",
     "confirmed_user_count": 22,
     "inferred_user_count": 0,
     "move_pool_user_count": 22,
@@ -25649,7 +25649,7 @@
   {
     "move_key": "dynamic_punch",
     "name_en": "Dynamic Punch",
-    "name_es": "Dynamic Punch",
+    "name_es": "Puño Dinámico",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -25742,7 +25742,7 @@
   {
     "move_key": "earth_power",
     "name_en": "Earth Power",
-    "name_es": "Earth Power",
+    "name_es": "Tierra Viva",
     "confirmed_user_count": 39,
     "inferred_user_count": 0,
     "move_pool_user_count": 39,
@@ -26105,7 +26105,7 @@
   {
     "move_key": "earthquake",
     "name_en": "Earthquake",
-    "name_es": "Earthquake",
+    "name_es": "Terremoto",
     "confirmed_user_count": 84,
     "inferred_user_count": 0,
     "move_pool_user_count": 84,
@@ -26873,7 +26873,7 @@
   {
     "move_key": "eerie_impulse",
     "name_en": "Eerie Impulse",
-    "name_es": "Eerie Impulse",
+    "name_es": "Onda Anómala",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -27056,7 +27056,7 @@
   {
     "move_key": "eerie_spell",
     "name_en": "Eerie Spell",
-    "name_es": "Eerie Spell",
+    "name_es": "Conjuro Funesto",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -27077,7 +27077,7 @@
   {
     "move_key": "electric_terrain",
     "name_en": "Electric Terrain",
-    "name_es": "Electric Terrain",
+    "name_es": "Campo Eléctrico",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -27251,7 +27251,7 @@
   {
     "move_key": "electrify",
     "name_en": "Electrify",
-    "name_es": "Electrify",
+    "name_es": "Electrificación",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -27272,7 +27272,7 @@
   {
     "move_key": "electro_ball",
     "name_en": "Electro Ball",
-    "name_es": "Electro Ball",
+    "name_es": "Bola Voltio",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -27446,7 +27446,7 @@
   {
     "move_key": "electro_shot",
     "name_en": "Electro Shot",
-    "name_es": "Electro Shot",
+    "name_es": "Electrorrayo",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -27467,7 +27467,7 @@
   {
     "move_key": "electroweb",
     "name_en": "Electroweb",
-    "name_es": "Electroweb",
+    "name_es": "Electrotela",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -27659,7 +27659,7 @@
   {
     "move_key": "encore",
     "name_en": "Encore",
-    "name_es": "Encore",
+    "name_es": "Otra Vez",
     "confirmed_user_count": 45,
     "inferred_user_count": 0,
     "move_pool_user_count": 45,
@@ -28076,7 +28076,7 @@
   {
     "move_key": "endeavor",
     "name_en": "Endeavor",
-    "name_es": "Endeavor",
+    "name_es": "Esfuerzo",
     "confirmed_user_count": 60,
     "inferred_user_count": 0,
     "move_pool_user_count": 60,
@@ -28628,7 +28628,7 @@
   {
     "move_key": "endure",
     "name_en": "Endure",
-    "name_es": "Endure",
+    "name_es": "Aguante",
     "confirmed_user_count": 207,
     "inferred_user_count": 0,
     "move_pool_user_count": 207,
@@ -30503,7 +30503,7 @@
   {
     "move_key": "energy_ball",
     "name_en": "Energy Ball",
-    "name_es": "Energy Ball",
+    "name_es": "Energibola",
     "confirmed_user_count": 54,
     "inferred_user_count": 0,
     "move_pool_user_count": 54,
@@ -31001,7 +31001,7 @@
   {
     "move_key": "entrainment",
     "name_en": "Entrainment",
-    "name_es": "Entrainment",
+    "name_es": "Danza Amiga",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -31085,7 +31085,7 @@
   {
     "move_key": "eruption",
     "name_en": "Eruption",
-    "name_es": "Eruption",
+    "name_es": "Estallido",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -31133,7 +31133,7 @@
   {
     "move_key": "expanding_force",
     "name_en": "Expanding Force",
-    "name_es": "Expanding Force",
+    "name_es": "Vasta Fuerza",
     "confirmed_user_count": 23,
     "inferred_user_count": 0,
     "move_pool_user_count": 23,
@@ -31352,7 +31352,7 @@
   {
     "move_key": "explosion",
     "name_en": "Explosion",
-    "name_es": "Explosion",
+    "name_es": "Explosión",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -31427,7 +31427,7 @@
   {
     "move_key": "extrasensory",
     "name_en": "Extrasensory",
-    "name_es": "Extrasensory",
+    "name_es": "Paranormal",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -31556,7 +31556,7 @@
   {
     "move_key": "extreme_speed",
     "name_en": "Extreme Speed",
-    "name_es": "Extreme Speed",
+    "name_es": "Veloc. Extrema",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -31604,7 +31604,7 @@
   {
     "move_key": "facade",
     "name_en": "Facade",
-    "name_es": "Facade",
+    "name_es": "Imagen",
     "confirmed_user_count": 204,
     "inferred_user_count": 0,
     "move_pool_user_count": 204,
@@ -33452,7 +33452,7 @@
   {
     "move_key": "fairy_lock",
     "name_en": "Fairy Lock",
-    "name_es": "Fairy Lock",
+    "name_es": "Cerrojo Feérico",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -33473,7 +33473,7 @@
   {
     "move_key": "fake_out",
     "name_en": "Fake Out",
-    "name_es": "Fake Out",
+    "name_es": "Sorpresa",
     "confirmed_user_count": 23,
     "inferred_user_count": 0,
     "move_pool_user_count": 23,
@@ -33692,7 +33692,7 @@
   {
     "move_key": "fake_tears",
     "name_en": "Fake Tears",
-    "name_es": "Fake Tears",
+    "name_es": "Llanto Falso",
     "confirmed_user_count": 42,
     "inferred_user_count": 0,
     "move_pool_user_count": 42,
@@ -34082,7 +34082,7 @@
   {
     "move_key": "feather_dance",
     "name_en": "Feather Dance",
-    "name_es": "Feather Dance",
+    "name_es": "Danza Pluma",
     "confirmed_user_count": 12,
     "inferred_user_count": 0,
     "move_pool_user_count": 12,
@@ -34202,7 +34202,7 @@
   {
     "move_key": "feint",
     "name_en": "Feint",
-    "name_es": "Feint",
+    "name_es": "Amago",
     "confirmed_user_count": 26,
     "inferred_user_count": 0,
     "move_pool_user_count": 26,
@@ -34448,7 +34448,7 @@
   {
     "move_key": "fell_stinger",
     "name_en": "Fell Stinger",
-    "name_es": "Fell Stinger",
+    "name_es": "Aguijón Letal",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -34478,7 +34478,7 @@
   {
     "move_key": "fickle_beam",
     "name_en": "Fickle Beam",
-    "name_es": "Fickle Beam",
+    "name_es": "Láser Veleidoso",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -34499,7 +34499,7 @@
   {
     "move_key": "fiery_dance",
     "name_en": "Fiery Dance",
-    "name_es": "Fiery Dance",
+    "name_es": "Danza Llama",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -34520,7 +34520,7 @@
   {
     "move_key": "final_gambit",
     "name_en": "Final Gambit",
-    "name_es": "Final Gambit",
+    "name_es": "Sacrificio",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -34541,7 +34541,7 @@
   {
     "move_key": "fire_blast",
     "name_en": "Fire Blast",
-    "name_es": "Fire Blast",
+    "name_es": "Llamarada",
     "confirmed_user_count": 54,
     "inferred_user_count": 0,
     "move_pool_user_count": 54,
@@ -35039,7 +35039,7 @@
   {
     "move_key": "fire_fang",
     "name_en": "Fire Fang",
-    "name_es": "Fire Fang",
+    "name_es": "Colmillo Ígneo",
     "confirmed_user_count": 29,
     "inferred_user_count": 0,
     "move_pool_user_count": 29,
@@ -35312,7 +35312,7 @@
   {
     "move_key": "fire_lash",
     "name_en": "Fire Lash",
-    "name_es": "Fire Lash",
+    "name_es": "Látigo Ígneo",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -35333,7 +35333,7 @@
   {
     "move_key": "fire_punch",
     "name_en": "Fire Punch",
-    "name_es": "Fire Punch",
+    "name_es": "Puño Fuego",
     "confirmed_user_count": 41,
     "inferred_user_count": 0,
     "move_pool_user_count": 41,
@@ -35714,7 +35714,7 @@
   {
     "move_key": "fire_spin",
     "name_en": "Fire Spin",
-    "name_es": "Fire Spin",
+    "name_es": "Giro Fuego",
     "confirmed_user_count": 26,
     "inferred_user_count": 0,
     "move_pool_user_count": 26,
@@ -35960,7 +35960,7 @@
   {
     "move_key": "first_impression",
     "name_en": "First Impression",
-    "name_es": "First Impression",
+    "name_es": "Escaramuza",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -35981,7 +35981,7 @@
   {
     "move_key": "fissure",
     "name_en": "Fissure",
-    "name_es": "Fissure",
+    "name_es": "Fisura",
     "confirmed_user_count": 14,
     "inferred_user_count": 0,
     "move_pool_user_count": 14,
@@ -36119,7 +36119,7 @@
   {
     "move_key": "flail",
     "name_en": "Flail",
-    "name_es": "Flail",
+    "name_es": "Azote",
     "confirmed_user_count": 38,
     "inferred_user_count": 0,
     "move_pool_user_count": 38,
@@ -36473,7 +36473,7 @@
   {
     "move_key": "flame_charge",
     "name_en": "Flame Charge",
-    "name_es": "Flame Charge",
+    "name_es": "Nitrocarga",
     "confirmed_user_count": 24,
     "inferred_user_count": 0,
     "move_pool_user_count": 24,
@@ -36701,7 +36701,7 @@
   {
     "move_key": "flamethrower",
     "name_en": "Flamethrower",
-    "name_es": "Flamethrower",
+    "name_es": "Lanzallamas",
     "confirmed_user_count": 61,
     "inferred_user_count": 0,
     "move_pool_user_count": 61,
@@ -37262,7 +37262,7 @@
   {
     "move_key": "flare_blitz",
     "name_en": "Flare Blitz",
-    "name_es": "Flare Blitz",
+    "name_es": "Envite Ígneo",
     "confirmed_user_count": 24,
     "inferred_user_count": 0,
     "move_pool_user_count": 24,
@@ -37490,7 +37490,7 @@
   {
     "move_key": "flash_cannon",
     "name_en": "Flash Cannon",
-    "name_es": "Flash Cannon",
+    "name_es": "Foco Resplandor",
     "confirmed_user_count": 37,
     "inferred_user_count": 0,
     "move_pool_user_count": 37,
@@ -37835,7 +37835,7 @@
   {
     "move_key": "flatter",
     "name_en": "Flatter",
-    "name_es": "Flatter",
+    "name_es": "Camelo",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -37910,7 +37910,7 @@
   {
     "move_key": "fling",
     "name_en": "Fling",
-    "name_es": "Fling",
+    "name_es": "Lanzamiento",
     "confirmed_user_count": 89,
     "inferred_user_count": 0,
     "move_pool_user_count": 89,
@@ -38723,7 +38723,7 @@
   {
     "move_key": "flip_turn",
     "name_en": "Flip Turn",
-    "name_es": "Flip Turn",
+    "name_es": "Viraje",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -38909,7 +38909,7 @@
   {
     "move_key": "fly",
     "name_en": "Fly",
-    "name_es": "Fly",
+    "name_es": "Vuelo",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -39083,7 +39083,7 @@
   {
     "move_key": "flying_press",
     "name_en": "Flying Press",
-    "name_es": "Flying Press",
+    "name_es": "Plancha Voladora",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -39104,7 +39104,7 @@
   {
     "move_key": "focus_blast",
     "name_en": "Focus Blast",
-    "name_es": "Focus Blast",
+    "name_es": "Onda Certera",
     "confirmed_user_count": 73,
     "inferred_user_count": 0,
     "move_pool_user_count": 73,
@@ -39773,7 +39773,7 @@
   {
     "move_key": "focus_energy",
     "name_en": "Focus Energy",
-    "name_es": "Focus Energy",
+    "name_es": "Foco Energía",
     "confirmed_user_count": 37,
     "inferred_user_count": 0,
     "move_pool_user_count": 37,
@@ -40118,7 +40118,7 @@
   {
     "move_key": "focus_punch",
     "name_en": "Focus Punch",
-    "name_es": "Focus Punch",
+    "name_es": "Puño Certero",
     "confirmed_user_count": 48,
     "inferred_user_count": 0,
     "move_pool_user_count": 48,
@@ -40562,7 +40562,7 @@
   {
     "move_key": "follow_me",
     "name_en": "Follow Me",
-    "name_es": "Follow Me",
+    "name_es": "Señuelo",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -40592,7 +40592,7 @@
   {
     "move_key": "forests_curse",
     "name_en": "Forest's Curse",
-    "name_es": "Forest's Curse",
+    "name_es": "Condena Silvana",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -40613,7 +40613,7 @@
   {
     "move_key": "foul_play",
     "name_en": "Foul Play",
-    "name_es": "Foul Play",
+    "name_es": "Juego Sucio",
     "confirmed_user_count": 50,
     "inferred_user_count": 0,
     "move_pool_user_count": 50,
@@ -41075,7 +41075,7 @@
   {
     "move_key": "freeze_dry",
     "name_en": "Freeze-Dry",
-    "name_es": "Freeze-Dry",
+    "name_es": "Liofilización",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -41150,7 +41150,7 @@
   {
     "move_key": "frenzy_plant",
     "name_en": "Frenzy Plant",
-    "name_es": "Frenzy Plant",
+    "name_es": "Planta Feroz",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -41234,7 +41234,7 @@
   {
     "move_key": "frost_breath",
     "name_en": "Frost Breath",
-    "name_es": "Frost Breath",
+    "name_es": "Vaho Gélido",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -41318,7 +41318,7 @@
   {
     "move_key": "frustration",
     "name_en": "Frustration",
-    "name_es": "Frustration",
+    "name_es": "Frustración",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -41339,7 +41339,7 @@
   {
     "move_key": "future_sight",
     "name_en": "Future Sight",
-    "name_es": "Future Sight",
+    "name_es": "Premonición",
     "confirmed_user_count": 22,
     "inferred_user_count": 0,
     "move_pool_user_count": 22,
@@ -41549,7 +41549,7 @@
   {
     "move_key": "gastro_acid",
     "name_en": "Gastro Acid",
-    "name_es": "Gastro Acid",
+    "name_es": "Bilis",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -41597,7 +41597,7 @@
   {
     "move_key": "giga_drain",
     "name_en": "Giga Drain",
-    "name_es": "Giga Drain",
+    "name_es": "Gigadrenado",
     "confirmed_user_count": 41,
     "inferred_user_count": 0,
     "move_pool_user_count": 41,
@@ -41978,7 +41978,7 @@
   {
     "move_key": "giga_impact",
     "name_en": "Giga Impact",
-    "name_es": "Giga Impact",
+    "name_es": "Gigaimpacto",
     "confirmed_user_count": 190,
     "inferred_user_count": 0,
     "move_pool_user_count": 190,
@@ -43721,7 +43721,7 @@
   {
     "move_key": "glare",
     "name_en": "Glare",
-    "name_es": "Glare",
+    "name_es": "Deslumbrar",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -43778,7 +43778,7 @@
   {
     "move_key": "grass_knot",
     "name_en": "Grass Knot",
-    "name_es": "Grass Knot",
+    "name_es": "Hierba Lazo",
     "confirmed_user_count": 74,
     "inferred_user_count": 0,
     "move_pool_user_count": 74,
@@ -44456,7 +44456,7 @@
   {
     "move_key": "grassy_glide",
     "name_en": "Grassy Glide",
-    "name_es": "Grassy Glide",
+    "name_es": "Fitoimpulso",
     "confirmed_user_count": 22,
     "inferred_user_count": 0,
     "move_pool_user_count": 22,
@@ -44666,7 +44666,7 @@
   {
     "move_key": "grassy_terrain",
     "name_en": "Grassy Terrain",
-    "name_es": "Grassy Terrain",
+    "name_es": "Campo de Hierba",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -44849,7 +44849,7 @@
   {
     "move_key": "grav_apple",
     "name_en": "Grav Apple",
-    "name_es": "Grav Apple",
+    "name_es": "Fuerza G",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -44870,7 +44870,7 @@
   {
     "move_key": "gravity",
     "name_en": "Gravity",
-    "name_es": "Gravity",
+    "name_es": "Gravedad",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -45044,7 +45044,7 @@
   {
     "move_key": "growth",
     "name_en": "Growth",
-    "name_es": "Growth",
+    "name_es": "Desarrollo",
     "confirmed_user_count": 14,
     "inferred_user_count": 0,
     "move_pool_user_count": 14,
@@ -45182,7 +45182,7 @@
   {
     "move_key": "guard_split",
     "name_en": "Guard Split",
-    "name_es": "Guard Split",
+    "name_es": "Isoguardia",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -45239,7 +45239,7 @@
   {
     "move_key": "guard_swap",
     "name_en": "Guard Swap",
-    "name_es": "Guard Swap",
+    "name_es": "Cambiadefensa",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -45350,7 +45350,7 @@
   {
     "move_key": "guillotine",
     "name_en": "Guillotine",
-    "name_es": "Guillotine",
+    "name_es": "Guillotina",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -45380,7 +45380,7 @@
   {
     "move_key": "gunk_shot",
     "name_en": "Gunk Shot",
-    "name_es": "Gunk Shot",
+    "name_es": "Lanzamugre",
     "confirmed_user_count": 27,
     "inferred_user_count": 0,
     "move_pool_user_count": 27,
@@ -45635,7 +45635,7 @@
   {
     "move_key": "gyro_ball",
     "name_en": "Gyro Ball",
-    "name_es": "Gyro Ball",
+    "name_es": "Giro Bola",
     "confirmed_user_count": 21,
     "inferred_user_count": 0,
     "move_pool_user_count": 21,
@@ -45836,7 +45836,7 @@
   {
     "move_key": "hammer_arm",
     "name_en": "Hammer Arm",
-    "name_es": "Hammer Arm",
+    "name_es": "Machada",
     "confirmed_user_count": 12,
     "inferred_user_count": 0,
     "move_pool_user_count": 12,
@@ -45956,7 +45956,7 @@
   {
     "move_key": "hard_press",
     "name_en": "Hard Press",
-    "name_es": "Hard Press",
+    "name_es": "Prensa Metálica",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -46139,7 +46139,7 @@
   {
     "move_key": "haze",
     "name_en": "Haze",
-    "name_es": "Haze",
+    "name_es": "Niebla",
     "confirmed_user_count": 26,
     "inferred_user_count": 0,
     "move_pool_user_count": 26,
@@ -46385,7 +46385,7 @@
   {
     "move_key": "head_smash",
     "name_en": "Head Smash",
-    "name_es": "Head Smash",
+    "name_es": "Testarazo",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -46496,7 +46496,7 @@
   {
     "move_key": "headbutt",
     "name_en": "Headbutt",
-    "name_es": "Headbutt",
+    "name_es": "Golpe Cabeza",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -46574,7 +46574,7 @@
   {
     "move_key": "heal_bell",
     "name_en": "Heal Bell",
-    "name_es": "Heal Bell",
+    "name_es": "Campana Cura",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -46595,7 +46595,7 @@
   {
     "move_key": "heal_pulse",
     "name_en": "Heal Pulse",
-    "name_es": "Heal Pulse",
+    "name_es": "Pulso Cura",
     "confirmed_user_count": 14,
     "inferred_user_count": 0,
     "move_pool_user_count": 14,
@@ -46733,7 +46733,7 @@
   {
     "move_key": "healing_wish",
     "name_en": "Healing Wish",
-    "name_es": "Healing Wish",
+    "name_es": "Deseo Cura",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -46799,7 +46799,7 @@
   {
     "move_key": "heat_crash",
     "name_en": "Heat Crash",
-    "name_es": "Heat Crash",
+    "name_es": "Golpe Calor",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -46910,7 +46910,7 @@
   {
     "move_key": "heat_wave",
     "name_en": "Heat Wave",
-    "name_es": "Heat Wave",
+    "name_es": "Onda Ígnea",
     "confirmed_user_count": 30,
     "inferred_user_count": 0,
     "move_pool_user_count": 30,
@@ -47192,7 +47192,7 @@
   {
     "move_key": "heavy_slam",
     "name_en": "Heavy Slam",
-    "name_es": "Heavy Slam",
+    "name_es": "Cuerpo Pesado",
     "confirmed_user_count": 29,
     "inferred_user_count": 0,
     "move_pool_user_count": 29,
@@ -47465,7 +47465,7 @@
   {
     "move_key": "helping_hand",
     "name_en": "Helping Hand",
-    "name_es": "Helping Hand",
+    "name_es": "Refuerzo",
     "confirmed_user_count": 135,
     "inferred_user_count": 0,
     "move_pool_user_count": 135,
@@ -48692,7 +48692,7 @@
   {
     "move_key": "hex",
     "name_en": "Hex",
-    "name_es": "Hex",
+    "name_es": "Infortunio",
     "confirmed_user_count": 40,
     "inferred_user_count": 0,
     "move_pool_user_count": 40,
@@ -49064,7 +49064,7 @@
   {
     "move_key": "hidden_power",
     "name_en": "Hidden Power",
-    "name_es": "Hidden Power",
+    "name_es": "Poder Oculto",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -49085,7 +49085,7 @@
   {
     "move_key": "high_horsepower",
     "name_en": "High Horsepower",
-    "name_es": "High Horsepower",
+    "name_es": "Fuerza Equina",
     "confirmed_user_count": 33,
     "inferred_user_count": 0,
     "move_pool_user_count": 33,
@@ -49394,7 +49394,7 @@
   {
     "move_key": "high_jump_kick",
     "name_en": "High Jump Kick",
-    "name_es": "High Jump Kick",
+    "name_es": "Pat. Salto Alta",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -49451,7 +49451,7 @@
   {
     "move_key": "horn_drill",
     "name_en": "Horn Drill",
-    "name_es": "Horn Drill",
+    "name_es": "Perforador",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -49490,7 +49490,7 @@
   {
     "move_key": "horn_leech",
     "name_en": "Horn Leech",
-    "name_es": "Horn Leech",
+    "name_es": "Asta Drenaje",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -49511,7 +49511,7 @@
   {
     "move_key": "howl",
     "name_en": "Howl",
-    "name_es": "Howl",
+    "name_es": "Aullido",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -49640,7 +49640,7 @@
   {
     "move_key": "hurricane",
     "name_en": "Hurricane",
-    "name_es": "Hurricane",
+    "name_es": "Vendaval",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -49832,7 +49832,7 @@
   {
     "move_key": "hydro_cannon",
     "name_en": "Hydro Cannon",
-    "name_es": "Hydro Cannon",
+    "name_es": "Hidrocañón",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -49916,7 +49916,7 @@
   {
     "move_key": "hydro_pump",
     "name_en": "Hydro Pump",
-    "name_es": "Hydro Pump",
+    "name_es": "Hidrobomba",
     "confirmed_user_count": 43,
     "inferred_user_count": 0,
     "move_pool_user_count": 43,
@@ -50315,7 +50315,7 @@
   {
     "move_key": "hyper_beam",
     "name_en": "Hyper Beam",
-    "name_es": "Hyper Beam",
+    "name_es": "Hiperrayo",
     "confirmed_user_count": 197,
     "inferred_user_count": 0,
     "move_pool_user_count": 197,
@@ -52100,7 +52100,7 @@
   {
     "move_key": "hyper_voice",
     "name_en": "Hyper Voice",
-    "name_es": "Hyper Voice",
+    "name_es": "Vozarrón",
     "confirmed_user_count": 48,
     "inferred_user_count": 0,
     "move_pool_user_count": 48,
@@ -52544,7 +52544,7 @@
   {
     "move_key": "hypnosis",
     "name_en": "Hypnosis",
-    "name_es": "Hypnosis",
+    "name_es": "Hipnosis",
     "confirmed_user_count": 16,
     "inferred_user_count": 0,
     "move_pool_user_count": 16,
@@ -52700,7 +52700,7 @@
   {
     "move_key": "ice_beam",
     "name_en": "Ice Beam",
-    "name_es": "Ice Beam",
+    "name_es": "Rayo Hielo",
     "confirmed_user_count": 59,
     "inferred_user_count": 0,
     "move_pool_user_count": 59,
@@ -53243,7 +53243,7 @@
   {
     "move_key": "ice_fang",
     "name_en": "Ice Fang",
-    "name_es": "Ice Fang",
+    "name_es": "Colmillo Hielo",
     "confirmed_user_count": 27,
     "inferred_user_count": 0,
     "move_pool_user_count": 27,
@@ -53498,7 +53498,7 @@
   {
     "move_key": "ice_hammer",
     "name_en": "Ice Hammer",
-    "name_es": "Ice Hammer",
+    "name_es": "Martillo Hielo",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -53537,7 +53537,7 @@
   {
     "move_key": "ice_punch",
     "name_en": "Ice Punch",
-    "name_es": "Ice Punch",
+    "name_es": "Puño Hielo",
     "confirmed_user_count": 44,
     "inferred_user_count": 0,
     "move_pool_user_count": 44,
@@ -53945,7 +53945,7 @@
   {
     "move_key": "ice_shard",
     "name_en": "Ice Shard",
-    "name_es": "Ice Shard",
+    "name_es": "Canto Helado",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -54221,7 +54221,7 @@
   {
     "move_key": "icicle_crash",
     "name_en": "Icicle Crash",
-    "name_es": "Icicle Crash",
+    "name_es": "Chuzos",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -54305,7 +54305,7 @@
   {
     "move_key": "icicle_spear",
     "name_en": "Icicle Spear",
-    "name_es": "Icicle Spear",
+    "name_es": "Carámbano",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -54434,7 +54434,7 @@
   {
     "move_key": "icy_wind",
     "name_en": "Icy Wind",
-    "name_es": "Icy Wind",
+    "name_es": "Viento Hielo",
     "confirmed_user_count": 63,
     "inferred_user_count": 0,
     "move_pool_user_count": 63,
@@ -55013,7 +55013,7 @@
   {
     "move_key": "imprison",
     "name_en": "Imprison",
-    "name_es": "Imprison",
+    "name_es": "Sellar",
     "confirmed_user_count": 41,
     "inferred_user_count": 0,
     "move_pool_user_count": 41,
@@ -55415,7 +55415,7 @@
   {
     "move_key": "inferno",
     "name_en": "Inferno",
-    "name_es": "Inferno",
+    "name_es": "Infierno",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -55490,7 +55490,7 @@
   {
     "move_key": "infestation",
     "name_en": "Infestation",
-    "name_es": "Infestation",
+    "name_es": "Acoso",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -55547,7 +55547,7 @@
   {
     "move_key": "ingrain",
     "name_en": "Ingrain",
-    "name_es": "Ingrain",
+    "name_es": "Arraigo",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -55622,7 +55622,7 @@
   {
     "move_key": "instruct",
     "name_en": "Instruct",
-    "name_es": "Instruct",
+    "name_es": "Mandato",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -55643,7 +55643,7 @@
   {
     "move_key": "iron_defense",
     "name_en": "Iron Defense",
-    "name_es": "Iron Defense",
+    "name_es": "Defensa Férrea",
     "confirmed_user_count": 55,
     "inferred_user_count": 0,
     "move_pool_user_count": 55,
@@ -56150,7 +56150,7 @@
   {
     "move_key": "iron_head",
     "name_en": "Iron Head",
-    "name_es": "Iron Head",
+    "name_es": "Cabeza de Hierro",
     "confirmed_user_count": 59,
     "inferred_user_count": 0,
     "move_pool_user_count": 59,
@@ -56693,7 +56693,7 @@
   {
     "move_key": "iron_tail",
     "name_en": "Iron Tail",
-    "name_es": "Iron Tail",
+    "name_es": "Cola Férrea",
     "confirmed_user_count": 74,
     "inferred_user_count": 0,
     "move_pool_user_count": 74,
@@ -57392,7 +57392,7 @@
   {
     "move_key": "kings_shield",
     "name_en": "King's Shield",
-    "name_es": "King's Shield",
+    "name_es": "Escudo Real",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -57413,7 +57413,7 @@
   {
     "move_key": "knock_off",
     "name_en": "Knock Off",
-    "name_es": "Knock Off",
+    "name_es": "Desarme",
     "confirmed_user_count": 58,
     "inferred_user_count": 0,
     "move_pool_user_count": 58,
@@ -57968,7 +57968,7 @@
   {
     "move_key": "laser_focus",
     "name_en": "Laser Focus",
-    "name_es": "Laser Focus",
+    "name_es": "Aguzar",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -57989,7 +57989,7 @@
   {
     "move_key": "lash_out",
     "name_en": "Lash Out",
-    "name_es": "Lash Out",
+    "name_es": "Desahogo",
     "confirmed_user_count": 38,
     "inferred_user_count": 0,
     "move_pool_user_count": 38,
@@ -58343,7 +58343,7 @@
   {
     "move_key": "last_resort",
     "name_en": "Last Resort",
-    "name_es": "Last Resort",
+    "name_es": "Última Baza",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -58565,7 +58565,7 @@
   {
     "move_key": "lava_plume",
     "name_en": "Lava Plume",
-    "name_es": "Lava Plume",
+    "name_es": "Humareda",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -58640,7 +58640,7 @@
   {
     "move_key": "leaf_blade",
     "name_en": "Leaf Blade",
-    "name_es": "Leaf Blade",
+    "name_es": "Hoja Aguda",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -58715,7 +58715,7 @@
   {
     "move_key": "leaf_storm",
     "name_en": "Leaf Storm",
-    "name_es": "Leaf Storm",
+    "name_es": "Lluevehojas",
     "confirmed_user_count": 21,
     "inferred_user_count": 0,
     "move_pool_user_count": 21,
@@ -58916,7 +58916,7 @@
   {
     "move_key": "leech_life",
     "name_en": "Leech Life",
-    "name_es": "Leech Life",
+    "name_es": "Chupavidas",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -59009,7 +59009,7 @@
   {
     "move_key": "leech_seed",
     "name_en": "Leech Seed",
-    "name_es": "Leech Seed",
+    "name_es": "Drenadoras",
     "confirmed_user_count": 16,
     "inferred_user_count": 0,
     "move_pool_user_count": 16,
@@ -59165,7 +59165,7 @@
   {
     "move_key": "leer",
     "name_en": "Leer",
-    "name_es": "Leer",
+    "name_es": "Malicioso",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -59186,7 +59186,7 @@
   {
     "move_key": "life_dew",
     "name_en": "Life Dew",
-    "name_es": "Life Dew",
+    "name_es": "Gota Vital",
     "confirmed_user_count": 12,
     "inferred_user_count": 0,
     "move_pool_user_count": 12,
@@ -59306,7 +59306,7 @@
   {
     "move_key": "light_of_ruin",
     "name_en": "Light of Ruin",
-    "name_es": "Light of Ruin",
+    "name_es": "Luz Aniquiladora",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -59327,7 +59327,7 @@
   {
     "move_key": "light_screen",
     "name_en": "Light Screen",
-    "name_es": "Light Screen",
+    "name_es": "Pantalla de Luz",
     "confirmed_user_count": 85,
     "inferred_user_count": 0,
     "move_pool_user_count": 85,
@@ -60104,7 +60104,7 @@
   {
     "move_key": "liquidation",
     "name_en": "Liquidation",
-    "name_es": "Liquidation",
+    "name_es": "Hidroariete",
     "confirmed_user_count": 29,
     "inferred_user_count": 0,
     "move_pool_user_count": 29,
@@ -60377,7 +60377,7 @@
   {
     "move_key": "lock_on",
     "name_en": "Lock-On",
-    "name_es": "Lock-On",
+    "name_es": "Fijar Blanco",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -60398,7 +60398,7 @@
   {
     "move_key": "low_kick",
     "name_en": "Low Kick",
-    "name_es": "Low Kick",
+    "name_es": "Patada Baja",
     "confirmed_user_count": 52,
     "inferred_user_count": 0,
     "move_pool_user_count": 52,
@@ -60878,7 +60878,7 @@
   {
     "move_key": "low_sweep",
     "name_en": "Low Sweep",
-    "name_es": "Low Sweep",
+    "name_es": "Puntapié",
     "confirmed_user_count": 35,
     "inferred_user_count": 0,
     "move_pool_user_count": 35,
@@ -61226,7 +61226,7 @@
   {
     "move_key": "lunge",
     "name_en": "Lunge",
-    "name_es": "Lunge",
+    "name_es": "Plancha",
     "confirmed_user_count": 14,
     "inferred_user_count": 0,
     "move_pool_user_count": 14,
@@ -61364,7 +61364,7 @@
   {
     "move_key": "mach_punch",
     "name_en": "Mach Punch",
-    "name_es": "Mach Punch",
+    "name_es": "Ultrapuño",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -61412,7 +61412,7 @@
   {
     "move_key": "magic_powder",
     "name_en": "Magic Powder",
-    "name_es": "Magic Powder",
+    "name_es": "Polvo Mágico",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -61433,7 +61433,7 @@
   {
     "move_key": "magic_room",
     "name_en": "Magic Room",
-    "name_es": "Magic Room",
+    "name_es": "Zona Mágica",
     "confirmed_user_count": 16,
     "inferred_user_count": 0,
     "move_pool_user_count": 16,
@@ -61589,7 +61589,7 @@
   {
     "move_key": "magical_leaf",
     "name_en": "Magical Leaf",
-    "name_es": "Magical Leaf",
+    "name_es": "Hoja Mágica",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -61610,7 +61610,7 @@
   {
     "move_key": "magnet_bomb",
     "name_en": "Magnet Bomb",
-    "name_es": "Magnet Bomb",
+    "name_es": "Bomba Imán",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -61631,7 +61631,7 @@
   {
     "move_key": "magnet_rise",
     "name_en": "Magnet Rise",
-    "name_es": "Magnet Rise",
+    "name_es": "Levitón",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -61688,7 +61688,7 @@
   {
     "move_key": "magnetic_flux",
     "name_en": "Magnetic Flux",
-    "name_es": "Magnetic Flux",
+    "name_es": "Aura Magnética",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -61730,7 +61730,7 @@
   {
     "move_key": "mean_look",
     "name_en": "Mean Look",
-    "name_es": "Mean Look",
+    "name_es": "Mal de Ojo",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -61859,7 +61859,7 @@
   {
     "move_key": "mega_kick",
     "name_en": "Mega Kick",
-    "name_es": "Mega Kick",
+    "name_es": "Megapatada",
     "confirmed_user_count": 44,
     "inferred_user_count": 0,
     "move_pool_user_count": 44,
@@ -62267,7 +62267,7 @@
   {
     "move_key": "megahorn",
     "name_en": "Megahorn",
-    "name_es": "Megahorn",
+    "name_es": "Megacuerno",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -62360,7 +62360,7 @@
   {
     "move_key": "memento",
     "name_en": "Memento",
-    "name_es": "Memento",
+    "name_es": "Legado",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -62489,7 +62489,7 @@
   {
     "move_key": "metal_burst",
     "name_en": "Metal Burst",
-    "name_es": "Metal Burst",
+    "name_es": "Represión Metal",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -62564,7 +62564,7 @@
   {
     "move_key": "metal_sound",
     "name_en": "Metal Sound",
-    "name_es": "Metal Sound",
+    "name_es": "Eco Metálico",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -62738,7 +62738,7 @@
   {
     "move_key": "meteor_beam",
     "name_en": "Meteor Beam",
-    "name_es": "Meteor Beam",
+    "name_es": "Rayo Meteórico",
     "confirmed_user_count": 15,
     "inferred_user_count": 0,
     "move_pool_user_count": 15,
@@ -62885,7 +62885,7 @@
   {
     "move_key": "meteor_mash",
     "name_en": "Meteor Mash",
-    "name_es": "Meteor Mash",
+    "name_es": "Puño Meteoro",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -62915,7 +62915,7 @@
   {
     "move_key": "minimize",
     "name_en": "Minimize",
-    "name_es": "Minimize",
+    "name_es": "Reducción",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -62954,7 +62954,7 @@
   {
     "move_key": "mirror_coat",
     "name_en": "Mirror Coat",
-    "name_es": "Mirror Coat",
+    "name_es": "Manto Espejo",
     "confirmed_user_count": 12,
     "inferred_user_count": 0,
     "move_pool_user_count": 12,
@@ -63074,7 +63074,7 @@
   {
     "move_key": "misty_explosion",
     "name_en": "Misty Explosion",
-    "name_es": "Misty Explosion",
+    "name_es": "Bruma Explosiva",
     "confirmed_user_count": 10,
     "inferred_user_count": 0,
     "move_pool_user_count": 10,
@@ -63176,7 +63176,7 @@
   {
     "move_key": "misty_terrain",
     "name_en": "Misty Terrain",
-    "name_es": "Misty Terrain",
+    "name_es": "Campo de Niebla",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -63368,7 +63368,7 @@
   {
     "move_key": "moonblast",
     "name_en": "Moonblast",
-    "name_es": "Moonblast",
+    "name_es": "Fuerza Lunar",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -63479,7 +63479,7 @@
   {
     "move_key": "moonlight",
     "name_en": "Moonlight",
-    "name_es": "Moonlight",
+    "name_es": "Luz Lunar",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -63518,7 +63518,7 @@
   {
     "move_key": "morning_sun",
     "name_en": "Morning Sun",
-    "name_es": "Morning Sun",
+    "name_es": "Sol Matinal",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -63617,7 +63617,7 @@
   {
     "move_key": "mud_shot",
     "name_en": "Mud Shot",
-    "name_es": "Mud Shot",
+    "name_es": "Disparo Lodo",
     "confirmed_user_count": 49,
     "inferred_user_count": 0,
     "move_pool_user_count": 49,
@@ -64070,7 +64070,7 @@
   {
     "move_key": "mud_slap",
     "name_en": "Mud-Slap",
-    "name_es": "Mud-Slap",
+    "name_es": "Bofetón Lodo",
     "confirmed_user_count": 54,
     "inferred_user_count": 0,
     "move_pool_user_count": 54,
@@ -64568,7 +64568,7 @@
   {
     "move_key": "muddy_water",
     "name_en": "Muddy Water",
-    "name_es": "Muddy Water",
+    "name_es": "Agua Lodosa",
     "confirmed_user_count": 23,
     "inferred_user_count": 0,
     "move_pool_user_count": 23,
@@ -64787,7 +64787,7 @@
   {
     "move_key": "mystical_fire",
     "name_en": "Mystical Fire",
-    "name_es": "Mystical Fire",
+    "name_es": "Llama Embrujada",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -64916,7 +64916,7 @@
   {
     "move_key": "nasty_plot",
     "name_en": "Nasty Plot",
-    "name_es": "Nasty Plot",
+    "name_es": "Maquinación",
     "confirmed_user_count": 55,
     "inferred_user_count": 0,
     "move_pool_user_count": 55,
@@ -65423,7 +65423,7 @@
   {
     "move_key": "nature_power",
     "name_en": "Nature Power",
-    "name_es": "Nature Power",
+    "name_es": "Adaptación",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -65444,7 +65444,7 @@
   {
     "move_key": "night_daze",
     "name_en": "Night Daze",
-    "name_es": "Night Daze",
+    "name_es": "Pulso Noche",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -65465,7 +65465,7 @@
   {
     "move_key": "night_shade",
     "name_en": "Night Shade",
-    "name_es": "Night Shade",
+    "name_es": "Tinieblas",
     "confirmed_user_count": 40,
     "inferred_user_count": 0,
     "move_pool_user_count": 40,
@@ -65837,7 +65837,7 @@
   {
     "move_key": "night_slash",
     "name_en": "Night Slash",
-    "name_es": "Night Slash",
+    "name_es": "Tajo Umbrío",
     "confirmed_user_count": 26,
     "inferred_user_count": 0,
     "move_pool_user_count": 26,
@@ -66083,7 +66083,7 @@
   {
     "move_key": "noble_roar",
     "name_en": "Noble Roar",
-    "name_es": "Noble Roar",
+    "name_es": "Rugido de Guerra",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -66104,7 +66104,7 @@
   {
     "move_key": "nuzzle",
     "name_en": "Nuzzle",
-    "name_es": "Nuzzle",
+    "name_es": "Moflete Estático",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -66170,7 +66170,7 @@
   {
     "move_key": "outrage",
     "name_en": "Outrage",
-    "name_es": "Outrage",
+    "name_es": "Enfado",
     "confirmed_user_count": 48,
     "inferred_user_count": 0,
     "move_pool_user_count": 48,
@@ -66614,7 +66614,7 @@
   {
     "move_key": "overheat",
     "name_en": "Overheat",
-    "name_es": "Overheat",
+    "name_es": "Sofoco",
     "confirmed_user_count": 27,
     "inferred_user_count": 0,
     "move_pool_user_count": 27,
@@ -66869,7 +66869,7 @@
   {
     "move_key": "pain_split",
     "name_en": "Pain Split",
-    "name_es": "Pain Split",
+    "name_es": "Divide Dolor",
     "confirmed_user_count": 39,
     "inferred_user_count": 0,
     "move_pool_user_count": 39,
@@ -67232,7 +67232,7 @@
   {
     "move_key": "parabolic_charge",
     "name_en": "Parabolic Charge",
-    "name_es": "Parabolic Charge",
+    "name_es": "Carga Parábola",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -67280,7 +67280,7 @@
   {
     "move_key": "parting_shot",
     "name_en": "Parting Shot",
-    "name_es": "Parting Shot",
+    "name_es": "Última Palabra",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -67319,7 +67319,7 @@
   {
     "move_key": "payback",
     "name_en": "Payback",
-    "name_es": "Payback",
+    "name_es": "Vendetta",
     "confirmed_user_count": 64,
     "inferred_user_count": 0,
     "move_pool_user_count": 64,
@@ -67907,7 +67907,7 @@
   {
     "move_key": "perish_song",
     "name_en": "Perish Song",
-    "name_es": "Perish Song",
+    "name_es": "Canto Mortal",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -67973,7 +67973,7 @@
   {
     "move_key": "petal_blizzard",
     "name_en": "Petal Blizzard",
-    "name_es": "Petal Blizzard",
+    "name_es": "Tormenta Floral",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -68057,7 +68057,7 @@
   {
     "move_key": "petal_dance",
     "name_en": "Petal Dance",
-    "name_es": "Petal Dance",
+    "name_es": "Danza Pétalo",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -68114,7 +68114,7 @@
   {
     "move_key": "phantom_force",
     "name_en": "Phantom Force",
-    "name_es": "Phantom Force",
+    "name_es": "Golpe Fantasma",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -68306,7 +68306,7 @@
   {
     "move_key": "pin_missile",
     "name_en": "Pin Missile",
-    "name_es": "Pin Missile",
+    "name_es": "Pin Misil",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -68399,7 +68399,7 @@
   {
     "move_key": "play_nice",
     "name_en": "Play Nice",
-    "name_es": "Play Nice",
+    "name_es": "Camaradería",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -68420,7 +68420,7 @@
   {
     "move_key": "play_rough",
     "name_en": "Play Rough",
-    "name_es": "Play Rough",
+    "name_es": "Carantoña",
     "confirmed_user_count": 33,
     "inferred_user_count": 0,
     "move_pool_user_count": 33,
@@ -68729,7 +68729,7 @@
   {
     "move_key": "pluck",
     "name_en": "Pluck",
-    "name_es": "Pluck",
+    "name_es": "Picoteo",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -68795,7 +68795,7 @@
   {
     "move_key": "poison_fang",
     "name_en": "Poison Fang",
-    "name_es": "Poison Fang",
+    "name_es": "Colmillo Veneno",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -68843,7 +68843,7 @@
   {
     "move_key": "poison_jab",
     "name_en": "Poison Jab",
-    "name_es": "Poison Jab",
+    "name_es": "Puya Nociva",
     "confirmed_user_count": 38,
     "inferred_user_count": 0,
     "move_pool_user_count": 38,
@@ -69197,7 +69197,7 @@
   {
     "move_key": "poison_powder",
     "name_en": "Poison Powder",
-    "name_es": "Poison Powder",
+    "name_es": "Polvo Veneno",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -69254,7 +69254,7 @@
   {
     "move_key": "pollen_puff",
     "name_en": "Pollen Puff",
-    "name_es": "Pollen Puff",
+    "name_es": "Bola de Polen",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -69815,7 +69815,7 @@
   {
     "move_key": "pound",
     "name_en": "Pound",
-    "name_es": "Pound",
+    "name_es": "Destructor",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -69836,7 +69836,7 @@
   {
     "move_key": "power_gem",
     "name_en": "Power Gem",
-    "name_es": "Power Gem",
+    "name_es": "Joya de Luz",
     "confirmed_user_count": 15,
     "inferred_user_count": 0,
     "move_pool_user_count": 15,
@@ -69983,7 +69983,7 @@
   {
     "move_key": "power_split",
     "name_en": "Power Split",
-    "name_es": "Power Split",
+    "name_es": "Isofuerza",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -70040,7 +70040,7 @@
   {
     "move_key": "power_swap",
     "name_en": "Power Swap",
-    "name_es": "Power Swap",
+    "name_es": "Cambiafuerza",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -70169,7 +70169,7 @@
   {
     "move_key": "power_trick",
     "name_en": "Power Trick",
-    "name_es": "Power Trick",
+    "name_es": "Truco Fuerza",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -70208,7 +70208,7 @@
   {
     "move_key": "power_trip",
     "name_en": "Power Trip",
-    "name_es": "Power Trip",
+    "name_es": "Chulería",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -70274,7 +70274,7 @@
   {
     "move_key": "power_up_punch",
     "name_en": "Power-Up Punch",
-    "name_es": "Power-Up Punch",
+    "name_es": "Puño Incremento",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -70295,7 +70295,7 @@
   {
     "move_key": "power_whip",
     "name_en": "Power Whip",
-    "name_es": "Power Whip",
+    "name_es": "Latigazo",
     "confirmed_user_count": 10,
     "inferred_user_count": 0,
     "move_pool_user_count": 10,
@@ -70397,7 +70397,7 @@
   {
     "move_key": "protect",
     "name_en": "Protect",
-    "name_es": "Protect",
+    "name_es": "Protección",
     "confirmed_user_count": 207,
     "inferred_user_count": 0,
     "move_pool_user_count": 207,
@@ -72272,7 +72272,7 @@
   {
     "move_key": "psych_up",
     "name_en": "Psych Up",
-    "name_es": "Psych Up",
+    "name_es": "Más Psique",
     "confirmed_user_count": 49,
     "inferred_user_count": 0,
     "move_pool_user_count": 49,
@@ -72725,7 +72725,7 @@
   {
     "move_key": "psychic",
     "name_en": "Psychic",
-    "name_es": "Psychic",
+    "name_es": "Psíquico",
     "confirmed_user_count": 57,
     "inferred_user_count": 0,
     "move_pool_user_count": 57,
@@ -73250,7 +73250,7 @@
   {
     "move_key": "psychic_fangs",
     "name_en": "Psychic Fangs",
-    "name_es": "Psychic Fangs",
+    "name_es": "Psicocolmillo",
     "confirmed_user_count": 22,
     "inferred_user_count": 0,
     "move_pool_user_count": 22,
@@ -73460,7 +73460,7 @@
   {
     "move_key": "psychic_noise",
     "name_en": "Psychic Noise",
-    "name_es": "Psychic Noise",
+    "name_es": "Psicorruido",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -73652,7 +73652,7 @@
   {
     "move_key": "psychic_terrain",
     "name_en": "Psychic Terrain",
-    "name_es": "Psychic Terrain",
+    "name_es": "Campo Psíquico",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -73835,7 +73835,7 @@
   {
     "move_key": "psycho_cut",
     "name_en": "Psycho Cut",
-    "name_es": "Psycho Cut",
+    "name_es": "Psicocorte",
     "confirmed_user_count": 12,
     "inferred_user_count": 0,
     "move_pool_user_count": 12,
@@ -73976,7 +73976,7 @@
   {
     "move_key": "psyshock",
     "name_en": "Psyshock",
-    "name_es": "Psyshock",
+    "name_es": "Psicocarga",
     "confirmed_user_count": 34,
     "inferred_user_count": 0,
     "move_pool_user_count": 34,
@@ -74294,7 +74294,7 @@
   {
     "move_key": "punishment",
     "name_en": "Punishment",
-    "name_es": "Punishment",
+    "name_es": "Castigo",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -74315,7 +74315,7 @@
   {
     "move_key": "quash",
     "name_en": "Quash",
-    "name_es": "Quash",
+    "name_es": "Último Lugar",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -74381,7 +74381,7 @@
   {
     "move_key": "quick_attack",
     "name_en": "Quick Attack",
-    "name_es": "Quick Attack",
+    "name_es": "Ataque Rápido",
     "confirmed_user_count": 39,
     "inferred_user_count": 0,
     "move_pool_user_count": 39,
@@ -74744,7 +74744,7 @@
   {
     "move_key": "quick_guard",
     "name_en": "Quick Guard",
-    "name_es": "Quick Guard",
+    "name_es": "Anticipo",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -74909,7 +74909,7 @@
   {
     "move_key": "quiver_dance",
     "name_en": "Quiver Dance",
-    "name_es": "Quiver Dance",
+    "name_es": "Danza Aleteo",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -74939,7 +74939,7 @@
   {
     "move_key": "rage_powder",
     "name_en": "Rage Powder",
-    "name_es": "Rage Powder",
+    "name_es": "Polvo Ira",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -75083,7 +75083,7 @@
   {
     "move_key": "rain_dance",
     "name_en": "Rain Dance",
-    "name_es": "Rain Dance",
+    "name_es": "Danza Lluvia",
     "confirmed_user_count": 153,
     "inferred_user_count": 0,
     "move_pool_user_count": 153,
@@ -76472,7 +76472,7 @@
   {
     "move_key": "rapid_spin",
     "name_en": "Rapid Spin",
-    "name_es": "Rapid Spin",
+    "name_es": "Giro Rápido",
     "confirmed_user_count": 10,
     "inferred_user_count": 0,
     "move_pool_user_count": 10,
@@ -76574,7 +76574,7 @@
   {
     "move_key": "razor_leaf",
     "name_en": "Razor Leaf",
-    "name_es": "Razor Leaf",
+    "name_es": "Hoja Afilada",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -76595,7 +76595,7 @@
   {
     "move_key": "razor_shell",
     "name_en": "Razor Shell",
-    "name_es": "Razor Shell",
+    "name_es": "Concha Filo",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -76661,7 +76661,7 @@
   {
     "move_key": "recover",
     "name_en": "Recover",
-    "name_es": "Recover",
+    "name_es": "Recuperación",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -76790,7 +76790,7 @@
   {
     "move_key": "recycle",
     "name_en": "Recycle",
-    "name_es": "Recycle",
+    "name_es": "Reciclaje",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -76901,7 +76901,7 @@
   {
     "move_key": "reflect",
     "name_en": "Reflect",
-    "name_es": "Reflect",
+    "name_es": "Reflejo",
     "confirmed_user_count": 65,
     "inferred_user_count": 0,
     "move_pool_user_count": 65,
@@ -77498,7 +77498,7 @@
   {
     "move_key": "reflect_type",
     "name_en": "Reflect Type",
-    "name_es": "Reflect Type",
+    "name_es": "Clonatipo",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -77537,7 +77537,7 @@
   {
     "move_key": "rest",
     "name_en": "Rest",
-    "name_es": "Rest",
+    "name_es": "Descanso",
     "confirmed_user_count": 205,
     "inferred_user_count": 0,
     "move_pool_user_count": 205,
@@ -79394,7 +79394,7 @@
   {
     "move_key": "return",
     "name_en": "Return",
-    "name_es": "Return",
+    "name_es": "Retribución",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -79415,7 +79415,7 @@
   {
     "move_key": "reversal",
     "name_en": "Reversal",
-    "name_es": "Reversal",
+    "name_es": "Inversión",
     "confirmed_user_count": 49,
     "inferred_user_count": 0,
     "move_pool_user_count": 49,
@@ -79868,7 +79868,7 @@
   {
     "move_key": "rising_voltage",
     "name_en": "Rising Voltage",
-    "name_es": "Rising Voltage",
+    "name_es": "Alto Voltaje",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -80033,7 +80033,7 @@
   {
     "move_key": "roar",
     "name_en": "Roar",
-    "name_es": "Roar",
+    "name_es": "Rugido",
     "confirmed_user_count": 55,
     "inferred_user_count": 0,
     "move_pool_user_count": 55,
@@ -80540,7 +80540,7 @@
   {
     "move_key": "rock_blast",
     "name_en": "Rock Blast",
-    "name_es": "Rock Blast",
+    "name_es": "Pedrada",
     "confirmed_user_count": 28,
     "inferred_user_count": 0,
     "move_pool_user_count": 28,
@@ -80804,7 +80804,7 @@
   {
     "move_key": "rock_polish",
     "name_en": "Rock Polish",
-    "name_es": "Rock Polish",
+    "name_es": "Pulimento",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -80861,7 +80861,7 @@
   {
     "move_key": "rock_slide",
     "name_en": "Rock Slide",
-    "name_es": "Rock Slide",
+    "name_es": "Avalancha",
     "confirmed_user_count": 87,
     "inferred_user_count": 0,
     "move_pool_user_count": 87,
@@ -81656,7 +81656,7 @@
   {
     "move_key": "rock_smash",
     "name_en": "Rock Smash",
-    "name_es": "Rock Smash",
+    "name_es": "Golpe Roca",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -81677,7 +81677,7 @@
   {
     "move_key": "rock_tomb",
     "name_en": "Rock Tomb",
-    "name_es": "Rock Tomb",
+    "name_es": "Tumba Rocas",
     "confirmed_user_count": 84,
     "inferred_user_count": 0,
     "move_pool_user_count": 84,
@@ -82445,7 +82445,7 @@
   {
     "move_key": "rock_wrecker",
     "name_en": "Rock Wrecker",
-    "name_es": "Rock Wrecker",
+    "name_es": "Romperrocas",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -82466,7 +82466,7 @@
   {
     "move_key": "role_play",
     "name_en": "Role Play",
-    "name_es": "Role Play",
+    "name_es": "Imitación",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -82550,7 +82550,7 @@
   {
     "move_key": "roost",
     "name_en": "Roost",
-    "name_es": "Roost",
+    "name_es": "Respiro",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -82742,7 +82742,7 @@
   {
     "move_key": "round",
     "name_en": "Round",
-    "name_es": "Round",
+    "name_es": "Canon",
     "confirmed_user_count": 176,
     "inferred_user_count": 0,
     "move_pool_user_count": 176,
@@ -84338,7 +84338,7 @@
   {
     "move_key": "sacred_sword",
     "name_en": "Sacred Sword",
-    "name_es": "Sacred Sword",
+    "name_es": "Espada Santa",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -84386,7 +84386,7 @@
   {
     "move_key": "safeguard",
     "name_en": "Safeguard",
-    "name_es": "Safeguard",
+    "name_es": "Velo Sagrado",
     "confirmed_user_count": 47,
     "inferred_user_count": 0,
     "move_pool_user_count": 47,
@@ -84842,7 +84842,7 @@
   {
     "move_key": "sand_tomb",
     "name_en": "Sand Tomb",
-    "name_es": "Sand Tomb",
+    "name_es": "Bucle Arena",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -85025,7 +85025,7 @@
   {
     "move_key": "sandstorm",
     "name_en": "Sandstorm",
-    "name_es": "Sandstorm",
+    "name_es": "Tormenta Arena",
     "confirmed_user_count": 53,
     "inferred_user_count": 0,
     "move_pool_user_count": 53,
@@ -85514,7 +85514,7 @@
   {
     "move_key": "scald",
     "name_en": "Scald",
-    "name_es": "Scald",
+    "name_es": "Escaldar",
     "confirmed_user_count": 14,
     "inferred_user_count": 0,
     "move_pool_user_count": 14,
@@ -85652,7 +85652,7 @@
   {
     "move_key": "scale_shot",
     "name_en": "Scale Shot",
-    "name_es": "Scale Shot",
+    "name_es": "Ráfaga Escamas",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -85844,7 +85844,7 @@
   {
     "move_key": "scary_face",
     "name_en": "Scary Face",
-    "name_es": "Scary Face",
+    "name_es": "Cara Susto",
     "confirmed_user_count": 94,
     "inferred_user_count": 0,
     "move_pool_user_count": 94,
@@ -86702,7 +86702,7 @@
   {
     "move_key": "scorching_sands",
     "name_en": "Scorching Sands",
-    "name_es": "Scorching Sands",
+    "name_es": "Arenas Ardientes",
     "confirmed_user_count": 27,
     "inferred_user_count": 0,
     "move_pool_user_count": 27,
@@ -86957,7 +86957,7 @@
   {
     "move_key": "screech",
     "name_en": "Screech",
-    "name_es": "Screech",
+    "name_es": "Chirrido",
     "confirmed_user_count": 37,
     "inferred_user_count": 0,
     "move_pool_user_count": 37,
@@ -87302,7 +87302,7 @@
   {
     "move_key": "seed_bomb",
     "name_en": "Seed Bomb",
-    "name_es": "Seed Bomb",
+    "name_es": "Bomba Germen",
     "confirmed_user_count": 37,
     "inferred_user_count": 0,
     "move_pool_user_count": 37,
@@ -87647,7 +87647,7 @@
   {
     "move_key": "seismic_toss",
     "name_en": "Seismic Toss",
-    "name_es": "Seismic Toss",
+    "name_es": "Sísmico",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -87704,7 +87704,7 @@
   {
     "move_key": "self_destruct",
     "name_en": "Self-Destruct",
-    "name_es": "Self-Destruct",
+    "name_es": "Autodestrucción",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -87869,7 +87869,7 @@
   {
     "move_key": "shadow_ball",
     "name_en": "Shadow Ball",
-    "name_es": "Shadow Ball",
+    "name_es": "Bola Sombra",
     "confirmed_user_count": 85,
     "inferred_user_count": 0,
     "move_pool_user_count": 85,
@@ -88646,7 +88646,7 @@
   {
     "move_key": "shadow_claw",
     "name_en": "Shadow Claw",
-    "name_es": "Shadow Claw",
+    "name_es": "Garra Umbría",
     "confirmed_user_count": 50,
     "inferred_user_count": 0,
     "move_pool_user_count": 50,
@@ -89108,7 +89108,7 @@
   {
     "move_key": "shadow_punch",
     "name_en": "Shadow Punch",
-    "name_es": "Shadow Punch",
+    "name_es": "Puño Sombra",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -89183,7 +89183,7 @@
   {
     "move_key": "shadow_sneak",
     "name_en": "Shadow Sneak",
-    "name_es": "Shadow Sneak",
+    "name_es": "Sombra Vil",
     "confirmed_user_count": 15,
     "inferred_user_count": 0,
     "move_pool_user_count": 15,
@@ -89360,7 +89360,7 @@
   {
     "move_key": "sheer_cold",
     "name_en": "Sheer Cold",
-    "name_es": "Sheer Cold",
+    "name_es": "Frío Polar",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -89417,7 +89417,7 @@
   {
     "move_key": "shell_side_arm",
     "name_en": "Shell Side Arm",
-    "name_es": "Shell Side Arm",
+    "name_es": "Moluscañón",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -89438,7 +89438,7 @@
   {
     "move_key": "shell_smash",
     "name_en": "Shell Smash",
-    "name_es": "Shell Smash",
+    "name_es": "Rompecoraza",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -89486,7 +89486,7 @@
   {
     "move_key": "simple_beam",
     "name_en": "Simple Beam",
-    "name_es": "Simple Beam",
+    "name_es": "Onda Simple",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -89507,7 +89507,7 @@
   {
     "move_key": "sing",
     "name_en": "Sing",
-    "name_es": "Sing",
+    "name_es": "Canto",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -89564,7 +89564,7 @@
   {
     "move_key": "skill_swap",
     "name_en": "Skill Swap",
-    "name_es": "Skill Swap",
+    "name_es": "Intercambio",
     "confirmed_user_count": 40,
     "inferred_user_count": 0,
     "move_pool_user_count": 40,
@@ -89936,7 +89936,7 @@
   {
     "move_key": "skitter_smack",
     "name_en": "Skitter Smack",
-    "name_es": "Skitter Smack",
+    "name_es": "Golpe Rastrero",
     "confirmed_user_count": 28,
     "inferred_user_count": 0,
     "move_pool_user_count": 28,
@@ -90200,7 +90200,7 @@
   {
     "move_key": "skull_bash",
     "name_en": "Skull Bash",
-    "name_es": "Skull Bash",
+    "name_es": "Cabezazo",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -90221,7 +90221,7 @@
   {
     "move_key": "sky_attack",
     "name_en": "Sky Attack",
-    "name_es": "Sky Attack",
+    "name_es": "Ataque Aéreo",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -90314,7 +90314,7 @@
   {
     "move_key": "slack_off",
     "name_en": "Slack Off",
-    "name_es": "Slack Off",
+    "name_es": "Relajo",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -90407,7 +90407,7 @@
   {
     "move_key": "sleep_powder",
     "name_en": "Sleep Powder",
-    "name_es": "Sleep Powder",
+    "name_es": "Somnífero",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -90455,7 +90455,7 @@
   {
     "move_key": "sleep_talk",
     "name_en": "Sleep Talk",
-    "name_es": "Sleep Talk",
+    "name_es": "Sonámbulo",
     "confirmed_user_count": 205,
     "inferred_user_count": 0,
     "move_pool_user_count": 205,
@@ -92312,7 +92312,7 @@
   {
     "move_key": "sludge_bomb",
     "name_en": "Sludge Bomb",
-    "name_es": "Sludge Bomb",
+    "name_es": "Bomba Lodo",
     "confirmed_user_count": 31,
     "inferred_user_count": 0,
     "move_pool_user_count": 31,
@@ -92603,7 +92603,7 @@
   {
     "move_key": "sludge_wave",
     "name_en": "Sludge Wave",
-    "name_es": "Sludge Wave",
+    "name_es": "Onda Tóxica",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -92786,7 +92786,7 @@
   {
     "move_key": "smack_down",
     "name_en": "Smack Down",
-    "name_es": "Smack Down",
+    "name_es": "Antiaéreo",
     "confirmed_user_count": 33,
     "inferred_user_count": 0,
     "move_pool_user_count": 33,
@@ -93095,7 +93095,7 @@
   {
     "move_key": "smart_strike",
     "name_en": "Smart Strike",
-    "name_es": "Smart Strike",
+    "name_es": "Cuerno Certero",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -93224,7 +93224,7 @@
   {
     "move_key": "snap_trap",
     "name_en": "Snap Trap",
-    "name_es": "Snap Trap",
+    "name_es": "Cepo",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -93245,7 +93245,7 @@
   {
     "move_key": "snarl",
     "name_en": "Snarl",
-    "name_es": "Snarl",
+    "name_es": "Alarido",
     "confirmed_user_count": 33,
     "inferred_user_count": 0,
     "move_pool_user_count": 33,
@@ -93554,7 +93554,7 @@
   {
     "move_key": "snore",
     "name_en": "Snore",
-    "name_es": "Snore",
+    "name_es": "Ronquido",
     "confirmed_user_count": 176,
     "inferred_user_count": 0,
     "move_pool_user_count": 176,
@@ -95441,7 +95441,7 @@
   {
     "move_key": "soak",
     "name_en": "Soak",
-    "name_es": "Soak",
+    "name_es": "Anegar",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -95525,7 +95525,7 @@
   {
     "move_key": "solar_beam",
     "name_en": "Solar Beam",
-    "name_es": "Solar Beam",
+    "name_es": "Rayo Solar",
     "confirmed_user_count": 67,
     "inferred_user_count": 0,
     "move_pool_user_count": 67,
@@ -96140,7 +96140,7 @@
   {
     "move_key": "solar_blade",
     "name_en": "Solar Blade",
-    "name_es": "Solar Blade",
+    "name_es": "Cuchilla Solar",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -96233,7 +96233,7 @@
   {
     "move_key": "sparkling_aria",
     "name_en": "Sparkling Aria",
-    "name_es": "Sparkling Aria",
+    "name_es": "Aria Burbuja",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -96254,7 +96254,7 @@
   {
     "move_key": "speed_swap",
     "name_en": "Speed Swap",
-    "name_es": "Speed Swap",
+    "name_es": "Cambiavelocidad",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -96314,7 +96314,7 @@
   {
     "move_key": "spikes",
     "name_en": "Spikes",
-    "name_es": "Spikes",
+    "name_es": "Púas",
     "confirmed_user_count": 16,
     "inferred_user_count": 0,
     "move_pool_user_count": 16,
@@ -96470,7 +96470,7 @@
   {
     "move_key": "spiky_shield",
     "name_en": "Spiky Shield",
-    "name_es": "Spiky Shield",
+    "name_es": "Barrera Espinosa",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -96500,7 +96500,7 @@
   {
     "move_key": "spirit_shackle",
     "name_en": "Spirit Shackle",
-    "name_es": "Spirit Shackle",
+    "name_es": "Puntada Sombría",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -96521,7 +96521,7 @@
   {
     "move_key": "spit_up",
     "name_en": "Spit Up",
-    "name_es": "Spit Up",
+    "name_es": "Escupir",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -96605,7 +96605,7 @@
   {
     "move_key": "spite",
     "name_en": "Spite",
-    "name_es": "Spite",
+    "name_es": "Rencor",
     "confirmed_user_count": 45,
     "inferred_user_count": 0,
     "move_pool_user_count": 45,
@@ -97022,7 +97022,7 @@
   {
     "move_key": "splash",
     "name_en": "Splash",
-    "name_es": "Splash",
+    "name_es": "Salpicadura",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -97043,7 +97043,7 @@
   {
     "move_key": "stealth_rock",
     "name_en": "Stealth Rock",
-    "name_es": "Stealth Rock",
+    "name_es": "Trampa Rocas",
     "confirmed_user_count": 41,
     "inferred_user_count": 0,
     "move_pool_user_count": 41,
@@ -97424,7 +97424,7 @@
   {
     "move_key": "steel_beam",
     "name_en": "Steel Beam",
-    "name_es": "Steel Beam",
+    "name_es": "Metaláser",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -97598,7 +97598,7 @@
   {
     "move_key": "steel_roller",
     "name_en": "Steel Roller",
-    "name_es": "Steel Roller",
+    "name_es": "Allanador Férreo",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -97673,7 +97673,7 @@
   {
     "move_key": "steel_wing",
     "name_en": "Steel Wing",
-    "name_es": "Steel Wing",
+    "name_es": "Ala de Acero",
     "confirmed_user_count": 20,
     "inferred_user_count": 0,
     "move_pool_user_count": 20,
@@ -97865,7 +97865,7 @@
   {
     "move_key": "sticky_web",
     "name_en": "Sticky Web",
-    "name_es": "Sticky Web",
+    "name_es": "Red Viscosa",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -97904,7 +97904,7 @@
   {
     "move_key": "stockpile",
     "name_en": "Stockpile",
-    "name_es": "Stockpile",
+    "name_es": "Reserva",
     "confirmed_user_count": 10,
     "inferred_user_count": 0,
     "move_pool_user_count": 10,
@@ -98006,7 +98006,7 @@
   {
     "move_key": "stomp",
     "name_en": "Stomp",
-    "name_es": "Stomp",
+    "name_es": "Pisotón",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -98027,7 +98027,7 @@
   {
     "move_key": "stomping_tantrum",
     "name_en": "Stomping Tantrum",
-    "name_es": "Stomping Tantrum",
+    "name_es": "Pataleta",
     "confirmed_user_count": 59,
     "inferred_user_count": 0,
     "move_pool_user_count": 59,
@@ -98591,7 +98591,7 @@
   {
     "move_key": "stone_edge",
     "name_en": "Stone Edge",
-    "name_es": "Stone Edge",
+    "name_es": "Roca Afilada",
     "confirmed_user_count": 56,
     "inferred_user_count": 0,
     "move_pool_user_count": 56,
@@ -99107,7 +99107,7 @@
   {
     "move_key": "stored_power",
     "name_en": "Stored Power",
-    "name_es": "Stored Power",
+    "name_es": "Poder Reserva",
     "confirmed_user_count": 46,
     "inferred_user_count": 0,
     "move_pool_user_count": 46,
@@ -99533,7 +99533,7 @@
   {
     "move_key": "storm_throw",
     "name_en": "Storm Throw",
-    "name_es": "Storm Throw",
+    "name_es": "Llave Corsé",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -99581,7 +99581,7 @@
   {
     "move_key": "strength_sap",
     "name_en": "Strength Sap",
-    "name_es": "Strength Sap",
+    "name_es": "Absorbefuerza",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -99620,7 +99620,7 @@
   {
     "move_key": "string_shot",
     "name_en": "String Shot",
-    "name_es": "String Shot",
+    "name_es": "Disparo Demora",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -99677,7 +99677,7 @@
   {
     "move_key": "struggle_bug",
     "name_en": "Struggle Bug",
-    "name_es": "Struggle Bug",
+    "name_es": "Estoicismo",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -99761,7 +99761,7 @@
   {
     "move_key": "stuff_cheeks",
     "name_en": "Stuff Cheeks",
-    "name_es": "Stuff Cheeks",
+    "name_es": "Atiborramiento",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -99800,7 +99800,7 @@
   {
     "move_key": "stun_spore",
     "name_en": "Stun Spore",
-    "name_es": "Stun Spore",
+    "name_es": "Paralizador",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -99857,7 +99857,7 @@
   {
     "move_key": "substitute",
     "name_en": "Substitute",
-    "name_es": "Substitute",
+    "name_es": "Sustituto",
     "confirmed_user_count": 207,
     "inferred_user_count": 0,
     "move_pool_user_count": 207,
@@ -101732,7 +101732,7 @@
   {
     "move_key": "sucker_punch",
     "name_en": "Sucker Punch",
-    "name_es": "Sucker Punch",
+    "name_es": "Golpe Bajo",
     "confirmed_user_count": 33,
     "inferred_user_count": 0,
     "move_pool_user_count": 33,
@@ -102041,7 +102041,7 @@
   {
     "move_key": "sunny_day",
     "name_en": "Sunny Day",
-    "name_es": "Sunny Day",
+    "name_es": "Día Soleado",
     "confirmed_user_count": 150,
     "inferred_user_count": 0,
     "move_pool_user_count": 150,
@@ -103403,7 +103403,7 @@
   {
     "move_key": "super_fang",
     "name_en": "Super Fang",
-    "name_es": "Super Fang",
+    "name_es": "Superdiente",
     "confirmed_user_count": 10,
     "inferred_user_count": 0,
     "move_pool_user_count": 10,
@@ -103505,7 +103505,7 @@
   {
     "move_key": "supercell_slam",
     "name_en": "Supercell Slam",
-    "name_es": "Supercell Slam",
+    "name_es": "Plancha Voltaica",
     "confirmed_user_count": 7,
     "inferred_user_count": 0,
     "move_pool_user_count": 7,
@@ -103580,7 +103580,7 @@
   {
     "move_key": "superpower",
     "name_en": "Superpower",
-    "name_es": "Superpower",
+    "name_es": "Fuerza Bruta",
     "confirmed_user_count": 45,
     "inferred_user_count": 0,
     "move_pool_user_count": 45,
@@ -104531,7 +104531,7 @@
   {
     "move_key": "swagger",
     "name_en": "Swagger",
-    "name_es": "Swagger",
+    "name_es": "Contoneo",
     "confirmed_user_count": 34,
     "inferred_user_count": 0,
     "move_pool_user_count": 34,
@@ -104849,7 +104849,7 @@
   {
     "move_key": "swallow",
     "name_en": "Swallow",
-    "name_es": "Swallow",
+    "name_es": "Tragar",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -104942,7 +104942,7 @@
   {
     "move_key": "sweet_kiss",
     "name_en": "Sweet Kiss",
-    "name_es": "Sweet Kiss",
+    "name_es": "Beso Dulce",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -105035,7 +105035,7 @@
   {
     "move_key": "sweet_scent",
     "name_en": "Sweet Scent",
-    "name_es": "Sweet Scent",
+    "name_es": "Dulce Aroma",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -105164,7 +105164,7 @@
   {
     "move_key": "swift",
     "name_en": "Swift",
-    "name_es": "Swift",
+    "name_es": "Rapidez",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -105194,7 +105194,7 @@
   {
     "move_key": "switcheroo",
     "name_en": "Switcheroo",
-    "name_es": "Switcheroo",
+    "name_es": "Trapicheo",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -105323,7 +105323,7 @@
   {
     "move_key": "swords_dance",
     "name_en": "Swords Dance",
-    "name_es": "Swords Dance",
+    "name_es": "Danza Espada",
     "confirmed_user_count": 59,
     "inferred_user_count": 0,
     "move_pool_user_count": 59,
@@ -105866,7 +105866,7 @@
   {
     "move_key": "synthesis",
     "name_en": "Synthesis",
-    "name_es": "Synthesis",
+    "name_es": "Síntesis",
     "confirmed_user_count": 13,
     "inferred_user_count": 0,
     "move_pool_user_count": 13,
@@ -106016,7 +106016,7 @@
   {
     "move_key": "tackle",
     "name_en": "Tackle",
-    "name_es": "Tackle",
+    "name_es": "Placaje",
     "confirmed_user_count": 2,
     "inferred_user_count": 0,
     "move_pool_user_count": 2,
@@ -106046,7 +106046,7 @@
   {
     "move_key": "tail_slap",
     "name_en": "Tail Slap",
-    "name_es": "Tail Slap",
+    "name_es": "Plumerazo",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -106103,7 +106103,7 @@
   {
     "move_key": "tailwind",
     "name_en": "Tailwind",
-    "name_es": "Tailwind",
+    "name_es": "Viento Afín",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -106286,7 +106286,7 @@
   {
     "move_key": "take_down",
     "name_en": "Take Down",
-    "name_es": "Take Down",
+    "name_es": "Derribo",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -106352,7 +106352,7 @@
   {
     "move_key": "taunt",
     "name_en": "Taunt",
-    "name_es": "Taunt",
+    "name_es": "Mofa",
     "confirmed_user_count": 71,
     "inferred_user_count": 0,
     "move_pool_user_count": 71,
@@ -107003,7 +107003,7 @@
   {
     "move_key": "tearful_look",
     "name_en": "Tearful Look",
-    "name_es": "Tearful Look",
+    "name_es": "Ojos Llorosos",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -107051,7 +107051,7 @@
   {
     "move_key": "teatime",
     "name_en": "Teatime",
-    "name_es": "Teatime",
+    "name_es": "Hora del Té",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -107072,7 +107072,7 @@
   {
     "move_key": "teeter_dance",
     "name_en": "Teeter Dance",
-    "name_es": "Teeter Dance",
+    "name_es": "Danza Caos",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -107111,7 +107111,7 @@
   {
     "move_key": "temper_flare",
     "name_en": "Temper Flare",
-    "name_es": "Temper Flare",
+    "name_es": "Cólera Ardiente",
     "confirmed_user_count": 22,
     "inferred_user_count": 0,
     "move_pool_user_count": 22,
@@ -107321,7 +107321,7 @@
   {
     "move_key": "terrain_pulse",
     "name_en": "Terrain Pulse",
-    "name_es": "Terrain Pulse",
+    "name_es": "Pulso de Campo",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -107405,7 +107405,7 @@
   {
     "move_key": "thief",
     "name_en": "Thief",
-    "name_es": "Thief",
+    "name_es": "Ladrón",
     "confirmed_user_count": 104,
     "inferred_user_count": 0,
     "move_pool_user_count": 104,
@@ -108353,7 +108353,7 @@
   {
     "move_key": "thrash",
     "name_en": "Thrash",
-    "name_es": "Thrash",
+    "name_es": "Golpe",
     "confirmed_user_count": 28,
     "inferred_user_count": 0,
     "move_pool_user_count": 28,
@@ -108617,7 +108617,7 @@
   {
     "move_key": "throat_chop",
     "name_en": "Throat Chop",
-    "name_es": "Throat Chop",
+    "name_es": "Golpe Mordaza",
     "confirmed_user_count": 47,
     "inferred_user_count": 0,
     "move_pool_user_count": 47,
@@ -109052,7 +109052,7 @@
   {
     "move_key": "thunder",
     "name_en": "Thunder",
-    "name_es": "Thunder",
+    "name_es": "Trueno",
     "confirmed_user_count": 52,
     "inferred_user_count": 0,
     "move_pool_user_count": 52,
@@ -109532,7 +109532,7 @@
   {
     "move_key": "thunder_fang",
     "name_en": "Thunder Fang",
-    "name_es": "Thunder Fang",
+    "name_es": "Colmillo Rayo",
     "confirmed_user_count": 24,
     "inferred_user_count": 0,
     "move_pool_user_count": 24,
@@ -109760,7 +109760,7 @@
   {
     "move_key": "thunder_punch",
     "name_en": "Thunder Punch",
-    "name_es": "Thunder Punch",
+    "name_es": "Puño Trueno",
     "confirmed_user_count": 49,
     "inferred_user_count": 0,
     "move_pool_user_count": 49,
@@ -110213,7 +110213,7 @@
   {
     "move_key": "thunder_wave",
     "name_en": "Thunder Wave",
-    "name_es": "Thunder Wave",
+    "name_es": "Onda Trueno",
     "confirmed_user_count": 66,
     "inferred_user_count": 0,
     "move_pool_user_count": 66,
@@ -110819,7 +110819,7 @@
   {
     "move_key": "thunderbolt",
     "name_en": "Thunderbolt",
-    "name_es": "Thunderbolt",
+    "name_es": "Rayo",
     "confirmed_user_count": 58,
     "inferred_user_count": 0,
     "move_pool_user_count": 58,
@@ -111353,7 +111353,7 @@
   {
     "move_key": "tickle",
     "name_en": "Tickle",
-    "name_es": "Tickle",
+    "name_es": "Cosquillas",
     "confirmed_user_count": 26,
     "inferred_user_count": 0,
     "move_pool_user_count": 26,
@@ -111641,7 +111641,7 @@
   {
     "move_key": "torment",
     "name_en": "Torment",
-    "name_es": "Torment",
+    "name_es": "Tormento",
     "confirmed_user_count": 15,
     "inferred_user_count": 0,
     "move_pool_user_count": 15,
@@ -111788,7 +111788,7 @@
   {
     "move_key": "toxic",
     "name_en": "Toxic",
-    "name_es": "Toxic",
+    "name_es": "Tóxico",
     "confirmed_user_count": 26,
     "inferred_user_count": 0,
     "move_pool_user_count": 26,
@@ -112034,7 +112034,7 @@
   {
     "move_key": "toxic_spikes",
     "name_en": "Toxic Spikes",
-    "name_es": "Toxic Spikes",
+    "name_es": "Púas Tóxicas",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -112217,7 +112217,7 @@
   {
     "move_key": "toxic_thread",
     "name_en": "Toxic Thread",
-    "name_es": "Toxic Thread",
+    "name_es": "Hilo Venenoso",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -112997,7 +112997,7 @@
   {
     "move_key": "transform",
     "name_en": "Transform",
-    "name_es": "Transform",
+    "name_es": "Transformación",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -113018,7 +113018,7 @@
   {
     "move_key": "tri_attack",
     "name_en": "Tri Attack",
-    "name_es": "Tri Attack",
+    "name_es": "Triataque",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -113129,7 +113129,7 @@
   {
     "move_key": "trick",
     "name_en": "Trick",
-    "name_es": "Trick",
+    "name_es": "Truco",
     "confirmed_user_count": 47,
     "inferred_user_count": 0,
     "move_pool_user_count": 47,
@@ -113564,7 +113564,7 @@
   {
     "move_key": "trick_or_treat",
     "name_en": "Trick-or-Treat",
-    "name_es": "Trick-or-Treat",
+    "name_es": "Halloween",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -113585,7 +113585,7 @@
   {
     "move_key": "trick_room",
     "name_en": "Trick Room",
-    "name_es": "Trick Room",
+    "name_es": "Espacio Raro",
     "confirmed_user_count": 38,
     "inferred_user_count": 0,
     "move_pool_user_count": 38,
@@ -114098,7 +114098,7 @@
   {
     "move_key": "trop_kick",
     "name_en": "Trop Kick",
-    "name_es": "Trop Kick",
+    "name_es": "Patada Tropical",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -114140,7 +114140,7 @@
   {
     "move_key": "u_turn",
     "name_en": "U-turn",
-    "name_es": "U-turn",
+    "name_es": "Ida y Vuelta",
     "confirmed_user_count": 38,
     "inferred_user_count": 0,
     "move_pool_user_count": 38,
@@ -114494,7 +114494,7 @@
   {
     "move_key": "upper_hand",
     "name_en": "Upper Hand",
-    "name_es": "Upper Hand",
+    "name_es": "Palma Rauda",
     "confirmed_user_count": 22,
     "inferred_user_count": 0,
     "move_pool_user_count": 22,
@@ -114704,7 +114704,7 @@
   {
     "move_key": "uproar",
     "name_en": "Uproar",
-    "name_es": "Uproar",
+    "name_es": "Alboroto",
     "confirmed_user_count": 60,
     "inferred_user_count": 0,
     "move_pool_user_count": 60,
@@ -115256,7 +115256,7 @@
   {
     "move_key": "vacuum_wave",
     "name_en": "Vacuum Wave",
-    "name_es": "Vacuum Wave",
+    "name_es": "Onda Vacío",
     "confirmed_user_count": 16,
     "inferred_user_count": 0,
     "move_pool_user_count": 16,
@@ -115412,7 +115412,7 @@
   {
     "move_key": "venoshock",
     "name_en": "Venoshock",
-    "name_es": "Venoshock",
+    "name_es": "Carga Tóxica",
     "confirmed_user_count": 18,
     "inferred_user_count": 0,
     "move_pool_user_count": 18,
@@ -115586,7 +115586,7 @@
   {
     "move_key": "volt_switch",
     "name_en": "Volt Switch",
-    "name_es": "Volt Switch",
+    "name_es": "Voltiocambio",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -115769,7 +115769,7 @@
   {
     "move_key": "volt_tackle",
     "name_en": "Volt Tackle",
-    "name_es": "Volt Tackle",
+    "name_es": "Placaje Eléc",
     "confirmed_user_count": 3,
     "inferred_user_count": 0,
     "move_pool_user_count": 3,
@@ -115808,7 +115808,7 @@
   {
     "move_key": "water_gun",
     "name_en": "Water Gun",
-    "name_es": "Water Gun",
+    "name_es": "Pistola Agua",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -115829,7 +115829,7 @@
   {
     "move_key": "water_pulse",
     "name_en": "Water Pulse",
-    "name_es": "Water Pulse",
+    "name_es": "Hidropulso",
     "confirmed_user_count": 41,
     "inferred_user_count": 0,
     "move_pool_user_count": 41,
@@ -116210,7 +116210,7 @@
   {
     "move_key": "water_shuriken",
     "name_en": "Water Shuriken",
-    "name_es": "Water Shuriken",
+    "name_es": "Shuriken de Agua",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -116231,7 +116231,7 @@
   {
     "move_key": "water_spout",
     "name_en": "Water Spout",
-    "name_es": "Water Spout",
+    "name_es": "Salpicar",
     "confirmed_user_count": 1,
     "inferred_user_count": 0,
     "move_pool_user_count": 1,
@@ -116252,7 +116252,7 @@
   {
     "move_key": "waterfall",
     "name_en": "Waterfall",
-    "name_es": "Waterfall",
+    "name_es": "Cascada",
     "confirmed_user_count": 25,
     "inferred_user_count": 0,
     "move_pool_user_count": 25,
@@ -116564,7 +116564,7 @@
   {
     "move_key": "weather_ball",
     "name_en": "Weather Ball",
-    "name_es": "Weather Ball",
+    "name_es": "Meteorobola",
     "confirmed_user_count": 40,
     "inferred_user_count": 0,
     "move_pool_user_count": 40,
@@ -116936,7 +116936,7 @@
   {
     "move_key": "whirlpool",
     "name_en": "Whirlpool",
-    "name_es": "Whirlpool",
+    "name_es": "Torbellino",
     "confirmed_user_count": 26,
     "inferred_user_count": 0,
     "move_pool_user_count": 26,
@@ -117182,7 +117182,7 @@
   {
     "move_key": "whirlwind",
     "name_en": "Whirlwind",
-    "name_es": "Whirlwind",
+    "name_es": "Remolino",
     "confirmed_user_count": 11,
     "inferred_user_count": 0,
     "move_pool_user_count": 11,
@@ -117293,7 +117293,7 @@
   {
     "move_key": "wide_guard",
     "name_en": "Wide Guard",
-    "name_es": "Wide Guard",
+    "name_es": "Vastaguardia",
     "confirmed_user_count": 17,
     "inferred_user_count": 0,
     "move_pool_user_count": 17,
@@ -117458,7 +117458,7 @@
   {
     "move_key": "wild_charge",
     "name_en": "Wild Charge",
-    "name_es": "Wild Charge",
+    "name_es": "Voltio Cruel",
     "confirmed_user_count": 28,
     "inferred_user_count": 0,
     "move_pool_user_count": 28,
@@ -117722,7 +117722,7 @@
   {
     "move_key": "will_o_wisp",
     "name_en": "Will-O-Wisp",
-    "name_es": "Will-O-Wisp",
+    "name_es": "Fuego Fatuo",
     "confirmed_user_count": 47,
     "inferred_user_count": 0,
     "move_pool_user_count": 47,
@@ -118157,7 +118157,7 @@
   {
     "move_key": "wish",
     "name_en": "Wish",
-    "name_es": "Wish",
+    "name_es": "Deseo",
     "confirmed_user_count": 19,
     "inferred_user_count": 0,
     "move_pool_user_count": 19,
@@ -118340,7 +118340,7 @@
   {
     "move_key": "wonder_room",
     "name_en": "Wonder Room",
-    "name_es": "Wonder Room",
+    "name_es": "Zona Extraña",
     "confirmed_user_count": 27,
     "inferred_user_count": 0,
     "move_pool_user_count": 27,
@@ -118595,7 +118595,7 @@
   {
     "move_key": "wood_hammer",
     "name_en": "Wood Hammer",
-    "name_es": "Wood Hammer",
+    "name_es": "Mazazo",
     "confirmed_user_count": 6,
     "inferred_user_count": 0,
     "move_pool_user_count": 6,
@@ -118661,7 +118661,7 @@
   {
     "move_key": "work_up",
     "name_en": "Work Up",
-    "name_es": "Work Up",
+    "name_es": "Avivar",
     "confirmed_user_count": 4,
     "inferred_user_count": 0,
     "move_pool_user_count": 4,
@@ -118709,7 +118709,7 @@
   {
     "move_key": "worry_seed",
     "name_en": "Worry Seed",
-    "name_es": "Worry Seed",
+    "name_es": "Abatidoras",
     "confirmed_user_count": 9,
     "inferred_user_count": 0,
     "move_pool_user_count": 9,
@@ -118802,7 +118802,7 @@
   {
     "move_key": "wrap",
     "name_en": "Wrap",
-    "name_es": "Wrap",
+    "name_es": "Constricción",
     "confirmed_user_count": 8,
     "inferred_user_count": 0,
     "move_pool_user_count": 8,
@@ -118886,7 +118886,7 @@
   {
     "move_key": "x_scissor",
     "name_en": "X-Scissor",
-    "name_es": "X-Scissor",
+    "name_es": "Tijera X",
     "confirmed_user_count": 27,
     "inferred_user_count": 0,
     "move_pool_user_count": 27,
@@ -119141,7 +119141,7 @@
   {
     "move_key": "yawn",
     "name_en": "Yawn",
-    "name_es": "Yawn",
+    "name_es": "Bostezo",
     "confirmed_user_count": 32,
     "inferred_user_count": 0,
     "move_pool_user_count": 32,
@@ -119441,7 +119441,7 @@
   {
     "move_key": "zap_cannon",
     "name_en": "Zap Cannon",
-    "name_es": "Zap Cannon",
+    "name_es": "Electrocañón",
     "confirmed_user_count": 5,
     "inferred_user_count": 0,
     "move_pool_user_count": 5,
@@ -119498,7 +119498,7 @@
   {
     "move_key": "zen_headbutt",
     "name_en": "Zen Headbutt",
-    "name_es": "Zen Headbutt",
+    "name_es": "Cabezazo Zen",
     "confirmed_user_count": 69,
     "inferred_user_count": 0,
     "move_pool_user_count": 69,

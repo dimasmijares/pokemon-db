@@ -11,10 +11,85 @@
     "pokemon_moves_count": 14172,
     "champions_move_pool_count": 12657,
     "observed_set_count": 1515,
-    "matchups_count": 168
+    "matchups_count": 168,
+    "abilities_description_es_coverage": 174,
+    "moves_effect_short_es_coverage": 469,
+    "moves_effect_long_es_coverage": 469,
+    "items_effect_short_es_coverage": 0,
+    "items_effect_long_es_coverage": 0
+  },
+  "localization_metrics": {
+    "pokemon_name_es": {
+      "filled": 208,
+      "total": 208,
+      "pct": 100.0
+    },
+    "abilities_name_es": {
+      "filled": 190,
+      "total": 190,
+      "pct": 100.0
+    },
+    "abilities_description_es": {
+      "filled": 174,
+      "total": 190,
+      "pct": 91.6
+    },
+    "moves_name_es": {
+      "filled": 518,
+      "total": 518,
+      "pct": 100.0
+    },
+    "moves_effect_short_es": {
+      "filled": 469,
+      "total": 518,
+      "pct": 90.5
+    },
+    "moves_effect_long_es": {
+      "filled": 469,
+      "total": 518,
+      "pct": 90.5
+    },
+    "items_name_es": {
+      "filled": 161,
+      "total": 161,
+      "pct": 100.0
+    },
+    "items_effect_short_es": {
+      "filled": 0,
+      "total": 161,
+      "pct": 0.0
+    },
+    "items_effect_long_es": {
+      "filled": 0,
+      "total": 161,
+      "pct": 0.0
+    },
+    "roles_name_es": {
+      "filled": 6,
+      "total": 6,
+      "pct": 100.0
+    },
+    "roles_description_es": {
+      "filled": 6,
+      "total": 6,
+      "pct": 100.0
+    },
+    "archetypes_name_es": {
+      "filled": 9,
+      "total": 9,
+      "pct": 100.0
+    },
+    "archetypes_description_es": {
+      "filled": 9,
+      "total": 9,
+      "pct": 100.0
+    }
   },
   "warnings": [
-    "species_key repetido en 16 especies con formas"
+    "species_key repetido en 16 especies con formas",
+    "cobertura ES incompleta en descriptions de abilities",
+    "cobertura ES incompleta en effect_short de moves",
+    "cobertura ES incompleta en effect_short de items"
   ],
   "failures": [],
   "sync_summary": {

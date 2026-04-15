@@ -32,6 +32,10 @@ def missing_translation_count(rows: list[dict[str, str]], en_col: str, es_col: s
     return sum(1 for row in rows if row.get(en_col) and not row.get(es_col))
 
 
+def filled_translation_count(rows: list[dict[str, str]], column: str) -> int:
+    return sum(1 for row in rows if (row.get(column) or "").strip())
+
+
 def orphan_count(rows: list[dict[str, str]], key: str, valid_keys: set[str]) -> int:
     return sum(1 for row in rows if row.get(key) and row.get(key) not in valid_keys)
 
@@ -122,6 +126,33 @@ def main() -> int:
         print(f"- WARN: faltan {missing_name_es} traducciones en pokemon.csv")
     else:
         print("- OK: traducciones presentes en pokemon.csv")
+
+    print_section("Cobertura localizada ES")
+    localization_metrics = {
+        "pokemon_name_es": (filled_translation_count(pokemon_rows, "name_es"), len(pokemon_rows)),
+        "abilities_name_es": (filled_translation_count(abilities_rows, "name_es"), len(abilities_rows)),
+        "abilities_description_es": (filled_translation_count(abilities_rows, "description_es"), len(abilities_rows)),
+        "moves_name_es": (filled_translation_count(moves_rows, "name_es"), len(moves_rows)),
+        "moves_effect_short_es": (filled_translation_count(moves_rows, "effect_short_es"), len(moves_rows)),
+        "moves_effect_long_es": (filled_translation_count(moves_rows, "effect_long_es"), len(moves_rows)),
+        "items_name_es": (filled_translation_count(items_rows, "name_es"), len(items_rows)),
+        "items_effect_short_es": (filled_translation_count(items_rows, "effect_short_es"), len(items_rows)),
+        "items_effect_long_es": (filled_translation_count(items_rows, "effect_long_es"), len(items_rows)),
+        "roles_name_es": (filled_translation_count(roles_rows, "name_es"), len(roles_rows)),
+        "roles_description_es": (filled_translation_count(roles_rows, "description_es"), len(roles_rows)),
+        "archetypes_name_es": (filled_translation_count(archetypes_rows, "name_es"), len(archetypes_rows)),
+        "archetypes_description_es": (filled_translation_count(archetypes_rows, "description_es"), len(archetypes_rows)),
+    }
+    for metric_name, (filled, total) in localization_metrics.items():
+        pct = (filled / total * 100) if total else 0
+        print(f"- {metric_name}: {filled}/{total} ({pct:.1f}%)")
+
+    if localization_metrics["abilities_description_es"][0] < localization_metrics["abilities_description_es"][1]:
+        warnings.append("cobertura ES incompleta en descriptions de abilities")
+    if localization_metrics["moves_effect_short_es"][0] < localization_metrics["moves_effect_short_es"][1]:
+        warnings.append("cobertura ES incompleta en effect_short de moves")
+    if localization_metrics["items_effect_short_es"][0] < localization_metrics["items_effect_short_es"][1]:
+        warnings.append("cobertura ES incompleta en effect_short de items")
 
     print_section("Validaciones referenciales")
     ref_checks = [
@@ -265,6 +296,19 @@ def main() -> int:
             "champions_move_pool_count": sum(1 for row in pokemon_moves_rows if row.get("availability_status") == "champions_move_pool"),
             "observed_set_count": sum(1 for row in pokemon_moves_rows if row.get("availability_status") == "observed_set"),
             "matchups_count": len(matchups_rows),
+            "abilities_description_es_coverage": localization_metrics["abilities_description_es"][0],
+            "moves_effect_short_es_coverage": localization_metrics["moves_effect_short_es"][0],
+            "moves_effect_long_es_coverage": localization_metrics["moves_effect_long_es"][0],
+            "items_effect_short_es_coverage": localization_metrics["items_effect_short_es"][0],
+            "items_effect_long_es_coverage": localization_metrics["items_effect_long_es"][0],
+        },
+        "localization_metrics": {
+            metric_name: {
+                "filled": filled,
+                "total": total,
+                "pct": round((filled / total * 100), 1) if total else 0,
+            }
+            for metric_name, (filled, total) in localization_metrics.items()
         },
         "warnings": warnings,
         "failures": failures,

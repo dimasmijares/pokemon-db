@@ -1,505 +1,505 @@
 pokemon_id,pokemon_name_en,pokemon_name_es,form_name_en,form_name_es,ability_key,slot_type,is_currently_available,name_en,name_es,description_en,description_es
-3,Venusaur,Venusaur,,,overgrow,ability-1,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
-3,Venusaur,Venusaur,,,chlorophyll,hidden,1,Chlorophyll,Chlorophyll,Doubles Speed during strong sunlight.,
-6,Charizard,Charizard,,,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-6,Charizard,Charizard,,,solar_power,hidden,1,Solar Power,Solar Power,"In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but HP decreases every turn.",
-9,Blastoise,Blastoise,,,torrent,ability-1,1,Torrent,Torrent,Ups WATER moves in a pinch.,
-9,Blastoise,Blastoise,,,rain_dish,hidden,1,Rain Dish,Rain Dish,Heals for 1/16 max HP after each turn during rain.,
-15,Beedrill,Beedrill,,,swarm,ability-1,1,Swarm,Swarm,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,
-15,Beedrill,Beedrill,,,sniper,hidden,1,Sniper,Sniper,Powers up moves if they become critical hits.,
-18,Pidgeot,Pidgeot,,,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-18,Pidgeot,Pidgeot,,,tangled_feet,ability-2,1,Tangled Feet,Tangled Feet,Raises evasion if the Pokémon is confused.,
-18,Pidgeot,Pidgeot,,,big_pecks,hidden,1,Big Pecks,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,
-24,Arbok,Arbok,,,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-24,Arbok,Arbok,,,shed_skin,ability-2,1,Shed Skin,Shed Skin,Heals the body by shedding.,
-24,Arbok,Arbok,,,unnerve,hidden,1,Unnerve,Unnerve,Prevents foes from eating berries.,
-25,Pikachu,Pikachu,,,static,ability-1,1,Static,Static,Paralyzes on contact.,
-25,Pikachu,Pikachu,,,lightning_rod,hidden,1,Lightning Rod,Lightning Rod,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-26,Raichu,Raichu,,,static,ability-1,1,Static,Static,Paralyzes on contact.,
-26,Raichu,Raichu,,,lightning_rod,hidden,1,Lightning Rod,Lightning Rod,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-36,Clefable,Clefable,,,cute_charm,ability-1,1,Cute Charm,Cute Charm,Has a 30% chance of infatuating attacking Pokémon on contact.,
-36,Clefable,Clefable,,,magic_guard,ability-2,1,Magic Guard,Magic Guard,The Pokémon only takes damage from attacks.,
-36,Clefable,Clefable,,,unaware,hidden,1,Unaware,Unaware,Ignores the opposing Pokémon's stat changes.,
-38,Ninetales,Ninetales,,,flash_fire,ability-1,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-38,Ninetales,Ninetales,,,drought,hidden,1,Drought,Drought,Turns the sunlight harsh when the Pokémon enters a battle.,
-59,Arcanine,Arcanine,,,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-59,Arcanine,Arcanine,,,flash_fire,ability-2,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-59,Arcanine,Arcanine,,,justified,hidden,1,Justified,Justified,Raises Attack when hit by Dark-type moves.,
-65,Alakazam,Alakazam,,,synchronize,ability-1,1,Synchronize,Synchronize,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-65,Alakazam,Alakazam,,,inner_focus,ability-2,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-65,Alakazam,Alakazam,,,magic_guard,hidden,1,Magic Guard,Magic Guard,The Pokémon only takes damage from attacks.,
-68,Machamp,Machamp,,,guts,ability-1,1,Guts,Guts,Ups ATTACK if suffering.,
-68,Machamp,Machamp,,,no_guard,ability-2,1,No Guard,No Guard,Ensures that all moves used by and against the Pokémon land.,
-68,Machamp,Machamp,,,steadfast,hidden,1,Steadfast,Steadfast,Raises Speed one stage upon flinching.,
-71,Victreebel,Victreebel,,,chlorophyll,ability-1,1,Chlorophyll,Chlorophyll,Doubles Speed during strong sunlight.,
-71,Victreebel,Victreebel,,,gluttony,hidden,1,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,
-80,Slowbro,Slowbro,,,oblivious,ability-1,1,Oblivious,Oblivious,Prevents attraction.,
-80,Slowbro,Slowbro,,,own_tempo,ability-2,1,Own Tempo,Own Tempo,Prevents confusion.,
-80,Slowbro,Slowbro,,,regenerator,hidden,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-94,Gengar,Gengar,,,cursed_body,ability-1,1,Cursed Body,Cursed Body,Has a 30% chance of Disabling any move that hits the Pokémon.,
-115,Kangaskhan,Kangaskhan,,,early_bird,ability-1,1,Early Bird,Early Bird,Makes sleep pass twice as quickly.,
-115,Kangaskhan,Kangaskhan,,,scrappy,ability-2,1,Scrappy,Scrappy,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,
-115,Kangaskhan,Kangaskhan,,,inner_focus,hidden,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-121,Starmie,Starmie,,,illuminate,ability-1,1,Illuminate,Illuminate,"By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",
-121,Starmie,Starmie,,,natural_cure,ability-2,1,Natural Cure,Natural Cure,All status conditions heal when the Pokémon switches out.,
-121,Starmie,Starmie,,,analytic,hidden,1,Analytic,Analytic,Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn.,
-127,Pinsir,Pinsir,,,hyper_cutter,ability-1,1,Hyper Cutter,Hyper Cutter,Prevents Attack from being lowered by other Pokémon.,
-127,Pinsir,Pinsir,,,mold_breaker,ability-2,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
-127,Pinsir,Pinsir,,,moxie,hidden,1,Moxie,Moxie,Boosts Attack after knocking out any Pokémon.,
-128,Tauros,Tauros,,,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-128,Tauros,Tauros,,,anger_point,ability-2,1,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,
-128,Tauros,Tauros,,,sheer_force,hidden,1,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,
-130,Gyarados,Gyarados,,,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-130,Gyarados,Gyarados,,,moxie,hidden,1,Moxie,Moxie,Boosts Attack after knocking out any Pokémon.,
-132,Ditto,Ditto,,,limber,ability-1,1,Limber,Limber,Prevents paralysis.,
-132,Ditto,Ditto,,,imposter,hidden,1,Imposter,Imposter,Transforms into the foe on entry.,
-134,Vaporeon,Vaporeon,,,water_absorb,ability-1,1,Water Absorb,Water Absorb,Restores HP if hit by a Water-type move.,
-134,Vaporeon,Vaporeon,,,hydration,hidden,1,Hydration,Hydration,Heals status conditions when it is raining.,
-135,Jolteon,Jolteon,,,volt_absorb,ability-1,1,Volt Absorb,Volt Absorb,Turns electricity into HP.,
-135,Jolteon,Jolteon,,,quick_feet,hidden,1,Quick Feet,Quick Feet,Boosts Speed if there is a status problem.,
-136,Flareon,Flareon,,,flash_fire,ability-1,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-136,Flareon,Flareon,,,guts,hidden,1,Guts,Guts,Ups ATTACK if suffering.,
-142,Aerodactyl,Aerodactyl,,,rock_head,ability-1,1,Rock Head,Rock Head,Protects the Pokémon from recoil damage.,
-142,Aerodactyl,Aerodactyl,,,pressure,ability-2,1,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,
-142,Aerodactyl,Aerodactyl,,,unnerve,hidden,1,Unnerve,Unnerve,Prevents foes from eating berries.,
-143,Snorlax,Snorlax,,,immunity,ability-1,1,Immunity,Immunity,Prevents poison.,
-143,Snorlax,Snorlax,,,thick_fat,ability-2,1,Thick Fat,Thick Fat,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-143,Snorlax,Snorlax,,,gluttony,hidden,1,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,
-149,Dragonite,Dragonite,,,inner_focus,ability-1,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-149,Dragonite,Dragonite,,,multiscale,hidden,1,Multiscale,Multiscale,Reduces damage taken when HP is full.,
-154,Meganium,Meganium,,,overgrow,ability-1,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
+3,Venusaur,Venusaur,,,overgrow,ability-1,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
+3,Venusaur,Venusaur,,,chlorophyll,hidden,1,Chlorophyll,Clorofila,Doubles Speed during strong sunlight.,Sube la Velocidad cuando hay sol.
+6,Charizard,Charizard,,,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+6,Charizard,Charizard,,,solar_power,hidden,1,Solar Power,Poder Solar,"In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but HP decreases every turn.","Si hace sol, baja los PS, pero potencia el At. Esp."
+9,Blastoise,Blastoise,,,torrent,ability-1,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
+9,Blastoise,Blastoise,,,rain_dish,hidden,1,Rain Dish,Cura Lluvia,Heals for 1/16 max HP after each turn during rain.,Recupera PS de forma gradual cuando llueve.
+15,Beedrill,Beedrill,,,swarm,ability-1,1,Swarm,Enjambre,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Bicho en un apuro.
+15,Beedrill,Beedrill,,,sniper,hidden,1,Sniper,Francotirador,Powers up moves if they become critical hits.,Potencia los movimientos si se vuelven críticos.
+18,Pidgeot,Pidgeot,,,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+18,Pidgeot,Pidgeot,,,tangled_feet,ability-2,1,Tangled Feet,Tumbos,Raises evasion if the Pokémon is confused.,Sube la Evasión si el Pokémon está confuso.
+18,Pidgeot,Pidgeot,,,big_pecks,hidden,1,Big Pecks,Sacapecho,Protects the Pokémon from Defense-lowering attacks.,Protege de los ataques que bajan la Defensa.
+24,Arbok,Arbok,,,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+24,Arbok,Arbok,,,shed_skin,ability-2,1,Shed Skin,Mudar,Heals the body by shedding.,Cura los problemas de estado mudando la piel.
+24,Arbok,Arbok,,,unnerve,hidden,1,Unnerve,Nerviosismo,Prevents foes from eating berries.,Pone nervioso al rival y le impide usar bayas.
+25,Pikachu,Pikachu,,,static,ability-1,1,Static,Elec. Estática,Paralyzes on contact.,Puede paralizar al mínimo contacto.
+25,Pikachu,Pikachu,,,lightning_rod,hidden,1,Lightning Rod,Pararrayos,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp.
+26,Raichu,Raichu,,,static,ability-1,1,Static,Elec. Estática,Paralyzes on contact.,Puede paralizar al mínimo contacto.
+26,Raichu,Raichu,,,lightning_rod,hidden,1,Lightning Rod,Pararrayos,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp.
+36,Clefable,Clefable,,,cute_charm,ability-1,1,Cute Charm,Gran Encanto,Has a 30% chance of infatuating attacking Pokémon on contact.,Tocar al Pokémon puede causar enamoramiento.
+36,Clefable,Clefable,,,magic_guard,ability-2,1,Magic Guard,Muro Mágico,The Pokémon only takes damage from attacks.,Solo dañan al Pokémon los ataques directos.
+36,Clefable,Clefable,,,unaware,hidden,1,Unaware,Ignorante,Ignores the opposing Pokémon's stat changes.,No tiene en cuenta las mejoras en las características del rival.
+38,Ninetales,Ninetales,,,flash_fire,ability-1,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+38,Ninetales,Ninetales,,,drought,hidden,1,Drought,Sequía,Turns the sunlight harsh when the Pokémon enters a battle.,El sol sale si el Pokémon entra en combate.
+59,Arcanine,Arcanine,,,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+59,Arcanine,Arcanine,,,flash_fire,ability-2,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+59,Arcanine,Arcanine,,,justified,hidden,1,Justified,Justiciero,Raises Attack when hit by Dark-type moves.,Sube el Ataque al recibir uno de tipo Siniestro.
+65,Alakazam,Alakazam,,,synchronize,ability-1,1,Synchronize,Sincronía,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.","Contagia envenenamiento, parálisis o quemaduras."
+65,Alakazam,Alakazam,,,inner_focus,ability-2,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+65,Alakazam,Alakazam,,,magic_guard,hidden,1,Magic Guard,Muro Mágico,The Pokémon only takes damage from attacks.,Solo dañan al Pokémon los ataques directos.
+68,Machamp,Machamp,,,guts,ability-1,1,Guts,Agallas,Ups ATTACK if suffering.,Sube el Ataque si sufre un problema de estado.
+68,Machamp,Machamp,,,no_guard,ability-2,1,No Guard,Indefenso,Ensures that all moves used by and against the Pokémon land.,El movimiento del Pokémon y el del rival acertarán.
+68,Machamp,Machamp,,,steadfast,hidden,1,Steadfast,Impasible,Raises Speed one stage upon flinching.,Cada vez que retrocede sube su Velocidad.
+71,Victreebel,Victreebel,,,chlorophyll,ability-1,1,Chlorophyll,Clorofila,Doubles Speed during strong sunlight.,Sube la Velocidad cuando hay sol.
+71,Victreebel,Victreebel,,,gluttony,hidden,1,Gluttony,Gula,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,Fomenta el uso rápido de la baya que porte.
+80,Slowbro,Slowbro,,,oblivious,ability-1,1,Oblivious,Despiste,Prevents attraction.,Evita que el Pokémon sea atraído o provocado.
+80,Slowbro,Slowbro,,,own_tempo,ability-2,1,Own Tempo,Ritmo Propio,Prevents confusion.,Evita ser confundido.
+80,Slowbro,Slowbro,,,regenerator,hidden,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+94,Gengar,Gengar,,,cursed_body,ability-1,1,Cursed Body,Cuerpo Maldito,Has a 30% chance of Disabling any move that hits the Pokémon.,Puede anular el movimiento usado en su contra.
+115,Kangaskhan,Kangaskhan,,,early_bird,ability-1,1,Early Bird,Madrugar,Makes sleep pass twice as quickly.,El Pokémon se despierta rápidamente.
+115,Kangaskhan,Kangaskhan,,,scrappy,ability-2,1,Scrappy,Intrépido,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma.
+115,Kangaskhan,Kangaskhan,,,inner_focus,hidden,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+121,Starmie,Starmie,,,illuminate,ability-1,1,Illuminate,Iluminación,"By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",Aumenta la probabilidad de encontrar Pokémon.
+121,Starmie,Starmie,,,natural_cure,ability-2,1,Natural Cure,Cura Natural,All status conditions heal when the Pokémon switches out.,Cura problemas de estado al cambiar de Pokémon.
+121,Starmie,Starmie,,,analytic,hidden,1,Analytic,Cálculo Final,Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn.,Potencia el movimiento si es el último en atacar.
+127,Pinsir,Pinsir,,,hyper_cutter,ability-1,1,Hyper Cutter,Corte Fuerte,Prevents Attack from being lowered by other Pokémon.,Evita que disminuya el Ataque.
+127,Pinsir,Pinsir,,,mold_breaker,ability-2,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.
+127,Pinsir,Pinsir,,,moxie,hidden,1,Moxie,Autoestima,Boosts Attack after knocking out any Pokémon.,Potencia el Ataque al debilitar a un objetivo.
+128,Tauros,Tauros,,,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+128,Tauros,Tauros,,,anger_point,ability-2,1,Anger Point,Irascible,Raises Attack to the maximum of six stages upon receiving a critical hit.,Sube el Ataque al máximo tras un golpe crítico.
+128,Tauros,Tauros,,,sheer_force,hidden,1,Sheer Force,Potencia Bruta,Removes additional effects from moves but increases their power.,Sube la potencia y anula los efectos secundarios.
+130,Gyarados,Gyarados,,,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+130,Gyarados,Gyarados,,,moxie,hidden,1,Moxie,Autoestima,Boosts Attack after knocking out any Pokémon.,Potencia el Ataque al debilitar a un objetivo.
+132,Ditto,Ditto,,,limber,ability-1,1,Limber,Flexibilidad,Prevents paralysis.,Evita ser paralizado.
+132,Ditto,Ditto,,,imposter,hidden,1,Imposter,Impostor,Transforms into the foe on entry.,Se transforma en el Pokémon que tiene enfrente.
+134,Vaporeon,Vaporeon,,,water_absorb,ability-1,1,Water Absorb,Absorbe Agua,Restores HP if hit by a Water-type move.,Recupera PS al recibir ataques de tipo Agua.
+134,Vaporeon,Vaporeon,,,hydration,hidden,1,Hydration,Hidratación,Heals status conditions when it is raining.,Cura los problemas de estado si está lloviendo.
+135,Jolteon,Jolteon,,,volt_absorb,ability-1,1,Volt Absorb,Absorbe Elec,Turns electricity into HP.,Recupera PS al recibir ataques de tipo Eléctrico.
+135,Jolteon,Jolteon,,,quick_feet,hidden,1,Quick Feet,Pies Rápidos,Boosts Speed if there is a status problem.,Potencia la Velocidad si hay problemas de estado.
+136,Flareon,Flareon,,,flash_fire,ability-1,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+136,Flareon,Flareon,,,guts,hidden,1,Guts,Agallas,Ups ATTACK if suffering.,Sube el Ataque si sufre un problema de estado.
+142,Aerodactyl,Aerodactyl,,,rock_head,ability-1,1,Rock Head,Cabeza Roca,Protects the Pokémon from recoil damage.,Impide que el Pokémon se dañe con sus movimientos.
+142,Aerodactyl,Aerodactyl,,,pressure,ability-2,1,Pressure,Presión,Increases the PP cost of moves targetting the Pokémon by one.,Hace que los PP del rival se acaben antes.
+142,Aerodactyl,Aerodactyl,,,unnerve,hidden,1,Unnerve,Nerviosismo,Prevents foes from eating berries.,Pone nervioso al rival y le impide usar bayas.
+143,Snorlax,Snorlax,,,immunity,ability-1,1,Immunity,Inmunidad,Prevents poison.,Evita el envenenamiento.
+143,Snorlax,Snorlax,,,thick_fat,ability-2,1,Thick Fat,Sebo,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",Atenúa los ataques de tipo Fuego y Hielo.
+143,Snorlax,Snorlax,,,gluttony,hidden,1,Gluttony,Gula,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,Fomenta el uso rápido de la baya que porte.
+149,Dragonite,Dragonite,,,inner_focus,ability-1,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+149,Dragonite,Dragonite,,,multiscale,hidden,1,Multiscale,Multiescamas,Reduces damage taken when HP is full.,Reduce el daño sufrido si los PS están al máximo.
+154,Meganium,Meganium,,,overgrow,ability-1,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
 154,Meganium,Meganium,,,mega_sol,ability-3,1,Mega Sol,Mega Sol,"Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight.",
-154,Meganium,Meganium,,,leaf_guard,hidden,1,Leaf Guard,Leaf Guard,Protects against major status ailments during strong sunlight.,
-157,Typhlosion,Typhlosion,,,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-157,Typhlosion,Typhlosion,,,flash_fire,hidden,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-160,Feraligatr,Feraligatr,,,torrent,ability-1,1,Torrent,Torrent,Ups WATER moves in a pinch.,
+154,Meganium,Meganium,,,leaf_guard,hidden,1,Leaf Guard,Defensa Hoja,Protects against major status ailments during strong sunlight.,Evita los problemas de estado si hace sol.
+157,Typhlosion,Typhlosion,,,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+157,Typhlosion,Typhlosion,,,flash_fire,hidden,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+160,Feraligatr,Feraligatr,,,torrent,ability-1,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
 160,Feraligatr,Feraligatr,,,dragonize,ability-3,1,Dragonize,Dragonize,The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%.,
-160,Feraligatr,Feraligatr,,,sheer_force,hidden,1,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,
-168,Ariados,Ariados,,,swarm,ability-1,1,Swarm,Swarm,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,
-168,Ariados,Ariados,,,insomnia,ability-2,1,Insomnia,Insomnia,Prevents sleep.,
-168,Ariados,Ariados,,,sniper,hidden,1,Sniper,Sniper,Powers up moves if they become critical hits.,
-181,Ampharos,Ampharos,,,static,ability-1,1,Static,Static,Paralyzes on contact.,
-181,Ampharos,Ampharos,,,plus,hidden,1,Plus,Plus,Powers up with MINUS.,
-184,Azumarill,Azumarill,,,thick_fat,ability-1,1,Thick Fat,Thick Fat,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-184,Azumarill,Azumarill,,,huge_power,ability-2,1,Huge Power,Huge Power,Doubles the Pokémon's Attack stat.,
-184,Azumarill,Azumarill,,,sap_sipper,hidden,1,Sap Sipper,Sap Sipper,Raises Attack when hit by Grass-type moves.,
-186,Politoed,Politoed,,,water_absorb,ability-1,1,Water Absorb,Water Absorb,Restores HP if hit by a Water-type move.,
-186,Politoed,Politoed,,,damp,ability-2,1,Damp,Damp,Prevents self-destruction.,
-186,Politoed,Politoed,,,drizzle,hidden,1,Drizzle,Drizzle,Summons rain that lasts indefinitely upon entering battle.,
-196,Espeon,Espeon,,,synchronize,ability-1,1,Synchronize,Synchronize,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-196,Espeon,Espeon,,,magic_bounce,hidden,1,Magic Bounce,Magic Bounce,Reflects most non-damaging moves back at their user.,
-197,Umbreon,Umbreon,,,synchronize,ability-1,1,Synchronize,Synchronize,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-197,Umbreon,Umbreon,,,inner_focus,hidden,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-199,Slowking,Slowking,,,oblivious,ability-1,1,Oblivious,Oblivious,Prevents attraction.,
-199,Slowking,Slowking,,,own_tempo,ability-2,1,Own Tempo,Own Tempo,Prevents confusion.,
-199,Slowking,Slowking,,,regenerator,hidden,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-205,Forretress,Forretress,,,sturdy,ability-1,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-205,Forretress,Forretress,,,overcoat,hidden,1,Overcoat,Overcoat,Protects against damage from weather.,
-208,Steelix,Steelix,,,rock_head,ability-1,1,Rock Head,Rock Head,Protects the Pokémon from recoil damage.,
-208,Steelix,Steelix,,,sturdy,ability-2,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-208,Steelix,Steelix,,,sheer_force,hidden,1,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,
-212,Scizor,Scizor,,,swarm,ability-1,1,Swarm,Swarm,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,
-212,Scizor,Scizor,,,technician,ability-2,1,Technician,Technician,Powers up weak moves so the Pokémon can deal more damage with them.,
-212,Scizor,Scizor,,,light_metal,hidden,1,Light Metal,Light Metal,Halves the Pokémon's weight.,
-214,Heracross,Heracross,,,swarm,ability-1,1,Swarm,Swarm,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,
-214,Heracross,Heracross,,,guts,ability-2,1,Guts,Guts,Ups ATTACK if suffering.,
-214,Heracross,Heracross,,,moxie,hidden,1,Moxie,Moxie,Boosts Attack after knocking out any Pokémon.,
-227,Skarmory,Skarmory,,,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-227,Skarmory,Skarmory,,,sturdy,ability-2,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-227,Skarmory,Skarmory,,,weak_armor,hidden,1,Weak Armor,Weak Armor,Physical attacks lower Defense and raise Speed.,
-229,Houndoom,Houndoom,,,early_bird,ability-1,1,Early Bird,Early Bird,Makes sleep pass twice as quickly.,
-229,Houndoom,Houndoom,,,flash_fire,ability-2,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-229,Houndoom,Houndoom,,,unnerve,hidden,1,Unnerve,Unnerve,Prevents foes from eating berries.,
-248,Tyranitar,Tyranitar,,,sand_stream,ability-1,1,Sand Stream,Sand Stream,The Pokémon summons a sandstorm when it enters a battle.,
-248,Tyranitar,Tyranitar,,,unnerve,hidden,1,Unnerve,Unnerve,Prevents foes from eating berries.,
-279,Pelipper,Pelipper,,,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-279,Pelipper,Pelipper,,,drizzle,ability-2,1,Drizzle,Drizzle,Summons rain that lasts indefinitely upon entering battle.,
-279,Pelipper,Pelipper,,,rain_dish,hidden,1,Rain Dish,Rain Dish,Heals for 1/16 max HP after each turn during rain.,
-282,Gardevoir,Gardevoir,,,synchronize,ability-1,1,Synchronize,Synchronize,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.",
-282,Gardevoir,Gardevoir,,,trace,ability-2,1,Trace,Trace,"When it enters a battle, the Pokémon copies an opposing Pokémon's Ability.",
-282,Gardevoir,Gardevoir,,,telepathy,hidden,1,Telepathy,Telepathy,Protects against friendly Pokémon's damaging moves.,
-302,Sableye,Sableye,,,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-302,Sableye,Sableye,,,stall,ability-2,1,Stall,Stall,The Pokémon moves after even slower foes.,
-302,Sableye,Sableye,,,prankster,hidden,1,Prankster,Prankster,Gives priority to the Pokémon's status moves.,
-306,Aggron,Aggron,,,sturdy,ability-1,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-306,Aggron,Aggron,,,rock_head,ability-2,1,Rock Head,Rock Head,Protects the Pokémon from recoil damage.,
-306,Aggron,Aggron,,,heavy_metal,hidden,1,Heavy Metal,Heavy Metal,Doubles the Pokémon's weight.,
-308,Medicham,Medicham,,,pure_power,ability-1,1,Pure Power,Pure Power,Doubles the Pokémon's Attack stat.,
-308,Medicham,Medicham,,,telepathy,hidden,1,Telepathy,Telepathy,Protects against friendly Pokémon's damaging moves.,
-310,Manectric,Manectric,,,static,ability-1,1,Static,Static,Paralyzes on contact.,
-310,Manectric,Manectric,,,lightning_rod,ability-2,1,Lightning Rod,Lightning Rod,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-310,Manectric,Manectric,,,minus,hidden,1,Minus,Minus,Powers up with PLUS.,
-319,Sharpedo,Sharpedo,,,rough_skin,ability-1,1,Rough Skin,Rough Skin,Damages attacking Pokémon for 1/8 their max HP on contact.,
-319,Sharpedo,Sharpedo,,,speed_boost,hidden,1,Speed Boost,Speed Boost,Gradually boosts SPEED.,
-323,Camerupt,Camerupt,,,magma_armor,ability-1,1,Magma Armor,Magma Armor,Prevents freezing.,
-323,Camerupt,Camerupt,,,solid_rock,ability-2,1,Solid Rock,Solid Rock,Decreases damage taken from super-effective moves by 1/4.,
-323,Camerupt,Camerupt,,,anger_point,hidden,1,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,
-324,Torkoal,Torkoal,,,white_smoke,ability-1,1,White Smoke,White Smoke,Prevents stats from being lowered by other Pokémon.,
-324,Torkoal,Torkoal,,,drought,ability-2,1,Drought,Drought,Turns the sunlight harsh when the Pokémon enters a battle.,
-324,Torkoal,Torkoal,,,shell_armor,hidden,1,Shell Armor,Shell Armor,A hard shell protects the Pokémon from critical hits.,
-334,Altaria,Altaria,,,natural_cure,ability-1,1,Natural Cure,Natural Cure,All status conditions heal when the Pokémon switches out.,
-334,Altaria,Altaria,,,cloud_nine,hidden,1,Cloud Nine,Cloud Nine,"Negates all effects of weather, but does not prevent the weather itself.",
-350,Milotic,Milotic,,,marvel_scale,ability-1,1,Marvel Scale,Marvel Scale,Increases Defense to 1.5× with a major status ailment.,
-350,Milotic,Milotic,,,competitive,ability-2,1,Competitive,Competitive,Boosts the Sp. Atk stat sharply when a stat is lowered.,
-350,Milotic,Milotic,,,cute_charm,hidden,1,Cute Charm,Cute Charm,Has a 30% chance of infatuating attacking Pokémon on contact.,
-351,Castform,Castform,,,forecast,ability-1,1,Forecast,Forecast,Changes the Pokémon's type and appearance based on the weather in battle.,
-354,Banette,Banette,,,insomnia,ability-1,1,Insomnia,Insomnia,Prevents sleep.,
-354,Banette,Banette,,,frisk,ability-2,1,Frisk,Frisk,The Pokémon can check the foe’s held item.,
-354,Banette,Banette,,,cursed_body,hidden,1,Cursed Body,Cursed Body,Has a 30% chance of Disabling any move that hits the Pokémon.,
-358,Chimecho,Chimecho,,,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-359,Absol,Absol,,,pressure,ability-1,1,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,
-359,Absol,Absol,,,super_luck,ability-2,1,Super Luck,Super Luck,Raises moves' critical hit rates one stage.,
-359,Absol,Absol,,,justified,hidden,1,Justified,Justified,Raises Attack when hit by Dark-type moves.,
-362,Glalie,Glalie,,,inner_focus,ability-1,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-362,Glalie,Glalie,,,ice_body,ability-2,1,Ice Body,Ice Body,The Pokémon regains HP in a hailstorm.,
-362,Glalie,Glalie,,,moody,hidden,1,Moody,Moody,Raises a random stat two stages and lowers another one stage after each turn.,
-389,Torterra,Torterra,,,overgrow,ability-1,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
-389,Torterra,Torterra,,,shell_armor,hidden,1,Shell Armor,Shell Armor,A hard shell protects the Pokémon from critical hits.,
-392,Infernape,Infernape,,,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-392,Infernape,Infernape,,,iron_fist,hidden,1,Iron Fist,Iron Fist,Powers up punching moves.,
-395,Empoleon,Empoleon,,,torrent,ability-1,1,Torrent,Torrent,Ups WATER moves in a pinch.,
-395,Empoleon,Empoleon,,,competitive,hidden,1,Competitive,Competitive,Boosts the Sp. Atk stat sharply when a stat is lowered.,
-405,Luxray,Luxray,,,rivalry,ability-1,1,Rivalry,Rivalry,Raises Attack if the foe is of the same gender.,
-405,Luxray,Luxray,,,intimidate,ability-2,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-405,Luxray,Luxray,,,guts,hidden,1,Guts,Guts,Ups ATTACK if suffering.,
-407,Roserade,Roserade,,,natural_cure,ability-1,1,Natural Cure,Natural Cure,All status conditions heal when the Pokémon switches out.,
-407,Roserade,Roserade,,,poison_point,ability-2,1,Poison Point,Poison Point,Poisons foe on contact.,
-407,Roserade,Roserade,,,technician,hidden,1,Technician,Technician,Powers up weak moves so the Pokémon can deal more damage with them.,
-409,Rampardos,Rampardos,,,mold_breaker,ability-1,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
-409,Rampardos,Rampardos,,,sheer_force,hidden,1,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,
-411,Bastiodon,Bastiodon,,,sturdy,ability-1,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-411,Bastiodon,Bastiodon,,,soundproof,hidden,1,Soundproof,Soundproof,Protects against sound-based moves.,
-428,Lopunny,Lopunny,,,cute_charm,ability-1,1,Cute Charm,Cute Charm,Has a 30% chance of infatuating attacking Pokémon on contact.,
-428,Lopunny,Lopunny,,,klutz,ability-2,1,Klutz,Klutz,Can't use held items.,
-428,Lopunny,Lopunny,,,limber,hidden,1,Limber,Limber,Prevents paralysis.,
-442,Spiritomb,Spiritomb,,,pressure,ability-1,1,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,
-442,Spiritomb,Spiritomb,,,infiltrator,hidden,1,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-445,Garchomp,Garchomp,,,sand_veil,ability-1,1,Sand Veil,Sand Veil,Ups evasion in a sandstorm.,
-445,Garchomp,Garchomp,,,rough_skin,hidden,1,Rough Skin,Rough Skin,Damages attacking Pokémon for 1/8 their max HP on contact.,
-448,Lucario,Lucario,,,steadfast,ability-1,1,Steadfast,Steadfast,Raises Speed one stage upon flinching.,
-448,Lucario,Lucario,,,inner_focus,ability-2,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-448,Lucario,Lucario,,,justified,hidden,1,Justified,Justified,Raises Attack when hit by Dark-type moves.,
-450,Hippowdon,Hippowdon,,,sand_stream,ability-1,1,Sand Stream,Sand Stream,The Pokémon summons a sandstorm when it enters a battle.,
-450,Hippowdon,Hippowdon,,,sand_force,hidden,1,Sand Force,Sand Force,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
-454,Toxicroak,Toxicroak,,,anticipation,ability-1,1,Anticipation,Anticipation,"Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
-454,Toxicroak,Toxicroak,,,dry_skin,ability-2,1,Dry Skin,Dry Skin,Reduces HP if it is hot. Water restores HP.,
-454,Toxicroak,Toxicroak,,,poison_touch,hidden,1,Poison Touch,Poison Touch,Has a 30% chance of poisoning target Pokémon upon contact.,
-460,Abomasnow,Abomasnow,,,snow_warning,ability-1,1,Snow Warning,Snow Warning,The Pokémon makes it snow when it enters a battle.,
-460,Abomasnow,Abomasnow,,,soundproof,hidden,1,Soundproof,Soundproof,Protects against sound-based moves.,
-461,Weavile,Weavile,,,pressure,ability-1,1,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,
-461,Weavile,Weavile,,,pickpocket,hidden,1,Pickpocket,Pickpocket,Steals attacking Pokémon's held items on contact.,
-464,Rhyperior,Rhyperior,,,lightning_rod,ability-1,1,Lightning Rod,Lightning Rod,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",
-464,Rhyperior,Rhyperior,,,solid_rock,ability-2,1,Solid Rock,Solid Rock,Decreases damage taken from super-effective moves by 1/4.,
-464,Rhyperior,Rhyperior,,,reckless,hidden,1,Reckless,Reckless,Strengthens recoil moves to 1.2× their power.,
-470,Leafeon,Leafeon,,,leaf_guard,ability-1,1,Leaf Guard,Leaf Guard,Protects against major status ailments during strong sunlight.,
-470,Leafeon,Leafeon,,,chlorophyll,hidden,1,Chlorophyll,Chlorophyll,Doubles Speed during strong sunlight.,
-471,Glaceon,Glaceon,,,snow_cloak,ability-1,1,Snow Cloak,Snow Cloak,Raises evasion in a hailstorm.,
-471,Glaceon,Glaceon,,,ice_body,hidden,1,Ice Body,Ice Body,The Pokémon regains HP in a hailstorm.,
-472,Gliscor,Gliscor,,,hyper_cutter,ability-1,1,Hyper Cutter,Hyper Cutter,Prevents Attack from being lowered by other Pokémon.,
-472,Gliscor,Gliscor,,,sand_veil,ability-2,1,Sand Veil,Sand Veil,Ups evasion in a sandstorm.,
-472,Gliscor,Gliscor,,,poison_heal,hidden,1,Poison Heal,Poison Heal,Heals for 1/8 max HP after each turn when poisoned in place of damage.,
-473,Mamoswine,Mamoswine,,,oblivious,ability-1,1,Oblivious,Oblivious,Prevents attraction.,
-473,Mamoswine,Mamoswine,,,snow_cloak,ability-2,1,Snow Cloak,Snow Cloak,Raises evasion in a hailstorm.,
-473,Mamoswine,Mamoswine,,,thick_fat,hidden,1,Thick Fat,Thick Fat,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-475,Gallade,Gallade,,,steadfast,ability-1,1,Steadfast,Steadfast,Raises Speed one stage upon flinching.,
-475,Gallade,Gallade,,,sharpness,ability-2,1,Sharpness,Sharpness,Powers up slicing moves.,
-475,Gallade,Gallade,,,justified,hidden,1,Justified,Justified,Raises Attack when hit by Dark-type moves.,
-478,Froslass,Froslass,,,snow_cloak,ability-1,1,Snow Cloak,Snow Cloak,Raises evasion in a hailstorm.,
-478,Froslass,Froslass,,,cursed_body,hidden,1,Cursed Body,Cursed Body,Has a 30% chance of Disabling any move that hits the Pokémon.,
-479,Rotom,Rotom,,,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-497,Serperior,Serperior,,,overgrow,ability-1,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
-497,Serperior,Serperior,,,contrary,hidden,1,Contrary,Contrary,Inverts stat changes.,
-500,Emboar,Emboar,,,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-500,Emboar,Emboar,,,reckless,hidden,1,Reckless,Reckless,Strengthens recoil moves to 1.2× their power.,
-503,Samurott,Samurott,,,torrent,ability-1,1,Torrent,Torrent,Ups WATER moves in a pinch.,
-503,Samurott,Samurott,,,shell_armor,hidden,1,Shell Armor,Shell Armor,A hard shell protects the Pokémon from critical hits.,
-505,Watchog,Watchog,,,illuminate,ability-1,1,Illuminate,Illuminate,"By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",
-505,Watchog,Watchog,,,keen_eye,ability-2,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-505,Watchog,Watchog,,,analytic,hidden,1,Analytic,Analytic,Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn.,
-510,Liepard,Liepard,,,limber,ability-1,1,Limber,Limber,Prevents paralysis.,
-510,Liepard,Liepard,,,unburden,ability-2,1,Unburden,Unburden,Doubles Speed upon using or losing a held item.,
-510,Liepard,Liepard,,,prankster,hidden,1,Prankster,Prankster,Gives priority to the Pokémon's status moves.,
-512,Simisage,Simisage,,,gluttony,ability-1,1,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,
-512,Simisage,Simisage,,,overgrow,hidden,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
-514,Simisear,Simisear,,,gluttony,ability-1,1,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,
-514,Simisear,Simisear,,,blaze,hidden,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-516,Simipour,Simipour,,,gluttony,ability-1,1,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,
-516,Simipour,Simipour,,,torrent,hidden,1,Torrent,Torrent,Ups WATER moves in a pinch.,
-530,Excadrill,Excadrill,,,sand_rush,ability-1,1,Sand Rush,Sand Rush,Doubles Speed during a sandstorm.  Protects against sandstorm damage.,
-530,Excadrill,Excadrill,,,sand_force,ability-2,1,Sand Force,Sand Force,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
-530,Excadrill,Excadrill,,,mold_breaker,hidden,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
-531,Audino,Audino,,,healer,ability-1,1,Healer,Healer,Sometimes cures the status conditions of the Pokémon's allies.,
-531,Audino,Audino,,,regenerator,ability-2,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-531,Audino,Audino,,,klutz,hidden,1,Klutz,Klutz,Can't use held items.,
-534,Conkeldurr,Conkeldurr,,,guts,ability-1,1,Guts,Guts,Ups ATTACK if suffering.,
-534,Conkeldurr,Conkeldurr,,,sheer_force,ability-2,1,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,
-534,Conkeldurr,Conkeldurr,,,iron_fist,hidden,1,Iron Fist,Iron Fist,Powers up punching moves.,
-547,Whimsicott,Whimsicott,,,prankster,ability-1,1,Prankster,Prankster,Gives priority to the Pokémon's status moves.,
-547,Whimsicott,Whimsicott,,,infiltrator,ability-2,1,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-547,Whimsicott,Whimsicott,,,chlorophyll,hidden,1,Chlorophyll,Chlorophyll,Doubles Speed during strong sunlight.,
-553,Krookodile,Krookodile,,,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-553,Krookodile,Krookodile,,,moxie,ability-2,1,Moxie,Moxie,Boosts Attack after knocking out any Pokémon.,
-553,Krookodile,Krookodile,,,anger_point,hidden,1,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,
-563,Cofagrigus,Cofagrigus,,,mummy,ability-1,1,Mummy,Mummy,Contact with this Pokémon spreads this Ability.,
-569,Garbodor,Garbodor,,,stench,ability-1,1,Stench,Stench,Helps repel wild POKéMON.,
-569,Garbodor,Garbodor,,,weak_armor,ability-2,1,Weak Armor,Weak Armor,Physical attacks lower Defense and raise Speed.,
-569,Garbodor,Garbodor,,,aftermath,hidden,1,Aftermath,Aftermath,Damages the foe landing the finishing hit.,
-571,Zoroark,Zoroark,,,illusion,ability-1,1,Illusion,Illusion,Takes on the appearance of the last party member.,
-579,Reuniclus,Reuniclus,,,overcoat,ability-1,1,Overcoat,Overcoat,Protects against damage from weather.,
-579,Reuniclus,Reuniclus,,,magic_guard,ability-2,1,Magic Guard,Magic Guard,The Pokémon only takes damage from attacks.,
-579,Reuniclus,Reuniclus,,,regenerator,hidden,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-584,Vanilluxe,Vanilluxe,,,ice_body,ability-1,1,Ice Body,Ice Body,The Pokémon regains HP in a hailstorm.,
-584,Vanilluxe,Vanilluxe,,,snow_warning,ability-2,1,Snow Warning,Snow Warning,The Pokémon makes it snow when it enters a battle.,
-584,Vanilluxe,Vanilluxe,,,weak_armor,hidden,1,Weak Armor,Weak Armor,Physical attacks lower Defense and raise Speed.,
-587,Emolga,Emolga,,,static,ability-1,1,Static,Static,Paralyzes on contact.,
-587,Emolga,Emolga,,,motor_drive,hidden,1,Motor Drive,Motor Drive,"Absorbs electric moves, raising Speed one stage.",
-609,Chandelure,Chandelure,,,flash_fire,ability-1,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-609,Chandelure,Chandelure,,,flame_body,ability-2,1,Flame Body,Flame Body,Has a 30% chance of burning attacking Pokémon on contact.,
-609,Chandelure,Chandelure,,,infiltrator,hidden,1,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-614,Beartic,Beartic,,,snow_cloak,ability-1,1,Snow Cloak,Snow Cloak,Raises evasion in a hailstorm.,
-614,Beartic,Beartic,,,slush_rush,ability-2,1,Slush Rush,Slush Rush,Boosts the Pokémon’s Speed stat in a hailstorm.,
-614,Beartic,Beartic,,,swift_swim,hidden,1,Swift Swim,Swift Swim,Doubles Speed during rain.,
-618,Stunfisk,Stunfisk,,,static,ability-1,1,Static,Static,Paralyzes on contact.,
-618,Stunfisk,Stunfisk,,,limber,ability-2,1,Limber,Limber,Prevents paralysis.,
-618,Stunfisk,Stunfisk,,,sand_veil,hidden,1,Sand Veil,Sand Veil,Ups evasion in a sandstorm.,
-623,Golurk,Golurk,,,iron_fist,ability-1,1,Iron Fist,Iron Fist,Powers up punching moves.,
-623,Golurk,Golurk,,,klutz,ability-2,1,Klutz,Klutz,Can't use held items.,
-623,Golurk,Golurk,,,no_guard,hidden,1,No Guard,No Guard,Ensures that all moves used by and against the Pokémon land.,
-635,Hydreigon,Hydreigon,,,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-637,Volcarona,Volcarona,,,flame_body,ability-1,1,Flame Body,Flame Body,Has a 30% chance of burning attacking Pokémon on contact.,
-637,Volcarona,Volcarona,,,swarm,hidden,1,Swarm,Swarm,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,
-652,Chesnaught,Chesnaught,,,overgrow,ability-1,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
-652,Chesnaught,Chesnaught,,,bulletproof,hidden,1,Bulletproof,Bulletproof,Protects the Pokémon from some ball and bomb moves.,
-655,Delphox,Delphox,,,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-655,Delphox,Delphox,,,magician,hidden,1,Magician,Magician,The Pokémon steals the held item of a Pokémon it hits with a move.,
-658,Greninja,Greninja,,,torrent,ability-1,1,Torrent,Torrent,Ups WATER moves in a pinch.,
-658,Greninja,Greninja,,,protean,hidden,1,Protean,Protean,Changes the Pokémon's type to the type of the move it's about to use.,
-660,Diggersby,Diggersby,,,pickup,ability-1,1,Pickup,Pickup,May pick up items.,
-660,Diggersby,Diggersby,,,cheek_pouch,ability-2,1,Cheek Pouch,Cheek Pouch,"Restores HP upon eating a Berry, in addition to the Berry's effect.",
-660,Diggersby,Diggersby,,,huge_power,hidden,1,Huge Power,Huge Power,Doubles the Pokémon's Attack stat.,
-663,Talonflame,Talonflame,,,flame_body,ability-1,1,Flame Body,Flame Body,Has a 30% chance of burning attacking Pokémon on contact.,
-663,Talonflame,Talonflame,,,gale_wings,hidden,1,Gale Wings,Gale Wings,Raises flying moves' priority by one stage.,
-666,Vivillon,Vivillon,,,shield_dust,ability-1,1,Shield Dust,Shield Dust,Prevents added effects.,
-666,Vivillon,Vivillon,,,compound_eyes,ability-2,1,Compound Eyes,Compound Eyes,Raises accuracy.,
-666,Vivillon,Vivillon,,,friend_guard,hidden,1,Friend Guard,Friend Guard,Decreases all direct damage taken by friendly Pokémon to 0.75×.,
-670,Floette,Floette,,,flower_veil,ability-1,1,Flower Veil,Flower Veil,Prevents lowering of ally Grass-type Pokémon’s stats.,
-670,Floette,Floette,,,symbiosis,hidden,1,Symbiosis,Symbiosis,Passes the bearer's held item to an ally when the ally uses up its item.,
-671,Florges,Florges,,,flower_veil,ability-1,1,Flower Veil,Flower Veil,Prevents lowering of ally Grass-type Pokémon’s stats.,
-671,Florges,Florges,,,symbiosis,hidden,1,Symbiosis,Symbiosis,Passes the bearer's held item to an ally when the ally uses up its item.,
-675,Pangoro,Pangoro,,,iron_fist,ability-1,1,Iron Fist,Iron Fist,Powers up punching moves.,
-675,Pangoro,Pangoro,,,mold_breaker,ability-2,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
-675,Pangoro,Pangoro,,,scrappy,hidden,1,Scrappy,Scrappy,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,
-676,Furfrou,Furfrou,,,fur_coat,ability-1,1,Fur Coat,Fur Coat,Halves damage from physical moves.,
-678,Meowstic,Meowstic,Meowstic-M,Meowstic-M,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-678,Meowstic,Meowstic,Meowstic-M,Meowstic-M,infiltrator,ability-2,1,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-678,Meowstic,Meowstic,Meowstic-M,Meowstic-M,prankster,hidden,1,Prankster,Prankster,Gives priority to the Pokémon's status moves.,
-681,Aegislash,Aegislash,,,stance_change,ability-1,1,Stance Change,Stance Change,"Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",
-683,Aromatisse,Aromatisse,,,healer,ability-1,1,Healer,Healer,Sometimes cures the status conditions of the Pokémon's allies.,
-683,Aromatisse,Aromatisse,,,aroma_veil,hidden,1,Aroma Veil,Aroma Veil,Protects allies from attacks that limit their move choices.,
-685,Slurpuff,Slurpuff,,,sweet_veil,ability-1,1,Sweet Veil,Sweet Veil,Prevents itself and ally Pokémon from falling asleep.,
-685,Slurpuff,Slurpuff,,,unburden,hidden,1,Unburden,Unburden,Doubles Speed upon using or losing a held item.,
-693,Clawitzer,Clawitzer,,,mega_launcher,ability-1,1,Mega Launcher,Mega Launcher,Powers up pulse moves.,
-695,Heliolisk,Heliolisk,,,dry_skin,ability-1,1,Dry Skin,Dry Skin,Reduces HP if it is hot. Water restores HP.,
-695,Heliolisk,Heliolisk,,,sand_veil,ability-2,1,Sand Veil,Sand Veil,Ups evasion in a sandstorm.,
-695,Heliolisk,Heliolisk,,,solar_power,hidden,1,Solar Power,Solar Power,"In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but HP decreases every turn.",
-697,Tyrantrum,Tyrantrum,,,strong_jaw,ability-1,1,Strong Jaw,Strong Jaw,The Pokémon's strong jaw boosts the power of its biting moves.,
-697,Tyrantrum,Tyrantrum,,,rock_head,hidden,1,Rock Head,Rock Head,Protects the Pokémon from recoil damage.,
-699,Aurorus,Aurorus,,,refrigerate,ability-1,1,Refrigerate,Refrigerate,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.,
-699,Aurorus,Aurorus,,,snow_warning,hidden,1,Snow Warning,Snow Warning,The Pokémon makes it snow when it enters a battle.,
-700,Sylveon,Sylveon,,,cute_charm,ability-1,1,Cute Charm,Cute Charm,Has a 30% chance of infatuating attacking Pokémon on contact.,
-700,Sylveon,Sylveon,,,pixilate,hidden,1,Pixilate,Pixilate,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.,
-701,Hawlucha,Hawlucha,,,limber,ability-1,1,Limber,Limber,Prevents paralysis.,
-701,Hawlucha,Hawlucha,,,unburden,ability-2,1,Unburden,Unburden,Doubles Speed upon using or losing a held item.,
-701,Hawlucha,Hawlucha,,,mold_breaker,hidden,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
-702,Dedenne,Dedenne,,,cheek_pouch,ability-1,1,Cheek Pouch,Cheek Pouch,"Restores HP upon eating a Berry, in addition to the Berry's effect.",
-702,Dedenne,Dedenne,,,pickup,ability-2,1,Pickup,Pickup,May pick up items.,
-702,Dedenne,Dedenne,,,plus,hidden,1,Plus,Plus,Powers up with MINUS.,
-706,Goodra,Goodra,,,sap_sipper,ability-1,1,Sap Sipper,Sap Sipper,Raises Attack when hit by Grass-type moves.,
-706,Goodra,Goodra,,,hydration,ability-2,1,Hydration,Hydration,Heals status conditions when it is raining.,
-706,Goodra,Goodra,,,gooey,hidden,1,Gooey,Gooey,Contact with the Pokémon lowers the attacker's Speed stat.,
-707,Klefki,Klefki,,,prankster,ability-1,1,Prankster,Prankster,Gives priority to the Pokémon's status moves.,
-707,Klefki,Klefki,,,magician,hidden,1,Magician,Magician,The Pokémon steals the held item of a Pokémon it hits with a move.,
-709,Trevenant,Trevenant,,,natural_cure,ability-1,1,Natural Cure,Natural Cure,All status conditions heal when the Pokémon switches out.,
-709,Trevenant,Trevenant,,,frisk,ability-2,1,Frisk,Frisk,The Pokémon can check the foe’s held item.,
-709,Trevenant,Trevenant,,,harvest,hidden,1,Harvest,Harvest,May create another Berry after one is used. 100% chance in sunshine.,
-711,Gourgeist,Gourgeist,,,pickup,ability-1,1,Pickup,Pickup,May pick up items.,
-711,Gourgeist,Gourgeist,,,frisk,ability-2,1,Frisk,Frisk,The Pokémon can check the foe’s held item.,
-711,Gourgeist,Gourgeist,,,insomnia,hidden,1,Insomnia,Insomnia,Prevents sleep.,
-713,Avalugg,Avalugg,,,own_tempo,ability-1,1,Own Tempo,Own Tempo,Prevents confusion.,
-713,Avalugg,Avalugg,,,ice_body,ability-2,1,Ice Body,Ice Body,The Pokémon regains HP in a hailstorm.,
-713,Avalugg,Avalugg,,,sturdy,hidden,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-715,Noivern,Noivern,,,frisk,ability-1,1,Frisk,Frisk,The Pokémon can check the foe’s held item.,
-715,Noivern,Noivern,,,infiltrator,ability-2,1,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-715,Noivern,Noivern,,,telepathy,hidden,1,Telepathy,Telepathy,Protects against friendly Pokémon's damaging moves.,
-724,Decidueye,Decidueye,,,overgrow,ability-1,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
-724,Decidueye,Decidueye,,,long_reach,hidden,1,Long Reach,Long Reach,Moves don't make contact.,
-727,Incineroar,Incineroar,,,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-727,Incineroar,Incineroar,,,intimidate,hidden,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-730,Primarina,Primarina,,,torrent,ability-1,1,Torrent,Torrent,Ups WATER moves in a pinch.,
-730,Primarina,Primarina,,,liquid_voice,hidden,1,Liquid Voice,Liquid Voice,All sound-based moves become Water-type moves.,
-733,Toucannon,Toucannon,,,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-733,Toucannon,Toucannon,,,skill_link,ability-2,1,Skill Link,Skill Link,Maximizes the number of times multistrike moves hit.,
-733,Toucannon,Toucannon,,,sheer_force,hidden,1,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,
-740,Crabominable,Crabominable,,,hyper_cutter,ability-1,1,Hyper Cutter,Hyper Cutter,Prevents Attack from being lowered by other Pokémon.,
-740,Crabominable,Crabominable,,,iron_fist,ability-2,1,Iron Fist,Iron Fist,Powers up punching moves.,
-740,Crabominable,Crabominable,,,anger_point,hidden,1,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,
-745,Lycanroc,Lycanroc,,,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-745,Lycanroc,Lycanroc,,,sand_rush,ability-2,1,Sand Rush,Sand Rush,Doubles Speed during a sandstorm.  Protects against sandstorm damage.,
-745,Lycanroc,Lycanroc,,,steadfast,hidden,1,Steadfast,Steadfast,Raises Speed one stage upon flinching.,
-748,Toxapex,Toxapex,,,merciless,ability-1,1,Merciless,Merciless,This Pokémon's moves critical hit against poisoned targets.,
-748,Toxapex,Toxapex,,,limber,ability-2,1,Limber,Limber,Prevents paralysis.,
-748,Toxapex,Toxapex,,,regenerator,hidden,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-750,Mudsdale,Mudsdale,,,own_tempo,ability-1,1,Own Tempo,Own Tempo,Prevents confusion.,
-750,Mudsdale,Mudsdale,,,stamina,ability-2,1,Stamina,Stamina,Raises this Pokémon's Defense by one stage when it takes damage from a move.,
-750,Mudsdale,Mudsdale,,,inner_focus,hidden,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-752,Araquanid,Araquanid,,,water_bubble,ability-1,1,Water Bubble,Water Bubble,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.,
-752,Araquanid,Araquanid,,,water_absorb,hidden,1,Water Absorb,Water Absorb,Restores HP if hit by a Water-type move.,
-758,Salazzle,Salazzle,,,corrosion,ability-1,1,Corrosion,Corrosion,This Pokémon can inflict poison on Poison and Steel Pokémon.,
-758,Salazzle,Salazzle,,,oblivious,hidden,1,Oblivious,Oblivious,Prevents attraction.,
-763,Tsareena,Tsareena,,,leaf_guard,ability-1,1,Leaf Guard,Leaf Guard,Protects against major status ailments during strong sunlight.,
-763,Tsareena,Tsareena,,,queenly_majesty,ability-2,1,Queenly Majesty,Queenly Majesty,Opposing Pokémon cannot use priority attacks.,
-763,Tsareena,Tsareena,,,sweet_veil,hidden,1,Sweet Veil,Sweet Veil,Prevents itself and ally Pokémon from falling asleep.,
-765,Oranguru,Oranguru,,,inner_focus,ability-1,1,Inner Focus,Inner Focus,"The Pokémon's intensely focused, and that prevents it from flinching.",
-765,Oranguru,Oranguru,,,telepathy,ability-2,1,Telepathy,Telepathy,Protects against friendly Pokémon's damaging moves.,
-765,Oranguru,Oranguru,,,symbiosis,hidden,1,Symbiosis,Symbiosis,Passes the bearer's held item to an ally when the ally uses up its item.,
-766,Passimian,Passimian,,,receiver,ability-1,1,Receiver,Receiver,The Pokémon copies the Ability of a defeated ally.,
-766,Passimian,Passimian,,,defiant,hidden,1,Defiant,Defiant,Raises Attack two stages upon having any stat lowered.,
-778,Mimikyu,Mimikyu,,,disguise,ability-1,1,Disguise,Disguise,Prevents the first instance of battle damage.,
-780,Drampa,Drampa,,,berserk,ability-1,1,Berserk,Berserk,Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to become half or less.,
-780,Drampa,Drampa,,,sap_sipper,ability-2,1,Sap Sipper,Sap Sipper,Raises Attack when hit by Grass-type moves.,
-780,Drampa,Drampa,,,cloud_nine,hidden,1,Cloud Nine,Cloud Nine,"Negates all effects of weather, but does not prevent the weather itself.",
-784,Kommo-o,Kommo-o,,,bulletproof,ability-1,1,Bulletproof,Bulletproof,Protects the Pokémon from some ball and bomb moves.,
-784,Kommo-o,Kommo-o,,,soundproof,ability-2,1,Soundproof,Soundproof,Protects against sound-based moves.,
-784,Kommo-o,Kommo-o,,,overcoat,hidden,1,Overcoat,Overcoat,Protects against damage from weather.,
-823,Corviknight,Corviknight,,,pressure,ability-1,1,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,
-823,Corviknight,Corviknight,,,unnerve,ability-2,1,Unnerve,Unnerve,Prevents foes from eating berries.,
-823,Corviknight,Corviknight,,,mirror_armor,hidden,1,Mirror Armor,Mirror Armor,Reflects stat-lowering effects back.,
-841,Flapple,Flapple,,,ripen,ability-1,1,Ripen,Ripen,Ripens Berries and doubles their effect.,
-841,Flapple,Flapple,,,gluttony,ability-2,1,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,
-841,Flapple,Flapple,,,hustle,hidden,1,Hustle,Hustle,Trades accuracy for power.,
-842,Appletun,Appletun,,,ripen,ability-1,1,Ripen,Ripen,Ripens Berries and doubles their effect.,
-842,Appletun,Appletun,,,gluttony,ability-2,1,Gluttony,Gluttony,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,
-842,Appletun,Appletun,,,thick_fat,hidden,1,Thick Fat,Thick Fat,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
-844,Sandaconda,Sandaconda,,,sand_spit,ability-1,1,Sand Spit,Sand Spit,The Pokémon creates a sandstorm when it’s hit by an attack.,
-844,Sandaconda,Sandaconda,,,shed_skin,ability-2,1,Shed Skin,Shed Skin,Heals the body by shedding.,
-844,Sandaconda,Sandaconda,,,sand_veil,hidden,1,Sand Veil,Sand Veil,Ups evasion in a sandstorm.,
-855,Polteageist,Polteageist,,,weak_armor,ability-1,1,Weak Armor,Weak Armor,Physical attacks lower Defense and raise Speed.,
-855,Polteageist,Polteageist,,,cursed_body,hidden,1,Cursed Body,Cursed Body,Has a 30% chance of Disabling any move that hits the Pokémon.,
-858,Hatterene,Hatterene,,,healer,ability-1,1,Healer,Healer,Sometimes cures the status conditions of the Pokémon's allies.,
-858,Hatterene,Hatterene,,,anticipation,ability-2,1,Anticipation,Anticipation,"Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
-858,Hatterene,Hatterene,,,magic_bounce,hidden,1,Magic Bounce,Magic Bounce,Reflects most non-damaging moves back at their user.,
-866,Mr. Rime,Mr. Rime,,,tangled_feet,ability-1,1,Tangled Feet,Tangled Feet,Raises evasion if the Pokémon is confused.,
-866,Mr. Rime,Mr. Rime,,,screen_cleaner,ability-2,1,Screen Cleaner,Screen Cleaner,"When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.",
-866,Mr. Rime,Mr. Rime,,,ice_body,hidden,1,Ice Body,Ice Body,The Pokémon regains HP in a hailstorm.,
-867,Runerigus,Runerigus,,,wandering_spirit,ability-1,1,Wandering Spirit,Wandering Spirit,Exchanges ability with attacker on contact.,
-869,Alcremie,Alcremie,,,sweet_veil,ability-1,1,Sweet Veil,Sweet Veil,Prevents itself and ally Pokémon from falling asleep.,
-869,Alcremie,Alcremie,,,aroma_veil,hidden,1,Aroma Veil,Aroma Veil,Protects allies from attacks that limit their move choices.,
-877,Morpeko,Morpeko,,,hunger_switch,ability-1,1,Hunger Switch,Hunger Switch,"The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.",
-887,Dragapult,Dragapult,,,clear_body,ability-1,1,Clear Body,Clear Body,Prevents stat reduction.,
-887,Dragapult,Dragapult,,,infiltrator,ability-2,1,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-887,Dragapult,Dragapult,,,cursed_body,hidden,1,Cursed Body,Cursed Body,Has a 30% chance of Disabling any move that hits the Pokémon.,
-899,Wyrdeer,Wyrdeer,,,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-899,Wyrdeer,Wyrdeer,,,frisk,ability-2,1,Frisk,Frisk,The Pokémon can check the foe’s held item.,
-899,Wyrdeer,Wyrdeer,,,sap_sipper,hidden,1,Sap Sipper,Sap Sipper,Raises Attack when hit by Grass-type moves.,
-900,Kleavor,Kleavor,,,swarm,ability-1,1,Swarm,Swarm,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,
-900,Kleavor,Kleavor,,,sheer_force,ability-2,1,Sheer Force,Sheer Force,Removes additional effects from moves but increases their power.,
-900,Kleavor,Kleavor,,,sharpness,hidden,1,Sharpness,Sharpness,Powers up slicing moves.,
-902,Basculegion,Basculegion,Basculegion-M,Basculegion-M,swift_swim,ability-1,1,Swift Swim,Swift Swim,Doubles Speed during rain.,
-902,Basculegion,Basculegion,Basculegion-M,Basculegion-M,adaptability,ability-2,1,Adaptability,Adaptability,Powers up moves of the same type as the Pokémon.,
-902,Basculegion,Basculegion,Basculegion-M,Basculegion-M,mold_breaker,hidden,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
-903,Sneasler,Sneasler,,,pressure,ability-1,1,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,
-903,Sneasler,Sneasler,,,unburden,ability-2,1,Unburden,Unburden,Doubles Speed upon using or losing a held item.,
-903,Sneasler,Sneasler,,,poison_touch,hidden,1,Poison Touch,Poison Touch,Has a 30% chance of poisoning target Pokémon upon contact.,
-908,Meowscarada,Meowscarada,,,overgrow,ability-1,1,Overgrow,Overgrow,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,
-908,Meowscarada,Meowscarada,,,protean,hidden,1,Protean,Protean,Changes the Pokémon's type to the type of the move it's about to use.,
-911,Skeledirge,Skeledirge,,,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-911,Skeledirge,Skeledirge,,,unaware,hidden,1,Unaware,Unaware,Ignores the opposing Pokémon's stat changes.,
-914,Quaquaval,Quaquaval,,,torrent,ability-1,1,Torrent,Torrent,Ups WATER moves in a pinch.,
-914,Quaquaval,Quaquaval,,,moxie,hidden,1,Moxie,Moxie,Boosts Attack after knocking out any Pokémon.,
-925,Maushold,Maushold,,,friend_guard,ability-1,1,Friend Guard,Friend Guard,Decreases all direct damage taken by friendly Pokémon to 0.75×.,
-925,Maushold,Maushold,,,cheek_pouch,ability-2,1,Cheek Pouch,Cheek Pouch,"Restores HP upon eating a Berry, in addition to the Berry's effect.",
-925,Maushold,Maushold,,,technician,hidden,1,Technician,Technician,Powers up weak moves so the Pokémon can deal more damage with them.,
-934,Garganacl,Garganacl,,,purifying_salt,ability-1,1,Purifying Salt,Purifying Salt,Prevents status and halves Ghost damage.,
-934,Garganacl,Garganacl,,,sturdy,ability-2,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-934,Garganacl,Garganacl,,,clear_body,hidden,1,Clear Body,Clear Body,Prevents stat reduction.,
-936,Armarouge,Armarouge,,,flash_fire,ability-1,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-936,Armarouge,Armarouge,,,weak_armor,hidden,1,Weak Armor,Weak Armor,Physical attacks lower Defense and raise Speed.,
-937,Ceruledge,Ceruledge,,,flash_fire,ability-1,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-937,Ceruledge,Ceruledge,,,weak_armor,hidden,1,Weak Armor,Weak Armor,Physical attacks lower Defense and raise Speed.,
-939,Bellibolt,Bellibolt,,,electromorphosis,ability-1,1,Electromorphosis,Electromorphosis,"The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.",
-939,Bellibolt,Bellibolt,,,static,ability-2,1,Static,Static,Paralyzes on contact.,
-939,Bellibolt,Bellibolt,,,damp,hidden,1,Damp,Damp,Prevents self-destruction.,
-952,Scovillain,Scovillain,,,chlorophyll,ability-1,1,Chlorophyll,Chlorophyll,Doubles Speed during strong sunlight.,
-952,Scovillain,Scovillain,,,insomnia,ability-2,1,Insomnia,Insomnia,Prevents sleep.,
-952,Scovillain,Scovillain,,,moody,hidden,1,Moody,Moody,Raises a random stat two stages and lowers another one stage after each turn.,
-956,Espathra,Espathra,,,opportunist,ability-1,1,Opportunist,Opportunist,"If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.",
-956,Espathra,Espathra,,,frisk,ability-2,1,Frisk,Frisk,The Pokémon can check the foe’s held item.,
-956,Espathra,Espathra,,,speed_boost,hidden,1,Speed Boost,Speed Boost,Gradually boosts SPEED.,
-959,Tinkaton,Tinkaton,,,mold_breaker,ability-1,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
-959,Tinkaton,Tinkaton,,,own_tempo,ability-2,1,Own Tempo,Own Tempo,Prevents confusion.,
-959,Tinkaton,Tinkaton,,,pickpocket,hidden,1,Pickpocket,Pickpocket,Steals attacking Pokémon's held items on contact.,
-964,Palafin,Palafin,,,zero_to_hero,ability-1,1,Zero To Hero,Zero To Hero,Transforms into its Hero Form when switching out.,
-968,Orthworm,Orthworm,,,earth_eater,ability-1,1,Earth Eater,Earth Eater,"If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage.",
-968,Orthworm,Orthworm,,,sand_veil,hidden,1,Sand Veil,Sand Veil,Ups evasion in a sandstorm.,
-970,Glimmora,Glimmora,,,toxic_debris,ability-1,1,Toxic Debris,Toxic Debris,Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.,
-970,Glimmora,Glimmora,,,corrosion,hidden,1,Corrosion,Corrosion,This Pokémon can inflict poison on Poison and Steel Pokémon.,
-981,Farigiraf,Farigiraf,,,cud_chew,ability-1,1,Cud Chew,Cud Chew,Eats a consumed berry again at end of next turn.,
-981,Farigiraf,Farigiraf,,,armor_tail,ability-2,1,Armor Tail,Armor Tail,Prevents priority moves against this Pokémon and allies.,
-981,Farigiraf,Farigiraf,,,sap_sipper,hidden,1,Sap Sipper,Sap Sipper,Raises Attack when hit by Grass-type moves.,
-983,Kingambit,Kingambit,,,defiant,ability-1,1,Defiant,Defiant,Raises Attack two stages upon having any stat lowered.,
-983,Kingambit,Kingambit,,,supreme_overlord,ability-2,1,Supreme Overlord,Supreme Overlord,Attack and Special Attack are boosted for each party Pokémon that has been defeated.,
-983,Kingambit,Kingambit,,,pressure,hidden,1,Pressure,Pressure,Increases the PP cost of moves targetting the Pokémon by one.,
-1013,Sinistcha,Sinistcha,,,hospitality,ability-1,1,Hospitality,Hospitality,"When a Pokémon with Hospitality enters a battle, it restores HP for an ally by 25%.",
-1013,Sinistcha,Sinistcha,,,heatproof,hidden,1,Heatproof,Heatproof,Halves damage from fire moves and burns.,
-1018,Archaludon,Archaludon,,,stamina,ability-1,1,Stamina,Stamina,Raises this Pokémon's Defense by one stage when it takes damage from a move.,
-1018,Archaludon,Archaludon,,,sturdy,ability-2,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-1018,Archaludon,Archaludon,,,stalwart,hidden,1,Stalwart,Stalwart,Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.,
-1019,Hydrapple,Hydrapple,,,supersweet_syrup,ability-1,1,Supersweet Syrup,Supersweet Syrup,"Once per battle, when a Pokémon with Supersweet Syrup enters the battle, it lowers the evasion stat of all adjacent opponents by one stage. ",
-1019,Hydrapple,Hydrapple,,,regenerator,ability-2,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-1019,Hydrapple,Hydrapple,,,sticky_hold,hidden,1,Sticky Hold,Sticky Hold,Prevents a held item from being removed by other Pokémon.,
-10008,Rotom,Rotom,Heat Rotom,Heat Rotom,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-10009,Rotom,Rotom,Wash Rotom,Wash Rotom,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-10010,Rotom,Rotom,Frost Rotom,Frost Rotom,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-10011,Rotom,Rotom,Fan Rotom,Fan Rotom,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-10012,Rotom,Rotom,Mow Rotom,Mow Rotom,levitate,ability-1,1,Levitate,Levitate,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
-10100,Raichu,Raichu,Alolan Raichu,Alolan Raichu,surge_surfer,ability-1,1,Surge Surfer,Surge Surfer,Doubles Speed on Electric Terrain.,
-10104,Ninetales,Ninetales,Alolan Ninetales,Alolan Ninetales,snow_warning,ability-1,1,Snow Warning,Snow Warning,The Pokémon makes it snow when it enters a battle.,
-10104,Ninetales,Ninetales,Alolan Ninetales,Alolan Ninetales,snow_cloak,hidden,1,Snow Cloak,Snow Cloak,Raises evasion in a hailstorm.,
-10165,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,quick_draw,ability-1,1,Quick Draw,Quick Draw,Enables the Pokémon to move first occasionally.,
-10165,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,own_tempo,ability-2,1,Own Tempo,Own Tempo,Prevents confusion.,
-10165,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,regenerator,hidden,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-10172,Slowking,Slowking,Galarian Slowking,Galarian Slowking,curious_medicine,ability-1,1,Curious Medicine,Curious Medicine,"When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.",
-10172,Slowking,Slowking,Galarian Slowking,Galarian Slowking,own_tempo,ability-2,1,Own Tempo,Own Tempo,Prevents confusion.,
-10172,Slowking,Slowking,Galarian Slowking,Galarian Slowking,regenerator,hidden,1,Regenerator,Regenerator,Heals for 1/3 max HP upon switching out.,
-10180,Stunfisk,Stunfisk,Galarian Stunfisk,Galarian Stunfisk,mimicry,ability-1,1,Mimicry,Mimicry,Changes the Pokémon’s type depending on the terrain.,
-10230,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-10230,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,flash_fire,ability-2,1,Flash Fire,Flash Fire,Powers up if hit by fire.,
-10230,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,rock_head,hidden,1,Rock Head,Rock Head,Protects the Pokémon from recoil damage.,
-10233,Typhlosion,Typhlosion,Hisuian Typhlosion,Hisuian Typhlosion,blaze,ability-1,1,Blaze,Blaze,Powers up Fire-type moves when HP is low.,
-10233,Typhlosion,Typhlosion,Hisuian Typhlosion,Hisuian Typhlosion,frisk,hidden,1,Frisk,Frisk,The Pokémon can check the foe’s held item.,
-10236,Samurott,Samurott,Hisuian Samurott,Hisuian Samurott,sharpness,ability-1,1,Sharpness,Sharpness,Powers up slicing moves.,
-10236,Samurott,Samurott,Hisuian Samurott,Hisuian Samurott,shell_armor,hidden,1,Shell Armor,Shell Armor,A hard shell protects the Pokémon from critical hits.,
-10239,Zoroark,Zoroark,Hisuian Zoroark,Hisuian Zoroark,illusion,ability-1,1,Illusion,Illusion,Takes on the appearance of the last party member.,
-10242,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,sap_sipper,ability-1,1,Sap Sipper,Sap Sipper,Raises Attack when hit by Grass-type moves.,
-10242,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,shell_armor,ability-2,1,Shell Armor,Shell Armor,A hard shell protects the Pokémon from critical hits.,
-10242,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,gooey,hidden,1,Gooey,Gooey,Contact with the Pokémon lowers the attacker's Speed stat.,
-10244,Decidueye,Decidueye,Hisuian Decidueye,Hisuian Decidueye,scrappy,ability-1,1,Scrappy,Scrappy,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,
-10244,Decidueye,Decidueye,Hisuian Decidueye,Hisuian Decidueye,long_reach,hidden,1,Long Reach,Long Reach,Moves don't make contact.,
-10245,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,strong_jaw,ability-1,1,Strong Jaw,Strong Jaw,The Pokémon's strong jaw boosts the power of its biting moves.,
-10245,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,ice_body,ability-2,1,Ice Body,Ice Body,The Pokémon regains HP in a hailstorm.,
-10245,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,sturdy,hidden,1,Sturdy,Sturdy,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",
-10250,Tauros,Tauros,Paldean Tauros,Paldean Tauros,intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-10250,Tauros,Tauros,Paldean Tauros,Paldean Tauros,anger_point,ability-2,1,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,
-10250,Tauros,Tauros,Paldean Tauros,Paldean Tauros,cud_chew,hidden,1,Cud Chew,Cud Chew,Eats a consumed berry again at end of next turn.,
-10251,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-10251,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),anger_point,ability-2,1,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,
-10251,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),cud_chew,hidden,1,Cud Chew,Cud Chew,Eats a consumed berry again at end of next turn.,
-10252,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),intimidate,ability-1,1,Intimidate,Intimidate,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
-10252,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),anger_point,ability-2,1,Anger Point,Anger Point,Raises Attack to the maximum of six stages upon receiving a critical hit.,
-10252,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),cud_chew,hidden,1,Cud Chew,Cud Chew,Eats a consumed berry again at end of next turn.,
-10678,Meowstic,Meowstic,Meowstic-F,Meowstic-F,keen_eye,ability-1,1,Keen Eye,Keen Eye,Prevents accuracy from being lowered.,
-10678,Meowstic,Meowstic,Meowstic-F,Meowstic-F,infiltrator,ability-2,1,Infiltrator,Infiltrator,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",
-10678,Meowstic,Meowstic,Meowstic-F,Meowstic-F,competitive,hidden,1,Competitive,Competitive,Boosts the Sp. Atk stat sharply when a stat is lowered.,
-10902,Basculegion,Basculegion,Basculegion-F,Basculegion-F,swift_swim,ability-1,1,Swift Swim,Swift Swim,Doubles Speed during rain.,
-10902,Basculegion,Basculegion,Basculegion-F,Basculegion-F,adaptability,ability-2,1,Adaptability,Adaptability,Powers up moves of the same type as the Pokémon.,
-10902,Basculegion,Basculegion,Basculegion-F,Basculegion-F,mold_breaker,hidden,1,Mold Breaker,Mold Breaker,Moves can be used on the target regardless of its Abilities.,
+160,Feraligatr,Feraligatr,,,sheer_force,hidden,1,Sheer Force,Potencia Bruta,Removes additional effects from moves but increases their power.,Sube la potencia y anula los efectos secundarios.
+168,Ariados,Ariados,,,swarm,ability-1,1,Swarm,Enjambre,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Bicho en un apuro.
+168,Ariados,Ariados,,,insomnia,ability-2,1,Insomnia,Insomnio,Prevents sleep.,Evita el quedarse dormido.
+168,Ariados,Ariados,,,sniper,hidden,1,Sniper,Francotirador,Powers up moves if they become critical hits.,Potencia los movimientos si se vuelven críticos.
+181,Ampharos,Ampharos,,,static,ability-1,1,Static,Elec. Estática,Paralyzes on contact.,Puede paralizar al mínimo contacto.
+181,Ampharos,Ampharos,,,plus,hidden,1,Plus,Más,Powers up with MINUS.,Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos.
+184,Azumarill,Azumarill,,,thick_fat,ability-1,1,Thick Fat,Sebo,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",Atenúa los ataques de tipo Fuego y Hielo.
+184,Azumarill,Azumarill,,,huge_power,ability-2,1,Huge Power,Potencia,Doubles the Pokémon's Attack stat.,Aumenta el Ataque.
+184,Azumarill,Azumarill,,,sap_sipper,hidden,1,Sap Sipper,Herbívoro,Raises Attack when hit by Grass-type moves.,Neutraliza los movimientos de tipo Planta y sube el Ataque.
+186,Politoed,Politoed,,,water_absorb,ability-1,1,Water Absorb,Absorbe Agua,Restores HP if hit by a Water-type move.,Recupera PS al recibir ataques de tipo Agua.
+186,Politoed,Politoed,,,damp,ability-2,1,Damp,Humedad,Prevents self-destruction.,Evita que un Pokémon pueda autodestruirse.
+186,Politoed,Politoed,,,drizzle,hidden,1,Drizzle,Llovizna,Summons rain that lasts indefinitely upon entering battle.,Hace que llueva cuando entra en combate.
+196,Espeon,Espeon,,,synchronize,ability-1,1,Synchronize,Sincronía,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.","Contagia envenenamiento, parálisis o quemaduras."
+196,Espeon,Espeon,,,magic_bounce,hidden,1,Magic Bounce,Espejo Mágico,Reflects most non-damaging moves back at their user.,Permite devolver los ataques de estado.
+197,Umbreon,Umbreon,,,synchronize,ability-1,1,Synchronize,Sincronía,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.","Contagia envenenamiento, parálisis o quemaduras."
+197,Umbreon,Umbreon,,,inner_focus,hidden,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+199,Slowking,Slowking,,,oblivious,ability-1,1,Oblivious,Despiste,Prevents attraction.,Evita que el Pokémon sea atraído o provocado.
+199,Slowking,Slowking,,,own_tempo,ability-2,1,Own Tempo,Ritmo Propio,Prevents confusion.,Evita ser confundido.
+199,Slowking,Slowking,,,regenerator,hidden,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+205,Forretress,Forretress,,,sturdy,ability-1,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+205,Forretress,Forretress,,,overcoat,hidden,1,Overcoat,Funda,Protects against damage from weather.,"Protege del polvo, la arena y el granizo."
+208,Steelix,Steelix,,,rock_head,ability-1,1,Rock Head,Cabeza Roca,Protects the Pokémon from recoil damage.,Impide que el Pokémon se dañe con sus movimientos.
+208,Steelix,Steelix,,,sturdy,ability-2,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+208,Steelix,Steelix,,,sheer_force,hidden,1,Sheer Force,Potencia Bruta,Removes additional effects from moves but increases their power.,Sube la potencia y anula los efectos secundarios.
+212,Scizor,Scizor,,,swarm,ability-1,1,Swarm,Enjambre,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Bicho en un apuro.
+212,Scizor,Scizor,,,technician,ability-2,1,Technician,Experto,Powers up weak moves so the Pokémon can deal more damage with them.,Potencia los movimientos más débiles del Pokémon.
+212,Scizor,Scizor,,,light_metal,hidden,1,Light Metal,Metal Liviano,Halves the Pokémon's weight.,Reduce a la mitad el peso del Pokémon.
+214,Heracross,Heracross,,,swarm,ability-1,1,Swarm,Enjambre,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Bicho en un apuro.
+214,Heracross,Heracross,,,guts,ability-2,1,Guts,Agallas,Ups ATTACK if suffering.,Sube el Ataque si sufre un problema de estado.
+214,Heracross,Heracross,,,moxie,hidden,1,Moxie,Autoestima,Boosts Attack after knocking out any Pokémon.,Potencia el Ataque al debilitar a un objetivo.
+227,Skarmory,Skarmory,,,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+227,Skarmory,Skarmory,,,sturdy,ability-2,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+227,Skarmory,Skarmory,,,weak_armor,hidden,1,Weak Armor,Armadura Frágil,Physical attacks lower Defense and raise Speed.,Un ataque físico baja la Defensa y sube la Velocidad.
+229,Houndoom,Houndoom,,,early_bird,ability-1,1,Early Bird,Madrugar,Makes sleep pass twice as quickly.,El Pokémon se despierta rápidamente.
+229,Houndoom,Houndoom,,,flash_fire,ability-2,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+229,Houndoom,Houndoom,,,unnerve,hidden,1,Unnerve,Nerviosismo,Prevents foes from eating berries.,Pone nervioso al rival y le impide usar bayas.
+248,Tyranitar,Tyranitar,,,sand_stream,ability-1,1,Sand Stream,Chorro Arena,The Pokémon summons a sandstorm when it enters a battle.,Crea una tormenta de arena en el combate.
+248,Tyranitar,Tyranitar,,,unnerve,hidden,1,Unnerve,Nerviosismo,Prevents foes from eating berries.,Pone nervioso al rival y le impide usar bayas.
+279,Pelipper,Pelipper,,,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+279,Pelipper,Pelipper,,,drizzle,ability-2,1,Drizzle,Llovizna,Summons rain that lasts indefinitely upon entering battle.,Hace que llueva cuando entra en combate.
+279,Pelipper,Pelipper,,,rain_dish,hidden,1,Rain Dish,Cura Lluvia,Heals for 1/16 max HP after each turn during rain.,Recupera PS de forma gradual cuando llueve.
+282,Gardevoir,Gardevoir,,,synchronize,ability-1,1,Synchronize,Sincronía,"Copies burns, paralysis, and poison received onto the Pokémon that inflicted them.","Contagia envenenamiento, parálisis o quemaduras."
+282,Gardevoir,Gardevoir,,,trace,ability-2,1,Trace,Rastro,"When it enters a battle, the Pokémon copies an opposing Pokémon's Ability.",Copia la habilidad del rival.
+282,Gardevoir,Gardevoir,,,telepathy,hidden,1,Telepathy,Telepatía,Protects against friendly Pokémon's damaging moves.,Elude los ataques de aliados en batalla.
+302,Sableye,Sableye,,,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+302,Sableye,Sableye,,,stall,ability-2,1,Stall,Rezagado,The Pokémon moves after even slower foes.,El Pokémon se mueve tras todos los demás.
+302,Sableye,Sableye,,,prankster,hidden,1,Prankster,Bromista,Gives priority to the Pokémon's status moves.,Permite lanzar ataques de estado en primer lugar.
+306,Aggron,Aggron,,,sturdy,ability-1,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+306,Aggron,Aggron,,,rock_head,ability-2,1,Rock Head,Cabeza Roca,Protects the Pokémon from recoil damage.,Impide que el Pokémon se dañe con sus movimientos.
+306,Aggron,Aggron,,,heavy_metal,hidden,1,Heavy Metal,Metal Pesado,Doubles the Pokémon's weight.,Duplica el peso del Pokémon.
+308,Medicham,Medicham,,,pure_power,ability-1,1,Pure Power,Energía Pura,Doubles the Pokémon's Attack stat.,Aumenta el Ataque.
+308,Medicham,Medicham,,,telepathy,hidden,1,Telepathy,Telepatía,Protects against friendly Pokémon's damaging moves.,Elude los ataques de aliados en batalla.
+310,Manectric,Manectric,,,static,ability-1,1,Static,Elec. Estática,Paralyzes on contact.,Puede paralizar al mínimo contacto.
+310,Manectric,Manectric,,,lightning_rod,ability-2,1,Lightning Rod,Pararrayos,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp.
+310,Manectric,Manectric,,,minus,hidden,1,Minus,Menos,Powers up with PLUS.,Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos.
+319,Sharpedo,Sharpedo,,,rough_skin,ability-1,1,Rough Skin,Piel Tosca,Damages attacking Pokémon for 1/8 their max HP on contact.,Hiere al tacto.
+319,Sharpedo,Sharpedo,,,speed_boost,hidden,1,Speed Boost,Impulso,Gradually boosts SPEED.,Aumenta la Velocidad gradualmente.
+323,Camerupt,Camerupt,,,magma_armor,ability-1,1,Magma Armor,Escudo Magma,Prevents freezing.,Evita la congelación.
+323,Camerupt,Camerupt,,,solid_rock,ability-2,1,Solid Rock,Roca Sólida,Decreases damage taken from super-effective moves by 1/4.,Mitiga los movimientos supereficaces.
+323,Camerupt,Camerupt,,,anger_point,hidden,1,Anger Point,Irascible,Raises Attack to the maximum of six stages upon receiving a critical hit.,Sube el Ataque al máximo tras un golpe crítico.
+324,Torkoal,Torkoal,,,white_smoke,ability-1,1,White Smoke,Humo Blanco,Prevents stats from being lowered by other Pokémon.,Evita que bajen las características.
+324,Torkoal,Torkoal,,,drought,ability-2,1,Drought,Sequía,Turns the sunlight harsh when the Pokémon enters a battle.,El sol sale si el Pokémon entra en combate.
+324,Torkoal,Torkoal,,,shell_armor,hidden,1,Shell Armor,Caparazón,A hard shell protects the Pokémon from critical hits.,Bloquea los golpes críticos.
+334,Altaria,Altaria,,,natural_cure,ability-1,1,Natural Cure,Cura Natural,All status conditions heal when the Pokémon switches out.,Cura problemas de estado al cambiar de Pokémon.
+334,Altaria,Altaria,,,cloud_nine,hidden,1,Cloud Nine,Aclimatación,"Negates all effects of weather, but does not prevent the weather itself.",Anula los efectos del tiempo atmosférico.
+350,Milotic,Milotic,,,marvel_scale,ability-1,1,Marvel Scale,Escama Especial,Increases Defense to 1.5× with a major status ailment.,Sube la Defensa si sufre un problema de estado.
+350,Milotic,Milotic,,,competitive,ability-2,1,Competitive,Tenacidad,Boosts the Sp. Atk stat sharply when a stat is lowered.,Aumenta su At. Esp. cuando disminuyen otras características.
+350,Milotic,Milotic,,,cute_charm,hidden,1,Cute Charm,Gran Encanto,Has a 30% chance of infatuating attacking Pokémon on contact.,Tocar al Pokémon puede causar enamoramiento.
+351,Castform,Castform,,,forecast,ability-1,1,Forecast,Predicción,Changes the Pokémon's type and appearance based on the weather in battle.,Se transforma según el tiempo atmosférico.
+354,Banette,Banette,,,insomnia,ability-1,1,Insomnia,Insomnio,Prevents sleep.,Evita el quedarse dormido.
+354,Banette,Banette,,,frisk,ability-2,1,Frisk,Cacheo,The Pokémon can check the foe’s held item.,El Pokémon puede ver el objeto que lleva el rival.
+354,Banette,Banette,,,cursed_body,hidden,1,Cursed Body,Cuerpo Maldito,Has a 30% chance of Disabling any move that hits the Pokémon.,Puede anular el movimiento usado en su contra.
+358,Chimecho,Chimecho,,,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+359,Absol,Absol,,,pressure,ability-1,1,Pressure,Presión,Increases the PP cost of moves targetting the Pokémon by one.,Hace que los PP del rival se acaben antes.
+359,Absol,Absol,,,super_luck,ability-2,1,Super Luck,Afortunado,Raises moves' critical hit rates one stage.,Aumenta la probabilidad de dar golpes críticos.
+359,Absol,Absol,,,justified,hidden,1,Justified,Justiciero,Raises Attack when hit by Dark-type moves.,Sube el Ataque al recibir uno de tipo Siniestro.
+362,Glalie,Glalie,,,inner_focus,ability-1,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+362,Glalie,Glalie,,,ice_body,ability-2,1,Ice Body,Gélido,The Pokémon regains HP in a hailstorm.,Recupera algunos PS cuando hay tormentas de granizo.
+362,Glalie,Glalie,,,moody,hidden,1,Moody,Veleta,Raises a random stat two stages and lowers another one stage after each turn.,"Sube una característica mucho, pero baja otra."
+389,Torterra,Torterra,,,overgrow,ability-1,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
+389,Torterra,Torterra,,,shell_armor,hidden,1,Shell Armor,Caparazón,A hard shell protects the Pokémon from critical hits.,Bloquea los golpes críticos.
+392,Infernape,Infernape,,,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+392,Infernape,Infernape,,,iron_fist,hidden,1,Iron Fist,Puño Férreo,Powers up punching moves.,Aumenta la fuerza de los puñetazos.
+395,Empoleon,Empoleon,,,torrent,ability-1,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
+395,Empoleon,Empoleon,,,competitive,hidden,1,Competitive,Tenacidad,Boosts the Sp. Atk stat sharply when a stat is lowered.,Aumenta su At. Esp. cuando disminuyen otras características.
+405,Luxray,Luxray,,,rivalry,ability-1,1,Rivalry,Rivalidad,Raises Attack if the foe is of the same gender.,"Si el objetivo es del mismo sexo, inflige más daño."
+405,Luxray,Luxray,,,intimidate,ability-2,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+405,Luxray,Luxray,,,guts,hidden,1,Guts,Agallas,Ups ATTACK if suffering.,Sube el Ataque si sufre un problema de estado.
+407,Roserade,Roserade,,,natural_cure,ability-1,1,Natural Cure,Cura Natural,All status conditions heal when the Pokémon switches out.,Cura problemas de estado al cambiar de Pokémon.
+407,Roserade,Roserade,,,poison_point,ability-2,1,Poison Point,Punto Tóxico,Poisons foe on contact.,Puede envenenar al mínimo contacto.
+407,Roserade,Roserade,,,technician,hidden,1,Technician,Experto,Powers up weak moves so the Pokémon can deal more damage with them.,Potencia los movimientos más débiles del Pokémon.
+409,Rampardos,Rampardos,,,mold_breaker,ability-1,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.
+409,Rampardos,Rampardos,,,sheer_force,hidden,1,Sheer Force,Potencia Bruta,Removes additional effects from moves but increases their power.,Sube la potencia y anula los efectos secundarios.
+411,Bastiodon,Bastiodon,,,sturdy,ability-1,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+411,Bastiodon,Bastiodon,,,soundproof,hidden,1,Soundproof,Insonorizar,Protects against sound-based moves.,Evita ataques de sonido.
+428,Lopunny,Lopunny,,,cute_charm,ability-1,1,Cute Charm,Gran Encanto,Has a 30% chance of infatuating attacking Pokémon on contact.,Tocar al Pokémon puede causar enamoramiento.
+428,Lopunny,Lopunny,,,klutz,ability-2,1,Klutz,Zoquete,Can't use held items.,El Pokémon no puede usar objetos equipados.
+428,Lopunny,Lopunny,,,limber,hidden,1,Limber,Flexibilidad,Prevents paralysis.,Evita ser paralizado.
+442,Spiritomb,Spiritomb,,,pressure,ability-1,1,Pressure,Presión,Increases the PP cost of moves targetting the Pokémon by one.,Hace que los PP del rival se acaben antes.
+442,Spiritomb,Spiritomb,,,infiltrator,hidden,1,Infiltrator,Allanamiento,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",Ataca rodeando la barrera del rival.
+445,Garchomp,Garchomp,,,sand_veil,ability-1,1,Sand Veil,Velo Arena,Ups evasion in a sandstorm.,Aumenta la Evasión en las tormentas de arena.
+445,Garchomp,Garchomp,,,rough_skin,hidden,1,Rough Skin,Piel Tosca,Damages attacking Pokémon for 1/8 their max HP on contact.,Hiere al tacto.
+448,Lucario,Lucario,,,steadfast,ability-1,1,Steadfast,Impasible,Raises Speed one stage upon flinching.,Cada vez que retrocede sube su Velocidad.
+448,Lucario,Lucario,,,inner_focus,ability-2,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+448,Lucario,Lucario,,,justified,hidden,1,Justified,Justiciero,Raises Attack when hit by Dark-type moves.,Sube el Ataque al recibir uno de tipo Siniestro.
+450,Hippowdon,Hippowdon,,,sand_stream,ability-1,1,Sand Stream,Chorro Arena,The Pokémon summons a sandstorm when it enters a battle.,Crea una tormenta de arena en el combate.
+450,Hippowdon,Hippowdon,,,sand_force,hidden,1,Sand Force,Poder Arena,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",Potencia algunos movimientos durante las tormentas de arena.
+454,Toxicroak,Toxicroak,,,anticipation,ability-1,1,Anticipation,Anticipación,"Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",Prevé los movimientos peligrosos del rival.
+454,Toxicroak,Toxicroak,,,dry_skin,ability-2,1,Dry Skin,Piel Seca,Reduces HP if it is hot. Water restores HP.,Pierde PS si hace calor. Los recupera con agua.
+454,Toxicroak,Toxicroak,,,poison_touch,hidden,1,Poison Touch,Toque Tóxico,Has a 30% chance of poisoning target Pokémon upon contact.,Puede envenenar al objetivo con solo tocarlo.
+460,Abomasnow,Abomasnow,,,snow_warning,ability-1,1,Snow Warning,Nevada,The Pokémon makes it snow when it enters a battle.,El Pokémon invoca una tormenta de granizo.
+460,Abomasnow,Abomasnow,,,soundproof,hidden,1,Soundproof,Insonorizar,Protects against sound-based moves.,Evita ataques de sonido.
+461,Weavile,Weavile,,,pressure,ability-1,1,Pressure,Presión,Increases the PP cost of moves targetting the Pokémon by one.,Hace que los PP del rival se acaben antes.
+461,Weavile,Weavile,,,pickpocket,hidden,1,Pickpocket,Hurto,Steals attacking Pokémon's held items on contact.,"Al ser golpeado, roba el objeto del objetivo."
+464,Rhyperior,Rhyperior,,,lightning_rod,ability-1,1,Lightning Rod,Pararrayos,"Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.",Atrae y neutraliza movimientos de tipo Eléctrico y sube el At. Esp.
+464,Rhyperior,Rhyperior,,,solid_rock,ability-2,1,Solid Rock,Roca Sólida,Decreases damage taken from super-effective moves by 1/4.,Mitiga los movimientos supereficaces.
+464,Rhyperior,Rhyperior,,,reckless,hidden,1,Reckless,Audaz,Strengthens recoil moves to 1.2× their power.,Potencia los movimientos que dañan al usuario.
+470,Leafeon,Leafeon,,,leaf_guard,ability-1,1,Leaf Guard,Defensa Hoja,Protects against major status ailments during strong sunlight.,Evita los problemas de estado si hace sol.
+470,Leafeon,Leafeon,,,chlorophyll,hidden,1,Chlorophyll,Clorofila,Doubles Speed during strong sunlight.,Sube la Velocidad cuando hay sol.
+471,Glaceon,Glaceon,,,snow_cloak,ability-1,1,Snow Cloak,Manto Níveo,Raises evasion in a hailstorm.,Sube la Evasión durante una tormenta de granizo.
+471,Glaceon,Glaceon,,,ice_body,hidden,1,Ice Body,Gélido,The Pokémon regains HP in a hailstorm.,Recupera algunos PS cuando hay tormentas de granizo.
+472,Gliscor,Gliscor,,,hyper_cutter,ability-1,1,Hyper Cutter,Corte Fuerte,Prevents Attack from being lowered by other Pokémon.,Evita que disminuya el Ataque.
+472,Gliscor,Gliscor,,,sand_veil,ability-2,1,Sand Veil,Velo Arena,Ups evasion in a sandstorm.,Aumenta la Evasión en las tormentas de arena.
+472,Gliscor,Gliscor,,,poison_heal,hidden,1,Poison Heal,Antídoto,Heals for 1/8 max HP after each turn when poisoned in place of damage.,Recupera PS si el Pokémon ha sido envenenado.
+473,Mamoswine,Mamoswine,,,oblivious,ability-1,1,Oblivious,Despiste,Prevents attraction.,Evita que el Pokémon sea atraído o provocado.
+473,Mamoswine,Mamoswine,,,snow_cloak,ability-2,1,Snow Cloak,Manto Níveo,Raises evasion in a hailstorm.,Sube la Evasión durante una tormenta de granizo.
+473,Mamoswine,Mamoswine,,,thick_fat,hidden,1,Thick Fat,Sebo,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",Atenúa los ataques de tipo Fuego y Hielo.
+475,Gallade,Gallade,,,steadfast,ability-1,1,Steadfast,Impasible,Raises Speed one stage upon flinching.,Cada vez que retrocede sube su Velocidad.
+475,Gallade,Gallade,,,sharpness,ability-2,1,Sharpness,Cortante,Powers up slicing moves.,
+475,Gallade,Gallade,,,justified,hidden,1,Justified,Justiciero,Raises Attack when hit by Dark-type moves.,Sube el Ataque al recibir uno de tipo Siniestro.
+478,Froslass,Froslass,,,snow_cloak,ability-1,1,Snow Cloak,Manto Níveo,Raises evasion in a hailstorm.,Sube la Evasión durante una tormenta de granizo.
+478,Froslass,Froslass,,,cursed_body,hidden,1,Cursed Body,Cuerpo Maldito,Has a 30% chance of Disabling any move that hits the Pokémon.,Puede anular el movimiento usado en su contra.
+479,Rotom,Rotom,,,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+497,Serperior,Serperior,,,overgrow,ability-1,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
+497,Serperior,Serperior,,,contrary,hidden,1,Contrary,Respondón,Inverts stat changes.,Invierte los cambios en las características.
+500,Emboar,Emboar,,,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+500,Emboar,Emboar,,,reckless,hidden,1,Reckless,Audaz,Strengthens recoil moves to 1.2× their power.,Potencia los movimientos que dañan al usuario.
+503,Samurott,Samurott,,,torrent,ability-1,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
+503,Samurott,Samurott,,,shell_armor,hidden,1,Shell Armor,Caparazón,A hard shell protects the Pokémon from critical hits.,Bloquea los golpes críticos.
+505,Watchog,Watchog,,,illuminate,ability-1,1,Illuminate,Iluminación,"By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",Aumenta la probabilidad de encontrar Pokémon.
+505,Watchog,Watchog,,,keen_eye,ability-2,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+505,Watchog,Watchog,,,analytic,hidden,1,Analytic,Cálculo Final,Attack power increases by 30% if the Pokémon is the last Pokémon to attack this turn.,Potencia el movimiento si es el último en atacar.
+510,Liepard,Liepard,,,limber,ability-1,1,Limber,Flexibilidad,Prevents paralysis.,Evita ser paralizado.
+510,Liepard,Liepard,,,unburden,ability-2,1,Unburden,Liviano,Doubles Speed upon using or losing a held item.,Sube la Velocidad si usa o pierde el objeto que lleve.
+510,Liepard,Liepard,,,prankster,hidden,1,Prankster,Bromista,Gives priority to the Pokémon's status moves.,Permite lanzar ataques de estado en primer lugar.
+512,Simisage,Simisage,,,gluttony,ability-1,1,Gluttony,Gula,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,Fomenta el uso rápido de la baya que porte.
+512,Simisage,Simisage,,,overgrow,hidden,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
+514,Simisear,Simisear,,,gluttony,ability-1,1,Gluttony,Gula,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,Fomenta el uso rápido de la baya que porte.
+514,Simisear,Simisear,,,blaze,hidden,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+516,Simipour,Simipour,,,gluttony,ability-1,1,Gluttony,Gula,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,Fomenta el uso rápido de la baya que porte.
+516,Simipour,Simipour,,,torrent,hidden,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
+530,Excadrill,Excadrill,,,sand_rush,ability-1,1,Sand Rush,Ímpetu Arena,Doubles Speed during a sandstorm.  Protects against sandstorm damage.,Aumenta la Velocidad durante las tormentas de arena.
+530,Excadrill,Excadrill,,,sand_force,ability-2,1,Sand Force,Poder Arena,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",Potencia algunos movimientos durante las tormentas de arena.
+530,Excadrill,Excadrill,,,mold_breaker,hidden,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.
+531,Audino,Audino,,,healer,ability-1,1,Healer,Alma Cura,Sometimes cures the status conditions of the Pokémon's allies.,A veces cura los cambios de estado de un aliado.
+531,Audino,Audino,,,regenerator,ability-2,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+531,Audino,Audino,,,klutz,hidden,1,Klutz,Zoquete,Can't use held items.,El Pokémon no puede usar objetos equipados.
+534,Conkeldurr,Conkeldurr,,,guts,ability-1,1,Guts,Agallas,Ups ATTACK if suffering.,Sube el Ataque si sufre un problema de estado.
+534,Conkeldurr,Conkeldurr,,,sheer_force,ability-2,1,Sheer Force,Potencia Bruta,Removes additional effects from moves but increases their power.,Sube la potencia y anula los efectos secundarios.
+534,Conkeldurr,Conkeldurr,,,iron_fist,hidden,1,Iron Fist,Puño Férreo,Powers up punching moves.,Aumenta la fuerza de los puñetazos.
+547,Whimsicott,Whimsicott,,,prankster,ability-1,1,Prankster,Bromista,Gives priority to the Pokémon's status moves.,Permite lanzar ataques de estado en primer lugar.
+547,Whimsicott,Whimsicott,,,infiltrator,ability-2,1,Infiltrator,Allanamiento,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",Ataca rodeando la barrera del rival.
+547,Whimsicott,Whimsicott,,,chlorophyll,hidden,1,Chlorophyll,Clorofila,Doubles Speed during strong sunlight.,Sube la Velocidad cuando hay sol.
+553,Krookodile,Krookodile,,,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+553,Krookodile,Krookodile,,,moxie,ability-2,1,Moxie,Autoestima,Boosts Attack after knocking out any Pokémon.,Potencia el Ataque al debilitar a un objetivo.
+553,Krookodile,Krookodile,,,anger_point,hidden,1,Anger Point,Irascible,Raises Attack to the maximum of six stages upon receiving a critical hit.,Sube el Ataque al máximo tras un golpe crítico.
+563,Cofagrigus,Cofagrigus,,,mummy,ability-1,1,Mummy,Momia,Contact with this Pokémon spreads this Ability.,Contagia Momia al rival que lo toque.
+569,Garbodor,Garbodor,,,stench,ability-1,1,Stench,Hedor,Helps repel wild POKéMON.,Es posible que el rival retroceda por el mal olor.
+569,Garbodor,Garbodor,,,weak_armor,ability-2,1,Weak Armor,Armadura Frágil,Physical attacks lower Defense and raise Speed.,Un ataque físico baja la Defensa y sube la Velocidad.
+569,Garbodor,Garbodor,,,aftermath,hidden,1,Aftermath,Detonación,Damages the foe landing the finishing hit.,Daña al agresor que le ha dado el golpe de gracia.
+571,Zoroark,Zoroark,,,illusion,ability-1,1,Illusion,Ilusión,Takes on the appearance of the last party member.,Se convierte en el último Pokémon del equipo.
+579,Reuniclus,Reuniclus,,,overcoat,ability-1,1,Overcoat,Funda,Protects against damage from weather.,"Protege del polvo, la arena y el granizo."
+579,Reuniclus,Reuniclus,,,magic_guard,ability-2,1,Magic Guard,Muro Mágico,The Pokémon only takes damage from attacks.,Solo dañan al Pokémon los ataques directos.
+579,Reuniclus,Reuniclus,,,regenerator,hidden,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+584,Vanilluxe,Vanilluxe,,,ice_body,ability-1,1,Ice Body,Gélido,The Pokémon regains HP in a hailstorm.,Recupera algunos PS cuando hay tormentas de granizo.
+584,Vanilluxe,Vanilluxe,,,snow_warning,ability-2,1,Snow Warning,Nevada,The Pokémon makes it snow when it enters a battle.,El Pokémon invoca una tormenta de granizo.
+584,Vanilluxe,Vanilluxe,,,weak_armor,hidden,1,Weak Armor,Armadura Frágil,Physical attacks lower Defense and raise Speed.,Un ataque físico baja la Defensa y sube la Velocidad.
+587,Emolga,Emolga,,,static,ability-1,1,Static,Elec. Estática,Paralyzes on contact.,Puede paralizar al mínimo contacto.
+587,Emolga,Emolga,,,motor_drive,hidden,1,Motor Drive,Electromotor,"Absorbs electric moves, raising Speed one stage.",Sube la Velocidad si le alcanza un ataque eléctrico.
+609,Chandelure,Chandelure,,,flash_fire,ability-1,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+609,Chandelure,Chandelure,,,flame_body,ability-2,1,Flame Body,Cuerpo Llama,Has a 30% chance of burning attacking Pokémon on contact.,Puede quemar al mínimo contacto.
+609,Chandelure,Chandelure,,,infiltrator,hidden,1,Infiltrator,Allanamiento,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",Ataca rodeando la barrera del rival.
+614,Beartic,Beartic,,,snow_cloak,ability-1,1,Snow Cloak,Manto Níveo,Raises evasion in a hailstorm.,Sube la Evasión durante una tormenta de granizo.
+614,Beartic,Beartic,,,slush_rush,ability-2,1,Slush Rush,Quitanieves,Boosts the Pokémon’s Speed stat in a hailstorm.,Aumenta su Velocidad si está granizando.
+614,Beartic,Beartic,,,swift_swim,hidden,1,Swift Swim,Nado Rápido,Doubles Speed during rain.,Sube la Velocidad cuando hay lluvia.
+618,Stunfisk,Stunfisk,,,static,ability-1,1,Static,Elec. Estática,Paralyzes on contact.,Puede paralizar al mínimo contacto.
+618,Stunfisk,Stunfisk,,,limber,ability-2,1,Limber,Flexibilidad,Prevents paralysis.,Evita ser paralizado.
+618,Stunfisk,Stunfisk,,,sand_veil,hidden,1,Sand Veil,Velo Arena,Ups evasion in a sandstorm.,Aumenta la Evasión en las tormentas de arena.
+623,Golurk,Golurk,,,iron_fist,ability-1,1,Iron Fist,Puño Férreo,Powers up punching moves.,Aumenta la fuerza de los puñetazos.
+623,Golurk,Golurk,,,klutz,ability-2,1,Klutz,Zoquete,Can't use held items.,El Pokémon no puede usar objetos equipados.
+623,Golurk,Golurk,,,no_guard,hidden,1,No Guard,Indefenso,Ensures that all moves used by and against the Pokémon land.,El movimiento del Pokémon y el del rival acertarán.
+635,Hydreigon,Hydreigon,,,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+637,Volcarona,Volcarona,,,flame_body,ability-1,1,Flame Body,Cuerpo Llama,Has a 30% chance of burning attacking Pokémon on contact.,Puede quemar al mínimo contacto.
+637,Volcarona,Volcarona,,,swarm,hidden,1,Swarm,Enjambre,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Bicho en un apuro.
+652,Chesnaught,Chesnaught,,,overgrow,ability-1,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
+652,Chesnaught,Chesnaught,,,bulletproof,hidden,1,Bulletproof,Antibalas,Protects the Pokémon from some ball and bomb moves.,No le afectan las bombas ni algunos proyectiles.
+655,Delphox,Delphox,,,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+655,Delphox,Delphox,,,magician,hidden,1,Magician,Prestidigitador,The Pokémon steals the held item of a Pokémon it hits with a move.,Roba el objeto del Pokémon al que alcance con un movimiento.
+658,Greninja,Greninja,,,torrent,ability-1,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
+658,Greninja,Greninja,,,protean,hidden,1,Protean,Mutatipo,Changes the Pokémon's type to the type of the move it's about to use.,Cambia su tipo al del movimiento que acaba de usar.
+660,Diggersby,Diggersby,,,pickup,ability-1,1,Pickup,Recogida,May pick up items.,El Pokémon puede encontrar objetos.
+660,Diggersby,Diggersby,,,cheek_pouch,ability-2,1,Cheek Pouch,Carrillo,"Restores HP upon eating a Berry, in addition to the Berry's effect.",Recupera PS al comer bayas.
+660,Diggersby,Diggersby,,,huge_power,hidden,1,Huge Power,Potencia,Doubles the Pokémon's Attack stat.,Aumenta el Ataque.
+663,Talonflame,Talonflame,,,flame_body,ability-1,1,Flame Body,Cuerpo Llama,Has a 30% chance of burning attacking Pokémon on contact.,Puede quemar al mínimo contacto.
+663,Talonflame,Talonflame,,,gale_wings,hidden,1,Gale Wings,Alas Vendaval,Raises flying moves' priority by one stage.,Da prioridad a los movimientos de tipo Volador.
+666,Vivillon,Vivillon,,,shield_dust,ability-1,1,Shield Dust,Polvo Escudo,Prevents added effects.,Anula el efecto secundario del ataque sufrido.
+666,Vivillon,Vivillon,,,compound_eyes,ability-2,1,Compound Eyes,Ojo Compuesto,Raises accuracy.,Aumenta la Precisión del Pokémon.
+666,Vivillon,Vivillon,,,friend_guard,hidden,1,Friend Guard,Compiescolta,Decreases all direct damage taken by friendly Pokémon to 0.75×.,Reduce el daño que sufren los aliados.
+670,Floette,Floette,,,flower_veil,ability-1,1,Flower Veil,Velo Flor,Prevents lowering of ally Grass-type Pokémon’s stats.,Evita que bajen las características de Pokémon tipo Planta aliados.
+670,Floette,Floette,,,symbiosis,hidden,1,Symbiosis,Simbiosis,Passes the bearer's held item to an ally when the ally uses up its item.,El Pokémon puede pasar su objeto a un aliado.
+671,Florges,Florges,,,flower_veil,ability-1,1,Flower Veil,Velo Flor,Prevents lowering of ally Grass-type Pokémon’s stats.,Evita que bajen las características de Pokémon tipo Planta aliados.
+671,Florges,Florges,,,symbiosis,hidden,1,Symbiosis,Simbiosis,Passes the bearer's held item to an ally when the ally uses up its item.,El Pokémon puede pasar su objeto a un aliado.
+675,Pangoro,Pangoro,,,iron_fist,ability-1,1,Iron Fist,Puño Férreo,Powers up punching moves.,Aumenta la fuerza de los puñetazos.
+675,Pangoro,Pangoro,,,mold_breaker,ability-2,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.
+675,Pangoro,Pangoro,,,scrappy,hidden,1,Scrappy,Intrépido,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma.
+676,Furfrou,Furfrou,,,fur_coat,ability-1,1,Fur Coat,Pelaje Recio,Halves damage from physical moves.,Reduce a la mitad el daño recibido por ataques físicos.
+678,Meowstic,Meowstic,Meowstic-M,Meowstic-M,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+678,Meowstic,Meowstic,Meowstic-M,Meowstic-M,infiltrator,ability-2,1,Infiltrator,Allanamiento,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",Ataca rodeando la barrera del rival.
+678,Meowstic,Meowstic,Meowstic-M,Meowstic-M,prankster,hidden,1,Prankster,Bromista,Gives priority to the Pokémon's status moves.,Permite lanzar ataques de estado en primer lugar.
+681,Aegislash,Aegislash,,,stance_change,ability-1,1,Stance Change,Cambio Táctico,"Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",Cambia de forma según su estilo de combate.
+683,Aromatisse,Aromatisse,,,healer,ability-1,1,Healer,Alma Cura,Sometimes cures the status conditions of the Pokémon's allies.,A veces cura los cambios de estado de un aliado.
+683,Aromatisse,Aromatisse,,,aroma_veil,hidden,1,Aroma Veil,Velo Aroma,Protects allies from attacks that limit their move choices.,Protege al equipo de ataques que impiden elegir movimientos.
+685,Slurpuff,Slurpuff,,,sweet_veil,ability-1,1,Sweet Veil,Velo Dulce,Prevents itself and ally Pokémon from falling asleep.,Evita que tu equipo Pokémon se duerma.
+685,Slurpuff,Slurpuff,,,unburden,hidden,1,Unburden,Liviano,Doubles Speed upon using or losing a held item.,Sube la Velocidad si usa o pierde el objeto que lleve.
+693,Clawitzer,Clawitzer,,,mega_launcher,ability-1,1,Mega Launcher,Megadisparador,Powers up pulse moves.,Aumenta la potencia de algunos movimientos de pulsos y auras.
+695,Heliolisk,Heliolisk,,,dry_skin,ability-1,1,Dry Skin,Piel Seca,Reduces HP if it is hot. Water restores HP.,Pierde PS si hace calor. Los recupera con agua.
+695,Heliolisk,Heliolisk,,,sand_veil,ability-2,1,Sand Veil,Velo Arena,Ups evasion in a sandstorm.,Aumenta la Evasión en las tormentas de arena.
+695,Heliolisk,Heliolisk,,,solar_power,hidden,1,Solar Power,Poder Solar,"In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but HP decreases every turn.","Si hace sol, baja los PS, pero potencia el At. Esp."
+697,Tyrantrum,Tyrantrum,,,strong_jaw,ability-1,1,Strong Jaw,Mandíbula Fuerte,The Pokémon's strong jaw boosts the power of its biting moves.,Su robusta mandíbula le confiere una potente mordedura.
+697,Tyrantrum,Tyrantrum,,,rock_head,hidden,1,Rock Head,Cabeza Roca,Protects the Pokémon from recoil damage.,Impide que el Pokémon se dañe con sus movimientos.
+699,Aurorus,Aurorus,,,refrigerate,ability-1,1,Refrigerate,Piel Helada,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.,Convierte movimientos de tipo Normal en tipo Hielo.
+699,Aurorus,Aurorus,,,snow_warning,hidden,1,Snow Warning,Nevada,The Pokémon makes it snow when it enters a battle.,El Pokémon invoca una tormenta de granizo.
+700,Sylveon,Sylveon,,,cute_charm,ability-1,1,Cute Charm,Gran Encanto,Has a 30% chance of infatuating attacking Pokémon on contact.,Tocar al Pokémon puede causar enamoramiento.
+700,Sylveon,Sylveon,,,pixilate,hidden,1,Pixilate,Piel Feérica,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.,Convierte movimientos de tipo Normal en tipo Hada.
+701,Hawlucha,Hawlucha,,,limber,ability-1,1,Limber,Flexibilidad,Prevents paralysis.,Evita ser paralizado.
+701,Hawlucha,Hawlucha,,,unburden,ability-2,1,Unburden,Liviano,Doubles Speed upon using or losing a held item.,Sube la Velocidad si usa o pierde el objeto que lleve.
+701,Hawlucha,Hawlucha,,,mold_breaker,hidden,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.
+702,Dedenne,Dedenne,,,cheek_pouch,ability-1,1,Cheek Pouch,Carrillo,"Restores HP upon eating a Berry, in addition to the Berry's effect.",Recupera PS al comer bayas.
+702,Dedenne,Dedenne,,,pickup,ability-2,1,Pickup,Recogida,May pick up items.,El Pokémon puede encontrar objetos.
+702,Dedenne,Dedenne,,,plus,hidden,1,Plus,Más,Powers up with MINUS.,Potencia el At. Esp. si algún otro Pokémon tiene Más o Menos.
+706,Goodra,Goodra,,,sap_sipper,ability-1,1,Sap Sipper,Herbívoro,Raises Attack when hit by Grass-type moves.,Neutraliza los movimientos de tipo Planta y sube el Ataque.
+706,Goodra,Goodra,,,hydration,ability-2,1,Hydration,Hidratación,Heals status conditions when it is raining.,Cura los problemas de estado si está lloviendo.
+706,Goodra,Goodra,,,gooey,hidden,1,Gooey,Baba,Contact with the Pokémon lowers the attacker's Speed stat.,Baja la Velocidad del Pokémon con el que entra en contacto.
+707,Klefki,Klefki,,,prankster,ability-1,1,Prankster,Bromista,Gives priority to the Pokémon's status moves.,Permite lanzar ataques de estado en primer lugar.
+707,Klefki,Klefki,,,magician,hidden,1,Magician,Prestidigitador,The Pokémon steals the held item of a Pokémon it hits with a move.,Roba el objeto del Pokémon al que alcance con un movimiento.
+709,Trevenant,Trevenant,,,natural_cure,ability-1,1,Natural Cure,Cura Natural,All status conditions heal when the Pokémon switches out.,Cura problemas de estado al cambiar de Pokémon.
+709,Trevenant,Trevenant,,,frisk,ability-2,1,Frisk,Cacheo,The Pokémon can check the foe’s held item.,El Pokémon puede ver el objeto que lleva el rival.
+709,Trevenant,Trevenant,,,harvest,hidden,1,Harvest,Cosecha,May create another Berry after one is used. 100% chance in sunshine.,Permite reutilizar varias veces una misma baya.
+711,Gourgeist,Gourgeist,,,pickup,ability-1,1,Pickup,Recogida,May pick up items.,El Pokémon puede encontrar objetos.
+711,Gourgeist,Gourgeist,,,frisk,ability-2,1,Frisk,Cacheo,The Pokémon can check the foe’s held item.,El Pokémon puede ver el objeto que lleva el rival.
+711,Gourgeist,Gourgeist,,,insomnia,hidden,1,Insomnia,Insomnio,Prevents sleep.,Evita el quedarse dormido.
+713,Avalugg,Avalugg,,,own_tempo,ability-1,1,Own Tempo,Ritmo Propio,Prevents confusion.,Evita ser confundido.
+713,Avalugg,Avalugg,,,ice_body,ability-2,1,Ice Body,Gélido,The Pokémon regains HP in a hailstorm.,Recupera algunos PS cuando hay tormentas de granizo.
+713,Avalugg,Avalugg,,,sturdy,hidden,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+715,Noivern,Noivern,,,frisk,ability-1,1,Frisk,Cacheo,The Pokémon can check the foe’s held item.,El Pokémon puede ver el objeto que lleva el rival.
+715,Noivern,Noivern,,,infiltrator,ability-2,1,Infiltrator,Allanamiento,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",Ataca rodeando la barrera del rival.
+715,Noivern,Noivern,,,telepathy,hidden,1,Telepathy,Telepatía,Protects against friendly Pokémon's damaging moves.,Elude los ataques de aliados en batalla.
+724,Decidueye,Decidueye,,,overgrow,ability-1,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
+724,Decidueye,Decidueye,,,long_reach,hidden,1,Long Reach,Remoto,Moves don't make contact.,Permite usar cualquier movimiento sin entrar en contacto con el rival.
+727,Incineroar,Incineroar,,,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+727,Incineroar,Incineroar,,,intimidate,hidden,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+730,Primarina,Primarina,,,torrent,ability-1,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
+730,Primarina,Primarina,,,liquid_voice,hidden,1,Liquid Voice,Voz Fluida,All sound-based moves become Water-type moves.,Hace que todos los movimientos del Pokémon basados en sonido pasen a ser de tipo Agua.
+733,Toucannon,Toucannon,,,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+733,Toucannon,Toucannon,,,skill_link,ability-2,1,Skill Link,Encadenado,Maximizes the number of times multistrike moves hit.,Aumenta la frecuencia de los movimientos múltiples.
+733,Toucannon,Toucannon,,,sheer_force,hidden,1,Sheer Force,Potencia Bruta,Removes additional effects from moves but increases their power.,Sube la potencia y anula los efectos secundarios.
+740,Crabominable,Crabominable,,,hyper_cutter,ability-1,1,Hyper Cutter,Corte Fuerte,Prevents Attack from being lowered by other Pokémon.,Evita que disminuya el Ataque.
+740,Crabominable,Crabominable,,,iron_fist,ability-2,1,Iron Fist,Puño Férreo,Powers up punching moves.,Aumenta la fuerza de los puñetazos.
+740,Crabominable,Crabominable,,,anger_point,hidden,1,Anger Point,Irascible,Raises Attack to the maximum of six stages upon receiving a critical hit.,Sube el Ataque al máximo tras un golpe crítico.
+745,Lycanroc,Lycanroc,,,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+745,Lycanroc,Lycanroc,,,sand_rush,ability-2,1,Sand Rush,Ímpetu Arena,Doubles Speed during a sandstorm.  Protects against sandstorm damage.,Aumenta la Velocidad durante las tormentas de arena.
+745,Lycanroc,Lycanroc,,,steadfast,hidden,1,Steadfast,Impasible,Raises Speed one stage upon flinching.,Cada vez que retrocede sube su Velocidad.
+748,Toxapex,Toxapex,,,merciless,ability-1,1,Merciless,Ensañamiento,This Pokémon's moves critical hit against poisoned targets.,Hace que los movimientos asesten siempre un golpe crítico si el rival está envenenado.
+748,Toxapex,Toxapex,,,limber,ability-2,1,Limber,Flexibilidad,Prevents paralysis.,Evita ser paralizado.
+748,Toxapex,Toxapex,,,regenerator,hidden,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+750,Mudsdale,Mudsdale,,,own_tempo,ability-1,1,Own Tempo,Ritmo Propio,Prevents confusion.,Evita ser confundido.
+750,Mudsdale,Mudsdale,,,stamina,ability-2,1,Stamina,Firmeza,Raises this Pokémon's Defense by one stage when it takes damage from a move.,Aumenta la Defensa al recibir un ataque físico.
+750,Mudsdale,Mudsdale,,,inner_focus,hidden,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+752,Araquanid,Araquanid,,,water_bubble,ability-1,1,Water Bubble,Pompa,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.,Reduce el daño que le provocan los movimientos de tipo Fuego e impide que sufra quemaduras.
+752,Araquanid,Araquanid,,,water_absorb,hidden,1,Water Absorb,Absorbe Agua,Restores HP if hit by a Water-type move.,Recupera PS al recibir ataques de tipo Agua.
+758,Salazzle,Salazzle,,,corrosion,ability-1,1,Corrosion,Corrosión,This Pokémon can inflict poison on Poison and Steel Pokémon.,Permite envenenar incluso a rivales de tipo Acero o Veneno.
+758,Salazzle,Salazzle,,,oblivious,hidden,1,Oblivious,Despiste,Prevents attraction.,Evita que el Pokémon sea atraído o provocado.
+763,Tsareena,Tsareena,,,leaf_guard,ability-1,1,Leaf Guard,Defensa Hoja,Protects against major status ailments during strong sunlight.,Evita los problemas de estado si hace sol.
+763,Tsareena,Tsareena,,,queenly_majesty,ability-2,1,Queenly Majesty,Regia Presencia,Opposing Pokémon cannot use priority attacks.,Intimida al rival y le impide usar movimientos con prioridad dirigidos al Pokémon.
+763,Tsareena,Tsareena,,,sweet_veil,hidden,1,Sweet Veil,Velo Dulce,Prevents itself and ally Pokémon from falling asleep.,Evita que tu equipo Pokémon se duerma.
+765,Oranguru,Oranguru,,,inner_focus,ability-1,1,Inner Focus,Foco Interno,"The Pokémon's intensely focused, and that prevents it from flinching.",Evita el retroceso.
+765,Oranguru,Oranguru,,,telepathy,ability-2,1,Telepathy,Telepatía,Protects against friendly Pokémon's damaging moves.,Elude los ataques de aliados en batalla.
+765,Oranguru,Oranguru,,,symbiosis,hidden,1,Symbiosis,Simbiosis,Passes the bearer's held item to an ally when the ally uses up its item.,El Pokémon puede pasar su objeto a un aliado.
+766,Passimian,Passimian,,,receiver,ability-1,1,Receiver,Receptor,The Pokémon copies the Ability of a defeated ally.,Adquiere la habilidad de un aliado debilitado.
+766,Passimian,Passimian,,,defiant,hidden,1,Defiant,Competitivo,Raises Attack two stages upon having any stat lowered.,Sube el Ataque cuando el rival le baja las características.
+778,Mimikyu,Mimikyu,,,disguise,ability-1,1,Disguise,Disfraz,Prevents the first instance of battle damage.,Permite eludir un único ataque valiéndose de la tela que le cubre el cuerpo.
+780,Drampa,Drampa,,,berserk,ability-1,1,Berserk,Cólera,Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to become half or less.,Aumenta el Ataque Especial si los ataques del oponente le reducen los PS a la mitad.
+780,Drampa,Drampa,,,sap_sipper,ability-2,1,Sap Sipper,Herbívoro,Raises Attack when hit by Grass-type moves.,Neutraliza los movimientos de tipo Planta y sube el Ataque.
+780,Drampa,Drampa,,,cloud_nine,hidden,1,Cloud Nine,Aclimatación,"Negates all effects of weather, but does not prevent the weather itself.",Anula los efectos del tiempo atmosférico.
+784,Kommo-o,Kommo-o,,,bulletproof,ability-1,1,Bulletproof,Antibalas,Protects the Pokémon from some ball and bomb moves.,No le afectan las bombas ni algunos proyectiles.
+784,Kommo-o,Kommo-o,,,soundproof,ability-2,1,Soundproof,Insonorizar,Protects against sound-based moves.,Evita ataques de sonido.
+784,Kommo-o,Kommo-o,,,overcoat,hidden,1,Overcoat,Funda,Protects against damage from weather.,"Protege del polvo, la arena y el granizo."
+823,Corviknight,Corviknight,,,pressure,ability-1,1,Pressure,Presión,Increases the PP cost of moves targetting the Pokémon by one.,Hace que los PP del rival se acaben antes.
+823,Corviknight,Corviknight,,,unnerve,ability-2,1,Unnerve,Nerviosismo,Prevents foes from eating berries.,Pone nervioso al rival y le impide usar bayas.
+823,Corviknight,Corviknight,,,mirror_armor,hidden,1,Mirror Armor,Coraza Reflejo,Reflects stat-lowering effects back.,Refleja los efectos que reducen las características.
+841,Flapple,Flapple,,,ripen,ability-1,1,Ripen,Maduración,Ripens Berries and doubles their effect.,"Hace madurar las bayas, por lo que duplica sus efectos."
+841,Flapple,Flapple,,,gluttony,ability-2,1,Gluttony,Gula,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,Fomenta el uso rápido de la baya que porte.
+841,Flapple,Flapple,,,hustle,hidden,1,Hustle,Entusiasmo,Trades accuracy for power.,"Aumenta el Ataque, pero reduce la Precisión."
+842,Appletun,Appletun,,,ripen,ability-1,1,Ripen,Maduración,Ripens Berries and doubles their effect.,"Hace madurar las bayas, por lo que duplica sus efectos."
+842,Appletun,Appletun,,,gluttony,ability-2,1,Gluttony,Gula,Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.,Fomenta el uso rápido de la baya que porte.
+842,Appletun,Appletun,,,thick_fat,hidden,1,Thick Fat,Sebo,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",Atenúa los ataques de tipo Fuego y Hielo.
+844,Sandaconda,Sandaconda,,,sand_spit,ability-1,1,Sand Spit,Expulsarena,The Pokémon creates a sandstorm when it’s hit by an attack.,Provoca una tormenta de arena al recibir un ataque.
+844,Sandaconda,Sandaconda,,,shed_skin,ability-2,1,Shed Skin,Mudar,Heals the body by shedding.,Cura los problemas de estado mudando la piel.
+844,Sandaconda,Sandaconda,,,sand_veil,hidden,1,Sand Veil,Velo Arena,Ups evasion in a sandstorm.,Aumenta la Evasión en las tormentas de arena.
+855,Polteageist,Polteageist,,,weak_armor,ability-1,1,Weak Armor,Armadura Frágil,Physical attacks lower Defense and raise Speed.,Un ataque físico baja la Defensa y sube la Velocidad.
+855,Polteageist,Polteageist,,,cursed_body,hidden,1,Cursed Body,Cuerpo Maldito,Has a 30% chance of Disabling any move that hits the Pokémon.,Puede anular el movimiento usado en su contra.
+858,Hatterene,Hatterene,,,healer,ability-1,1,Healer,Alma Cura,Sometimes cures the status conditions of the Pokémon's allies.,A veces cura los cambios de estado de un aliado.
+858,Hatterene,Hatterene,,,anticipation,ability-2,1,Anticipation,Anticipación,"Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",Prevé los movimientos peligrosos del rival.
+858,Hatterene,Hatterene,,,magic_bounce,hidden,1,Magic Bounce,Espejo Mágico,Reflects most non-damaging moves back at their user.,Permite devolver los ataques de estado.
+866,Mr. Rime,Mr. Rime,,,tangled_feet,ability-1,1,Tangled Feet,Tumbos,Raises evasion if the Pokémon is confused.,Sube la Evasión si el Pokémon está confuso.
+866,Mr. Rime,Mr. Rime,,,screen_cleaner,ability-2,1,Screen Cleaner,Antibarrera,"When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.","Anula los efectos de Pantalla de Luz, Reflejo y Velo Aurora tanto de rivales como de aliados al entrar en combate."
+866,Mr. Rime,Mr. Rime,,,ice_body,hidden,1,Ice Body,Gélido,The Pokémon regains HP in a hailstorm.,Recupera algunos PS cuando hay tormentas de granizo.
+867,Runerigus,Runerigus,,,wandering_spirit,ability-1,1,Wandering Spirit,Alma Errante,Exchanges ability with attacker on contact.,"Si le alcanza un movimiento de contacto, intercambia su habilidad con la del agresor."
+869,Alcremie,Alcremie,,,sweet_veil,ability-1,1,Sweet Veil,Velo Dulce,Prevents itself and ally Pokémon from falling asleep.,Evita que tu equipo Pokémon se duerma.
+869,Alcremie,Alcremie,,,aroma_veil,hidden,1,Aroma Veil,Velo Aroma,Protects allies from attacks that limit their move choices.,Protege al equipo de ataques que impiden elegir movimientos.
+877,Morpeko,Morpeko,,,hunger_switch,ability-1,1,Hunger Switch,Mutapetito,"The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.",Alterna entre su Forma Saciada y Forma Voraz al final de cada turno.
+887,Dragapult,Dragapult,,,clear_body,ability-1,1,Clear Body,Cuerpo Puro,Prevents stat reduction.,Evita que bajen las características.
+887,Dragapult,Dragapult,,,infiltrator,ability-2,1,Infiltrator,Allanamiento,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",Ataca rodeando la barrera del rival.
+887,Dragapult,Dragapult,,,cursed_body,hidden,1,Cursed Body,Cuerpo Maldito,Has a 30% chance of Disabling any move that hits the Pokémon.,Puede anular el movimiento usado en su contra.
+899,Wyrdeer,Wyrdeer,,,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+899,Wyrdeer,Wyrdeer,,,frisk,ability-2,1,Frisk,Cacheo,The Pokémon can check the foe’s held item.,El Pokémon puede ver el objeto que lleva el rival.
+899,Wyrdeer,Wyrdeer,,,sap_sipper,hidden,1,Sap Sipper,Herbívoro,Raises Attack when hit by Grass-type moves.,Neutraliza los movimientos de tipo Planta y sube el Ataque.
+900,Kleavor,Kleavor,,,swarm,ability-1,1,Swarm,Enjambre,Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Bicho en un apuro.
+900,Kleavor,Kleavor,,,sheer_force,ability-2,1,Sheer Force,Potencia Bruta,Removes additional effects from moves but increases their power.,Sube la potencia y anula los efectos secundarios.
+900,Kleavor,Kleavor,,,sharpness,hidden,1,Sharpness,Cortante,Powers up slicing moves.,
+902,Basculegion,Basculegion,Basculegion-M,Basculegion-M,swift_swim,ability-1,1,Swift Swim,Nado Rápido,Doubles Speed during rain.,Sube la Velocidad cuando hay lluvia.
+902,Basculegion,Basculegion,Basculegion-M,Basculegion-M,adaptability,ability-2,1,Adaptability,Adaptable,Powers up moves of the same type as the Pokémon.,Potencia los movimientos del mismo tipo del Pokémon.
+902,Basculegion,Basculegion,Basculegion-M,Basculegion-M,mold_breaker,hidden,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.
+903,Sneasler,Sneasler,,,pressure,ability-1,1,Pressure,Presión,Increases the PP cost of moves targetting the Pokémon by one.,Hace que los PP del rival se acaben antes.
+903,Sneasler,Sneasler,,,unburden,ability-2,1,Unburden,Liviano,Doubles Speed upon using or losing a held item.,Sube la Velocidad si usa o pierde el objeto que lleve.
+903,Sneasler,Sneasler,,,poison_touch,hidden,1,Poison Touch,Toque Tóxico,Has a 30% chance of poisoning target Pokémon upon contact.,Puede envenenar al objetivo con solo tocarlo.
+908,Meowscarada,Meowscarada,,,overgrow,ability-1,1,Overgrow,Espesura,Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.,Potencia los ataques de tipo Planta en un apuro.
+908,Meowscarada,Meowscarada,,,protean,hidden,1,Protean,Mutatipo,Changes the Pokémon's type to the type of the move it's about to use.,Cambia su tipo al del movimiento que acaba de usar.
+911,Skeledirge,Skeledirge,,,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+911,Skeledirge,Skeledirge,,,unaware,hidden,1,Unaware,Ignorante,Ignores the opposing Pokémon's stat changes.,No tiene en cuenta las mejoras en las características del rival.
+914,Quaquaval,Quaquaval,,,torrent,ability-1,1,Torrent,Torrente,Ups WATER moves in a pinch.,Potencia los ataques de tipo Agua en un apuro.
+914,Quaquaval,Quaquaval,,,moxie,hidden,1,Moxie,Autoestima,Boosts Attack after knocking out any Pokémon.,Potencia el Ataque al debilitar a un objetivo.
+925,Maushold,Maushold,,,friend_guard,ability-1,1,Friend Guard,Compiescolta,Decreases all direct damage taken by friendly Pokémon to 0.75×.,Reduce el daño que sufren los aliados.
+925,Maushold,Maushold,,,cheek_pouch,ability-2,1,Cheek Pouch,Carrillo,"Restores HP upon eating a Berry, in addition to the Berry's effect.",Recupera PS al comer bayas.
+925,Maushold,Maushold,,,technician,hidden,1,Technician,Experto,Powers up weak moves so the Pokémon can deal more damage with them.,Potencia los movimientos más débiles del Pokémon.
+934,Garganacl,Garganacl,,,purifying_salt,ability-1,1,Purifying Salt,Sal Purificadora,Prevents status and halves Ghost damage.,
+934,Garganacl,Garganacl,,,sturdy,ability-2,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+934,Garganacl,Garganacl,,,clear_body,hidden,1,Clear Body,Cuerpo Puro,Prevents stat reduction.,Evita que bajen las características.
+936,Armarouge,Armarouge,,,flash_fire,ability-1,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+936,Armarouge,Armarouge,,,weak_armor,hidden,1,Weak Armor,Armadura Frágil,Physical attacks lower Defense and raise Speed.,Un ataque físico baja la Defensa y sube la Velocidad.
+937,Ceruledge,Ceruledge,,,flash_fire,ability-1,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+937,Ceruledge,Ceruledge,,,weak_armor,hidden,1,Weak Armor,Armadura Frágil,Physical attacks lower Defense and raise Speed.,Un ataque físico baja la Defensa y sube la Velocidad.
+939,Bellibolt,Bellibolt,,,electromorphosis,ability-1,1,Electromorphosis,Dinamo,"The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.",
+939,Bellibolt,Bellibolt,,,static,ability-2,1,Static,Elec. Estática,Paralyzes on contact.,Puede paralizar al mínimo contacto.
+939,Bellibolt,Bellibolt,,,damp,hidden,1,Damp,Humedad,Prevents self-destruction.,Evita que un Pokémon pueda autodestruirse.
+952,Scovillain,Scovillain,,,chlorophyll,ability-1,1,Chlorophyll,Clorofila,Doubles Speed during strong sunlight.,Sube la Velocidad cuando hay sol.
+952,Scovillain,Scovillain,,,insomnia,ability-2,1,Insomnia,Insomnio,Prevents sleep.,Evita el quedarse dormido.
+952,Scovillain,Scovillain,,,moody,hidden,1,Moody,Veleta,Raises a random stat two stages and lowers another one stage after each turn.,"Sube una característica mucho, pero baja otra."
+956,Espathra,Espathra,,,opportunist,ability-1,1,Opportunist,Oportunista,"If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.",
+956,Espathra,Espathra,,,frisk,ability-2,1,Frisk,Cacheo,The Pokémon can check the foe’s held item.,El Pokémon puede ver el objeto que lleva el rival.
+956,Espathra,Espathra,,,speed_boost,hidden,1,Speed Boost,Impulso,Gradually boosts SPEED.,Aumenta la Velocidad gradualmente.
+959,Tinkaton,Tinkaton,,,mold_breaker,ability-1,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.
+959,Tinkaton,Tinkaton,,,own_tempo,ability-2,1,Own Tempo,Ritmo Propio,Prevents confusion.,Evita ser confundido.
+959,Tinkaton,Tinkaton,,,pickpocket,hidden,1,Pickpocket,Hurto,Steals attacking Pokémon's held items on contact.,"Al ser golpeado, roba el objeto del objetivo."
+964,Palafin,Palafin,,,zero_to_hero,ability-1,1,Zero To Hero,Cambio Heroico,Transforms into its Hero Form when switching out.,
+968,Orthworm,Orthworm,,,earth_eater,ability-1,1,Earth Eater,Geofagia,"If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage.",
+968,Orthworm,Orthworm,,,sand_veil,hidden,1,Sand Veil,Velo Arena,Ups evasion in a sandstorm.,Aumenta la Evasión en las tormentas de arena.
+970,Glimmora,Glimmora,,,toxic_debris,ability-1,1,Toxic Debris,Capa Tóxica,Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.,
+970,Glimmora,Glimmora,,,corrosion,hidden,1,Corrosion,Corrosión,This Pokémon can inflict poison on Poison and Steel Pokémon.,Permite envenenar incluso a rivales de tipo Acero o Veneno.
+981,Farigiraf,Farigiraf,,,cud_chew,ability-1,1,Cud Chew,Rumia,Eats a consumed berry again at end of next turn.,
+981,Farigiraf,Farigiraf,,,armor_tail,ability-2,1,Armor Tail,Cola Armadura,Prevents priority moves against this Pokémon and allies.,
+981,Farigiraf,Farigiraf,,,sap_sipper,hidden,1,Sap Sipper,Herbívoro,Raises Attack when hit by Grass-type moves.,Neutraliza los movimientos de tipo Planta y sube el Ataque.
+983,Kingambit,Kingambit,,,defiant,ability-1,1,Defiant,Competitivo,Raises Attack two stages upon having any stat lowered.,Sube el Ataque cuando el rival le baja las características.
+983,Kingambit,Kingambit,,,supreme_overlord,ability-2,1,Supreme Overlord,General Supremo,Attack and Special Attack are boosted for each party Pokémon that has been defeated.,
+983,Kingambit,Kingambit,,,pressure,hidden,1,Pressure,Presión,Increases the PP cost of moves targetting the Pokémon by one.,Hace que los PP del rival se acaben antes.
+1013,Sinistcha,Sinistcha,,,hospitality,ability-1,1,Hospitality,Hospitalidad,"When a Pokémon with Hospitality enters a battle, it restores HP for an ally by 25%.",
+1013,Sinistcha,Sinistcha,,,heatproof,hidden,1,Heatproof,Ignífugo,Halves damage from fire moves and burns.,Atenúa los movimientos de tipo Fuego.
+1018,Archaludon,Archaludon,,,stamina,ability-1,1,Stamina,Firmeza,Raises this Pokémon's Defense by one stage when it takes damage from a move.,Aumenta la Defensa al recibir un ataque físico.
+1018,Archaludon,Archaludon,,,sturdy,ability-2,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+1018,Archaludon,Archaludon,,,stalwart,hidden,1,Stalwart,Acérrimo,Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.,Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos.
+1019,Hydrapple,Hydrapple,,,supersweet_syrup,ability-1,1,Supersweet Syrup,Néctar Dulce,"Once per battle, when a Pokémon with Supersweet Syrup enters the battle, it lowers the evasion stat of all adjacent opponents by one stage. ",
+1019,Hydrapple,Hydrapple,,,regenerator,ability-2,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+1019,Hydrapple,Hydrapple,,,sticky_hold,hidden,1,Sticky Hold,Viscosidad,Prevents a held item from being removed by other Pokémon.,Protege al Pokémon del robo de objetos.
+10008,Rotom,Rotom,Heat Rotom,Heat Rotom,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+10009,Rotom,Rotom,Wash Rotom,Wash Rotom,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+10010,Rotom,Rotom,Frost Rotom,Frost Rotom,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+10011,Rotom,Rotom,Fan Rotom,Fan Rotom,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+10012,Rotom,Rotom,Mow Rotom,Mow Rotom,levitate,ability-1,1,Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Proporciona inmunidad frente a los ataques de tipo Tierra.
+10100,Raichu,Raichu,Alolan Raichu,Alolan Raichu,surge_surfer,ability-1,1,Surge Surfer,Cola Surf,Doubles Speed on Electric Terrain.,Duplica la Velocidad si hay un campo eléctrico en el terreno de combate.
+10104,Ninetales,Ninetales,Alolan Ninetales,Alolan Ninetales,snow_warning,ability-1,1,Snow Warning,Nevada,The Pokémon makes it snow when it enters a battle.,El Pokémon invoca una tormenta de granizo.
+10104,Ninetales,Ninetales,Alolan Ninetales,Alolan Ninetales,snow_cloak,hidden,1,Snow Cloak,Manto Níveo,Raises evasion in a hailstorm.,Sube la Evasión durante una tormenta de granizo.
+10165,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,quick_draw,ability-1,1,Quick Draw,Mano Rápida,Enables the Pokémon to move first occasionally.,"A veces, puede atacar el primero."
+10165,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,own_tempo,ability-2,1,Own Tempo,Ritmo Propio,Prevents confusion.,Evita ser confundido.
+10165,Slowbro,Slowbro,Galarian Slowbro,Galarian Slowbro,regenerator,hidden,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+10172,Slowking,Slowking,Galarian Slowking,Galarian Slowking,curious_medicine,ability-1,1,Curious Medicine,Medicina Extraña,"When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.","Al entrar en combate, rezuma una substancia medicinal por la caracola que revierte los cambios en las características de los aliados."
+10172,Slowking,Slowking,Galarian Slowking,Galarian Slowking,own_tempo,ability-2,1,Own Tempo,Ritmo Propio,Prevents confusion.,Evita ser confundido.
+10172,Slowking,Slowking,Galarian Slowking,Galarian Slowking,regenerator,hidden,1,Regenerator,Regeneración,Heals for 1/3 max HP upon switching out.,Recupera unos pocos PS al cambiar de Pokémon.
+10180,Stunfisk,Stunfisk,Galarian Stunfisk,Galarian Stunfisk,mimicry,ability-1,1,Mimicry,Mimetismo,Changes the Pokémon’s type depending on the terrain.,Cambia su tipo según el campo que haya en el terreno de combate.
+10230,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+10230,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,flash_fire,ability-2,1,Flash Fire,Absorbe Fuego,Powers up if hit by fire.,Potencia movimientos de tipo Fuego si ha sufrido antes alguno.
+10230,Arcanine,Arcanine,Hisuian Arcanine,Hisuian Arcanine,rock_head,hidden,1,Rock Head,Cabeza Roca,Protects the Pokémon from recoil damage.,Impide que el Pokémon se dañe con sus movimientos.
+10233,Typhlosion,Typhlosion,Hisuian Typhlosion,Hisuian Typhlosion,blaze,ability-1,1,Blaze,Mar Llamas,Powers up Fire-type moves when HP is low.,Potencia los ataques de tipo Fuego en un apuro.
+10233,Typhlosion,Typhlosion,Hisuian Typhlosion,Hisuian Typhlosion,frisk,hidden,1,Frisk,Cacheo,The Pokémon can check the foe’s held item.,El Pokémon puede ver el objeto que lleva el rival.
+10236,Samurott,Samurott,Hisuian Samurott,Hisuian Samurott,sharpness,ability-1,1,Sharpness,Cortante,Powers up slicing moves.,
+10236,Samurott,Samurott,Hisuian Samurott,Hisuian Samurott,shell_armor,hidden,1,Shell Armor,Caparazón,A hard shell protects the Pokémon from critical hits.,Bloquea los golpes críticos.
+10239,Zoroark,Zoroark,Hisuian Zoroark,Hisuian Zoroark,illusion,ability-1,1,Illusion,Ilusión,Takes on the appearance of the last party member.,Se convierte en el último Pokémon del equipo.
+10242,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,sap_sipper,ability-1,1,Sap Sipper,Herbívoro,Raises Attack when hit by Grass-type moves.,Neutraliza los movimientos de tipo Planta y sube el Ataque.
+10242,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,shell_armor,ability-2,1,Shell Armor,Caparazón,A hard shell protects the Pokémon from critical hits.,Bloquea los golpes críticos.
+10242,Goodra,Goodra,Hisuian Goodra,Hisuian Goodra,gooey,hidden,1,Gooey,Baba,Contact with the Pokémon lowers the attacker's Speed stat.,Baja la Velocidad del Pokémon con el que entra en contacto.
+10244,Decidueye,Decidueye,Hisuian Decidueye,Hisuian Decidueye,scrappy,ability-1,1,Scrappy,Intrépido,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,Movimientos tipo Normal y Lucha golpean a Pokémon Fantasma.
+10244,Decidueye,Decidueye,Hisuian Decidueye,Hisuian Decidueye,long_reach,hidden,1,Long Reach,Remoto,Moves don't make contact.,Permite usar cualquier movimiento sin entrar en contacto con el rival.
+10245,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,strong_jaw,ability-1,1,Strong Jaw,Mandíbula Fuerte,The Pokémon's strong jaw boosts the power of its biting moves.,Su robusta mandíbula le confiere una potente mordedura.
+10245,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,ice_body,ability-2,1,Ice Body,Gélido,The Pokémon regains HP in a hailstorm.,Recupera algunos PS cuando hay tormentas de granizo.
+10245,Avalugg,Avalugg,Hisuian Avalugg,Hisuian Avalugg,sturdy,hidden,1,Sturdy,Robustez,"Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.",Evita que el rival pueda debilitarle de un solo golpe.
+10250,Tauros,Tauros,Paldean Tauros,Paldean Tauros,intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+10250,Tauros,Tauros,Paldean Tauros,Paldean Tauros,anger_point,ability-2,1,Anger Point,Irascible,Raises Attack to the maximum of six stages upon receiving a critical hit.,Sube el Ataque al máximo tras un golpe crítico.
+10250,Tauros,Tauros,Paldean Tauros,Paldean Tauros,cud_chew,hidden,1,Cud Chew,Rumia,Eats a consumed berry again at end of next turn.,
+10251,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+10251,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),anger_point,ability-2,1,Anger Point,Irascible,Raises Attack to the maximum of six stages upon receiving a critical hit.,Sube el Ataque al máximo tras un golpe crítico.
+10251,Tauros,Tauros,Paldean Tauros (Blaze),Paldean Tauros (Blaze),cud_chew,hidden,1,Cud Chew,Rumia,Eats a consumed berry again at end of next turn.,
+10252,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),intimidate,ability-1,1,Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",Baja el Ataque del rival.
+10252,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),anger_point,ability-2,1,Anger Point,Irascible,Raises Attack to the maximum of six stages upon receiving a critical hit.,Sube el Ataque al máximo tras un golpe crítico.
+10252,Tauros,Tauros,Paldean Tauros (Aqua),Paldean Tauros (Aqua),cud_chew,hidden,1,Cud Chew,Rumia,Eats a consumed berry again at end of next turn.,
+10678,Meowstic,Meowstic,Meowstic-F,Meowstic-F,keen_eye,ability-1,1,Keen Eye,Vista Lince,Prevents accuracy from being lowered.,Evita que disminuya la Precisión.
+10678,Meowstic,Meowstic,Meowstic-F,Meowstic-F,infiltrator,ability-2,1,Infiltrator,Allanamiento,"Passes through the opposing Pokémon's barrier, substitute, and the like and strikes.",Ataca rodeando la barrera del rival.
+10678,Meowstic,Meowstic,Meowstic-F,Meowstic-F,competitive,hidden,1,Competitive,Tenacidad,Boosts the Sp. Atk stat sharply when a stat is lowered.,Aumenta su At. Esp. cuando disminuyen otras características.
+10902,Basculegion,Basculegion,Basculegion-F,Basculegion-F,swift_swim,ability-1,1,Swift Swim,Nado Rápido,Doubles Speed during rain.,Sube la Velocidad cuando hay lluvia.
+10902,Basculegion,Basculegion,Basculegion-F,Basculegion-F,adaptability,ability-2,1,Adaptability,Adaptable,Powers up moves of the same type as the Pokémon.,Potencia los movimientos del mismo tipo del Pokémon.
+10902,Basculegion,Basculegion,Basculegion-F,Basculegion-F,mold_breaker,hidden,1,Mold Breaker,Rompemoldes,Moves can be used on the target regardless of its Abilities.,Usa movimientos sin que importen las habilidades del objetivo.

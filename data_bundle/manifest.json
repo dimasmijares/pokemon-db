@@ -62,7 +62,8 @@
     "pokemon_moves is sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets.",
     "pokemon_list.json now includes localized display names and structured role/archetype relations.",
     "pokemon_detail_index.json now includes structured abilities, roles and archetypes for detail pages.",
-    "move_users.json now exposes localized move names and structured users linked by pokemon_id."
+    "move_users.json now exposes localized move names and structured users linked by pokemon_id.",
+    "Localized ES names are complete for pokemon, abilities, moves and items; descriptive ES coverage remains partial for abilities and moves, and absent for items."
   ],
   "stable_identifiers": [
     "pokemon_id",
