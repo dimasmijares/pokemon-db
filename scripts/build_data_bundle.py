@@ -29,6 +29,7 @@ SCRIPTS_TO_COPY = [
 EXPORT_QUERIES = {
     "pokemon_list.json": "SELECT * FROM v_team_builder_pool",
     "pokemon_detail_index.json": "SELECT * FROM v_pokemon_summary",
+    "pokemon_home_context_detail.json": "CUSTOM_EXPORT",
     "speed_profiles.json": "SELECT * FROM v_speed_table",
     "move_users.json": "SELECT * FROM v_move_users",
     "pokemon_abilities_summary.json": "SELECT * FROM v_pokemon_abilities_summary",
@@ -195,6 +196,160 @@ def build_move_users_export(conn: sqlite3.Connection) -> list[dict]:
     return output
 
 
+def build_pokemon_home_context_detail_export(conn: sqlite3.Connection) -> list[dict]:
+    detail_rows = fetch_rows(conn, "SELECT pokemon_id, name_en, name_es, form_name_en, form_name_es, has_mega FROM pokemon")
+    ability_rows = fetch_rows(conn, "SELECT * FROM v_pokemon_abilities_summary")
+    move_rows = fetch_rows(
+        conn,
+        """
+        SELECT
+            pms.pokemon_id,
+            pms.move_key,
+            pms.name_en,
+            pms.name_es,
+            pms.is_in_move_pool,
+            pms.is_observed_in_sets,
+            m.type_key,
+            m.category_key,
+            m.power,
+            m.accuracy,
+            m.priority,
+            m.effect_short_en,
+            m.effect_short_es
+        FROM v_pokemon_moves_summary pms
+        JOIN moves m ON m.move_key = pms.move_key
+        """,
+    )
+    mega_rows = fetch_rows(
+        conn,
+        """
+        SELECT
+            mf.pokemon_id,
+            mf.mega_key,
+            mf.mega_name_en,
+            mf.mega_name_es,
+            mf.mega_stone_key,
+            mf.mega_stone_name_en,
+            mf.mega_stone_name_es,
+            mf.type1_key,
+            mf.type2_key,
+            mf.hp,
+            mf.attack,
+            mf.defense,
+            mf.sp_attack,
+            mf.sp_defense,
+            mf.speed,
+            mf.bst,
+            a.ability_key,
+            a.name_en AS ability_name_en,
+            a.name_es AS ability_name_es,
+            a.description_en AS ability_description_en,
+            a.description_es AS ability_description_es
+        FROM mega_forms mf
+        LEFT JOIN abilities a ON a.ability_key = mf.ability_key
+        WHERE mf.is_currently_available = 1
+        """,
+    )
+
+    abilities_by_pokemon: dict[int, list[dict]] = {}
+    for row in ability_rows:
+        abilities_by_pokemon.setdefault(int(row["pokemon_id"]), []).append(
+            {
+                "ability_key": row["ability_key"],
+                "slot_type": row["slot_type"],
+                "is_currently_available": int(row["is_currently_available"] or 0),
+                "name_en": row["name_en"],
+                "name_es": row.get("name_es") or row["name_en"],
+                "description_en": row.get("description_en") or "",
+                "description_es": row.get("description_es") or "",
+            }
+        )
+
+    def move_sort_key(row: dict) -> tuple:
+        power = row["power"] if row["power"] is not None else -1
+        priority = row["priority"] if row["priority"] is not None else -9
+        category = row.get("category_key") or ""
+        return (
+            -int(row.get("is_observed_in_sets") or 0),
+            -int(row.get("is_in_move_pool") or 0),
+            0 if category != "status" else 1,
+            -int(priority),
+            -int(power),
+            row["name_en"],
+        )
+
+    highlighted_moves_by_pokemon: dict[int, list[dict]] = {}
+    move_rows_by_pokemon: dict[int, list[dict]] = {}
+    for row in move_rows:
+        move_rows_by_pokemon.setdefault(int(row["pokemon_id"]), []).append(row)
+    for pokemon_id, rows in move_rows_by_pokemon.items():
+        selected = sorted(rows, key=move_sort_key)[:5]
+        highlighted_moves_by_pokemon[pokemon_id] = [
+            {
+                "move_key": row["move_key"],
+                "name_en": row["name_en"],
+                "name_es": row.get("name_es") or row["name_en"],
+                "type_key": row["type_key"],
+                "category_key": row["category_key"],
+                "power": row["power"],
+                "accuracy": row["accuracy"],
+                "priority": row["priority"],
+                "effect_short_en": row.get("effect_short_en") or "",
+                "effect_short_es": row.get("effect_short_es") or "",
+                "is_in_move_pool": int(row.get("is_in_move_pool") or 0),
+                "is_observed_in_sets": int(row.get("is_observed_in_sets") or 0),
+            }
+            for row in selected
+        ]
+
+    mega_by_pokemon: dict[int, dict] = {}
+    for row in mega_rows:
+        pokemon_id = int(row["pokemon_id"])
+        mega_by_pokemon[pokemon_id] = {
+            "mega_key": row["mega_key"],
+            "mega_name_en": row["mega_name_en"],
+            "mega_name_es": row.get("mega_name_es") or row["mega_name_en"],
+            "mega_stone_key": row["mega_stone_key"],
+            "mega_stone_name_en": row["mega_stone_name_en"],
+            "mega_stone_name_es": row.get("mega_stone_name_es") or row["mega_stone_name_en"],
+            "type1_key": row["type1_key"],
+            "type2_key": row.get("type2_key") or "",
+            "stats": {
+                "hp": row["hp"],
+                "attack": row["attack"],
+                "defense": row["defense"],
+                "sp_attack": row["sp_attack"],
+                "sp_defense": row["sp_defense"],
+                "speed": row["speed"],
+                "bst": row["bst"],
+            },
+            "ability": {
+                "ability_key": row.get("ability_key") or "",
+                "name_en": row.get("ability_name_en") or "",
+                "name_es": row.get("ability_name_es") or row.get("ability_name_en") or "",
+                "description_en": row.get("ability_description_en") or "",
+                "description_es": row.get("ability_description_es") or "",
+            },
+        }
+
+    output = []
+    for row in detail_rows:
+        pokemon_id = int(row["pokemon_id"])
+        output.append(
+            {
+                "pokemon_id": pokemon_id,
+                "name_en": row["name_en"],
+                "name_es": row.get("name_es") or row["name_en"],
+                "form_name_en": row.get("form_name_en") or "",
+                "form_name_es": row.get("form_name_es") or "",
+                "abilities": abilities_by_pokemon.get(pokemon_id, []),
+                "highlighted_moves": highlighted_moves_by_pokemon.get(pokemon_id, []),
+                "mega_evolution": mega_by_pokemon.get(pokemon_id),
+            }
+        )
+    return output
+
+
 def ensure_bundle_dirs() -> None:
     if BUNDLE.exists():
         shutil.rmtree(BUNDLE)
@@ -219,11 +374,13 @@ def export_json() -> dict[str, str]:
         custom_exports = {
             "pokemon_list.json": build_pokemon_list_export(conn),
             "pokemon_detail_index.json": build_pokemon_detail_export(conn),
+            "pokemon_home_context_detail.json": build_pokemon_home_context_detail_export(conn),
             "move_users.json": build_move_users_export(conn),
         }
         export_sources = {
             "pokemon_list.json": "Derived from v_team_builder_pool + v_pokemon_roles_summary + v_pokemon_archetypes_summary",
             "pokemon_detail_index.json": "Derived from v_pokemon_summary + v_pokemon_abilities_summary + v_pokemon_roles_summary + v_pokemon_archetypes_summary",
+            "pokemon_home_context_detail.json": "Derived from pokemon + v_pokemon_abilities_summary + v_pokemon_moves_summary + moves + mega_forms + abilities",
             "move_users.json": "Derived from v_move_users + v_move_user_links",
         }
         for filename, query in EXPORT_QUERIES.items():
@@ -290,6 +447,7 @@ Usa esta vista para:
 Y usa estos exports estructurados para evitar joins locales:
 
 - `exports/pokemon_detail_index.json`
+- `exports/pokemon_home_context_detail.json`
 - `exports/pokemon_abilities_summary.json`
 - `exports/pokemon_moves_summary.json`
 
@@ -402,6 +560,7 @@ Si quieres minimizar complejidad:
 3. usa `v_speed_table` para speed logic
 4. usa `v_move_users` para búsquedas por movimiento
 5. usa los exports `pokemon_abilities_summary.json`, `pokemon_moves_summary.json`, `pokemon_roles_summary.json` y `pokemon_archetypes_summary.json` para detalle y localización sin joins locales
+6. para contexto ligero en home, usa `pokemon_home_context_detail.json`; ya trae habilidades, 5 movimientos destacados y megaevolución resumida por `pokemon_id`
 
 Si necesitas páginas estáticas o caché:
 
@@ -432,6 +591,7 @@ def build_manifest(export_sources: dict[str, str]) -> None:
             "recommended_frontend_usage": {
                 "listing": "v_team_builder_pool",
                 "detail": "v_pokemon_summary",
+                "home_context_detail": "exports/pokemon_home_context_detail.json",
                 "search_and_filters": "v_team_builder_pool",
                 "speed_filters": "v_speed_table",
                 "move_lookup": "v_move_users",
@@ -473,6 +633,7 @@ def build_manifest(export_sources: dict[str, str]) -> None:
                 "pokemon_moves is sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets.",
                 "pokemon_list.json now includes localized display names and structured role/archetype relations.",
                 "pokemon_detail_index.json now includes structured abilities, roles and archetypes for detail pages.",
+                "pokemon_home_context_detail.json provides lightweight contextual detail for home cards or previews, including abilities, five highlighted moves and mega evolution summary.",
                 "move_users.json now exposes localized move names and structured users linked by pokemon_id.",
                 "Localized ES names are complete for pokemon, abilities, moves and items; descriptive ES coverage remains partial for abilities and moves, and absent for items.",
             ],

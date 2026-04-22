@@ -43,6 +43,7 @@ Usa esta vista para:
 Y usa estos exports estructurados para evitar joins locales:
 
 - `exports/pokemon_detail_index.json`
+- `exports/pokemon_home_context_detail.json`
 - `exports/pokemon_abilities_summary.json`
 - `exports/pokemon_moves_summary.json`
 
@@ -155,6 +156,7 @@ Si quieres minimizar complejidad:
 3. usa `v_speed_table` para speed logic
 4. usa `v_move_users` para búsquedas por movimiento
 5. usa los exports `pokemon_abilities_summary.json`, `pokemon_moves_summary.json`, `pokemon_roles_summary.json` y `pokemon_archetypes_summary.json` para detalle y localización sin joins locales
+6. para contexto ligero en home, usa `pokemon_home_context_detail.json`; ya trae habilidades, 5 movimientos destacados y megaevolución resumida por `pokemon_id`
 
 Si necesitas páginas estáticas o caché:
 

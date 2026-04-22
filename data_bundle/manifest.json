@@ -1,6 +1,6 @@
 {
-  "bundle_version": "2026.04.15.1",
-  "generated_at": "2026-04-15",
+  "bundle_version": "2026.04.22.1",
+  "generated_at": "2026-04-22",
   "sqlite_path": "db/pokemon_champions.sqlite",
   "recommended_frontend_views": [
     "v_team_builder_pool",
@@ -15,6 +15,7 @@
   "recommended_frontend_usage": {
     "listing": "v_team_builder_pool",
     "detail": "v_pokemon_summary",
+    "home_context_detail": "exports/pokemon_home_context_detail.json",
     "search_and_filters": "v_team_builder_pool",
     "speed_filters": "v_speed_table",
     "move_lookup": "v_move_users",
@@ -62,6 +63,7 @@
     "pokemon_moves is sourced from Champions Lab current move pool plus observed sets, not from generic Scarlet/Violet learnsets.",
     "pokemon_list.json now includes localized display names and structured role/archetype relations.",
     "pokemon_detail_index.json now includes structured abilities, roles and archetypes for detail pages.",
+    "pokemon_home_context_detail.json provides lightweight contextual detail for home cards or previews, including abilities, five highlighted moves and mega evolution summary.",
     "move_users.json now exposes localized move names and structured users linked by pokemon_id.",
     "Localized ES names are complete for pokemon, abilities, moves and items; descriptive ES coverage remains partial for abilities and moves, and absent for items."
   ],
@@ -82,6 +84,10 @@
     {
       "file": "pokemon_detail_index.json",
       "source": "Derived from v_pokemon_summary + v_pokemon_abilities_summary + v_pokemon_roles_summary + v_pokemon_archetypes_summary"
+    },
+    {
+      "file": "pokemon_home_context_detail.json",
+      "source": "Derived from pokemon + v_pokemon_abilities_summary + v_pokemon_moves_summary + moves + mega_forms + abilities"
     },
     {
       "file": "move_users.json",
